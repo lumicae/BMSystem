@@ -1,0 +1,12 @@
+syntax = "proto3";
+package zmq_if;
+
+message KeywordItem{
+  int32 kid = 1;
+  string keyword=2;
+}
+
+message KeywordList {
+  int32 serialID=1;
+  repeated KeywordItem keywords = 2;
+}

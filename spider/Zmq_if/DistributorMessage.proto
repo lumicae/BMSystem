@@ -1,0 +1,10 @@
+package zmq_if;  
+  
+message DistributorMessage{  
+	optional string redis_ip = 1;
+	optional int32  redis_port = 2;
+	optional string checker_ip = 3;
+	optional int32  checker_port = 4;
+	optional string localURL = 5;
+	optional bytes task_descriptor = 6;
+} 

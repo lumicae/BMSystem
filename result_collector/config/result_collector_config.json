@@ -1,0 +1,1 @@
+{"address_port": "tcp://127.0.0.1:5559", "db_port": 3306, "db_passwd": "admin", "db_user": "root", "db_host": "localhost", "db_charset": "utf8", "db_db": "securitydb"}

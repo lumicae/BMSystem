@@ -1,0 +1,5 @@
+使用pyinstaller生成exe文档，在生成exe前请注意：
+1.将google文件夹下的__init__.py文件中的内容注释掉
+2.将google\protobuf文件夹下的__init__.py文件中的内容注释掉
+3.SpiderTaskDistributer.py和SpiderTaskReceiver.py中对主机的mac做了校验，因此如果需要根据被安装器的mac修改这两个文件
+4.因此本发布版本只能在本人电脑上运行:-),如需在其他电脑上运行请重新生成exe

@@ -1,0 +1,9 @@
+package zmq_if;  
+  
+message Task{  
+	required string hash = 1;
+	required string rel_path = 2;
+	required bytes task_descriptor = 3;
+	required bytes target_addition = 4;
+	
+}  

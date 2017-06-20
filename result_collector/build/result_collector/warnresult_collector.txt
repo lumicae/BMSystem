@@ -1,0 +1,50 @@
+missing module named org - imported by copy
+missing module named readline - imported by cmd, pdb
+missing module named 'org.python' - imported by pickle, xml.sax
+missing module named fcntl - imported by tempfile, subprocess
+missing module named riscosenviron - imported by os
+missing module named riscospath - imported by os
+missing module named riscos - imported by os
+missing module named ce - imported by os
+missing module named _emx_link - imported by os
+missing module named os2 - imported by os
+missing module named pwd - imported by posixpath, getpass
+missing module named posix - imported by os
+missing module named resource - imported by posix
+runtime module named six.moves - imported by copy_reg
+missing module named google.protobuf.pyext._message - imported by google.protobuf.pyext, google.protobuf.descriptor, google.protobuf.pyext.cpp_message
+missing module named google.protobuf._use_fast_cpp_protos - imported by google.protobuf, google.protobuf.internal.api_implementation
+missing module named google.protobuf.internal._api_implementation - imported by google.protobuf.internal, google.protobuf.internal.api_implementation
+missing module named cffi - imported by zmq.utils.interop, zmq.backend.cffi._cffi
+missing module named zmq.backend.strerror - imported by zmq.backend, zmq.error
+missing module named zmq.backend.zmq_errno - imported by zmq.backend, zmq.error
+missing module named zmq.backend.constants - imported by zmq.backend, zmq.sugar.constants
+missing module named gevent - imported by zmq.green.poll, zmq.green.core
+missing module named 'gevent.core' - imported by zmq.green.core
+missing module named 'gevent.hub' - imported by zmq.green.core
+missing module named 'gevent.event' - imported by zmq.green.core
+missing module named zmq.backend.zmq_poll - imported by zmq.backend, zmq.sugar.poll
+missing module named pyczmq - imported by zmq.sugar.context
+missing module named zmq.backend.Context - imported by zmq.backend, zmq.sugar.context
+missing module named zmq.backend.Frame - imported by zmq.backend, zmq.sugar.frame, zmq.sugar.tracker
+missing module named zmq.backend.zmq_version_info - imported by zmq.backend, zmq.sugar.version
+missing module named zmq.backend.Socket - imported by zmq.backend, zmq.sugar.socket
+missing module named zmq.zmq_version_info - imported by zmq, zmq.error
+missing module named zmq.zmq_version - imported by zmq, zmq.error
+missing module named zmq.ETERM - imported by zmq, zmq.error
+missing module named zmq.EAGAIN - imported by zmq, zmq.error
+missing module named vms_lib - imported by platform
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions
+missing module named java - imported by platform
+missing module named _scproxy - imported by urllib
+missing module named EasyDialogs - imported by getpass
+missing module named termios - imported by getpass
+missing module named SOCKS - imported by ftplib
+missing module named rourl2path - imported by urllib
+missing module named _xmlplus - imported by xml
+missing module named 'Carbon.File' - imported by plistlib
+missing module named 'Carbon.Files' - imported by plistlib
+missing module named Carbon - imported by plistlib
+missing module named MacOS - imported by platform
+missing module named macresource - imported by MacOS
+missing module named gestalt - imported by platform

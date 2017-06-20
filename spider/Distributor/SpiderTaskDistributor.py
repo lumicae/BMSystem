@@ -1,0 +1,172 @@
+# -*- coding:utf-8 -*-
+# 作用：从redis获取任务，每获取一个任务就分发给一个爬虫进程
+# 注意：任务存储在redis列表中，通过阻塞的方式读取任务
+# 运行环境：python2.7
+import env
+import uuid
+import redis
+import threading
+import thread
+import zmq
+import json
+from spider.Zmq_if.DistributorMessage_pb2 import DistributorMessage
+from spider.Tools.Find_Path import find_json_file
+from Queue import Queue
+import traceback
+
+def can_run():
+	node = uuid.getnode()
+	mac  = uuid.UUID(int = node).hex[-12:]
+	if mac == 'f8bc127c658e': #first: '1866daf1b401'
+		return True
+	return False
+
+def read_setting_from_json(jsonURL):
+	try:
+		f = open(jsonURL, 'r+')
+	except:
+		print 'Can not find setting file：',jsonURL
+	else:
+		setting = json.loads(f.read())
+		f.close()
+		localURL = setting['localURL']
+		taskListName = setting['taskListName']
+		commandListName = setting['commandListName']
+		redis_ip = setting['redis_ip']
+		redis_port = setting['redis_port']
+		checker_ip = setting['checker_ip']
+		checker_port = setting['checker_port']
+		return localURL, taskListName, commandListName, redis_ip, redis_port, checker_ip, checker_port
+	
+def serialize_task_descriptor_to_string(task_descriptor):
+	dict     = json.loads(task_descriptor)
+	kwds     = dict['kwds'].decode('utf-8')
+	siteurl  = dict['siteurl']
+	sitename = dict['sitename'].decode('utf-8')
+	dirname  = dict['dirname']
+	type     = dict['type']
+	taskid   = dict['taskid']
+	return (kwds, siteurl, sitename, dirname, type)
+
+def show_task_descriptor(task_descriptor):
+	dict = json.loads(task_descriptor)
+	for key in dict:
+		print key + ': ' + dict[key]
+	print '\n'
+	
+#主动获取redis中的任务或命令
+class Puller(threading.Thread):
+	def __init__(self, listName, redis_ip, redis_port):
+		threading.Thread.__init__(self)
+		self.queue = Queue()
+		self.listName = listName #获得任务列表名
+		self.redis_ip = redis_ip
+		self.redis_port = redis_port 
+		
+	#链接redis数据库
+	def connect_to_redis(self):
+		self.redis = redis.StrictRedis(self.redis_ip, self.redis_port, db = 0)
+		return self.redis
+	
+	#判断是否能ping通
+	def ping(self):
+		try:
+			self.redis.ping()
+		except:
+			return False
+		return True
+		
+	#从redis中获取任务，存入self.queue中
+	def run(self):
+		try:
+			while True:
+				self.connect_to_redis()
+				if not self.ping():
+					print 'Can not connect to redis!'
+					return False
+				task = self.redis.blpop(self.listName, 0) #阻塞模式获取一条消息
+				task_or_command = task[1] #有可能传递过来的task也有可能是kill进程命令，或其他命令
+				self.queue.put(task_or_command) #Puller有两个实例task_puller和commad_puller,分别对应下文代码中的task_queue 和 command_queue。本程序中有两个redis的链接，从redis中取数据。
+		except:
+			print 'Connection with redis is broken!'
+
+#分发任务给空闲计算机			
+class TaskDistributer():
+	def __init__(self):
+		pass
+		
+	#以阻塞方式获取redis中的任务,	
+	def get_task(self, listName, redis_ip, redis_port):
+		self.task_puller = Puller(listName, redis_ip, redis_port)
+		self.task_queue = self.task_puller.queue 
+		self.task_puller.start()
+	
+	def get_command(self, listName, redis_ip, redis_port):
+		self.command_puller = Puller(listName, redis_ip, redis_port)
+		self.command_queue = self.command_puller.queue
+		self.command_puller.start()
+	
+	def distribute_task(self):
+		try:
+			context = zmq.Context()
+			socket = context.socket(zmq.PUSH)
+			socket.bind('tcp://127.0.0.1:10003')
+		except:
+			print 'The port 10003 can not use!\n'
+		else:
+			print 'Task Distributor Start\n'
+			msg = DistributorMessage()
+		
+			while True:
+				task_descriptor = self.task_queue.get(True)
+				msg.redis_ip = self.task_puller.redis_ip
+				msg.redis_port = self.task_puller.redis_port
+				msg.checker_ip = self.checker_ip			
+				msg.checker_port = self.checker_port
+				msg.localURL = self.localURL
+				msg.task_descriptor = task_descriptor	
+				msgStr = msg.SerializeToString()
+				socket.send(msgStr)
+				print 'Send one task'
+			
+	def distribute_command(self):
+		try:
+			context = zmq.Context()
+			socket = context.socket(zmq.PUB)
+			socket.bind('tcp://127.0.0.1:10004')
+		except:
+			print 'The port 10004 can not use!'
+		else:
+			print 'Command Distributor Work\n'
+		
+			while True:
+				command = self.command_queue.get(True)
+				socket.send(command)
+				
+				print 'Send one command:', command
+	
+	def run(self, localURL, taskListName, commandListName, redis_ip, redis_port, checker_ip, checker_port):
+		self.localURL = localURL #检查方给定的默认共享存储路径
+		self.checker_ip = checker_ip
+		self.checker_port = checker_port
+		self.get_task(taskListName, redis_ip, redis_port)
+		self.get_command(commandListName, redis_ip, redis_port)
+		try:
+			pass
+			thread.start_new_thread(self.distribute_command,())
+		except:
+			print 'Network error while distributing command!\n'
+			traceback.print_exc()
+		try:
+			self.distribute_task()
+		except:
+			print 'Network error while distributing task!\n'
+			traceback.print_exc()
+			
+if __name__ == '__main__':
+	#if can_run():
+		jsonPath = find_json_file('..\\distributor_setting.json')
+		settings = read_setting_from_json(jsonPath)
+		distributer = TaskDistributer()
+		distributer.run(*settings)
+	

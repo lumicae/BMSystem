@@ -1,0 +1,13 @@
+listName: task_descriptor
+
+	key:		vaule:
+1	'kwds'		'秘密，机密，绝密'	关键字
+2	'siteurl'	'http://www.baidu.com'	网址以http或https开头
+3	'sitename'	'百度'			网址名称
+4	'dirname'	'BaiDu'			网址汉语拼音，用于新建存储文件夹的命名
+5	'type'		'sitecheck'		类型为网站检查
+6       'rank'          '3'                     爬取的网页层级
+
+例子：
+
+(u'{"kwds":"test","siteurl":"http://www.jzsx.qdedu.net","sitename":"实验","type":"sitecheck","dirname":"shiyan", "rank":"3"}').decode('utf-8')

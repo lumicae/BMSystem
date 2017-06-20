@@ -1,0 +1,5 @@
+{
+"distributor_port": 10003, 
+"distributor_ip": "127.0.0.1", 
+"commander_port": 10004
+}
