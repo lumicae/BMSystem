@@ -1,0 +1,5 @@
+('D:\\gitRepository\\BMSystem\\recvEmail\\build\\Listener\\stomp.py-4.1.20-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.pyd', '*.pyo', '*.so', 'EGG-INFO']),
+ 'DATA',
+ [])
