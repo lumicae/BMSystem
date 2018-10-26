@@ -1,0 +1,160 @@
+Received: from mail224-124.mail.alibaba.com (unknown [42.156.224.124])
+	by newmx58.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Sat, 03 Oct 2015 11:30:13 +0800
+X-QQ-FEAT: ANi1GsF1FLlu+r6g//GYNPSmHiQ8Tp+lRfsvOS1Xlws=
+X-QQ-MAILINFO: N5kFcZDRcyD88geDYAfo+WHrvODY+ZgXzgF8S5jubCYagHSIlzpSDp7Y4
+	3Z9+lHGw/OnA75yq2gEX6hfLzcJDqzk7BsKIwXmdMLRj3DQRr+V2xRwNMhYYjYU60JNLYpl
+	nC2iimnW/afpho2km0RTmkLQGDOOonBpAoKjgYeQ15Kt
+X-QQ-mid: mx58t1443843014tz69cudhp
+X-QQ-ORGSender: news@new.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1443843013; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=nN2adBdRRxc+TlAmCuKQKSesiGuTMKvGn4hL7zG584A=;
+	b=AUWMy+SkAzwYV1GsbTrrcK8vBHhp8Y/5lhQMOKXo6FZo/08MQtsncxoiKHt0u5TLchRyfgWvdvZV7sQHGhfKXdEgWJqXYkA9l7SuFMYmxLTn9kIO8kEPqCfv0lR5QZv/ClOm274udvcMc3XYEIiZP+mra4cg0Lm1Fczd6Z2P+8M=
+Received: from alicom-messagecenter-77.cm10(10.177.12.188)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Sat, 03 Oct 2015 11:30:13 +0800
+Date: Sat, 3 Oct 2015 11:30:13 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <news@new.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <406191387.6810821443843013303.JavaMail.admin@alicom-messagecenter-77.cm10>
+Subject: =?utf-8?B?5aSp54yr6LaF5biC55So5oi35ruh5oSP5bqm6LCD56CU?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 491418843842908323
+McIpGroup: online
+TempletId: 136510771
+reportid: 19605
+
+<style type="text/css">
+<!--
+.STYLE3 {color: #2953a6}
+.STYLE4 {font-size: 18px}
+-->
+</style>
+<center>
+    <style>
+        img {
+            display: block;
+        }
+    </style>
+    <table width="740" style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #999;">
+        <tr>
+            <td width="665" align="right">
+                <font size="2" color="#999" face="宋体">
+                    如邮件未能正常显示，                </font>            </td>
+            <td align="right" width="75">
+                <a href="http://survey.tmall.com/survey/k0C07E9BN" style="text-decoration: none; font: 12px/1.5 tahoma, arial, 宋体, sans-serif;color: #2953a6;">
+                    <font color=" #2953a6">
+                        请点此查看                    </font>                </a>            </td>
+        </tr>
+    </table>
+    <div style="width: 740px;padding:2px;border:2px solid #e5e5e5;">
+        <!-- header -->
+        <table bgcolor="#bf0000" width="740" height="85" cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="left" width="520">
+                    <a href="http://www.tmall.com" style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; "><img style="border: 0;" src="http://img04.taobaocdn.com/tps/i4/T132wxXgleXXcr.ync-151-69.gif" /></a>
+                </td>
+                <td align="right" style="vertical-align: bottom;"><img style="border: 0;margin-right:25px;" alt="尚天猫，就购了" src="http://gtms02.alicdn.com/tps/i2/TB1bHedGXXXXXaOXFXXCI0Z9VXX-100-58.gif" />
+                </td>
+            </tr>
+        </table>
+        <!-- end header --><!-- nav -->
+        <!-- end nav --><!-- content -->
+        <table width="710" height="260" border="0" cellpadding="0" cellspacing="0" bordercolor="#E5E5E5" style="margin-left:5px; margin-top:20px; font-size:13px;font-family:宋体;color:#333;">
+		  <tbody>
+			<tr>
+			  <td width="11" height="22" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+			  <td colspan="2" height="30" valign="middle" bordercolor="#E5E5E5" border="1" style="padding-left:10px;margin-top:10px;font-weight: bold; font-size:14px;">喵~亲爱的天猫用户：</td>
+			</tr>
+			<tr>
+			  <td height="69" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+			  <td colspan="2" valign="middle" bordercolor="#E5E5E5" style="line-height:20px;text-indent:20px;" border="1"> <div>您好！感谢您一直以来对天猫的大力支持！</div>
+			  <div>本次调研旨在了解您近期在天猫超市购物时的满意程度，您的反馈将帮助我们改进超市的消费体验和服务。我们将从认真填答完问卷的用户中随机抽取<span class="STYLE4">50</span>名赠送<span class="STYLE4">1000</span>天猫积分！感谢您的参与！</div></td>
+			</tr>
+			<tr>
+			  <td height="56" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+			  <td colspan="2" align="center" valign="middle" bordercolor="#E5E5E5"  border="1"><table width="433" height="44" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+				  <td width="216" height="44" align="right" style="color:#666;font-size:14px;font-weight:bold;">请点击右侧按钮查看邀请函：</td>
+				  <td width="217"><a href="http://survey.tmall.com/survey/k0C07E9BN" target="_blank"><img src="http://img04.taobaocdn.com/tps/i4/T1zC81Xg0tXXXXXXXX-86-25.png" width="86" height="25" border="0" /></a></td>
+				</tr>
+			  </table>                                  </td>
+			</tr>
+			<tr>
+			  <td height="26" colspan="2" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+			  <td width="698" valign="middle" bordercolor="#E5E5E5" border="1" style="text-indent:20px;">如果按钮无法显示，请打开此链接：<a href="http://ur.taobao.com/survey/view.htm?id=2755" target="_blank" style="color:2953A6;text-decoration:none;">http://survey.tmall.com/survey/k0C07E9BN</a></td>
+			</tr>
+			<tr>
+			  <td height="26" colspan="2" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+			  <td valign="middle" bordercolor="#E5E5E5" border="1" style="text-indent:20px;">&nbsp;</td>
+			</tr>
+			<tr>
+			  <td height="48" colspan="2" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+			  <td align="right" valign="middle" bordercolor="#E5E5E5" border="1">天猫用户研究团队</td>
+			</tr>
+		  </tbody>
+		</table>
+        
+        <table bgcolor="#f4f4f4" width="740"style="margin-top:10px;">
+            <tr>
+                <td width="8">
+                </td>
+                <td align="left" colspan="2">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #666;">
+                        亲爱的天猫用户：
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td align="left" colspan="2">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #666;">
+                        您之所以收到这封邮件，是因为您曾经注册成为淘宝或天猫用户。我们保证仅向您发送关于淘宝或天猫的产品、促销优惠以及服务的电子邮件。淘宝和天猫尊重并保护您的隐私。
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td align="left" colspan="2">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #999;">
+                        商品价格或促销内容如有调整，以天猫Tmall.com上最终页为准。
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td align="left" colspan="2">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #999;">如有其它疑问，请访问天猫&nbsp;<a style="color: #2953a6;" href="http://service.tmall.com/support/tmall/tmallHelp.htm">帮助中心</a>&nbsp;或拨打天猫热线4008-608-608获得更多帮助                  </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td align="center">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #999;">
+                        Copyright 天猫Tmall.com  All Right Reserved
+                    </div>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <td height="10">
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+            </tr>
+        </table>
+        <!-- end footer -->
+    </div>
+</center> 回td退订<br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

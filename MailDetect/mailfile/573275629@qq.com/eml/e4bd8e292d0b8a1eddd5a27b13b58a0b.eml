@@ -1,0 +1,561 @@
+Received: from 141.146.126.69 (unknown [141.146.126.69])
+	by newmx35.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Fri, 18 Mar 2016 20:45:22 +0800
+X-QQ-FEAT: mAJfWfDYrJPhxM7uLHZU86/Yt1JB9OwTzAvDDJGTQjE6/zAqjgmVRME7W6aZO
+	49rlb52MFAW/WI8DyIHGH5p7a41NS1ySPUy9lRcQgOkFQ4idng8255RD70O/9XoaF7lwfsq
+	FxBBaDgsQo1+8TmB+pDTvxGAB6cpRYJYFlHJ5ay/ZePi8rRMK7kUpW2v/J4HUK5MTDnQwdj
+	+JL1PCnAouKsJfI1H76YcDQo8SbDC8l1TX02riPRwOZsPbwpV3aZGOuMfZu003G5/FWjIjG
+	1lFOVt5Uclxp/yPzfdlNmc0VjKt6bsRupZQvORqaAW1h99h7Hpo+ILqUP86R3yGGbljA==
+X-QQ-MAILINFO: NL3WKUOj1eeIqFMb51shoyugvTjO8c1E2jo5Piutdiyh46mDh6dIra7eI
+	UMnzPToX9CpswsQ3+PNN77gCAPm91yAR2hro1af3A/cUtOlEL/0Vk1h56fDN9BfxxmMsjJx
+	9WqkMJJjjguJGeQRjpIft4ToZQEt3qwkOnwe5UgECZM64G4+qsYzRmnUTCR7ZBSHDQ==
+X-QQ-mid: usamxproxy10t1458305124to4kch3
+X-QQ-ORGSender: miao.yu@oracle.com
+X-KK-mid:usamxproxy10t1458305124to4kch3
+Received: from userv0022.oracle.com (userv0022.oracle.com [156.151.31.74])
+	by aserp1040.oracle.com (Sentrion-MTA-4.3.2/Sentrion-MTA-4.3.2) with ESMTP id u2ICjJtm012331
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=OK)
+	for <573275629@qq.com>; Fri, 18 Mar 2016 12:45:21 GMT
+Received: from userv0121.oracle.com (userv0121.oracle.com [156.151.31.72])
+	by userv0022.oracle.com (8.14.4/8.13.8) with ESMTP id u2ICjJbE010118
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <573275629@qq.com>; Fri, 18 Mar 2016 12:45:19 GMT
+Received: from abhmp0004.oracle.com (abhmp0004.oracle.com [141.146.116.10])
+	by userv0121.oracle.com (8.13.8/8.13.8) with ESMTP id u2ICjJwp025453
+	for <573275629@qq.com>; Fri, 18 Mar 2016 12:45:19 GMT
+Received: from [10.191.6.196] (/10.191.6.196)
+	by default (Oracle Beehive Gateway v4.0)
+	with ESMTP ; Fri, 18 Mar 2016 05:45:18 -0700
+From: miao yu <miao.yu@oracle.com>
+Subject: =?UTF-8?Q?Technical_Written_Examination_invitation_from_Oracle_R&D_?=
+ =?UTF-8?B?W+WImOaYjuWlh10=?=
+To: 573275629@qq.com
+Organization: Oracle Corporation
+Message-ID: <56EBF85B.3050105@oracle.com>
+Date: Fri, 18 Mar 2016 20:45:15 +0800
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:38.0)
+ Gecko/20100101 Thunderbird/38.7.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------000908030409000403030500"
+X-Source-IP: userv0022.oracle.com [156.151.31.74]
+
+This is a multi-part message in MIME format.
+--------------000908030409000403030500
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: base64
+X-MIME-Autoconverted: from 8bit to base64 by aserp1040.oracle.com id u2ICjJtm012331
+
+SGkg5YiY5piO5aWH77yMDQoNCk5pY2UgdGFsa2luZyB0byB5b3Ugb24gdGhlIHBob25lIHRv
+ZGF5LCBwbGVhc2UgY29tZSB0byBPcmFjbGUgb2ZmaWNlIG9uIA0KKjEwOjAwIEFNLCBNYXIg
+MjJ0aCAoVHVlc2RheSkqIHRvIGF0dGVuZCBhIHRlY2huaWNhbCB3cml0dGVuIA0KZXhhbWlu
+YXRpb24uIElmIHlvdSBhcmUgdW5hYmxlIHRvIGNvbWUgZHVlIHRvIHNvbWUgcmVhc29uLCBw
+bGVhc2Ugc2VuZCANCm1lIGVtYWlsIG9yIGNhbGwgbWUgYmVmb3JlaGFuZC4gSWYgdGhlcmUg
+aXMgYW55IGNoYW5nZSBvbiBvdXIgc2lkZSwgSSANCndpbGwgaW5mb3JtIHlvdSBhcyB3ZWxs
+Lg0KDQpXaGF0IHdlIG9mZmVyIGlzIGEgZGV2ZWxvcGVyIHBvc2l0aW9uIChzZWUgYmVsb3cp
+LiBQbGVhc2UgcmVwbHkgYWZ0ZXIgDQp5b3Ugc2VlIHRoaXMgaW52aXRhdGlvbi4NCg0KVGhh
+bmtzLA0KLS0gDQpPcmFjbGUgPGh0dHA6Ly93d3cub3JhY2xlLmNvbT4NCk1pYW8gWXUo5LqO
+IOa3vCkgfCBTZW5pb3IgU29mdHdhcmUgRGV2ZWxvcG1lbnQgTWFuYWdlcg0KUGhvbmU6ICs4
+NjEwODI3OTg1NjggfCB8IEZheDogKzg2MTA4Mjc5ODY4Ng0KT3JhY2xlIE9yYWNsZSBBc2lh
+IFJlc2VhcmNoIGFuZCBEZXZlbG9wbWVudCBDZW50ZXINCg0K5Zyw5Z2A77ya5YyX5Lqs5biC
+5rW35reA5Yy65Lit5YWz5p2R6L2v5Lu25Zut55Sy6aqo5paH5aSn5Y6mVDEg55Sy6aqo5paH
+6L2v5Lu256CU56m25byA5Y+R5Lit5b+D77yI5YyXIA0K5Lqs77yJ5pyJ6ZmQ5YWs5Y+4ICjo
+pb/kuozml5fln47pk4Hnq5not6/ovrnkuZjova/ku7blm63kuIDjgIHkuozmnJ/nj63ovabv
+vIjmlLbotLnvvIzliLfljaEx5YWD77yJ55Sy6aqoIA0K5paH5aSn5Y6m5LiLKQ0KDQo9PUpE
+PT0NCuaLm+iBmOS4gOWQjSoq5bqUIOWxiueUnyoqLOS7juS6iypPcmFjbGUgTWFuYWdlbWVu
+dCBDbG91ZCrnmoQq5YmNIOWQjuerryrlvIDlj5HvvIzmnKzpg6ggDQrpl6gq5pyAIOWQjirk
+uIDkuKrmoKHmi5vlkI3pop3jgIINCg0KW+iBjOS9jeimgeaxgl0NCjEuW01VU1Rd6K6h566X
+5py65Y+KIOebuOWFs+S4k+S4mueglOeptueUnw0KMi5bTVVTVF3ng63niLHnvJYg56iL77yM
+5ZaE5LqO5a2m5Lmg5paw5oqA5pyv77yMIOenr+aegeS4u+WKqO+8jOWFt+Wkh+iJr+Wlveea
+hOayn+mAmuiDveWKmw0KMy5bTVVTVF3nlLHkuo7lt6XkvZwg6K+t6KiA5piv6Iux6K+t77yM
+6KaB5rGC6IuxIOivreiDveWKm+Wlve+8jOmcgOimgee7j+W4uOi3n+e+juWbvS/ljbDluqbn
+moTlkIzkuovmsp/pgJoNCjQuW01VU1RdDQrnhp/nu4Mg6L+Q55SoSmF2YVNjcmlwdCwgalF1
+ZXJ5LCBodG1sNS9jc3PnrYnliY3nq6/lvIDlj5HmioDmnK8NCm9yDQrnhp/nu4PlupTnlKgg
+SmF2YS9KYXZhRUXvvIzkuobop6NKUEEgL1JFU1RmdWwvQ2xhc3MgbG9hZGluZ+etieaKgOac
+rw0KDQrku6XkuIrkuKTogIXpg73kvJrkvJjlhYjogIPomZENCg0KNS5bTXVzdF3ln7rmnKzn
+moQgU1FM5bqU55SoDQo2LltPcHRpb25hbF0gTGludXggJiBHaXQgc2tpbGxzDQo=
+--------------000908030409000403030500
+Content-Type: multipart/related;
+ boundary="------------030706020901010703000106"
+
+
+--------------030706020901010703000106
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by aserp1040.oracle.com id u2ICjJtm012331
+
+<html>
+  <head>
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf=
+-8">
+  </head>
+  <body bgcolor=3D"#FFFFFF" text=3D"#000000">
+    <div class=3D"moz-text-html" lang=3D"x-unicode"> <span style=3D"color=
+:
+        rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', '=
+Lucida Sans',
+        Verdana, Arial, sans-serif; font-size: 13px; font-style: normal;
+        font-variant: normal; font-weight: normal; letter-spacing:
+        normal; line-height: 18.2px; orphans: auto; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        display: inline !important; float: none; background-color:
+        rgb(255, 255, 255);">Hi =E5=88=98=E6=98=8E=E5=A5=87=EF=BC=8C<br>
+        <br>
+        <font face=3D"Courier New">Nice talking to you on the phone today=
+,
+          please come to Oracle office on <b>10:00 AM, Mar 22th
+            (Tuesday)</b> to attend a technical written examination. If
+          you are unable to come due to some reason, please send me
+          email or call me beforehand. If there is any change on our
+          side, I will inform you as well. <br>
+          <br>
+          What we offer is a developer position (see below). Please
+          reply after you see this invitation. </font></span><span
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);"><font
+          face=3D"Courier New"><span style=3D"color: rgb(0, 0, 0);
+            font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', 'Lucida San=
+s', Verdana,
+            Arial, sans-serif; font-size: 13px; font-style: normal;
+            font-variant: normal; font-weight: normal; letter-spacing:
+            normal; line-height: 18.2px; orphans: auto; text-align:
+            start; text-indent: 0px; text-transform: none; white-space:
+            normal; widows: 1; word-spacing: 0px;
+            -webkit-text-stroke-width: 0px; display: inline !important;
+            float: none; background-color: rgb(255, 255, 255);"><font
+              face=3D"Courier New"><br>
+            </font></span> <br>
+          Thanks,<br>
+        </font><font face=3D"Courier New">-- <br>
+          <a moz-do-not-send=3D"true" href=3D"http://www.oracle.com"
+            target=3D"_blank"><img shrinktofit=3D"true"
+              src=3D"cid:part1.03060707.09030805@oracle.com" alt=3D"Oracl=
+e"
+              height=3D"26" border=3D"0" width=3D"114"></a><br>
+          <font face=3D"Verdana, Arial, Helvetica, sans-serif"
+            color=3D"#666666" size=3D"2">Miao Yu</font></font><font
+          face=3D"Courier New"><font face=3D"Verdana, Arial, Helvetica,
+            sans-serif" color=3D"#666666" size=3D"2"><font face=3D"Courie=
+r
+              New">(=E4=BA=8E =E6=B7=BC)</font> | Senior Software Develop=
+ment Manager<br>
+            Phone: +861082798568 | | Fax: +861082798686 <br>
+            <font color=3D"#ff0000">Oracle</font> Oracle Asia Research an=
+d
+            Development Center<br>
+            <br>
+          </font>=E5=9C=B0=E5=9D=80=EF=BC=9A=E5=8C=97=E4=BA=AC=E5=B8=82=E6=
+=B5=B7=E6=B7=80=E5=8C=BA=E4=B8=AD=E5=85=B3=E6=9D=91=E8=BD=AF=E4=BB=B6=E5=9B=
+=AD=E7=94=B2=E9=AA=A8=E6=96=87=E5=A4=A7=E5=8E=A6T1 =E7=94=B2=E9=AA=A8=E6=96=
+=87=E8=BD=AF=E4=BB=B6=E7=A0=94=E7=A9=B6=E5=BC=80=E5=8F=91=E4=B8=AD=E5=BF=83=
+=EF=BC=88=E5=8C=97=E4=BA=AC=EF=BC=89=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8
+          (=E8=A5=BF=E4=BA=8C=E6=97=97=E5=9F=8E=E9=93=81=E7=AB=99=E8=B7=AF=
+=E8=BE=B9=E4=B9=98=E8=BD=AF=E4=BB=B6=E5=9B=AD=E4=B8=80=E3=80=81=E4=BA=8C=E6=
+=9C=9F=E7=8F=AD=E8=BD=A6=EF=BC=88=E6=94=B6=E8=B4=B9=EF=BC=8C=E5=88=B7=E5=8D=
+=A11=E5=85=83=EF=BC=89=E7=94=B2=E9=AA=A8=E6=96=87=E5=A4=A7=E5=8E=A6=E4=B8=
+=8B)<br>
+        </font><br>
+        =3D=3DJD=3D=3D<br>
+        =E6=8B=9B=E8=81=98=E4=B8=80=E5=90=8D*</span><b style=3D"margin: 0=
+px; padding: 0px; border: 0px
+        none; outline: 0px; font-size: 13px; vertical-align: baseline;
+        color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Gra=
+nde', 'Lucida
+        Sans', Verdana, Arial, sans-serif; font-style: normal;
+        font-variant: normal; letter-spacing: normal; line-height:
+        18.2px; orphans: auto; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 1;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px; background:
+        rgb(255, 255, 255);">=E5=BA=94 =E5=B1=8A=E7=94=9F</b><span style=3D=
+"color: rgb(0, 0, 0);
+        font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', 'Lucida Sans', =
+Verdana, Arial,
+        sans-serif; font-size: 13px; font-style: normal; font-variant:
+        normal; font-weight: normal; letter-spacing: normal;
+        line-height: 18.2px; orphans: auto; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        display: inline !important; float: none; background-color:
+        rgb(255, 255, 255);">*,=E4=BB=8E=E4=BA=8B</span><b style=3D"margi=
+n: 0px; padding:
+        0px; border: 0px none; outline: 0px; font-size: 13px;
+        vertical-align: baseline; color: rgb(0, 0, 0); font-family: =E5=AE=
+=8B=E4=BD=93,
+        'Lucida Grande', 'Lucida Sans', Verdana, Arial, sans-serif;
+        font-style: normal; font-variant: normal; letter-spacing:
+        normal; line-height: 18.2px; orphans: auto; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background: rgb(255, 255, 255);">Oracle Management Cloud</b><span
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">=E7=9A=84</sp=
+an><b
+        style=3D"margin: 0px; padding: 0px; border: 0px none; outline:
+        0px; font-size: 13px; vertical-align: baseline; color: rgb(0, 0,
+        0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', 'Lucida San=
+s', Verdana,
+        Arial, sans-serif; font-style: normal; font-variant: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background: rgb(255, 255, 255);">=
+=E5=89=8D
+        =E5=90=8E=E7=AB=AF</b><span style=3D"color: rgb(0, 0, 0); font-fa=
+mily: =E5=AE=8B=E4=BD=93, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">=E5=BC=80=E5=8F=
+=91=EF=BC=8C=E6=9C=AC=E9=83=A8=E9=97=A8</span><b
+        style=3D"margin: 0px; padding: 0px; border: 0px none; outline:
+        0px; font-size: 13px; vertical-align: baseline; color: rgb(0, 0,
+        0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', 'Lucida San=
+s', Verdana,
+        Arial, sans-serif; font-style: normal; font-variant: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background: rgb(255, 255, 255);">=
+=E6=9C=80
+        =E5=90=8E</b><span style=3D"color: rgb(0, 0, 0); font-family: =E5=
+=AE=8B=E4=BD=93, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">=E4=B8=80=E4=B8=
+=AA=E6=A0=A1=E6=8B=9B=E5=90=8D=E9=A2=9D=E3=80=82<span
+          class=3D"Apple-converted-space">=C2=A0</span></span><br style=3D=
+"color:
+        rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', '=
+Lucida Sans',
+        Verdana, Arial, sans-serif; font-size: 13px; font-style: normal;
+        font-variant: normal; font-weight: normal; letter-spacing:
+        normal; line-height: 18.2px; orphans: auto; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(255, 255, 255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">=C2=A0=C2=A0<=
+/span><br
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(255, 255,
+        255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">[=E8=81=8C=E4=
+=BD=8D=E8=A6=81=E6=B1=82]<span
+          class=3D"Apple-converted-space">=C2=A0</span></span><br style=3D=
+"color:
+        rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', '=
+Lucida Sans',
+        Verdana, Arial, sans-serif; font-size: 13px; font-style: normal;
+        font-variant: normal; font-weight: normal; letter-spacing:
+        normal; line-height: 18.2px; orphans: auto; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(255, 255, 255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">1.[MUST]=E8=AE=
+=A1=E7=AE=97=E6=9C=BA=E5=8F=8A
+        =E7=9B=B8=E5=85=B3=E4=B8=93=E4=B8=9A=E7=A0=94=E7=A9=B6=E7=94=9F<s=
+pan class=3D"Apple-converted-space">=C2=A0</span></span><br
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(255, 255,
+        255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">2.[MUST]=E7=83=
+=AD=E7=88=B1=E7=BC=96
+        =E7=A8=8B=EF=BC=8C=E5=96=84=E4=BA=8E=E5=AD=A6=E4=B9=A0=E6=96=B0=E6=
+=8A=80=E6=9C=AF=EF=BC=8C =E7=A7=AF=E6=9E=81=E4=B8=BB=E5=8A=A8=EF=BC=8C=E5=
+=85=B7=E5=A4=87=E8=89=AF=E5=A5=BD=E7=9A=84=E6=B2=9F=E9=80=9A=E8=83=BD=E5=8A=
+=9B<span class=3D"Apple-converted-space">=C2=A0</span></span><br
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(255, 255,
+        255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">3.[MUST]=E7=94=
+=B1=E4=BA=8E=E5=B7=A5=E4=BD=9C
+        =E8=AF=AD=E8=A8=80=E6=98=AF=E8=8B=B1=E8=AF=AD=EF=BC=8C=E8=A6=81=E6=
+=B1=82=E8=8B=B1 =E8=AF=AD=E8=83=BD=E5=8A=9B=E5=A5=BD=EF=BC=8C=E9=9C=80=E8=
+=A6=81=E7=BB=8F=E5=B8=B8=E8=B7=9F=E7=BE=8E=E5=9B=BD/=E5=8D=B0=E5=BA=A6=E7=
+=9A=84=E5=90=8C=E4=BA=8B=E6=B2=9F=E9=80=9A<span
+          class=3D"Apple-converted-space"> </span></span><span
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);"></span><br
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(255, 255,
+        255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">4.[MUST]<span
+          class=3D"Apple-converted-space"> <br>
+        </span></span><span style=3D"color: rgb(0, 0, 0); font-family: =E5=
+=AE=8B=E4=BD=93,
+        'Lucida Grande', 'Lucida Sans', Verdana, Arial, sans-serif;
+        font-size: 13px; font-style: normal; font-variant: normal;
+        font-weight: normal; letter-spacing: normal; line-height:
+        18.2px; orphans: auto; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 1;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px; display:
+        inline !important; float: none; background-color: rgb(255, 255,
+        255);">=E7=86=9F=E7=BB=83 =E8=BF=90=E7=94=A8JavaScript, jQuery, h=
+tml5/css=E7=AD=89=E5=89=8D=E7=AB=AF=E5=BC=80=E5=8F=91=E6=8A=80=E6=9C=AF<s=
+pan
+          class=3D"Apple-converted-space">=C2=A0</span></span><br style=3D=
+"color:
+        rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', '=
+Lucida Sans',
+        Verdana, Arial, sans-serif; font-size: 13px; font-style: normal;
+        font-variant: normal; font-weight: normal; letter-spacing:
+        normal; line-height: 18.2px; orphans: auto; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(255, 255, 255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">or<span
+          class=3D"Apple-converted-space">=C2=A0</span></span><br style=3D=
+"color:
+        rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', '=
+Lucida Sans',
+        Verdana, Arial, sans-serif; font-size: 13px; font-style: normal;
+        font-variant: normal; font-weight: normal; letter-spacing:
+        normal; line-height: 18.2px; orphans: auto; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(255, 255, 255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">=E7=86=9F=E7=BB=
+=83=E5=BA=94=E7=94=A8
+        Java/JavaEE=EF=BC=8C=E4=BA=86=E8=A7=A3JPA /RESTful/Class loading=E7=
+=AD=89=E6=8A=80=E6=9C=AF<span
+          class=3D"Apple-converted-space">=C2=A0</span></span><br style=3D=
+"color:
+        rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', '=
+Lucida Sans',
+        Verdana, Arial, sans-serif; font-size: 13px; font-style: normal;
+        font-variant: normal; font-weight: normal; letter-spacing:
+        normal; line-height: 18.2px; orphans: auto; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(255, 255, 255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">=C2=A0=C2=A0<=
+/span><br
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(255, 255,
+        255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">=E4=BB=A5=E4=B8=
+=8A=E4=B8=A4=E8=80=85=E9=83=BD=E4=BC=9A=E4=BC=98=E5=85=88=E8=80=83=E8=99=91=
+<span
+          class=3D"Apple-converted-space">=C2=A0</span></span><br style=3D=
+"color:
+        rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'Lucida Grande', '=
+Lucida Sans',
+        Verdana, Arial, sans-serif; font-size: 13px; font-style: normal;
+        font-variant: normal; font-weight: normal; letter-spacing:
+        normal; line-height: 18.2px; orphans: auto; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(255, 255, 255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">=C2=A0=C2=A0<=
+/span><br
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(255, 255,
+        255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">5.[Must]=E5=9F=
+=BA=E6=9C=AC=E7=9A=84
+        SQL=E5=BA=94=E7=94=A8<span class=3D"Apple-converted-space">=C2=A0=
+</span></span><br
+        style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93, 'L=
+ucida Grande',
+        'Lucida Sans', Verdana, Arial, sans-serif; font-size: 13px;
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: 18.2px; orphans: auto;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(255, 255,
+        255);">
+      <span style=3D"color: rgb(0, 0, 0); font-family: =E5=AE=8B=E4=BD=93=
+, 'Lucida
+        Grande', 'Lucida Sans', Verdana, Arial, sans-serif; font-size:
+        13px; font-style: normal; font-variant: normal; font-weight:
+        normal; letter-spacing: normal; line-height: 18.2px; orphans:
+        auto; text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 1; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; display: inline !important;
+        float: none; background-color: rgb(255, 255, 255);">6.[Optional]
+        Linux &amp; Git skills<span class=3D"Apple-converted-space"> <br>
+        </span></span> </div>
+  </body>
+</html>
+
+--------------030706020901010703000106
+Content-Type: image/gif
+Content-ID: <part1.03060707.09030805@oracle.com>
+Content-Transfer-Encoding: base64
+
+R0lGODlhcgAaAMQAAP8QEP/w8P/Q0P/g4P8wMP9gYP8gIP+goP9QUP+QkP+wsP9wcP+AgP9A
+QP/AwP8AAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ACH5BAAAAAAALAAAAAByABoAAAX/ICSOZGmeaKqubOu+cCzPdC0GCqPvvBKUDp5wp1gFdIPV
+IDfcOQa6A8yRaO4gweQoUHh4v2Bw4SdihM9egyBF8ALIpkEXDR44vA2XwkD/IgYGAAZbbX1n
+BGRmhl8AWiUJYicCAIsPDFh4LXOGjQ4NAAhrEIUPBQcOqKmoB5sEZV4JqqoHhQVxlGAOJQG4
+AAunsqg/dw95KwdfBgzBqKIEBMaQDwCiKpOwEIq6KANuJg14igZwEHPULMTGKbxetjF8D1It
+xK7aKl8lCl8DAfALW1+2rUi3QtqgGN2mwYCXzYvAON624LoEQZ9DEfRcEFSBIE2DjyBDfnyI
+qRgMcA8a/z5AZQWXOxEdHxwUgfIgsX/zMqlAWclVCQFefLpAqdJBAFJn3owgtpJEQkslEWjU
+mYLnomokcDlS4s0eFzQNqvXDEyzmAwFPyaXYmGJBuxlzELWIacueiE0AFGyF4HbaNTquUEpF
+RxUFUC9YXQzARYAkEJSNipKQ9kDu0i9SKKNZ9iXswMIoYgI4oJYFskpgzkkmcdrviELqmPVt
+1HpRAaaLqCE1lBgjvEpqRtgl8Tevygd7TcCuiKvPm8OVEkAIYLYPThSsRIpEQJr1x94QBIT0
+9FH6QJC6AiRAoB1kEb7tRb4MvyB+AwSlbejfz7+///8ABijggAQWaOCBCCao4A+CDDbo4IMQ
+RijhhBQKGAIAOw==
+--------------030706020901010703000106--
+
+--------------000908030409000403030500--

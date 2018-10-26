@@ -1,0 +1,48 @@
+Received: from mail232-41.mail.alibaba.com (unknown [42.120.232.41])
+	by newmx70.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Fri, 04 Sep 2015 14:26:28 +0800
+X-QQ-FEAT: D4aqtcRDiqRghPGGevvdI9N2NID6YN/qudFpkjLgX4c=
+X-QQ-MAILINFO: MjJD59SVx+Ln/XVFGaR0bi0fdxXcaburvYLhBADOL/ET6ZY+Klc+fvAVu
+	712x8SCPwE7fjoberslITCJ5pNklB5aXybXrHQ712ni22iPkyOK9jbAom39QU+GSJxyjYiD
+	C+uzwhkRvP1pR6cwebcaXf5YOBErOmFtrpD/h3mDzSABS0aYRDafjX0=
+X-QQ-mid: mx70t1441347988tavlp2a0m
+X-QQ-ORGSender: taobao@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1441347988; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=o/C8D9Py1zUaijpLDLWU5KzkFTAswU3l+PukyDtIS3Y=;
+	b=SyVROi9JwuD5u3jHobMpStOCJFwy0JtUzLJInKDpszEwP7BHfMWQ2BIKWu6MERPlhY3OR79sJ3dVKCrUfCyDCSYh6mxlBorvhdm8/Uh0ezmtIdAFrT+Mk2gds7mqfC6qOPMfaYCaaMbi8skQ9ZIvyTvuab7hqdFACH+sxd49t5k=
+Received: from messagecenter010236092052.cm4(10.236.92.52)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Fri, 04 Sep 2015 14:26:28 +0800
+Date: Fri, 4 Sep 2015 14:26:28 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <taobao@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <608222680.2289981441347988202.JavaMail.admin@messagecenter010236092052.cm4>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 461205241347988040
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 53277190798647 申请已经达成退款。
+  宝贝：淘非特大号双排简易鞋柜无纺布防尘多层鞋架收纳创意组合鞋柜包邮
+  退款金额：34.90
+
+点此查看<a href="http://refund.tmall.com/viewRefundDetailSpirit.htm?bizOrderId=1177293678664786" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

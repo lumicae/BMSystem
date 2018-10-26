@@ -1,0 +1,43 @@
+Received: from m12-15.163.com (unknown [220.181.12.15])
+	by newmx104.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Sat, 28 Nov 2015 14:47:07 +0800
+X-QQ-FEAT: UTqybKtkAogaB1Df/V8PIIwmLFkg0ptMYWeNVWOdvkx63zER0o9PH4+ORQkO1
+	wd8qL1IOVF7dqrixkdS1J9jqbRRpH4Vk33ISFl4AduPKI8m8ZdHozwC9drdibBU6F5yTnNl
+	w2+Y8j0GSbd+3b3u6r31nLehTJX2SayqPZxeKM3oAimqqf8aNDFRzRLndF/jvD4PDTh0Cb2
+	fMxPh+N+INUfBprINx7R/A/tOwJi0SnI=
+X-QQ-MAILINFO: MHG2h55yn1ll2/mEVujeLnjxTULnskBWR4HlULPPqpK9AZ26rQ+43xhKx
+	6QXN78JQpFvjEG/FGmfD6JhVcS/CWP6QbdcvP0ibCji7ziEVmE2pNqofZ15iO7VzWr3PTcL
+	8julpxEHLAg2eVwsBL1OWPQ=
+X-QQ-mid: mx104t1448693228tj6brpsxs
+X-QQ-ORGSender: library_opac@163.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=Date:From:Message-ID:Subject:MIME-Version; bh=pVn1a
+	gl5Fc74wZdw4fSsxcXrAlOiZM6mMytU/GdkKYE=; b=UC1OuC4NTPRzp4E6Z8T3O
+	PtJ26BgrNO9hDH6bNW0C1ivS2KiWjjJ2+9bYF3snpXne7VQ+TjEei0I+LC1S8dEw
+	RxdzKdSBDzLI57pOrplAPS3D0FF2NaldjIK62Ph9eY9HayJ/RaImeNL3XwMxfVyw
+	ZGs7DRcLl+4V83LG2vFSwE=
+Received: from Tushuguan-opac (unknown [211.68.68.217])
+	by smtp11 (Coremail) with SMTP id D8CowED5UUnpTVlWrinkAA--.58996S2;
+	Sat, 28 Nov 2015 14:47:07 +0800 (CST)
+Date: Sat, 28 Nov 2015 14:47:03 +0800 (CST)
+From: library_opac@163.com
+To: 573275629@qq.com
+Message-ID: <31263253.11.1448693223968.JavaMail.Administrator@Tushuguan-opac>
+Subject: =?GB2312?B?zbzK6bndw9zC69XSu9ijoQ==?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_10_31112011.1448693223952"
+X-CM-TRANSID:D8CowED5UUnpTVlWrinkAA--.58996S2
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxU6pBfUUUUU
+X-Originating-IP: [211.68.68.217]
+X-CM-SenderInfo: xole2tpu1b01ldf6il2tof0z/1tbiTAvATlSIMBRLbQAAsX
+
+------=_Part_10_31112011.1448693223952
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: base64
+
+tsHV38H1w/fG5sT6usOjocT6tcTD3MLrysejujE0MDM1NA==
+------=_Part_10_31112011.1448693223952--
+
+

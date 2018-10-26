@@ -1,0 +1,411 @@
+Received: from 17.171.37.40 (unknown [17.171.37.40])
+	by newmx22.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Thu, 26 Jun 2014 14:18:12 +0800
+X-QQ-SSF: 004000000A0000000x900001002050x
+X-QQ-mid: usamxproxy10t1403763494t8sjaqg
+X-QQ-CSender: bounces@insideicloud.icloud.com
+X-QQ-FEAT: ANi1GsF1FLlQgKDto+x6+t296DvDvrd5Oa84q16MmPE=
+X-KK-mid:usamxproxy10t1403763494t8sjaqg
+DKIM-Signature: v=1; a=rsa-sha1; d=insideicloud.icloud.com; s=insideicloud2048; c=relaxed/relaxed;
+	q=dns/txt; i=@insideicloud.icloud.com; t=1403763490;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=B4yq33bIgwB9pGUtmv7tXSFeTNU=;
+	b=m3dySdqlHbjpw7lkGgkbPfLy9e2cLbv6cbQ56DkSrIm4BoKBU22auTNznQ7TxopD
+	/mal9k8QaLW5eFm+W4k1S8UmAtjSafWT2JBhJ/BJzFLgWQ9CrHVdjp4WZB+E4kzR
+	D1aXpoO4S7+2zS1oUEwenFFLh8T4BcvrHnK4KUkOzUVUTFP572/8priKOji4V2NV
+	G97h1luHDKVB4GqyH9a7VryLbxHvGxDsOq52O6NsQzILZ6k8MYPpggkpy8tn4NPI
+	KNxpo3JTWbQZ3WglxdeVNa0Y/bbA08t2jC4fVneaRXZvkflLrraO0DOvpCpSzcj3
+	HqFlDR/y2Wnk/I8/zqoTBw==;
+Date: Thu, 26 Jun 2014 06:18:10 +0000 (GMT)
+From: Apple <noreply@insideicloud.icloud.com>
+To: 573275629@qq.com
+Message-ID: <682191025.11093491403763490388.JavaMail.email@email.apple.com>
+Subject: =?UTF-8?Q?=E6=82=A8=E7=9A=84_Apple_?=
+ =?UTF-8?Q?ID_=E8=A2=AB=E7=94=A8=E4=BA=8E=E5=9C=A8_iP?=
+ =?UTF-8?Q?ad_Air_=E4=B8=8A=E7=99=BB=E5=BD=95_iMessage=E3=80=82?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_562612_2051739254.1403763490388"
+X-EmailType-Id: 763321
+X-Sent-To: 573275629@qq.com,2,k%2BmjWPCFEH1m5ry2zndhAi%2BUAjhokWPRuCArgZLWLu0QqJe4bznMnmV6pl32Qm4wge8SldXp36AksA3K%2BQbGp3wm74UZeQEb%2BEilFyUBBjfDRxsDvW9GED0QLrCZDucO6zYIpHuIBrVPrUJF6R%2BbmFsfZ53V%2BLupK1E3HuzmNzIqmbRjP1y%2FoxpPbCAuqnUE0X5geZtK3Q9BnuEYYnaVgTv7Fk9Gq1GPbR0CgsFOep53IWZ5jhaQGa9wPFBKNf58%2Fk2yBy9d6%2BmilbxbIP%2FIFPkvqN4V1Z7rfLlJ4V8ihrfIPGNXK0A4X69rStjMD4SmkNnPL%2F0LjdTKNNms09PMbZGKVpSVyp7Z1fQZFWqUU5U%3D
+X-Request-UUID: 45d15385-513b-478a-8a81-12c25c3d96e8
+X-Business-Group: iCloud
+X-Attach-Flag: N
+X-TXN_ID: CA6E289D-959C-4729-94B7-0B68FB0BEAAA
+X-DKIM_SIGN_REQUIRED: YES
+
+------=_Part_562612_2051739254.1403763490388
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+=E5=88=98=E4=B8=89=EF=BC=8C=E6=82=A8=E5=A5=BD=EF=BC=9A
+
+=E6=82=A8=E7=9A=84 Apple ID (573275629@qq.com) =E8=A2=AB=E7=94=A8=E4=BA=8E=
+=E5=9C=A8=E5=90=8D=E4=B8=BA =E2=80=9Cpycdrm=E2=80=9D=E7=9A=84 iPad Air =E4=
+=B8=8A=E7=99=BB=E5=BD=95 iMessage=E3=80=82
+
+=E6=97=A5=E6=9C=9F=E4=B8=8E=E6=97=B6=E9=97=B4=EF=BC=9A2014=E5=B9=B46=E6=9C=
+=8825=E6=97=A5=EF=BC=8C=E4=B8=8B=E5=8D=8811:08 PDT
+=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=EF=BC=9AiPhone OS,7.0.4,11B554a
+
+=E5=A6=82=E6=9E=9C=E6=82=A8=E6=9C=80=E8=BF=91=E7=99=BB=E5=BD=95=E8=BF=87=E6=
+=AD=A4=E8=AE=BE=E5=A4=87=EF=BC=8C=E6=82=A8=E5=8F=AF=E4=BB=A5=E5=BF=BD=E7=95=
+=A5=E6=AD=A4=E5=B0=81=E7=94=B5=E5=AD=90=E9=82=AE=E4=BB=B6=E3=80=82
+
+=E5=A6=82=E6=9E=9C=E6=82=A8=E6=9C=80=E8=BF=91=E6=B2=A1=E6=9C=89=E4=BD=BF=E7=
+=94=A8=E6=82=A8=E7=9A=84 Apple ID =E7=99=BB=E5=BD=95 iPad=EF=BC=8C=E5=B9=B6=
+=E7=9B=B8=E4=BF=A1=E6=9C=89=E4=BA=BA=E5=8F=AF=E8=83=BD=E8=AE=BF=E9=97=AE=E4=
+=BA=86=E6=82=A8=E7=9A=84=E5=B8=90=E6=88=B7=EF=BC=8C=E6=82=A8=E5=BA=94=E8=AF=
+=A5=E5=9C=A8=E6=88=91=E7=9A=84 Apple ID - https://appleid.apple.com/cgi-bin=
+/WebObjects/MyAppleId.woa/wa/chooseYourCountry/ =E9=87=8D=E8=AE=BE=E6=82=A8=
+=E7=9A=84=E5=AF=86=E7=A0=81
+
+=E6=AD=A4=E8=87=B4
+
+Apple =E6=94=AF=E6=8C=81
+
+
+---
+
+=E6=88=91=E7=9A=84 Apple ID=EF=BC=9A  https://appleid.apple.com/choose-your=
+-country/
+=E6=94=AF=E6=8C=81=EF=BC=9A  http://www.apple.com/support/country/
+=E5=AE=A2=E6=88=B7=E9=9A=90=E7=A7=81=E6=94=BF=E7=AD=96=EF=BC=9A  http://www=
+.apple.com/legal/internet-services/privacy/
+Copyright 2014  Apple Inc. 1 Infinite Loop, Cupertino, CA 95014, United Sta=
+tes.
+=E4=BF=9D=E7=95=99=E6=89=80=E6=9C=89=E6=9D=83=E5=88=A9=E3=80=82
+
+------=_Part_562612_2051739254.1403763490388
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+<html>
+   =20
+    <head>
+     =20
+      <meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf=
+-8">
+      <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+      <meta name=3D"format-detection" content=3D"address=3Dno" />
+      <meta name=3D"format-detection" content=3D"telephone=3Dno" />
+      <meta name=3D"format-detection" content=3D"email=3Dno" />
+       =20
+       =20
+       =20
+        <style type=3D"text/css">
+         =20
+          body { margin: 0 !important; padding: 0 !important; }
+          a:visited { color: #08c !important; text-decoration: none !import=
+ant; }
+          a:hover { text-decoration: underline !important; }
+          a:active { text-decoration: underline !important; }
+          a:hover.linkbutton { color: #2b2b2b !important; text-decoration: =
+none !important; font-weight: 500 !important; }
+          a:active.linkbutton { color: #2b2b2b !important; text-decoration:=
+ none !important; font-weight: 500 !important; }
+          a:visited.linkbutton { color: #2b2b2b !important; text-decoration=
+: none !important; font-weight: 500 !important; }
+          .nobr {  white-space: nowrap; }
+
+          @media only screen and (min-device-width : 320px) and (max-device=
+-width : 568px) {
+            body[yahoo] {
+            overflow: hidden;
+            width: 320px !important;
+            text-align: center !important;
+            margin: 0;
+            -webkit-text-size-adjust:100% !important;
+            }
+
+            body[yahoo] .heading_logo {
+              text-align: right !important;
+            }
+
+            body[yahoo] .heading_logo img {
+              width: 17px !important;
+              height: 21px !important;
+            }
+
+            body[yahoo] .centerColumn {
+            width: 290px !important;
+            }
+           =20
+            body[yahoo] .content_margin {
+            width: 15px !important;
+            }
+
+            body[yahoo] .footer .bottomContent {
+            padding-top: 15px !important;
+            display: block !important;
+            }
+
+            body[yahoo] .footer.content {
+            padding: 0px 10px !important;
+            }
+
+            body[yahoo] .footer .service {
+            display: block !important;
+            }
+
+            body[yahoo] .iPhone_font {
+              font-family: 'Helvetica Neue' !important;
+            }
+
+          }
+
+          @media only screen and (max-device-width: 768px) {
+            body[yahoo] .iPhone_font {
+              font-family: 'Helvetica Neue' !important;
+            }
+          }
+
+          @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+            body[yahoo] .iPhone_font {
+              font-family: 'Helvetica Neue' !important;
+            }
+          }
+
+        </style>
+    </head>
+   =20
+    =20
+          <body yahoo=3D"fix" style=3D"margin: 0; padding: 0; -webkit-text-=
+size-adjust: 100%;">
+            <div class=3D"mailwrapper" style=3D"font-size: 14px; color: #33=
+3; font-smooth: always; -webkit-font-smoothing: antialiased; "  >
+              <table class=3D"mainTable" align=3D"center" style=3D"font-siz=
+e: inherit; line-height: inherit; text-align: center; border-spacing: 0; bo=
+rder-collapse: collapse; -premailer-cellpadding: 0; -premailer-cellspacing:=
+ 0; padding: 0; border: 0;" cellpadding=3D"0" cellspacing=3D"0" >
+                <tr><td class=3D"topPadding" style=3D"font-family: 'Lucida =
+Grande', Helvetica, Arial, sans-serif; height: 16px; -premailer-height: 16;=
+" height=3D"16"></td></tr>
+                <tr>
+                  <td class=3D"centerColumn" style=3D"width: 685px; -premai=
+ler-width: 685;" width=3D"685">
+                    <table class=3D"iPhone_font" style=3D"font-family: 'Luc=
+ida Grande', Helvetica, Arial, sans-serif; font-size: inherit; line-height:=
+ 18px; padding: 0px; border: 0px;" >
+                      <tr>
+                        <td class=3D"content_margin" style=3D"width: 40px;"=
+></td>
+                        <td class=3D"heading_logo" style=3D"               =
+                  text-align: right;
+                           width: 600px;"><img width=3D"22" height=3D"26"  =
+src=3D"https://statici.icloud.com/emailimages/v4/common/apple_logo_web@2x.p=
+ng" style=3D"width: 22px; height: 26px;" /></td>
+                        <td class=3D"content_margin" style=3D"width: 40px;"=
+></td>
+                      </tr>
+                      <tr>
+                        <td class=3D"content_margin" style=3D"width: 40px;"=
+></td>
+                       =20
+                       =20
+                           =20
+                            <td class=3D"iPhone_font" style=3D"font-family:=
+ 'Lucida Grande', Helvetica, Arial, sans-serif; line-height: 18px; padding-=
+top: 44px;                                 text-align: left;
+                               font-size: 14px; color: #333; font-smooth: a=
+lways; -webkit-font-smoothing: antialiased;">
+                              =E5=88=98=E4=B8=89=EF=BC=8C=E6=82=A8=E5=A5=BD=
+=EF=BC=9A
+                              </td>
+                           =20
+                         =20
+                        <td class=3D"content_margin" style=3D"width: 40px;"=
+></td>
+                        </tr>
+                        <tr>
+                          <td class=3D"content_margin" style=3D"width: 40px=
+;"></td>
+                          <td class=3D"iPhone_font" style=3D"font-family: '=
+Lucida Grande', Helvetica, Arial, sans-serif; line-height: 18px;           =
+                       text-align: left;
+                             font-size: 14px; color: #333; padding: 17px 0 =
+0 0; font-smooth: always; -webkit-font-smoothing: antialiased;">
+                           =20
+                              =E6=82=A8=E7=9A=84 Apple ID (<span><a href=3D=
+"mailto:573275629@qq.com" style=3D"color: #2b2b2b; text-decoration: none;">=
+<nobr><b>573275629@qq.com</b></nobr></a></span>) =E8=A2=AB=E7=94=A8=E4=BA=
+=8E=E5=9C=A8=E5=90=8D=E4=B8=BA=E2=80=9Cpycdrm=E2=80=9D=E7=9A=84 iPad Air =
+=E4=B8=8A=E7=99=BB=E5=BD=95 iMessage=E3=80=82
+                              </td>
+                          <td class=3D"content_margin" style=3D"width: 40px=
+;"></td>
+                          </tr>
+                          <tr>
+                            <td class=3D"content_margin" style=3D"width: 40=
+px;"></td>
+                            <td class=3D"iPhone_font" style=3D"font-family:=
+ 'Lucida Grande', Helvetica, Arial, sans-serif; line-height: 18px;         =
+                         text-align: left;
+                               font-size: 14px; color: #333; padding: 18px =
+0 0 0; font-smooth: always; -webkit-font-smoothing: antialiased;"><div><spa=
+n  >
+                             =20
+                                =E6=97=A5=E6=9C=9F=E4=B8=8E=E6=97=B6=E9=97=
+=B4=EF=BC=9A
+                                </span><span >
+                                 =20
+                                    2014=E5=B9=B46=E6=9C=8825=E6=97=A5=EF=
+=BC=8C=E4=B8=8B=E5=8D=8811:08 PDT
+                                    </span></div>
+                                    <div>
+                                      <span >
+                                       =20
+                                          =E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=
+=9F=EF=BC=9A
+                                          </span><span >
+                                           =20
+                                              iPhone OS,7.0.4,11B554a
+                                              </span>
+                                      </div></td>
+                            <td class=3D"content_margin" style=3D"width: 40=
+px;"></td>
+                            </tr>
+                              <tr>
+                                <td class=3D"content_margin" style=3D"width=
+: 40px;"></td>
+                                <td class=3D"iPhone_font" style=3D"font-fam=
+ily: 'Lucida Grande', Helvetica, Arial, sans-serif; line-height: 18px; font=
+-smooth: always; -webkit-font-smoothing: antialiased;                      =
+            text-align: left;
+                                   font-size: 14px; color: #333; padding: 1=
+8px 0 0 0;">
+                                 =20
+                                    =E5=A6=82=E6=9E=9C=E6=82=A8=E6=9C=80=E8=
+=BF=91=E7=99=BB=E5=BD=95=E8=BF=87=E6=AD=A4=E8=AE=BE=E5=A4=87=EF=BC=8C=E6=82=
+=A8=E5=8F=AF=E4=BB=A5=E5=BF=BD=E7=95=A5=E6=AD=A4=E5=B0=81=E7=94=B5=E5=AD=90=
+=E9=82=AE=E4=BB=B6=E3=80=82
+                                    </td>
+                                <td class=3D"content_margin" style=3D"width=
+: 40px;"></td>
+                                </tr>
+                          <tr>
+                            <td class=3D"content_margin" style=3D"width: 40=
+px;"></td>
+                           =20
+                            <td class=3D"letter_content iPhone_font" style=
+=3D"font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; line-height=
+: 18px; font-smooth: always; -webkit-font-smoothing: antialiased;          =
+                        text-align: left;
+                               font-size: 14px; color: #333; padding: 18px =
+0 15px 0;">
+                              =E5=A6=82=E6=9E=9C=E6=82=A8=E6=9C=80=E8=BF=91=
+=E6=B2=A1=E6=9C=89=E4=BD=BF=E7=94=A8=E6=82=A8=E7=9A=84 Apple ID =E7=99=BB=
+=E5=BD=95 iPad=EF=BC=8C=E5=B9=B6=E7=9B=B8=E4=BF=A1=E6=9C=89=E4=BA=BA=E5=8F=
+=AF=E8=83=BD=E8=AE=BF=E9=97=AE=E4=BA=86=E6=82=A8=E7=9A=84=E5=B8=90=E6=88=B7=
+=EF=BC=8C=E6=82=A8=E5=BA=94=E8=AF=A5=E5=9C=A8<span><a href=3D"https://apple=
+id.apple.com/cgi-bin/WebObjects/MyAppleId.woa/wa/chooseYourCountry/" style=
+=3D"color: #08c; text-decoration: none;"><nobr>=E6=88=91=E7=9A=84=C2=A0Appl=
+e=C2=A0ID</nobr></a></span> =E9=87=8D=E8=AE=BE=E6=82=A8=E7=9A=84=E5=AF=86=
+=E7=A0=81=E3=80=82</td>
+                            <td class=3D"content_margin" style=3D"width: 40=
+px;"></td>
+                            </tr>
+                            <tr>
+                              <td class=3D"content_margin" style=3D"width: =
+40px;"></td>
+                              <td class=3D"iPhone_font" style=3D"          =
+                       text-align: left;
+                                 font-family: 'Lucida Grande', Helvetica, A=
+rial, sans-serif; line-height: 18px; font-smooth: always; -webkit-font-smoo=
+thing: antialiased; color: #333; padding: 3px 0 19px 0; font-size: 14px;">
+                                =E6=AD=A4=E8=87=B4
+                                  </td>
+                              <td class=3D"content_margin" style=3D"width: =
+40px;"></td>
+                              </tr>
+                            <tr>
+                              <td class=3D"content_margin" style=3D"width: =
+40px;"></td>
+                              <td class=3D"iPhone_font" style=3D"          =
+                       text-align: left;
+                                 font-family: 'Lucida Grande', Helvetica, A=
+rial, sans-serif; line-height: 18px; font-size: 14px; font-smooth: always; =
+-webkit-font-smoothing: antialiased; color: #333; padding: 17px 0 13px 0;">
+                               =20
+                                  Apple =E6=94=AF=E6=8C=81
+                                  </td>
+                              <td class=3D"content_margin" style=3D"width: =
+40px;"></td>
+                              </tr>
+                              </table>
+                            </td>
+                          </tr>
+                         =20
+                          <tr class=3D"footerTopPadding iPhone_font" style=
+=3D"height: 17px; -premailer-height: 17;" height=3D"17"><td style=3D"font-f=
+amily: 'Geneva', Helvetica, Arial, sans-serif;"></td></tr>
+                          <tr>
+                            <td class=3D"footer background iPhone_font" col=
+span=3D"3" background=3D"https://statici.icloud.com/emailimages/v4/common/f=
+ooter_gradient_web.png" style=3D"font-family: 'Geneva', Helvetica, Arial, s=
+ans-serif; font-smooth: always; -webkit-font-smoothing: antialiased; width:=
+ 685px; font-size: 11px; line-height: 14px; color: #888; text-align: center=
+; background-repeat: no-repeat; background-position: center top; padding: 1=
+5px 0 12px; -webkit-text-size-adjust:100%;" align=3D"center">
+                              <span class=3D"footer1" style=3D"white-space:=
+ nowrap;" >
+                                <a href=3D"https://appleid.apple.com/choose=
+-your-country/" style=3D"color: #08c; text-decoration: none;">
+                                =E6=88=91=E7=9A=84 Apple ID
+                              </a>
+                            </span>&#32;&#124;&#32;=20
+                            <span class=3D"footer1" style=3D"white-space: n=
+owrap;">
+                              <a href=3D"http://www.apple.com/support/count=
+ry/" style=3D"color: #08c; text-decoration: none;">
+                              =E6=94=AF=E6=8C=81
+                            </a>
+                          </span>&#32;&#124;&#32;
+                        <span class=3D"footer1" style=3D"white-space: nowra=
+p;">
+                          <a href=3D"http://www.apple.com/legal/internet-se=
+rvices/privacy/" style=3D"color: #08c; text-decoration: none;">
+                          =E5=AE=A2=E6=88=B7=E9=9A=90=E7=A7=81=E6=94=BF=E7=
+=AD=96
+                        </a>
+                      </span>
+                      <br/>
+                      <span class=3D"bottomContent" colspan=3D"3">
+                        <span class=3D"footer1" style=3D"white-space: nowra=
+p;">
+                          Copyright =C2=A9 2014=C2=A0
+                        </span>
+                        <span>=20
+                          Apple Inc. <span class=3D "nobr"><a href=3D"#addr=
+ess" id=3D"address" style=3D"color: #888888; text-decoration: none;cursor:t=
+ext;">1 Infinite Loop, Cupertino, CA 95014, United States.</a></span>
+                        </span>
+                        <span class=3D"footer1" style=3D"white-space: nowra=
+p;">
+                          =E4=BF=9D=E7=95=99=E6=89=80=E6=9C=89=E6=9D=83=E5=
+=88=A9=E3=80=82
+                        </span>
+                      </span>
+                    </td>
+                  </tr>
+                  <tr class=3D"footerBottomPadding iPhone_font" style=3D"he=
+ight: 50px; -premailer-height: 50;" height=3D"50"><td style=3D"font-family:=
+ 'Geneva', Helvetica, Arial, sans-serif;">
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </body>
+        <img src=3D'http://outsideapple.apple.com/img/APPLE_EMAIL_LINK/spac=
+er4.gif?v=3D2&a=3Dk%2BmjWPCFEH1m5ry2zndhAi%2BUAjhokWPRuCArgZLWLu0QqJe4bznMn=
+mV6pl32Qm4wge8SldXp36AksA3K%2BQbGp3wm74UZeQEb%2BEilFyUBBjfDRxsDvW9GED0QLrCZ=
+DucO6zYIpHuIBrVPrUJF6R%2BbmFsfZ53V%2BLupK1E3HuzmNzIqmbRjP1y%2FoxpPbCAuqnUE0=
+X5geZtK3Q9BnuEYYnaVgTv7Fk9Gq1GPbR0CgsFOep53IWZ5jhaQGa9wPFBKNf58%2Fk2yBy9d6%=
+2BmilbxbIP%2FIFPkvqN4V1Z7rfLlJ4V8ihrfIPGNXK0A4X69rStjMD4SmkNnPL%2F0LjdTKNNm=
+s09PMbZGKVpSVyp7Z1fQZFWqUU5U%3D'/>
+</html>
+------=_Part_562612_2051739254.1403763490388--
+.
+

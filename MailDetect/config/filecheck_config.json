@@ -1,0 +1,10 @@
+{
+	"keyword-list"		: "秘密;机密;绝密;中发;中办发;批示",
+	"check-image"		: 0,
+	"check-nest-image"	: 0,
+	"context-size"	    : 64,
+	"check-path"		: "C:\\Users\\LMQ\\AppData\\Local\\Temp\\MailDetect\\mailfile",
+	"store-path"		: "C:\\Users\\LMQ\\AppData\\Local\\Temp\\MailDetect\\DB\\filecheck.db",
+	"thread-num"		: 1,
+	"quick-check"		: 0
+}

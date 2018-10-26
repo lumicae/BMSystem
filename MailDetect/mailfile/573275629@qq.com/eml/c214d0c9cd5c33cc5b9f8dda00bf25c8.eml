@@ -1,0 +1,801 @@
+Received: from smtp539.submail.cn (unknown [112.124.122.181])
+	by newmx62.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Sun, 08 Apr 2018 21:17:43 +0800
+X-QQ-FEAT: qJMGDWGLgMbFfbdFfjXGU0DuRvINgzoJQsZRuvIcAgxEsg/7LOEzlH1ikhNny
+	HRALoSCSzr7NcoD6CZPNagoKKQrWUT3+0fz6iuz/s6AJuc5qZBPgRJgYknuyYx/mkuGIaFq
+	/zgUygBrrCHkVaQr8Fexo6hkfCvWH097DLKiqcyvAASkCEqnKEcqgW4Vl09qyAiRTmkXxrN
+	E1vZ7kRPEpdGEXc4Txpk0UY6nImfWlaT47RDT0xd3uImWX6ZrmipdUUeO8QSPhO0uZBKlkE
+	/Vaux++FLzOpoJVpnMRfCzlHY6iOFEBOOWHjMYTKX2RbGr
+X-QQ-MAILINFO: NL3WKUOj1eeIF2b5KGAOymhQ6N97lYEzRrg5fdEq4IAAMU/g12FozlrmJ
+	VFrBmHwwD/7BcxJIuOeuz2y/F8fslmubNnHCv3NVtYgQJkkmZomfx3TMfAkPL+tD9P+8ZE6
+	GAgCC0DOOUSNJSScO5nA5KlRsJfQvSIhvBOqM7Rgc9rxxNjsMLcuXtoJa8wBG0AW+2emhCe
+	fBst/bw1XA6kXaU0=
+X-QQ-mid: mx62t1523193465trd62npnh
+X-QQ-ORGSender: oschina@submail.oschina.net
+Received: by smtp539.submail.cn (submail - subsmtp, from userid 5002)
+	id 4D53A122759; Sun,  8 Apr 2018 13:17:44 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=submail.oschina.net;
+	s=submail; t=1523193464;
+	bh=uRPTmeTTarhuwlN9ntovPJlD56GJ2elxxLAtQlIAg58=;
+	h=Date:To:From:Subject:List-Unsubscribe;
+	b=VXyYwpd55pbLwrW/cTEFgjyDFSDPkjMCq9e6YUulEXZ6lw3i8JtwP4HGySSPWnVlM
+	 XB33ClmFJofZubDW1/5H57M0TiccuFHLaTLjFrqTNmaijq53oNZ9H4WfVIPe4CBly7
+	 YHj27Xlxr6j9vKnIeKMI0gvLKUQIsmpF4sEYgOJg=
+Received: from localhost.localdomain (unknown [10.168.227.238])
+	by smtp539.submail.cn (submail - subsmtp) with ESMTPA id 189A2122D8F
+	for <573275629@qq.com>; Sun,  8 Apr 2018 13:05:38 +0000 (GMT)
+Date: Sun, 8 Apr 2018 13:05:36 +0000
+To: 573275629@qq.com
+From: =?utf-8?B?5byA5rqQ5Lit5Zu9?= <oschina@submail.oschina.net>
+Subject: =?utf-8?B?5LiJ5bm05rKJ5reAIDIwMTjlhajnkIPkurrlt6Xmmbrog73mioDmnK/lpKc=?=
+ =?utf-8?B?5Lya6JOE5Yq/5b6F5Y+R?=
+Message-ID: <eab00e13fa1f56242c7ddcc635a71a26@submail.cn>
+X-Mailer: Submail Version 1.0.1
+List-Unsubscribe: <http://submail.cn/autounsubscribe?ref=c47eff14460fc1c5070fada29f1f1ef5f0ca58cf4eac47e2e8f58851b3a4467473898b681924d627fccccaccf63a3624732d9f6a343f7a6cd49bb69e786f737fcb375d9a4eeb77dcb9da3c005a5c0d22c22a199e4f8234491149605d6609f440>
+Precedence: bulk
+x-submail-send-cmd: rzNYL3
+x-submail-type: me
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_eab00e13fa1f56242c7ddcc635a71a26"
+Content-Transfer-Encoding: quoted-printable
+
+--b1_eab00e13fa1f56242c7ddcc635a71a26
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BF        =E5=A6=82=E6=9E=9C=E9=82=AE=E4=BB=B6=E4=B8=AD=E4=B8=8D=
+=E8=83=BD=E6=AD=A3=E5=B8=B8=E6=98=BE=E7=A4=BA=EF=BC=8C=E8=AF=B7=E7=82=B9=
+=E5=87=BB=E6=AD=A4=E5=A4=84=E6=9F=A5=E7=9C=8B        =0A         =0A=
+=E6=97=B6=E4=BB=A3=E7=9A=84=E6=BD=AE=E6=B5=81=E6=B5=A9=E6=B5=A9=E8=8D=A1=
+=E8=8D=A1=EF=BC=8C=E4=B8=8A=E5=8D=87=E5=88=B0=E5=9B=BD=E5=AE=B6=E5=8F=91=
+=E5=B1=95=E6=88=98=E7=95=A5=E4=B8=8E=E5=9F=BA=E7=A1=80=E8=AE=BE=E6=96=BD=
+=E7=9A=84=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=EF=BC=8C=E6=AD=A3=E4=BB=A5=
+=E4=B8=8D=E5=8F=AF=E6=80=9D=E8=AE=AE=E7=9A=84=E9=80=9F=E5=BA=A6=E5=8D=A0=
+=E6=8D=AE=E7=9D=80=E6=88=91=E4=BB=AC=E7=94=9F=E6=B4=BB=E7=9A=84=E5=A4=B4=
+=E6=9D=A1=E3=80=82=E5=A6=82=E6=9E=9C=E8=AF=B42017=E5=B9=B4=E5=AE=A3=
+=E5=91=8A=E4=BA=86=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E6=8E=A5=E6=A3=92=
+=E6=97=B6=E4=BB=A3=E8=84=89=E6=90=8F=EF=BC=8C=E9=82=A3=E4=B9=882018=
+=E5=B9=B4=E7=9A=84=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E5=B0=86=E4=BD=9C=
+=E4=B8=BA=E9=A2=A0=E8=A6=86=E6=80=A7=E5=8F=98=E9=9D=A9=E5=8A=9B=E9=87=8F=
+=E8=BF=AD=E4=BB=A3=E4=B8=96=E7=95=8C=E6=9C=BA=E5=99=A8=E7=9A=84=E8=BF=90=
+=E4=BD=9C=E3=80=82=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E6=AD=A3=E5=8A=A0=
+=E5=BF=AB=E4=B8=8E=E7=BB=8F=E6=B5=8E=E7=A4=BE=E4=BC=9A=E5=90=84=E9=A2=86=
+=E5=9F=9F=E6=B8=97=E9=80=8F=E8=9E=8D=E5=90=88=EF=BC=8C=E5=88=9B=E9=80=A0=
+=E6=96=B0=E4=BB=B7=E5=80=BC=E7=9A=84=E8=BF=87=E7=A8=8B=E6=AD=A3=E5=9C=A8=
+=E5=8F=91=E7=94=9F=E6=94=B9=E5=8F=98=EF=BC=8C=E4=BA=A7=E4=B8=9A=E9=93=BE=
+=E5=88=86=E5=B7=A5=E5=B0=86=E8=A2=AB=E9=87=8D=E7=BB=84=E3=80=822018=0AGAITC=
+=E7=9B=9B=E4=BC=9A=E4=B9=8B=E9=99=85=EF=BC=8CCAAI=E7=90=86=E4=BA=8B=
+=E9=95=BF=E3=80=81=E4=B8=AD=E5=9B=BD=E5=B7=A5=E7=A8=8B=E9=99=A2=E6=9D=8E=
+=E5=BE=B7=E6=AF=85=E9=99=A2=E5=A3=AB=E4=B8=8E=E5=9B=BE=E7=81=B5=E5=A5=96=
+=E5=BE=97=E4=B8=BB=E3=80=81=E4=B8=AD=E5=9B=BD=E7=A7=91=E5=AD=A6=E9=99=A2=
+=E5=A7=9A=E6=9C=9F=E6=99=BA=E9=99=A2=E5=A3=AB=E3=80=81=E6=AC=A7=E6=B4=B2=
+=E7=A7=91=E5=AD=A6=E9=99=A2=E9=99=A2=E5=A3=AB=E6=B1=89=E6=96=AF=E2=80=A2=
+=E4=B9=8C=E6=80=9D=E5=85=8B=E5=B0=94=E7=89=B9=E9=A2=86=E8=A1=94=E6=9C=AC=
+=E6=AC=A1=E5=A4=A7=E4=BC=9A=EF=BC=8C=E5=B8=A6=E9=A2=86=E5=A4=A7=E5=AE=B6=
+=E4=BB=A5=E7=A7=91=E6=8A=80=E5=B7=A8=E5=8C=A0=E7=9A=84=E8=A7=86=E8=A7=92=
+=EF=BC=8C=E8=BF=9B=E4=B8=80=E6=AD=A5=E8=A7=A3=E6=9E=90=E4=BA=BA=E5=B7=A5=
+=E6=99=BA=E8=83=BD=E4=B9=8B=E4=BA=8E=E4=BA=BA=E7=B1=BB=E5=8F=91=E5=B1=95=
+=E7=9A=84=E6=96=B0=E5=9F=BA=E8=B0=83=E3=80=82=0A=E4=B8=8D=E4=BB=85=E4=B8=
+=A4=E9=99=A2=E9=99=A2=E5=A3=AB=E9=A2=86=E8=A1=94=EF=BC=8C=E6=9B=B4=E8=81=
+=94=E8=A2=82=E5=9B=BD=E9=99=85AI=E5=B7=A8=E5=8C=A0=E3=80=82=0A=E6=80=80=
+=E7=9D=80=E5=90=8C=E6=A0=B7=E5=88=A9=E7=94=A8=E4=BA=BA=E5=B7=A5=E6=99=BA=
+=E8=83=BD=E6=9C=8D=E5=8A=A1=E4=BA=BA=E7=B1=BB=E7=A4=BE=E4=BC=9A=E7=9A=84=
+=E5=88=9D=E5=BF=83=EF=BC=8C=E8=BF=99=E6=AC=A1=E5=85=A8=E7=90=83=E4=BA=BA=
+=E5=B7=A5=E6=99=BA=E8=83=BD=E6=8A=80=E6=9C=AF=E5=A4=A7=E4=BC=9A=E5=B0=86=
+=E4=B8=BB=E5=8A=A8=E6=8B=A5=E6=8A=B1=E5=85=A8=E4=B8=96=E7=95=8C=EF=BC=8C=
+=E9=82=80=E8=AF=B7=E6=9D=A5=E8=87=AA=E7=BE=8E=E5=9B=BD=E3=80=81=E5=BE=B7=
+=E5=9B=BD=E3=80=81=E8=8B=B1=E5=9B=BD=E3=80=81=E8=A5=BF=E7=8F=AD=E7=89=99=
+=E3=80=81=E6=84=8F=E5=A4=A7=E5=88=A9=E3=80=81=E6=96=B0=E8=A5=BF=E5=85=B0=
+=E7=AD=89=E5=8D=81=E4=BD=99=E5=9B=BDAI=E7=B2=BE=E8=8B=B1=E4=BB=A3=E8=A1=
+=A8=EF=BC=8C=E5=81=95=E5=90=8C=E8=87=AA=E8=BA=AB=E9=A2=86=E5=9F=9F=E7=9A=
+=84=E7=A0=94=E7=A9=B6=E6=88=90=E6=9E=9C=E4=B8=8E=E6=88=90=E5=93=81=E5=AE=
+=9E=E8=B7=B5=E8=8E=85=E4=B8=B4=E6=9C=AC=E6=AC=A1=E5=A4=A7=E4=BC=9A=E3=80=
+=82=E5=90=8C=E6=97=B6=EF=BC=8C=E6=9D=A5=E8=87=AA=E5=93=88=E4=BD=9B=E5=A4=
+=A7=E5=AD=A6=E3=80=81=E5=8D=A1=E5=86=85=E5=9F=BA=E6=A2=85=E9=9A=86=E5=A4=
+=A7=E5=AD=A6=E3=80=81=E8=80=B6=E9=B2=81=E5=A4=A7=E5=AD=A6=E3=80=81=E7=89=
+=9B=E6=B4=A5=E5=A4=A7=E5=AD=A6=E3=80=81=E5=89=91=E6=A1=A5=E5=A4=A7=E5=AD=
+=A6=E3=80=81=E9=A9=AC=E5=BE=B7=E9=87=8C=E7=90=86=E5=B7=A5=E5=A4=A7=E5=AD=
+=A6=E7=AD=89=E5=9B=BD=E9=99=85=E5=AD=A6=E6=9C=AF=E6=9C=BA=E6=9E=84=E9=A2=
+=86=E8=88=AA=E8=80=85=E5=B0=86=E6=82=89=E6=95=B0=E6=9D=A5=E5=88=B0=EF=BC=
+=8C=E5=B9=B6=E5=B8=A6=E6=9D=A5=E8=AF=AD=E4=B9=89=E7=BF=BB=E8=AF=91=E3=80=
+=81=E7=9F=A5=E8=AF=86=E5=9B=BE=E8=B0=B1=E3=80=81=E6=9C=BA=E5=99=A8=E5=AD=
+=A6=E4=B9=A0=E7=AD=89=E6=96=B9=E9=9D=A2=E5=89=8D=E6=B2=BF=E7=A0=94=E7=A9=
+=B6=E6=88=90=E6=9E=9C=EF=BC=8C=E9=80=9A=E8=BF=87=E6=B7=B1=E5=BA=A6=E7=9A=
+=84=E6=88=90=E6=9E=9C=E5=B1=95=E7=A4=BA=E3=80=81=E5=AD=A6=E6=9C=AF=E4=BA=
+=A4=E6=B5=81=E3=80=81=E8=A7=82=E7=82=B9=E7=A2=B0=E6=92=9E=EF=BC=8C=E8=BF=
+=9B=E4=B8=80=E6=AD=A5=E6=8C=96=E6=8E=98=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=
+=BD=E6=96=B0=E4=BB=B7=E5=80=BC=E3=80=82=0A 2018=E5=B9=B4=E5=85=A8=E7=90=
+=83=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E6=8A=80=E6=9C=AF=E5=A4=A7=E4=BC=
+=9A=EF=BC=88GAITC=EF=BC=89=E5=B0=86=E4=BA=8E5=E6=9C=8819-20=E6=97=A5=
+=E5=9C=A8=E5=8C=97=E4=BA=AC=E5=9B=BD=E5=AE=B6=E4=BC=9A=E8=AE=AE=E4=B8=AD=
+=E5=BF=83=E4=B8=BE=E8=A1=8C=E3=80=82=E5=A4=A7=E4=BC=9A=E4=BB=A5=E2=80=9C=
+=E4=BA=A4=E5=8F=89=E3=80=81=E8=9E=8D=E5=90=88=E3=80=81=E7=9B=B8=E7=94=9F=
+=E3=80=81=E5=85=B1=E8=B5=A2=E2=80=9D=E4=B8=BA=E4=B8=BB=E9=A2=98=EF=BC=8C=
+=E5=B0=86=E7=BB=A7=E7=BB=AD=E6=89=BF=E6=8B=85=E8=B5=B7=E5=B8=A6=E9=A2=86=
+=E4=BA=BA=E7=B1=BB=E6=8A=8A=E8=84=89AI=E6=97=B6=E4=BB=A3=E8=84=89=E6=90=
+=8F=E7=9A=84=E5=8E=86=E5=8F=B2=E9=87=8D=E4=BB=BB=EF=BC=8C=E5=B9=B6=E5=B0=
+=B1AI=E6=8A=80=E6=9C=AF=E7=9A=84=E6=9C=80=E6=96=B0=E7=A0=94=E7=A9=B6=
+=E3=80=81=E6=9C=80=E4=B8=BA=E5=85=A8=E9=9D=A2=E7=9A=84=E5=95=86=E4=B8=9A=
+=E5=8C=96=E8=83=BD=E5=8A=9B=E3=80=81=E6=9C=80=E5=85=B7=E4=BB=A3=E8=A1=A8=
+=E6=80=A7=E7=9A=84=E7=A7=91=E7=A0=94=E6=88=90=E6=9E=9C=EF=BC=8C=E4=B8=8E=
+=E6=82=A8=E5=85=B1=E5=90=8C=E7=BB=98=E5=88=B6=E5=87=BA=E6=9C=80=E4=B8=BA=
+=E6=B8=85=E6=99=B0=E7=9A=84AI=E6=96=B0=E6=97=B6=E4=BB=A3=E7=89=88=E5=9B=
+=BE=E3=80=82=E5=9B=A2=E8=B4=AD5=E5=BC=A0=E4=BB=A5=E4=B8=8A=E7=AB=8B=
+=E5=87=8F1000=E5=85=83=EF=BC=8C=E6=95=B0=E9=87=8F=E6=9C=89=E9=99=90=
+=EF=BC=8C=E6=AC=B2=E8=B4=AD=E4=BB=8E=E9=80=9F=EF=BC=8C=0A=E5=AE=98=E7=BD=
+=91=E7=82=B9=E5=87=BB=E8=BF=99=E9=87=8C=E3=80=82                 Keynote=
+=E5=98=89=E5=AE=BE=EF=BC=9A=E6=9D=8E=E5=BE=B7=E6=AF=85   =0A=E6=9D=8E=
+=E5=BE=B7=E6=AF=85=EF=BC=8C=E7=8E=B0=E4=BB=BB=E4=B8=AD=E5=9B=BD=E5=B7=A5=
+=E7=A8=8B=E9=99=A2=E9=99=A2=E5=A3=AB=E3=80=81=E6=AC=A7=E4=BA=9A=E7=A7=91=
+=E5=AD=A6=E9=99=A2=E9=99=A2=E5=A3=AB=EF=BC=8C=E5=8C=97=E4=BA=AC=E8=81=94=
+=E5=90=88=E5=A4=A7=E5=AD=A6=E6=9C=BA=E5=99=A8=E4=BA=BA=E5=AD=A6=E9=99=A2=
+=E9=99=A2=E9=95=BF=EF=BC=8CCAAI=E7=90=86=E4=BA=8B=E9=95=BF=EF=BC=8C=
+=E4=B8=AD=E5=9B=BD=E4=BA=91=E8=AE=A1=E7=AE=97=E4=B8=93=E5=AE=B6=E5=A7=94=
+=E5=91=98=E4=BC=9A=E4=B8=BB=E4=BB=BB=EF=BC=8C=E6=B8=85=E5=8D=8E=E5=A4=A7=
+=E5=AD=A6=E3=80=81=E5=9B=BD=E9=98=B2=E5=A4=A7=E5=AD=A6=E5=85=BC=E8=81=8C=
+=E6=95=99=E6=8E=88=EF=BC=8C=E5=8D=9A=E5=A3=AB=E7=94=9F=E5=AF=BC=E5=B8=88=
+=E3=80=82=E6=9D=8E=E5=BE=B7=E6=AF=85=E9=99=A2=E5=A3=AB=E9=95=BF=E6=9C=9F=
+=E4=BB=8E=E4=BA=8B=E8=AE=A1=E7=AE=97=E6=9C=BA=E5=B7=A5=E7=A8=8B=E3=80=81=
+=E4=B8=8D=E7=A1=AE=E5=AE=9A=E6=80=A7=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=
+=E3=80=81=E5=A4=A7=E6=95=B0=E6=8D=AE=E5=92=8C=E6=99=BA=E8=83=BD=E9=A9=BE=
+=E9=A9=B6=E9=A2=86=E5=9F=9F=E7=A0=94=E7=A9=B6=EF=BC=8C=E6=9C=80=E6=97=A9=
+=E6=8F=90=E5=87=BA=E2=80=9C=E6=8E=A7=E5=88=B6=E6=B5=81=E2=80=94=E6=95=B0=
+=E6=8D=AE=E6=B5=81=E2=80=9D=E5=9B=BE=E5=AF=B9=E7=90=86=E8=AE=BA=EF=BC=8C=
+=E8=AF=81=E6=98=8E=E4=BA=86=E5=85=B3=E7=B3=BB=E6=95=B0=E6=8D=AE=E5=BA=93=
+=E6=A8=A1=E5=BC=8F=E5=92=8C=E8=B0=93=E8=AF=8D=E9=80=BB=E8=BE=91=E7=9A=84=
+=E5=AF=B9=E7=AD=89=E6=80=A7=EF=BC=8C=E8=8E=B7=E5=BE=97IEE=E6=9C=9F=E5=88=
+=8A=E5=B9=B4=E5=BA=A6=E6=9C=80=E4=BD=B3=E8=AE=BA=E6=96=87=E5=A5=96=E3=80=
+=82=0A          Keynote=E5=98=89=E5=AE=BE=EF=BC=9A=E5=A7=9A=E6=9C=9F=
+=E6=99=BA =0A=E5=A7=9A=E6=9C=9F=E6=99=BA=E6=95=99=E6=8E=88=EF=BC=8C2000=
+=E5=B9=B4=E5=9B=BE=E7=81=B5=E5=A5=96=E5=BE=97=E4=B8=BB=EF=BC=8C=E4=B8=AD=
+=E5=9B=BD=E7=A7=91=E5=AD=A6=E9=99=A2=E9=99=A2=E5=A3=AB=E3=80=81=E7=BE=8E=
+=E5=9B=BD=E7=A7=91=E5=AD=A6=E9=99=A2=E5=A4=96=E7=B1=8D=E9=99=A2=E5=A3=AB=
+=EF=BC=8C=E6=B8=85=E5=8D=8E=E5=A4=A7=E5=AD=A6=E4=BA=A4=E5=8F=89=E4=BF=A1=
+=E6=81=AF=E7=A0=94=E7=A9=B6=E9=99=A2=E9=99=A2=E9=95=BF=E3=80=82=E8=8E=B7=
+=E5=93=88=E4=BD=9B=E5=A4=A7=E5=AD=A6=E7=89=A9=E7=90=86=E5=AD=A6=E5=8D=9A=
+=E5=A3=AB=E5=92=8C=E4=BC=8A=E5=88=A9=E8=AF=BA=E4=BC=8A=E5=A4=A7=E5=AD=A6=
+=E8=AE=A1=E7=AE=97=E6=9C=BA=E7=A7=91=E5=AD=A6=E5=8D=9A=E5=A3=AB=E3=80=82=
+=E6=9B=BE=E4=BB=BB=E6=95=99=E4=BA=8E=E7=BE=8E=E5=9B=BD=E9=BA=BB=E7=9C=81=
+=E7=90=86=E5=B7=A5=E5=AD=A6=E9=99=A2=E3=80=81=E6=96=AF=E5=9D=A6=E7=A6=8F=
+=E5=A4=A7=E5=AD=A6=E3=80=81=E5=8A=A0=E5=B7=9E=E5=A4=A7=E5=AD=A6=E4=BC=AF=
+=E5=85=8B=E5=88=A9=E5=88=86=E6=A0=A1=E3=80=81=E4=BB=A5=E5=8F=8A=E6=99=AE=
+=E6=9E=97=E6=96=AF=E9=A1=BF=E5=A4=A7=E5=AD=A6=E3=80=82=E4=BB=8E2004=
+=E5=B9=B4=E8=B5=B7=EF=BC=8C=E4=BB=BB=E8=81=8C=E4=BA=8E=E5=8C=97=E4=BA=AC=
+=E6=B8=85=E5=8D=8E=E5=A4=A7=E5=AD=A6=EF=BC=8C=E5=BC=80=E5=B1=95=E6=9C=AC=
+=E7=A7=91=E7=94=9F=E7=B2=BE=E8=8B=B1=E8=AE=A1=E5=88=92=EF=BC=88=E4=BF=97=
+=E7=A7=B0=E4=B8=BA=E2=80=9C=E5=A7=9A=E7=8F=AD=E2=80=9D=EF=BC=89=EF=BC=8C=
+=E5=B9=B6=E5=88=9B=E5=BB=BA=E6=B8=85=E5=8D=8E=E5=A4=A7=E5=AD=A6=E4=BA=A4=
+=E5=8F=89=E4=BF=A1=E6=81=AF=E7=A0=94=E7=A9=B6=E9=99=A2=EF=BC=8C=E5=8F=91=
+=E5=B1=95=E6=88=90=E4=B8=BA=E4=B8=96=E7=95=8C=E7=9F=A5=E5=90=8D=E7=9A=84=
+=E8=B7=A8=E5=AD=A6=E7=A7=91=E7=A7=91=E7=A0=94=E4=B8=AD=E5=BF=83=EF=BC=8C=
+=E5=BD=93=E4=B8=AD=E5=8C=85=E6=8B=AC=E9=87=8F=E5=AD=90=E8=AE=A1=E7=AE=97=
+=E5=AE=9E=E9=AA=8C=E5=AE=A4=E3=80=82=0A          Keynote=E5=98=89=E5=AE=
+=BE=EF=BC=9A=E6=B1=89=E6=96=AF=C2=B7=E4=B9=8C=E6=80=9D=E5=85=8B=E5=B0=94=
+=E7=89=B9 =0A=E6=B1=89=E6=96=AF=C2=B7=E4=B9=8C=E6=80=9D=E5=85=8B=E5=B0=
+=94=E7=89=B9=E6=98=AF=E5=8C=97=E4=BA=AC=E6=B7=B1=E7=9F=A5=E6=97=A0=E9=99=
+=90=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E7=A0=94=E7=A9=B6=E9=99=A2=E9=99=
+=A2=E9=95=BF=E5=85=BC=E9=A6=96=E5=B8=AD=E7=A7=91=E5=AD=A6=E5=AE=B6=E3=80=
+=81=E5=BE=B7=E5=9B=BD=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E7=A0=94=E7=A9=
+=B6=E4=B8=AD=E5=BF=83(DFKI)=E7=A7=91=E5=AD=A6=E6=80=BB=E7=9B=91=EF=BC=8C=
+=E6=98=AF=E6=AC=A7=E6=B4=B2=E7=A7=91=E5=AD=A6=E9=99=A2=E9=99=A2=E5=A3=AB=
+=E3=80=81=E6=9F=8F=E6=9E=97=E5=B7=A5=E4=B8=9A=E5=A4=A7=E5=AD=A6=E8=8D=A3=
+=E8=AA=89=E6=95=99=E6=8E=88=E3=80=81=E5=9B=BD=E9=99=85=E8=AE=A1=E7=AE=97=
+=E6=9C=BA=E8=AF=AD=E8=A8=80=E5=AD=A6=E5=A7=94=E5=91=98=E4=BC=9A(ICCL)=
+=E7=BB=88=E8=BA=AB=E6=88=90=E5=91=98=E3=80=81=E6=AC=A7=E6=B4=B2=E5=8D=93=
+=E8=B6=8A=E7=B2=BE=E8=8B=B1=E5=A4=9A=E8=AF=AD=E8=A8=80=E4=BF=A1=E6=81=AF=
+=E8=81=94=E7=9B=9F(META-NET)=E5=90=8D=E8=AA=89=E4=B8=BB=E5=B8=AD=E3=80=
+=81=E5=9B=BD=E9=99=85=E9=80=BB=E8=BE=91=E3=80=81=E8=AF=AD=E8=A8=80=E5=92=
+=8C=E4=BF=A1=E6=81=AF=E5=8D=8F=E4=BC=9A=E4=B8=BB=E5=B8=AD=E3=80=82=E4=BB=
+=96=E5=90=88=E4=BD=9C=E5=88=9B=E7=AB=8B=E4=BA=86=E5=A4=9A=E5=AE=B6=E9=AB=
+=98=E7=A7=91=E6=8A=80=E5=85=AC=E5=8F=B8=EF=BC=8C=E5=90=8C=E6=97=B6=E4=B9=
+=9F=E6=98=AF=E4=BC=97=E5=A4=9A=E4=BC=81=E4=B8=9A=E7=9A=84=E9=A1=BE=E9=97=
+=AE=E3=80=82=E4=BB=96=E5=9C=A8=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E9=A2=
+=86=E5=9F=9F=E7=9A=84=E4=B8=BB=E8=A6=81=E7=A0=94=E7=A9=B6=E6=96=B9=E5=90=
+=91=E4=B8=BA=E8=AF=AD=E8=A8=80=E3=80=81=E7=9F=A5=E8=AF=86=E6=8A=80=E6=9C=
+=AF=E7=9A=84=E7=A0=94=E5=8F=91=E5=8F=8A=E5=BA=94=E7=94=A8=EF=BC=8C=E5=8F=
+=91=E8=A1=A8=E7=A0=94=E7=A9=B6=E6=88=90=E6=9E=9C200=E9=80=BE=E7=AF=87=
+=E3=80=82=0A          Keynote=E5=98=89=E5=AE=BE=EF=BC=9A=E7=8E=8B=E6=B0=
+=B8=E4=B8=9C =0A=E7=8E=8B=E6=B0=B8=E4=B8=9C=E5=8D=9A=E5=A3=AB=E7=8E=B0=
+=E4=BB=BB=E5=BE=AE=E8=BD=AF=E5=85=A8=E7=90=83=E8=B5=84=E6=B7=B1=E5=89=AF=
+=E6=80=BB=E8=A3=81=EF=BC=8C=E5=BE=AE=E8=BD=AF=EF=BC=88=E4=BA=9A=E6=B4=B2=
+=EF=BC=89=E4=BA=92=E8=81=94=E7=BD=91=E5=B7=A5=E7=A8=8B=E9=99=A2=E9=99=A2=
+=E9=95=BF=EF=BC=8C=E5=BE=AE=E8=BD=AF=E4=BA=9A=E5=A4=AA=E7=A0=94=E5=8F=91=
+=E9=9B=86=E5=9B=A2=E9=A6=96=E5=B8=AD=E6=8A=80=E6=9C=AF=E5=AE=98=E3=80=82=
+=E4=BB=96=E7=9A=84=E5=9B=A2=E9=98=9F=E7=9A=84=E7=A0=94=E5=8F=91=E5=B7=A5=
+=E4=BD=9C=E6=97=A2=E6=9C=89=E5=BE=AE=E8=BD=AF=E7=9A=84=E5=85=A8=E7=90=83=
+=E4=BA=A7=E5=93=81=EF=BC=8C=E4=B9=9F=E5=8C=85=E6=8B=AC=E4=BA=86=E4=BA=9A=
+=E5=A4=AA=E5=9C=B0=E5=8C=BA=E7=9A=84=E4=BA=92=E8=81=94=E7=BD=91=E4=BA=A7=
+=E5=93=81=E4=B8=8E=E6=9C=8D=E5=8A=A1=EF=BC=8C=E6=96=B9=E5=90=91=E4=B8=BB=
+=E8=A6=81=E6=B6=B5=E7=9B=96=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD,=0A=
+=E5=BF=85=E5=BA=94=EF=BC=88Bing=EF=BC=89=E6=90=9C=E7=B4=A2=E5=BC=95=
+=E6=93=8E, =E5=9C=A8=E7=BA=BF=E5=B9=BF=E5=91=8A=E6=8A=80=E6=9C=AF,=0A=
+=E8=AF=AD=E9=9F=B3=E5=8F=8A=E8=87=AA=E7=84=B6=E8=AF=AD=E8=A8=80=E5=A4=84=
+=E7=90=86=E6=8A=80=E6=9C=AF=EF=BC=8C=E7=A7=BB=E5=8A=A8=E4=BA=92=E8=81=94=
+=E7=BD=91,=0A=E4=BB=A5=E5=8F=8A=E5=BE=AE=E8=BD=AFOffice=E7=AD=89=E9=A2=
+=86=E5=9F=9F=EF=BC=8C=E5=B9=B6=E8=B4=9F=E8=B4=A3=E4=B8=BA=E9=9B=86=E5=9B=
+=A2=E8=AE=BE=E7=AB=8B=E6=8A=80=E6=9C=AF=E7=A0=94=E5=8F=91=E7=AD=96=E7=95=
+=A5=E3=80=81=E6=84=BF=E6=99=AF=E5=8F=8A=E6=95=B4=E4=BD=93=E6=96=B9=E5=90=
+=91=E3=80=82=0A          Keynote=E5=98=89=E5=AE=BE=EF=BC=9A=E8=A3=B4=
+=E5=81=A5 =0A=E8=A3=B4=E5=81=A5=E6=95=99=E6=8E=88=E4=BB=BB=E4=BA=AC=
+=E4=B8=9C=E9=9B=86=E5=9B=A2=E5=89=AF=E6=80=BB=E8=A3=81=EF=BC=8C=E8=B4=9F=
+=E8=B4=A3=E5=A4=A7=E6=95=B0=E6=8D=AE=E5=B9=B3=E5=8F=B0=E4=B8=8E=E4=BA=A7=
+=E5=93=81=E7=A0=94=E5=8F=91=E9=83=A8=E3=80=82=E5=9C=A8=E6=95=B0=E6=8D=AE=
+=E7=A7=91=E5=AD=A6=E3=80=81=E5=A4=A7=E6=95=B0=E6=8D=AE=E3=80=81=E6=95=B0=
+=E6=8D=AE=E6=8C=96=E6=8E=98=E5=92=8C=E6=95=B0=E6=8D=AE=E5=BA=93=E7=B3=BB=
+=E7=BB=9F=E7=AD=89=E9=A2=86=E5=9F=9F=EF=BC=8C=E6=98=AF=E4=B8=96=E7=95=8C=
+=E9=A2=86=E5=85=88=E7=9A=84=E7=A0=94=E7=A9=B6=E5=AD=A6=E8=80=85=EF=BC=8C=
+=E6=93=85=E9=95=BF=E4=B8=BA=E6=95=B0=E6=8D=AE=E5=AF=86=E9=9B=86=E5=9E=8B=
+=E5=BA=94=E7=94=A8=E8=AE=BE=E8=AE=A1=E5=BC=80=E5=8F=91=E5=88=9B=E6=96=B0=
+=E6=80=A7=E7=9A=84=E6=95=B0=E6=8D=AE=E4=B8=9A=E5=8A=A1=E4=BA=A7=E5=93=81=
+=E5=92=8C=E9=AB=98=E6=95=88=E7=9A=84=E6=95=B0=E6=8D=AE=E5=88=86=E6=9E=90=
+=E6=8A=80=E6=9C=AF=E3=80=82=E4=BB=96=E6=98=AF=E5=9B=BD=E9=99=85=E8=AE=A1=
+=E7=AE=97=E6=9C=BA=E5=8D=8F=E4=BC=9A=EF=BC=88ACM=EF=BC=89=E9=99=A2=E5=A3=
+=AB=E5=92=8C=E5=9B=BD=E9=99=85=E7=94=B5=E6=B0=94=E7=94=B5=E5=AD=90=E5=B7=
+=A5=E7=A8=8B=E5=B8=88=E5=8D=8F=E4=BC=9A=EF=BC=88IEEE=EF=BC=89=E9=99=A2=
+=E5=A3=AB=EF=BC=8CACM=0ASIGKDD=EF=BC=88=E6=95=B0=E6=8D=AE=E6=8C=96=E6=8E=
+=98=E5=8F=8A=E7=9F=A5=E8=AF=86=E5=8F=91=E7=8E=B0=E4=B8=93=E5=A7=94=E4=BC=
+=9A=EF=BC=89=E7=8E=B0=E4=BB=BB=E4=B8=BB=E5=B8=AD=E3=80=82=E8=A3=B4=E5=81=
+=A5=E5=8D=9A=E5=A3=AB=E6=98=AF=E5=AD=A6=E6=9C=AF=E7=95=8C=E8=A2=AB=E5=BC=
+=95=E7=94=A8=E6=AC=A1=E6=95=B0=E6=9C=80=E5=A4=9A=E7=9A=84=E4=BD=9C=E8=80=
+=85=E4=B9=8B=E4=B8=80=E3=80=82=0A          Keynote=E5=98=89=E5=AE=BE=
+=EF=BC=9A=E7=8E=8B=E5=B0=8F=E5=B7=9D =0A=E7=8E=8B=E5=B0=8F=E5=B7=9D=
+=E5=85=88=E7=94=9F=EF=BC=8C=E6=90=9C=E7=8B=97=E9=A6=96=E5=B8=AD=E6=89=A7=
+=E8=A1=8C=E5=AE=98=E3=80=81=E6=B8=85=E5=8D=8E=E5=A4=A7=E5=AD=A6=E5=A4=A9=
+=E5=B7=A5=E6=99=BA=E8=83=BD=E8=AE=A1=E7=AE=97=E7=A0=94=E7=A9=B6=E9=99=A2=
+=E8=81=94=E5=B8=AD=E9=99=A2=E9=95=BF=EF=BC=8C=E5=89=8D=E6=90=9C=E7=8B=90=
+=E9=AB=98=E7=BA=A7=E5=89=AF=E6=80=BB=E8=A3=81=E5=85=BCCTO=E3=80=822003=
+=E5=B9=B4=E4=BB=96=E5=88=9B=E5=BB=BA=E6=90=9C=E7=8B=90=E7=A0=94=E5=8F=91=
+=E4=B8=AD=E5=BF=83=EF=BC=8C=E5=85=88=E5=90=8E=E6=8E=A8=E5=87=BA=E4=BA=86=
+=E6=90=9C=E7=8B=97=E6=90=9C=E7=B4=A2=E3=80=81=E6=90=9C=E7=8B=97=E8=BE=93=
+=E5=85=A5=E6=B3=95=E3=80=81=E6=90=9C=E7=8B=97=E6=B5=8F=E8=A7=88=E5=99=A8=
+=E7=AD=89=E4=BA=A7=E5=93=81=EF=BC=8C=E9=A6=96=E5=88=9B=E2=80=9C=E8=BE=93=
+=E5=85=A5=E6=B3=95-=E6=B5=8F=E8=A7=88=E5=99=A8-=E6=90=9C=E7=B4=A2=E2=80=
+=9D=E4=B8=89=E7=BA=A7=E7=81=AB=E7=AE=AD=E6=A8=A1=E5=BC=8F=EF=BC=8C=E6=88=
+=90=E4=B8=BA=E8=A1=8C=E4=B8=9A=E8=BF=BD=E8=B5=B6=E8=80=85=E7=A0=B4=E5=B1=
+=80=E6=90=9C=E7=B4=A2=E7=9A=84=E5=94=AF=E4=B8=80=E6=88=90=E5=8A=9F=E6=A8=
+=A1=E5=BC=8F=E3=80=822013=E5=B9=B4=E4=B8=8E=E8=85=BE=E8=AE=AF=E4=B8=80=
+=E8=B5=B7=E6=8E=A8=E5=8A=A8=E6=90=9C=E7=8B=97=E5=90=88=E5=B9=B6=E6=90=9C=
+=E6=90=9C=EF=BC=8C=E6=88=90=E4=B8=BA=E7=BB=8F=E5=85=B8=E6=A1=88=E4=BE=8B=
+=EF=BC=8C=E8=85=BE=E8=AE=AF=E4=BB=A5=E6=AD=A4=E5=BC=80=E5=90=AF=E5=BC=80=
+=E6=94=BE=E6=88=98=E7=95=A5=EF=BC=8C=E5=AF=B9=E4=BA=92=E8=81=94=E7=BD=91=
+=E8=A1=8C=E4=B8=9A=E6=A0=BC=E5=B1=80=E5=B8=A6=E6=9D=A5=E9=87=8D=E5=A4=A7=
+=E5=BD=B1=E5=93=8D=E3=80=822017=E5=B9=B4=E4=BB=96=E5=B8=A6=E9=A2=86=
+=E6=90=9C=E7=8B=97=E5=9C=A8=E7=BE=8E=E5=9B=BD=E4=B8=8A=E5=B8=82=E3=80=82=0A=
+          =0A2018=E5=B9=B4=E5=85=A8=E7=90=83=E4=BA=BA=E5=B7=A5=E6=99=BA=
+=E8=83=BD=E6=8A=80=E6=9C=AF=E5=A4=A7=E4=BC=9A=EF=BC=88GAITC=EF=BC=89=
+=E5=B0=86=E4=BA=8E2018=E5=B9=B45=E6=9C=8819-20=E6=97=A5=E5=9C=A8=E5=8C=
+=97=E4=BA=AC=E5=9B=BD=E5=AE=B6=E4=BC=9A=E8=AE=AE=E4=B8=AD=E5=BF=83=E5=8F=
+=AC=E5=BC=80=EF=BC=8C=E5=A4=A7=E4=BC=9A=E4=B8=BB=E9=A2=98=EF=BC=9A=E4=BA=
+=A4=E5=8F=89=E3=80=81=E8=9E=8D=E5=90=88=E3=80=81=E7=9B=B8=E7=94=9F=E3=80=
+=81=E5=85=B1=E8=B5=A2=EF=BC=8C=E5=9B=A2=E8=B4=AD5=E5=BC=A0=E4=BB=A5=
+=E4=B8=8A=E7=AB=8B=E5=87=8F1000=E5=85=83=EF=BC=8C=E6=95=B0=E9=87=8F=
+=E6=9C=89=E9=99=90=EF=BC=8C=E6=AC=B2=E8=B4=AD=E4=BB=8E=E9=80=9F=EF=BC=8C=
+=E5=AE=98=E7=BD=91=E7=82=B9=E5=87=BB=E8=BF=99=E9=87=8C=E3=80=82=0A        =
+=E7=AB=8B=E5=8D=B3=E6=8A=A5=E5=90=8D                    =20
+
+
+--b1_eab00e13fa1f56242c7ddcc635a71a26
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BF<html><head></head><body><!-- saved from url=3D(0077)http://mailer=
+.infoq.com/admin/index.php -->  <meta content=3D"IE=3D5.0000" http-equiv=3D=
+"X-UA-Compatible" /> <meta http-equiv=3D"Content-Type" content=3D"text/html=
+; charset=3Dutf-8" /> <meta name=3D"GENERATOR" content=3D"MSHTML 11.00.9600=
+.17105" /> <table width=3D"678" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" bgcolor=3D"#fff"> <tbody> <tr> <td align=3D"center"=
+ style=3D"font-size: 14px; padding: 30px 0 21px; color: #333333; font-famil=
+y: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-ser=
+if;">=E5=A6=82=E6=9E=9C=E9=82=AE=E4=BB=B6=E4=B8=AD=E4=B8=8D=E8=83=BD=
+=E6=AD=A3=E5=B8=B8=E6=98=BE=E7=A4=BA=EF=BC=8C=E8=AF=B7<a href=3D"http://sub=
+tracker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzE=
+yMjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D=
+11ee9bcafd55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D=
+"_blank" style=3D"color: #cc0000; text-decoration: none;">=E7=82=B9=
+=E5=87=BB=E6=AD=A4=E5=A4=84=E6=9F=A5=E7=9C=8B</a></td> </tr> </tbody> </tab=
+le> <table width=3D"678" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" a=
+lign=3D"center"> <tbody> <tr> <td style=3D"padding: 0px;"><a href=3D"http:/=
+/subtracker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW5=
+0LzEyMjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&=
+i=3D11ee9bcafd55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" targe=
+t=3D"_blank"><img src=3D"https://static.oschina.net/uploads/space/2018/0408=
+/180009_hP8z_2982602.jpg" width=3D"678" height=3D"213" style=3D"border: 0px=
+;" border=3D"0" /></a></td> </tr> </tbody> </table> <table width=3D"678" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"=
+#ffffff" style=3D"font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=
+=E5=AE=8B=E4=BD=93,Arial,sans-serif;"> <tbody> <tr> <td width=3D"20" height=
+=3D"20" colspan=3D"3"></td> </tr> <!--<tr> <td width=3D"48" height=3D"23"><=
+img src=3D"http://infoqstatic.b0.upaiyun.com/img/20150610/QConEDM2.png" /><=
+/td> <td height=3D"23" valign=3D"bottom" style=3D"color: #000000; font-size=
+: 23px; font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=
+=E4=BD=93,Arial,sans-serif;"><strong>=E5=8D=B7=E9=A6=96=E8=AF=AD</strong></=
+td> <td width=3D"20"></td> </tr> <tr> <td width=3D"20" height=3D"20" colspa=
+n=3D"3"></td> </tr>--> <tr> <td width=3D"20"></td> <td valign=3D"top" style=
+=3D"font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=
+=93,Arial,sans-serif; font-size: 14px; color: #333333; line-height: 24px;">=
+=E6=97=B6=E4=BB=A3=E7=9A=84=E6=BD=AE=E6=B5=81=E6=B5=A9=E6=B5=A9=E8=8D=A1=
+=E8=8D=A1=EF=BC=8C=E4=B8=8A=E5=8D=87=E5=88=B0=E5=9B=BD=E5=AE=B6=E5=8F=91=
+=E5=B1=95=E6=88=98=E7=95=A5=E4=B8=8E=E5=9F=BA=E7=A1=80=E8=AE=BE=E6=96=BD=
+=E7=9A=84=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=EF=BC=8C=E6=AD=A3=E4=BB=A5=
+=E4=B8=8D=E5=8F=AF=E6=80=9D=E8=AE=AE=E7=9A=84=E9=80=9F=E5=BA=A6=E5=8D=A0=
+=E6=8D=AE=E7=9D=80=E6=88=91=E4=BB=AC=E7=94=9F=E6=B4=BB=E7=9A=84=E5=A4=B4=
+=E6=9D=A1=E3=80=82=E5=A6=82=E6=9E=9C=E8=AF=B42017=E5=B9=B4=E5=AE=A3=
+=E5=91=8A=E4=BA=86=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E6=8E=A5=E6=A3=92=
+=E6=97=B6=E4=BB=A3=E8=84=89=E6=90=8F=EF=BC=8C=E9=82=A3=E4=B9=882018=
+=E5=B9=B4=E7=9A=84=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E5=B0=86=E4=BD=9C=
+=E4=B8=BA=E9=A2=A0=E8=A6=86=E6=80=A7=E5=8F=98=E9=9D=A9=E5=8A=9B=E9=87=8F=
+=E8=BF=AD=E4=BB=A3=E4=B8=96=E7=95=8C=E6=9C=BA=E5=99=A8=E7=9A=84=E8=BF=90=
+=E4=BD=9C=E3=80=82<br>=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E6=AD=A3=
+=E5=8A=A0=E5=BF=AB=E4=B8=8E=E7=BB=8F=E6=B5=8E=E7=A4=BE=E4=BC=9A=E5=90=84=
+=E9=A2=86=E5=9F=9F=E6=B8=97=E9=80=8F=E8=9E=8D=E5=90=88=EF=BC=8C=E5=88=9B=
+=E9=80=A0=E6=96=B0=E4=BB=B7=E5=80=BC=E7=9A=84=E8=BF=87=E7=A8=8B=E6=AD=A3=
+=E5=9C=A8=E5=8F=91=E7=94=9F=E6=94=B9=E5=8F=98=EF=BC=8C=E4=BA=A7=E4=B8=9A=
+=E9=93=BE=E5=88=86=E5=B7=A5=E5=B0=86=E8=A2=AB=E9=87=8D=E7=BB=84=E3=80=82201=
+8 GAITC=E7=9B=9B=E4=BC=9A=E4=B9=8B=E9=99=85=EF=BC=8CCAAI=E7=90=86=E4=BA=
+=8B=E9=95=BF=E3=80=81=E4=B8=AD=E5=9B=BD=E5=B7=A5=E7=A8=8B=E9=99=A2=E6=9D=
+=8E=E5=BE=B7=E6=AF=85=E9=99=A2=E5=A3=AB=E4=B8=8E=E5=9B=BE=E7=81=B5=E5=A5=
+=96=E5=BE=97=E4=B8=BB=E3=80=81=E4=B8=AD=E5=9B=BD=E7=A7=91=E5=AD=A6=E9=99=
+=A2=E5=A7=9A=E6=9C=9F=E6=99=BA=E9=99=A2=E5=A3=AB=E3=80=81=E6=AC=A7=E6=B4=
+=B2=E7=A7=91=E5=AD=A6=E9=99=A2=E9=99=A2=E5=A3=AB=E6=B1=89=E6=96=AF=E2=80=
+=A2=E4=B9=8C=E6=80=9D=E5=85=8B=E5=B0=94=E7=89=B9=E9=A2=86=E8=A1=94=E6=9C=
+=AC=E6=AC=A1=E5=A4=A7=E4=BC=9A=EF=BC=8C=E5=B8=A6=E9=A2=86=E5=A4=A7=E5=AE=
+=B6=E4=BB=A5=E7=A7=91=E6=8A=80=E5=B7=A8=E5=8C=A0=E7=9A=84=E8=A7=86=E8=A7=
+=92=EF=BC=8C=E8=BF=9B=E4=B8=80=E6=AD=A5=E8=A7=A3=E6=9E=90=E4=BA=BA=E5=B7=
+=A5=E6=99=BA=E8=83=BD=E4=B9=8B=E4=BA=8E=E4=BA=BA=E7=B1=BB=E5=8F=91=E5=B1=
+=95=E7=9A=84=E6=96=B0=E5=9F=BA=E8=B0=83=E3=80=82<br> =E4=B8=8D=E4=BB=85=
+=E4=B8=A4=E9=99=A2=E9=99=A2=E5=A3=AB=E9=A2=86=E8=A1=94=EF=BC=8C=E6=9B=B4=
+=E8=81=94=E8=A2=82=E5=9B=BD=E9=99=85AI=E5=B7=A8=E5=8C=A0=E3=80=82 =E6=80=
+=80=E7=9D=80=E5=90=8C=E6=A0=B7=E5=88=A9=E7=94=A8=E4=BA=BA=E5=B7=A5=E6=99=
+=BA=E8=83=BD=E6=9C=8D=E5=8A=A1=E4=BA=BA=E7=B1=BB=E7=A4=BE=E4=BC=9A=E7=9A=
+=84=E5=88=9D=E5=BF=83=EF=BC=8C=E8=BF=99=E6=AC=A1=E5=85=A8=E7=90=83=E4=BA=
+=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E6=8A=80=E6=9C=AF=E5=A4=A7=E4=BC=9A=E5=B0=
+=86=E4=B8=BB=E5=8A=A8=E6=8B=A5=E6=8A=B1=E5=85=A8=E4=B8=96=E7=95=8C=EF=BC=
+=8C=E9=82=80=E8=AF=B7=E6=9D=A5=E8=87=AA=E7=BE=8E=E5=9B=BD=E3=80=81=E5=BE=
+=B7=E5=9B=BD=E3=80=81=E8=8B=B1=E5=9B=BD=E3=80=81=E8=A5=BF=E7=8F=AD=E7=89=
+=99=E3=80=81=E6=84=8F=E5=A4=A7=E5=88=A9=E3=80=81=E6=96=B0=E8=A5=BF=E5=85=
+=B0=E7=AD=89=E5=8D=81=E4=BD=99=E5=9B=BDAI=E7=B2=BE=E8=8B=B1=E4=BB=A3=
+=E8=A1=A8=EF=BC=8C=E5=81=95=E5=90=8C=E8=87=AA=E8=BA=AB=E9=A2=86=E5=9F=9F=
+=E7=9A=84=E7=A0=94=E7=A9=B6=E6=88=90=E6=9E=9C=E4=B8=8E=E6=88=90=E5=93=81=
+=E5=AE=9E=E8=B7=B5=E8=8E=85=E4=B8=B4=E6=9C=AC=E6=AC=A1=E5=A4=A7=E4=BC=9A=
+=E3=80=82=E5=90=8C=E6=97=B6=EF=BC=8C=E6=9D=A5=E8=87=AA=E5=93=88=E4=BD=9B=
+=E5=A4=A7=E5=AD=A6=E3=80=81=E5=8D=A1=E5=86=85=E5=9F=BA=E6=A2=85=E9=9A=86=
+=E5=A4=A7=E5=AD=A6=E3=80=81=E8=80=B6=E9=B2=81=E5=A4=A7=E5=AD=A6=E3=80=81=
+=E7=89=9B=E6=B4=A5=E5=A4=A7=E5=AD=A6=E3=80=81=E5=89=91=E6=A1=A5=E5=A4=A7=
+=E5=AD=A6=E3=80=81=E9=A9=AC=E5=BE=B7=E9=87=8C=E7=90=86=E5=B7=A5=E5=A4=A7=
+=E5=AD=A6=E7=AD=89=E5=9B=BD=E9=99=85=E5=AD=A6=E6=9C=AF=E6=9C=BA=E6=9E=84=
+=E9=A2=86=E8=88=AA=E8=80=85=E5=B0=86=E6=82=89=E6=95=B0=E6=9D=A5=E5=88=B0=
+=EF=BC=8C=E5=B9=B6=E5=B8=A6=E6=9D=A5=E8=AF=AD=E4=B9=89=E7=BF=BB=E8=AF=91=
+=E3=80=81=E7=9F=A5=E8=AF=86=E5=9B=BE=E8=B0=B1=E3=80=81=E6=9C=BA=E5=99=A8=
+=E5=AD=A6=E4=B9=A0=E7=AD=89=E6=96=B9=E9=9D=A2=E5=89=8D=E6=B2=BF=E7=A0=94=
+=E7=A9=B6=E6=88=90=E6=9E=9C=EF=BC=8C=E9=80=9A=E8=BF=87=E6=B7=B1=E5=BA=A6=
+=E7=9A=84=E6=88=90=E6=9E=9C=E5=B1=95=E7=A4=BA=E3=80=81=E5=AD=A6=E6=9C=AF=
+=E4=BA=A4=E6=B5=81=E3=80=81=E8=A7=82=E7=82=B9=E7=A2=B0=E6=92=9E=EF=BC=8C=
+=E8=BF=9B=E4=B8=80=E6=AD=A5=E6=8C=96=E6=8E=98=E4=BA=BA=E5=B7=A5=E6=99=BA=
+=E8=83=BD=E6=96=B0=E4=BB=B7=E5=80=BC=E3=80=82<br>  <a href=3D"http://subtra=
+cker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMj=
+c0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11e=
+e9bcafd55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"_b=
+lank" style=3D"text-decoration: none; color: #333333;"><span style=3D"color=
+: #2a6bad; text-decoration: none; font-size: 14px; line-height: 24px; font-=
+family: Arial, Helvetica, sans-serif;"><b>2018=E5=B9=B4=E5=85=A8=E7=90=
+=83=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E6=8A=80=E6=9C=AF=E5=A4=A7=E4=BC=
+=9A</b></span><span style=3D"color: #9900CC; text-decoration: none; font-si=
+ze: 14px; line-height: 24px; font-family: Arial, Helvetica, sans-serif;"><b=
+>=EF=BC=88GAITC=EF=BC=89</b></span></a>=E5=B0=86=E4=BA=8E5=E6=9C=8819-20=
+=E6=97=A5=E5=9C=A8=E5=8C=97=E4=BA=AC=E5=9B=BD=E5=AE=B6=E4=BC=9A=E8=AE=AE=
+=E4=B8=AD=E5=BF=83=E4=B8=BE=E8=A1=8C=E3=80=82=E5=A4=A7=E4=BC=9A=E4=BB=A5=
+=E2=80=9C=E4=BA=A4=E5=8F=89=E3=80=81=E8=9E=8D=E5=90=88=E3=80=81=E7=9B=B8=
+=E7=94=9F=E3=80=81=E5=85=B1=E8=B5=A2=E2=80=9D=E4=B8=BA=E4=B8=BB=E9=A2=98=
+=EF=BC=8C=E5=B0=86=E7=BB=A7=E7=BB=AD=E6=89=BF=E6=8B=85=E8=B5=B7=E5=B8=A6=
+=E9=A2=86=E4=BA=BA=E7=B1=BB=E6=8A=8A=E8=84=89AI=E6=97=B6=E4=BB=A3=E8=84=
+=89=E6=90=8F=E7=9A=84=E5=8E=86=E5=8F=B2=E9=87=8D=E4=BB=BB=EF=BC=8C=E5=B9=
+=B6=E5=B0=B1AI=E6=8A=80=E6=9C=AF=E7=9A=84=E6=9C=80=E6=96=B0=E7=A0=94=
+=E7=A9=B6=E3=80=81=E6=9C=80=E4=B8=BA=E5=85=A8=E9=9D=A2=E7=9A=84=E5=95=86=
+=E4=B8=9A=E5=8C=96=E8=83=BD=E5=8A=9B=E3=80=81=E6=9C=80=E5=85=B7=E4=BB=A3=
+=E8=A1=A8=E6=80=A7=E7=9A=84=E7=A7=91=E7=A0=94=E6=88=90=E6=9E=9C=EF=BC=8C=
+=E4=B8=8E=E6=82=A8=E5=85=B1=E5=90=8C=E7=BB=98=E5=88=B6=E5=87=BA=E6=9C=80=
+=E4=B8=BA=E6=B8=85=E6=99=B0=E7=9A=84AI=E6=96=B0=E6=97=B6=E4=BB=A3=E7=89=
+=88=E5=9B=BE=E3=80=82<span style=3D"color:#FF0000; font-size: 16px;"><b>=
+=E5=9B=A2=E8=B4=AD5=E5=BC=A0=E4=BB=A5=E4=B8=8A=E7=AB=8B=E5=87=8F1000=
+=E5=85=83</b></span>=EF=BC=8C=E6=95=B0=E9=87=8F=E6=9C=89=E9=99=90=EF=BC=
+=8C=E6=AC=B2=E8=B4=AD=E4=BB=8E=E9=80=9F=EF=BC=8C <a href=3D"http://subtrack=
+er.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0=
+NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11ee9=
+bcafd55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"_bla=
+nk" style=3D"text-decoration: none; color: #245c9f;"><b>=E5=AE=98=E7=BD=
+=91=E7=82=B9=E5=87=BB=E8=BF=99=E9=87=8C</b></a>=E3=80=82</td> <td width=3D"=
+20"></td> </tr> <tr> <td width=3D"20" height=3D"20" colspan=3D"3"></td> </t=
+r> </tbody> </table> <!--<table width=3D"678" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" bgcolor=3D"#ffffff" style=3D"font-fami=
+ly: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-se=
+rif;"> <tbody> <tr> <td width=3D"48" height=3D"23"><img src=3D"http://infoq=
+static.b0.upaiyun.com/img/20150610/QConEDM2.png" /></td> <td height=3D"23" =
+valign=3D"bottom" style=3D"color: #000000; font-size: 23px; font-family: '=
+=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;"=
+><strong>=E4=B8=93=E9=A2=98=E4=BB=8B=E7=BB=8D</strong></td> <td width=3D"20=
+"></td> </tr> <tr> <td width=3D"20" height=3D"20" colspan=3D"3"></td> </tr>=
+ </tbody> </table> <table width=3D"678" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" align=3D"center" bgcolor=3D"#ffffff"> <tbody> <tr> <td width=
+=3D"20"></td> <td width=3D"660"> <table width=3D"100%" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"font-family: '=
+=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif; =
+font-size: 12px;"> <tbody> <tr> <td width=3D"50%" height=3D"30" align=3D"ce=
+nter" valign=3D"middle" style=3D"font-size: 14px; border-right: solid 2px #=
+245c9f;"><a href=3D"http://2015.qconshanghai.com/track/2517" target=3D"_bla=
+nk" style=3D"text-decoration: none; color: #245c9f; font-family: '=E5=BE=
+=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=
+=E5=9F=BA=E4=BA=8E=E5=A4=A7=E6=95=B0=E6=8D=AE=E7=9A=84=E6=9C=BA=E5=99=A8=
+=E5=AD=A6=E4=B9=A0=E6=8A=80=E6=9C=AF </a></td> <td width=3D"50%" align=3D"c=
+enter" valign=3D"middle" style=3D"font-size: 14px; color: #245c9f;"><a href=
+=3D"http://2015.qconshanghai.com/track/2519" target=3D"_blank" style=3D"tex=
+t-decoration: none; color: #245c9f; font-family: '=E5=BE=AE=E8=BD=AF=
+=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=E5=AE=89=
+=E5=85=A8=E4=B8=8E=E9=A3=8E=E6=8E=A7</a></td> </tr> <tr> <td width=3D"50%" =
+height=3D"30" align=3D"center" valign=3D"middle" style=3D"font-size: 14px; =
+border-right: solid 2px #245c9f;"><a href=3D"http://2015.qconshanghai.com/t=
+rack/2520" target=3D"_blank" style=3D"text-decoration: none; color: #245c9f=
+; font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Ar=
+ial,sans-serif;">=E6=8A=80=E6=9C=AF=E5=88=9B=E4=B8=9A</a></td> <td width=3D=
+"50%" align=3D"center" valign=3D"middle" style=3D"font-size: 14px;"><a href=
+=3D"http://2015.qconshanghai.com/track/2524" target=3D"_blank" style=3D"tex=
+t-decoration: none; color: #245c9f; font-family: '=E5=BE=AE=E8=BD=AF=
+=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=E5=BC=80=
+=E6=BA=90=E6=96=87=E5=8C=96=E9=9D=A2=E9=9D=A2=E8=A7=82</a></td> </tr> <tr> =
+<td width=3D"50%" height=3D"30" align=3D"center" valign=3D"middle" style=3D=
+"font-size: 14px; border-right: solid 2px #245c9f;"><a href=3D"http://2015.=
+qconshanghai.com/track/2518" target=3D"_blank" style=3D"text-decoration: no=
+ne; color: #245c9f; font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=
+=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=E5=BB=BA=E8=AE=BE=E9=AB=98=E6=95=
+=88=E5=9B=A2=E9=98=9F</a></td> <td width=3D"50%" align=3D"center" valign=3D=
+"middle" style=3D"font-size: 14px; color: #1e1e1e;"><a href=3D"http://2015.=
+qconshanghai.com/track/2515" target=3D"_blank" style=3D"text-decoration: no=
+ne; color: #245c9f; font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=
+=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=E8=BF=90=E7=BB=B4=E4=B9=8B=E7=97=
+=9B</a></td> </tr> <tr> <td width=3D"50%" height=3D"30" align=3D"center" va=
+lign=3D"middle" style=3D"font-size: 14px; border-right: solid 2px #245c9f;"=
+><a href=3D"http://2015.qconshanghai.com/track/2509" target=3D"_blank" styl=
+e=3D"text-decoration: none; color: #245c9f; font-family: '=E5=BE=AE=
+=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=
+=E5=AE=B9=E5=99=A8=E4=B8=8E=E4=BA=91=E8=AE=A1=E7=AE=97 </a></td> <td width=
+=3D"50%" align=3D"center" valign=3D"middle" style=3D"font-size: 14px;"><a h=
+ref=3D"http://2015.qconshanghai.com/track/2504" target=3D"_blank" style=3D"=
+text-decoration: none; color: #245c9f; font-family: '=E5=BE=AE=E8=BD=AF=
+=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=E7=A7=BB=
+=E5=8A=A8=E5=BC=80=E5=8F=91=E6=96=B0=E8=B6=8B=E5=8A=BF</a></td> </tr> <tr> =
+<td width=3D"50%" height=3D"30" align=3D"center" valign=3D"middle" style=3D=
+"font-size: 14px; border-right: solid 2px #245c9f;"><a href=3D"http://2015.=
+qconshanghai.com/track/2514" target=3D"_blank" style=3D"text-decoration: no=
+ne; color: #245c9f; font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=
+=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=E5=8F=AF=E6=89=A9=E5=B1=95=E3=80=
+=81=E9=AB=98=E5=8F=AF=E7=94=A8=E6=9E=B6=E6=9E=84</a></td> <td width=3D"50%"=
+ align=3D"center" valign=3D"middle" style=3D"font-size: 14px; color: #1e1e1=
+e;"><a href=3D"http://2015.qconshanghai.com/track/2511" target=3D"_blank" s=
+tyle=3D"text-decoration: none; color: #245c9f; font-family: '=E5=BE=AE=
+=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=
+=E6=96=B0=E5=85=B4=E5=A4=A7=E6=95=B0=E6=8D=AE=E5=A4=84=E7=90=86</a></td> </=
+tr> <tr> <td width=3D"50%" height=3D"30" align=3D"center" valign=3D"middle"=
+ style=3D"font-size: 14px; border-right: solid 2px #245c9f;"><a href=3D"htt=
+p://2015.qconshanghai.com/track/2513" target=3D"_blank" style=3D"text-decor=
+ation: none; color: #245c9f; font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=
+=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=E4=BA=92=E8=81=94=
+=E7=BD=91=E4=BA=A7=E5=93=81=E6=A1=88=E4=BE=8B=E7=A0=94=E7=A9=B6</a></td> <t=
+d width=3D"50%" align=3D"center" valign=3D"middle" style=3D"font-size: 14px=
+;"><a href=3D"http://2015.qconshanghai.com/track/2510" target=3D"_blank" st=
+yle=3D"text-decoration: none; color: #245c9f; font-family: '=E5=BE=AE=
+=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=
+=E6=96=B0=E6=97=B6=E4=BB=A3=E7=9A=84=E5=89=8D=E7=AB=AF</a></td> </tr> <tr> =
+<td width=3D"50%" height=3D"30" align=3D"center" valign=3D"middle" style=3D=
+"font-size: 14px; border-right: solid 2px #245c9f;"><a href=3D"http://2015.=
+qconshanghai.com/track/2516" target=3D"_blank" style=3D"text-decoration: no=
+ne; color: #245c9f; font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=
+=E5=AE=8B=E4=BD=93,Arial,sans-serif;">Java=E9=97=AE=E9=A2=98=E8=AF=8A=
+=E6=96=AD=E4=B8=8E=E6=80=A7=E8=83=BD=E4=BC=98=E5=8C=96=E5=AE=9E=E8=B7=B5</a=
+></td> <td width=3D"50%" align=3D"center" valign=3D"middle" style=3D"font-s=
+ize: 14px; color: #1e1e1e;"><a href=3D"http://2015.qconshanghai.com/track/2=
+512" target=3D"_blank" style=3D"text-decoration: none; color: #245c9f; font=
+-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sa=
+ns-serif;">=E5=A4=A7=E8=A7=84=E6=A8=A1=E8=BD=AF=E4=BB=B6=E6=8C=81=E7=BB=
+=AD=E4=BA=A4=E4=BB=98=E4=B8=8E=E6=94=B9=E8=BF=9B </a></td> </tr> <tr> <td w=
+idth=3D"50%" height=3D"30" align=3D"center" valign=3D"middle" style=3D"font=
+-size: 14px; border-right: solid 2px #245c9f;"><a href=3D"http://2015.qcons=
+hanghai.com/track/2523" target=3D"_blank" style=3D"text-decoration: none; c=
+olor: #245c9f; font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=
+=E5=AE=8B=E4=BD=93,Arial,sans-serif;">=E6=96=B0=E8=AF=AD=E8=A8=80=E4=B8=
+=8E=E6=96=B0=E5=8F=91=E5=B1=95</a></td> <td width=3D"50%" align=3D"center" =
+valign=3D"middle" style=3D"font-size: 14px;"><a target=3D"_blank"></a></td>=
+ </tr> </tbody> </table> </td> <td width=3D"20"></td> </tr> </tbody> </tabl=
+e>-->  <!--<table width=3D"678" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" bgcolor=3D"#ffffff" style=3D"font-family: '=
+=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;"=
+> <tbody> <tr> <td width=3D"20" height=3D"20" colspan=3D"3"></td> </tr> <tr=
+> <td width=3D"48" height=3D"23"><img src=3D"http://infoqstatic.b0.upaiyun.=
+com/img/20150610/QConEDM2.png" /></td> <td style=3D"color: #000000; line-he=
+ight: 23px; font-size: 23px; font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=
+=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif;"><strong>=E9=83=A8=E5=88=
+=86=E8=AE=B2=E5=B8=88=E5=8F=8A=E8=AE=AE=E9=A2=98</strong></td> <td width=3D=
+"20"></td> </tr> <tr> <td width=3D"20" height=3D"20" colspan=3D"3"></td> </=
+tr> </tbody> </table>--> <table width=3D"678" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" bgcolor=3D"#ffffff" style=3D"font-fami=
+ly: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-se=
+rif;"> <tbody> <tr> <td width=3D"20"></td> <td width=3D"160" valign=3D"top"=
+><a href=3D"http://subtracker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZ=
+XZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c=
+5070fada29f1f1ef5&i=3D11ee9bcafd55ea7a73375f2ecd1678343509e524165fd0af3d601=
+dbc958b97e7" target=3D"_blank"><img src=3D"https://static.oschina.net/uploa=
+ds/space/2018/0408/180411_1haw_2982602.png" width=3D"160" height=3D"160" al=
+t=3D"img" /></a></td> <td width=3D"20"></td> <td width=3D"477" valign=3D"to=
+p" style=3D"font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=
+=8B=E4=BD=93,Arial,sans-serif; line-height: 25px; font-size: 16px; color: #=
+000000;"><a href=3D"http://subtracker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d=
+3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff1=
+4460fc1c5070fada29f1f1ef5&i=3D11ee9bcafd55ea7a73375f2ecd1678343509e524165fd=
+0af3d601dbc958b97e7" target=3D"_blank" style=3D"text-decoration: none; colo=
+r:  #9900CC;"><strong>Keynote=E5=98=89=E5=AE=BE=EF=BC=9A=E6=9D=8E=E5=BE=
+=B7=E6=AF=85</strong></a>    <p style=3D"line-height: 20px; font-size: 14px=
+; color: #666666;">=E6=9D=8E=E5=BE=B7=E6=AF=85=EF=BC=8C=E7=8E=B0=E4=BB=
+=BB=E4=B8=AD=E5=9B=BD=E5=B7=A5=E7=A8=8B=E9=99=A2=E9=99=A2=E5=A3=AB=E3=80=
+=81=E6=AC=A7=E4=BA=9A=E7=A7=91=E5=AD=A6=E9=99=A2=E9=99=A2=E5=A3=AB=EF=BC=
+=8C=E5=8C=97=E4=BA=AC=E8=81=94=E5=90=88=E5=A4=A7=E5=AD=A6=E6=9C=BA=E5=99=
+=A8=E4=BA=BA=E5=AD=A6=E9=99=A2=E9=99=A2=E9=95=BF=EF=BC=8CCAAI=E7=90=86=
+=E4=BA=8B=E9=95=BF=EF=BC=8C=E4=B8=AD=E5=9B=BD=E4=BA=91=E8=AE=A1=E7=AE=97=
+=E4=B8=93=E5=AE=B6=E5=A7=94=E5=91=98=E4=BC=9A=E4=B8=BB=E4=BB=BB=EF=BC=8C=
+=E6=B8=85=E5=8D=8E=E5=A4=A7=E5=AD=A6=E3=80=81=E5=9B=BD=E9=98=B2=E5=A4=A7=
+=E5=AD=A6=E5=85=BC=E8=81=8C=E6=95=99=E6=8E=88=EF=BC=8C=E5=8D=9A=E5=A3=AB=
+=E7=94=9F=E5=AF=BC=E5=B8=88=E3=80=82=E6=9D=8E=E5=BE=B7=E6=AF=85=E9=99=A2=
+=E5=A3=AB=E9=95=BF=E6=9C=9F=E4=BB=8E=E4=BA=8B=E8=AE=A1=E7=AE=97=E6=9C=BA=
+=E5=B7=A5=E7=A8=8B=E3=80=81=E4=B8=8D=E7=A1=AE=E5=AE=9A=E6=80=A7=E4=BA=BA=
+=E5=B7=A5=E6=99=BA=E8=83=BD=E3=80=81=E5=A4=A7=E6=95=B0=E6=8D=AE=E5=92=8C=
+=E6=99=BA=E8=83=BD=E9=A9=BE=E9=A9=B6=E9=A2=86=E5=9F=9F=E7=A0=94=E7=A9=B6=
+=EF=BC=8C=E6=9C=80=E6=97=A9=E6=8F=90=E5=87=BA=E2=80=9C=E6=8E=A7=E5=88=B6=
+=E6=B5=81=E2=80=94=E6=95=B0=E6=8D=AE=E6=B5=81=E2=80=9D=E5=9B=BE=E5=AF=B9=
+=E7=90=86=E8=AE=BA=EF=BC=8C=E8=AF=81=E6=98=8E=E4=BA=86=E5=85=B3=E7=B3=BB=
+=E6=95=B0=E6=8D=AE=E5=BA=93=E6=A8=A1=E5=BC=8F=E5=92=8C=E8=B0=93=E8=AF=8D=
+=E9=80=BB=E8=BE=91=E7=9A=84=E5=AF=B9=E7=AD=89=E6=80=A7=EF=BC=8C=E8=8E=B7=
+=E5=BE=97IEE=E6=9C=9F=E5=88=8A=E5=B9=B4=E5=BA=A6=E6=9C=80=E4=BD=B3=E8=AE=
+=BA=E6=96=87=E5=A5=96=E3=80=82</p></td> <td width=3D"23"></td> </tr> <tr> <=
+td width=3D"100%" height=3D"20" colspan=3D"5"></td> </tr>  <tr> <td width=
+=3D"20"></td> <td width=3D"160" valign=3D"top"><a href=3D"http://subtracker=
+.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0Nj=
+Q/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11ee9bc=
+afd55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"_blank=
+"><img src=3D"https://static.oschina.net/uploads/space/2018/0408/180441_5BT=
+T_2982602.png" width=3D"160" height=3D"160" alt=3D"img" /></a></td> <td wid=
+th=3D"20"></td> <td width=3D"477" valign=3D"top" style=3D"font-family: '=
+=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif; =
+line-height: 25px; font-size: 16px; color: #000000;"><a href=3D"http://subt=
+racker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEy=
+Mjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D1=
+1ee9bcafd55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"=
+_blank" style=3D"text-decoration: none; color:  #9900CC;"><strong>Keynote=
+=E5=98=89=E5=AE=BE=EF=BC=9A=E5=A7=9A=E6=9C=9F=E6=99=BA</strong></a>  <p sty=
+le=3D"line-height: 20px; font-size: 14px; color: #666666;">=E5=A7=9A=
+=E6=9C=9F=E6=99=BA=E6=95=99=E6=8E=88=EF=BC=8C2000=E5=B9=B4=E5=9B=BE=
+=E7=81=B5=E5=A5=96=E5=BE=97=E4=B8=BB=EF=BC=8C=E4=B8=AD=E5=9B=BD=E7=A7=91=
+=E5=AD=A6=E9=99=A2=E9=99=A2=E5=A3=AB=E3=80=81=E7=BE=8E=E5=9B=BD=E7=A7=91=
+=E5=AD=A6=E9=99=A2=E5=A4=96=E7=B1=8D=E9=99=A2=E5=A3=AB=EF=BC=8C=E6=B8=85=
+=E5=8D=8E=E5=A4=A7=E5=AD=A6=E4=BA=A4=E5=8F=89=E4=BF=A1=E6=81=AF=E7=A0=94=
+=E7=A9=B6=E9=99=A2=E9=99=A2=E9=95=BF=E3=80=82=E8=8E=B7=E5=93=88=E4=BD=9B=
+=E5=A4=A7=E5=AD=A6=E7=89=A9=E7=90=86=E5=AD=A6=E5=8D=9A=E5=A3=AB=E5=92=8C=
+=E4=BC=8A=E5=88=A9=E8=AF=BA=E4=BC=8A=E5=A4=A7=E5=AD=A6=E8=AE=A1=E7=AE=97=
+=E6=9C=BA=E7=A7=91=E5=AD=A6=E5=8D=9A=E5=A3=AB=E3=80=82=E6=9B=BE=E4=BB=BB=
+=E6=95=99=E4=BA=8E=E7=BE=8E=E5=9B=BD=E9=BA=BB=E7=9C=81=E7=90=86=E5=B7=A5=
+=E5=AD=A6=E9=99=A2=E3=80=81=E6=96=AF=E5=9D=A6=E7=A6=8F=E5=A4=A7=E5=AD=A6=
+=E3=80=81=E5=8A=A0=E5=B7=9E=E5=A4=A7=E5=AD=A6=E4=BC=AF=E5=85=8B=E5=88=A9=
+=E5=88=86=E6=A0=A1=E3=80=81=E4=BB=A5=E5=8F=8A=E6=99=AE=E6=9E=97=E6=96=AF=
+=E9=A1=BF=E5=A4=A7=E5=AD=A6=E3=80=82=E4=BB=8E2004=E5=B9=B4=E8=B5=B7=
+=EF=BC=8C=E4=BB=BB=E8=81=8C=E4=BA=8E=E5=8C=97=E4=BA=AC=E6=B8=85=E5=8D=8E=
+=E5=A4=A7=E5=AD=A6=EF=BC=8C=E5=BC=80=E5=B1=95=E6=9C=AC=E7=A7=91=E7=94=9F=
+=E7=B2=BE=E8=8B=B1=E8=AE=A1=E5=88=92=EF=BC=88=E4=BF=97=E7=A7=B0=E4=B8=BA=
+=E2=80=9C=E5=A7=9A=E7=8F=AD=E2=80=9D=EF=BC=89=EF=BC=8C=E5=B9=B6=E5=88=9B=
+=E5=BB=BA=E6=B8=85=E5=8D=8E=E5=A4=A7=E5=AD=A6=E4=BA=A4=E5=8F=89=E4=BF=A1=
+=E6=81=AF=E7=A0=94=E7=A9=B6=E9=99=A2=EF=BC=8C=E5=8F=91=E5=B1=95=E6=88=90=
+=E4=B8=BA=E4=B8=96=E7=95=8C=E7=9F=A5=E5=90=8D=E7=9A=84=E8=B7=A8=E5=AD=A6=
+=E7=A7=91=E7=A7=91=E7=A0=94=E4=B8=AD=E5=BF=83=EF=BC=8C=E5=BD=93=E4=B8=AD=
+=E5=8C=85=E6=8B=AC=E9=87=8F=E5=AD=90=E8=AE=A1=E7=AE=97=E5=AE=9E=E9=AA=8C=
+=E5=AE=A4=E3=80=82</p></td> <td width=3D"23"></td> </tr> <tr> <td width=3D"=
+100%" height=3D"20" colspan=3D"5"></td> </tr>  <tr> <td width=3D"20"></td> =
+<td width=3D"160" valign=3D"top"><a href=3D"http://subtracker.submail.cn/pr=
+elinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/YmFnX3RyYWNr=
+PWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11ee9bcafd55ea7a73375=
+f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"_blank"><img src=3D"=
+https://static.oschina.net/uploads/space/2018/0408/180511_nICi_2982602.png"=
+ width=3D"160" height=3D"160" alt=3D"img" /></a></td> <td width=3D"20"></td=
+> <td width=3D"477" valign=3D"top" style=3D"font-family: '=E5=BE=AE=
+=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif; line-heig=
+ht: 25px; font-size: 16px; color: #000000;"><a href=3D"http://subtracker.su=
+bmail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/Y=
+mFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11ee9bcafd=
+55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"_blank" s=
+tyle=3D"text-decoration: none; color:  #9900CC;"><strong>Keynote=E5=98=
+=89=E5=AE=BE=EF=BC=9A=E6=B1=89=E6=96=AF=C2=B7=E4=B9=8C=E6=80=9D=E5=85=8B=
+=E5=B0=94=E7=89=B9</strong></a>  <p style=3D"line-height: 20px; font-size: =
+14px; color: #666666;">=E6=B1=89=E6=96=AF=C2=B7=E4=B9=8C=E6=80=9D=E5=85=
+=8B=E5=B0=94=E7=89=B9=E6=98=AF=E5=8C=97=E4=BA=AC=E6=B7=B1=E7=9F=A5=E6=97=
+=A0=E9=99=90=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E7=A0=94=E7=A9=B6=E9=99=
+=A2=E9=99=A2=E9=95=BF=E5=85=BC=E9=A6=96=E5=B8=AD=E7=A7=91=E5=AD=A6=E5=AE=
+=B6=E3=80=81=E5=BE=B7=E5=9B=BD=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=E7=A0=
+=94=E7=A9=B6=E4=B8=AD=E5=BF=83(DFKI)=E7=A7=91=E5=AD=A6=E6=80=BB=E7=9B=91=
+=EF=BC=8C=E6=98=AF=E6=AC=A7=E6=B4=B2=E7=A7=91=E5=AD=A6=E9=99=A2=E9=99=A2=
+=E5=A3=AB=E3=80=81=E6=9F=8F=E6=9E=97=E5=B7=A5=E4=B8=9A=E5=A4=A7=E5=AD=A6=
+=E8=8D=A3=E8=AA=89=E6=95=99=E6=8E=88=E3=80=81=E5=9B=BD=E9=99=85=E8=AE=A1=
+=E7=AE=97=E6=9C=BA=E8=AF=AD=E8=A8=80=E5=AD=A6=E5=A7=94=E5=91=98=E4=BC=9A(IC=
+CL)=E7=BB=88=E8=BA=AB=E6=88=90=E5=91=98=E3=80=81=E6=AC=A7=E6=B4=B2=E5=8D=
+=93=E8=B6=8A=E7=B2=BE=E8=8B=B1=E5=A4=9A=E8=AF=AD=E8=A8=80=E4=BF=A1=E6=81=
+=AF=E8=81=94=E7=9B=9F(META-NET)=E5=90=8D=E8=AA=89=E4=B8=BB=E5=B8=AD=
+=E3=80=81=E5=9B=BD=E9=99=85=E9=80=BB=E8=BE=91=E3=80=81=E8=AF=AD=E8=A8=80=
+=E5=92=8C=E4=BF=A1=E6=81=AF=E5=8D=8F=E4=BC=9A=E4=B8=BB=E5=B8=AD=E3=80=82=
+=E4=BB=96=E5=90=88=E4=BD=9C=E5=88=9B=E7=AB=8B=E4=BA=86=E5=A4=9A=E5=AE=B6=
+=E9=AB=98=E7=A7=91=E6=8A=80=E5=85=AC=E5=8F=B8=EF=BC=8C=E5=90=8C=E6=97=B6=
+=E4=B9=9F=E6=98=AF=E4=BC=97=E5=A4=9A=E4=BC=81=E4=B8=9A=E7=9A=84=E9=A1=BE=
+=E9=97=AE=E3=80=82=E4=BB=96=E5=9C=A8=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=
+=E9=A2=86=E5=9F=9F=E7=9A=84=E4=B8=BB=E8=A6=81=E7=A0=94=E7=A9=B6=E6=96=B9=
+=E5=90=91=E4=B8=BA=E8=AF=AD=E8=A8=80=E3=80=81=E7=9F=A5=E8=AF=86=E6=8A=80=
+=E6=9C=AF=E7=9A=84=E7=A0=94=E5=8F=91=E5=8F=8A=E5=BA=94=E7=94=A8=EF=BC=8C=
+=E5=8F=91=E8=A1=A8=E7=A0=94=E7=A9=B6=E6=88=90=E6=9E=9C200=E9=80=BE=E7=AF=
+=87=E3=80=82</p></td> <td width=3D"23"></td> </tr> <tr> <td width=3D"100%" =
+height=3D"20" colspan=3D"5"></td> </tr>  <tr> <td width=3D"20"></td> <td wi=
+dth=3D"160" valign=3D"top"><a href=3D"http://subtracker.submail.cn/prelinks=
+?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/YmFnX3RyYWNrPWVkbQ=
+=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11ee9bcafd55ea7a73375f2ecd1=
+678343509e524165fd0af3d601dbc958b97e7" target=3D"_blank"><img src=3D"https:=
+//static.oschina.net/uploads/space/2018/0408/180551_HgCs_2982602.png" width=
+=3D"160" height=3D"160" alt=3D"img" /></a></td> <td width=3D"20"></td> <td =
+width=3D"477" valign=3D"top" style=3D"font-family: '=E5=BE=AE=E8=BD=AF=
+=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif; line-height: 25px;=
+ font-size: 16px; color: #000000;"><a href=3D"http://subtracker.submail.cn/=
+prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/YmFnX3RyYW=
+NrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11ee9bcafd55ea7a733=
+75f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"_blank" style=3D"t=
+ext-decoration: none; color:  #9900CC;"><strong>Keynote=E5=98=89=E5=AE=
+=BE=EF=BC=9A=E7=8E=8B=E6=B0=B8=E4=B8=9C</strong></a>  <p style=3D"line-heig=
+ht: 20px; font-size: 14px; color: #666666;">=E7=8E=8B=E6=B0=B8=E4=B8=9C=
+=E5=8D=9A=E5=A3=AB=E7=8E=B0=E4=BB=BB=E5=BE=AE=E8=BD=AF=E5=85=A8=E7=90=83=
+=E8=B5=84=E6=B7=B1=E5=89=AF=E6=80=BB=E8=A3=81=EF=BC=8C=E5=BE=AE=E8=BD=AF=
+=EF=BC=88=E4=BA=9A=E6=B4=B2=EF=BC=89=E4=BA=92=E8=81=94=E7=BD=91=E5=B7=A5=
+=E7=A8=8B=E9=99=A2=E9=99=A2=E9=95=BF=EF=BC=8C=E5=BE=AE=E8=BD=AF=E4=BA=9A=
+=E5=A4=AA=E7=A0=94=E5=8F=91=E9=9B=86=E5=9B=A2=E9=A6=96=E5=B8=AD=E6=8A=80=
+=E6=9C=AF=E5=AE=98=E3=80=82=E4=BB=96=E7=9A=84=E5=9B=A2=E9=98=9F=E7=9A=84=
+=E7=A0=94=E5=8F=91=E5=B7=A5=E4=BD=9C=E6=97=A2=E6=9C=89=E5=BE=AE=E8=BD=AF=
+=E7=9A=84=E5=85=A8=E7=90=83=E4=BA=A7=E5=93=81=EF=BC=8C=E4=B9=9F=E5=8C=85=
+=E6=8B=AC=E4=BA=86=E4=BA=9A=E5=A4=AA=E5=9C=B0=E5=8C=BA=E7=9A=84=E4=BA=92=
+=E8=81=94=E7=BD=91=E4=BA=A7=E5=93=81=E4=B8=8E=E6=9C=8D=E5=8A=A1=EF=BC=8C=
+=E6=96=B9=E5=90=91=E4=B8=BB=E8=A6=81=E6=B6=B5=E7=9B=96=E4=BA=BA=E5=B7=A5=
+=E6=99=BA=E8=83=BD, =E5=BF=85=E5=BA=94=EF=BC=88Bing=EF=BC=89=E6=90=9C=
+=E7=B4=A2=E5=BC=95=E6=93=8E, =E5=9C=A8=E7=BA=BF=E5=B9=BF=E5=91=8A=E6=8A=
+=80=E6=9C=AF, =E8=AF=AD=E9=9F=B3=E5=8F=8A=E8=87=AA=E7=84=B6=E8=AF=AD=
+=E8=A8=80=E5=A4=84=E7=90=86=E6=8A=80=E6=9C=AF=EF=BC=8C=E7=A7=BB=E5=8A=A8=
+=E4=BA=92=E8=81=94=E7=BD=91, =E4=BB=A5=E5=8F=8A=E5=BE=AE=E8=BD=AFOffice=
+=E7=AD=89=E9=A2=86=E5=9F=9F=EF=BC=8C=E5=B9=B6=E8=B4=9F=E8=B4=A3=E4=B8=BA=
+=E9=9B=86=E5=9B=A2=E8=AE=BE=E7=AB=8B=E6=8A=80=E6=9C=AF=E7=A0=94=E5=8F=91=
+=E7=AD=96=E7=95=A5=E3=80=81=E6=84=BF=E6=99=AF=E5=8F=8A=E6=95=B4=E4=BD=93=
+=E6=96=B9=E5=90=91=E3=80=82</p></td> <td width=3D"23"></td> </tr> <tr> <td =
+width=3D"100%" height=3D"20" colspan=3D"5"></td> </tr>  <tr> <td width=3D"2=
+0"></td> <td width=3D"160" valign=3D"top"><a href=3D"http://subtracker.subm=
+ail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/YmF=
+nX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11ee9bcafd55=
+ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"_blank"><im=
+g src=3D"https://static.oschina.net/uploads/space/2018/0408/180623_mrW7_298=
+2602.png" width=3D"160" height=3D"160" alt=3D"img" /></a></td> <td width=3D=
+"20"></td> <td width=3D"477" valign=3D"top" style=3D"font-family: '=
+=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif; =
+line-height: 25px; font-size: 16px; color: #000000;"><a href=3D"http://subt=
+racker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEy=
+Mjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D1=
+1ee9bcafd55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"=
+_blank" style=3D"text-decoration: none; color: #9900CC;"><strong>Keynote=
+=E5=98=89=E5=AE=BE=EF=BC=9A=E8=A3=B4=E5=81=A5</strong></a>  <p style=3D"lin=
+e-height: 20px; font-size: 14px; color: #666666;">=E8=A3=B4=E5=81=A5=
+=E6=95=99=E6=8E=88=E4=BB=BB=E4=BA=AC=E4=B8=9C=E9=9B=86=E5=9B=A2=E5=89=AF=
+=E6=80=BB=E8=A3=81=EF=BC=8C=E8=B4=9F=E8=B4=A3=E5=A4=A7=E6=95=B0=E6=8D=AE=
+=E5=B9=B3=E5=8F=B0=E4=B8=8E=E4=BA=A7=E5=93=81=E7=A0=94=E5=8F=91=E9=83=A8=
+=E3=80=82=E5=9C=A8=E6=95=B0=E6=8D=AE=E7=A7=91=E5=AD=A6=E3=80=81=E5=A4=A7=
+=E6=95=B0=E6=8D=AE=E3=80=81=E6=95=B0=E6=8D=AE=E6=8C=96=E6=8E=98=E5=92=8C=
+=E6=95=B0=E6=8D=AE=E5=BA=93=E7=B3=BB=E7=BB=9F=E7=AD=89=E9=A2=86=E5=9F=9F=
+=EF=BC=8C=E6=98=AF=E4=B8=96=E7=95=8C=E9=A2=86=E5=85=88=E7=9A=84=E7=A0=94=
+=E7=A9=B6=E5=AD=A6=E8=80=85=EF=BC=8C=E6=93=85=E9=95=BF=E4=B8=BA=E6=95=B0=
+=E6=8D=AE=E5=AF=86=E9=9B=86=E5=9E=8B=E5=BA=94=E7=94=A8=E8=AE=BE=E8=AE=A1=
+=E5=BC=80=E5=8F=91=E5=88=9B=E6=96=B0=E6=80=A7=E7=9A=84=E6=95=B0=E6=8D=AE=
+=E4=B8=9A=E5=8A=A1=E4=BA=A7=E5=93=81=E5=92=8C=E9=AB=98=E6=95=88=E7=9A=84=
+=E6=95=B0=E6=8D=AE=E5=88=86=E6=9E=90=E6=8A=80=E6=9C=AF=E3=80=82=E4=BB=96=
+=E6=98=AF=E5=9B=BD=E9=99=85=E8=AE=A1=E7=AE=97=E6=9C=BA=E5=8D=8F=E4=BC=9A=
+=EF=BC=88ACM=EF=BC=89=E9=99=A2=E5=A3=AB=E5=92=8C=E5=9B=BD=E9=99=85=E7=94=
+=B5=E6=B0=94=E7=94=B5=E5=AD=90=E5=B7=A5=E7=A8=8B=E5=B8=88=E5=8D=8F=E4=BC=
+=9A=EF=BC=88IEEE=EF=BC=89=E9=99=A2=E5=A3=AB=EF=BC=8CACM SIGKDD=EF=BC=88=
+=E6=95=B0=E6=8D=AE=E6=8C=96=E6=8E=98=E5=8F=8A=E7=9F=A5=E8=AF=86=E5=8F=91=
+=E7=8E=B0=E4=B8=93=E5=A7=94=E4=BC=9A=EF=BC=89=E7=8E=B0=E4=BB=BB=E4=B8=BB=
+=E5=B8=AD=E3=80=82=E8=A3=B4=E5=81=A5=E5=8D=9A=E5=A3=AB=E6=98=AF=E5=AD=A6=
+=E6=9C=AF=E7=95=8C=E8=A2=AB=E5=BC=95=E7=94=A8=E6=AC=A1=E6=95=B0=E6=9C=80=
+=E5=A4=9A=E7=9A=84=E4=BD=9C=E8=80=85=E4=B9=8B=E4=B8=80=E3=80=82</p></td> <t=
+d width=3D"23"></td> </tr> <tr> <td width=3D"100%" height=3D"20" colspan=3D=
+"5"></td> </tr>  <tr> <td width=3D"20"></td> <td width=3D"160" valign=3D"to=
+p"><a href=3D"http://subtracker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmF=
+nZXZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc=
+1c5070fada29f1f1ef5&i=3D11ee9bcafd55ea7a73375f2ecd1678343509e524165fd0af3d6=
+01dbc958b97e7" target=3D"_blank"><img src=3D"https://static.oschina.net/upl=
+oads/space/2018/0408/180646_C4U6_2982602.png" width=3D"160" height=3D"160" =
+alt=3D"img" /></a></td> <td width=3D"20"></td> <td width=3D"477" valign=3D"=
+top" style=3D"font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=
+=8B=E4=BD=93,Arial,sans-serif; line-height: 25px; font-size: 16px; color: #=
+000000;"><a href=3D"http://subtracker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d=
+3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff1=
+4460fc1c5070fada29f1f1ef5&i=3D11ee9bcafd55ea7a73375f2ecd1678343509e524165fd=
+0af3d601dbc958b97e7" target=3D"_blank" style=3D"text-decoration: none; colo=
+r: #9900CC;"><strong>Keynote=E5=98=89=E5=AE=BE=EF=BC=9A=E7=8E=8B=E5=B0=
+=8F=E5=B7=9D</strong></a>  <p style=3D"line-height: 20px; font-size: 14px; =
+color: #666666;">=E7=8E=8B=E5=B0=8F=E5=B7=9D=E5=85=88=E7=94=9F=EF=BC=8C=
+=E6=90=9C=E7=8B=97=E9=A6=96=E5=B8=AD=E6=89=A7=E8=A1=8C=E5=AE=98=E3=80=81=
+=E6=B8=85=E5=8D=8E=E5=A4=A7=E5=AD=A6=E5=A4=A9=E5=B7=A5=E6=99=BA=E8=83=BD=
+=E8=AE=A1=E7=AE=97=E7=A0=94=E7=A9=B6=E9=99=A2=E8=81=94=E5=B8=AD=E9=99=A2=
+=E9=95=BF=EF=BC=8C=E5=89=8D=E6=90=9C=E7=8B=90=E9=AB=98=E7=BA=A7=E5=89=AF=
+=E6=80=BB=E8=A3=81=E5=85=BCCTO=E3=80=822003=E5=B9=B4=E4=BB=96=E5=88=9B=
+=E5=BB=BA=E6=90=9C=E7=8B=90=E7=A0=94=E5=8F=91=E4=B8=AD=E5=BF=83=EF=BC=8C=
+=E5=85=88=E5=90=8E=E6=8E=A8=E5=87=BA=E4=BA=86=E6=90=9C=E7=8B=97=E6=90=9C=
+=E7=B4=A2=E3=80=81=E6=90=9C=E7=8B=97=E8=BE=93=E5=85=A5=E6=B3=95=E3=80=81=
+=E6=90=9C=E7=8B=97=E6=B5=8F=E8=A7=88=E5=99=A8=E7=AD=89=E4=BA=A7=E5=93=81=
+=EF=BC=8C=E9=A6=96=E5=88=9B=E2=80=9C=E8=BE=93=E5=85=A5=E6=B3=95-=E6=B5=
+=8F=E8=A7=88=E5=99=A8-=E6=90=9C=E7=B4=A2=E2=80=9D=E4=B8=89=E7=BA=A7=
+=E7=81=AB=E7=AE=AD=E6=A8=A1=E5=BC=8F=EF=BC=8C=E6=88=90=E4=B8=BA=E8=A1=8C=
+=E4=B8=9A=E8=BF=BD=E8=B5=B6=E8=80=85=E7=A0=B4=E5=B1=80=E6=90=9C=E7=B4=A2=
+=E7=9A=84=E5=94=AF=E4=B8=80=E6=88=90=E5=8A=9F=E6=A8=A1=E5=BC=8F=E3=80=82201=
+3=E5=B9=B4=E4=B8=8E=E8=85=BE=E8=AE=AF=E4=B8=80=E8=B5=B7=E6=8E=A8=E5=8A=
+=A8=E6=90=9C=E7=8B=97=E5=90=88=E5=B9=B6=E6=90=9C=E6=90=9C=EF=BC=8C=E6=88=
+=90=E4=B8=BA=E7=BB=8F=E5=85=B8=E6=A1=88=E4=BE=8B=EF=BC=8C=E8=85=BE=E8=AE=
+=AF=E4=BB=A5=E6=AD=A4=E5=BC=80=E5=90=AF=E5=BC=80=E6=94=BE=E6=88=98=E7=95=
+=A5=EF=BC=8C=E5=AF=B9=E4=BA=92=E8=81=94=E7=BD=91=E8=A1=8C=E4=B8=9A=E6=A0=
+=BC=E5=B1=80=E5=B8=A6=E6=9D=A5=E9=87=8D=E5=A4=A7=E5=BD=B1=E5=93=8D=E3=80=
+=822017=E5=B9=B4=E4=BB=96=E5=B8=A6=E9=A2=86=E6=90=9C=E7=8B=97=E5=9C=A8=
+=E7=BE=8E=E5=9B=BD=E4=B8=8A=E5=B8=82=E3=80=82</p></td> <td width=3D"23"></t=
+d> </tr> <tr> <td width=3D"100%" height=3D"20" colspan=3D"5"></td> </tr> </=
+tbody> </table> <table width=3D"678" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" align=3D"center" bgcolor=3D"#ffffff"> <tbody>   <td valign=3D"to=
+p" style=3D"font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',=E5=AE=
+=8B=E4=BD=93,Arial,sans-serif; font-size: 14px; color: #1e1e1e; line-height=
+: 24px;"><a href=3D"http://subtracker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d=
+3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff1=
+4460fc1c5070fada29f1f1ef5&i=3D11ee9bcafd55ea7a73375f2ecd1678343509e524165fd=
+0af3d601dbc958b97e7" target=3D"_blank" style=3D"text-decoration: none; colo=
+r: #333333;"><span style=3D"color: #2a6bad; text-decoration: none; font-siz=
+e: 14px; line-height: 24px; font-family: Arial, Helvetica, sans-serif;"><b>=
+2018=E5=B9=B4=E5=85=A8=E7=90=83=E4=BA=BA=E5=B7=A5=E6=99=BA=E8=83=BD=
+=E6=8A=80=E6=9C=AF=E5=A4=A7=E4=BC=9A</b></span><span style=3D"color:  #9900=
+CC; text-decoration: none; font-size: 14px; line-height: 24px; font-family:=
+ Arial, Helvetica, sans-serif;"><b>=EF=BC=88GAITC=EF=BC=89</b></span></a>=
+=E5=B0=86=E4=BA=8E2018=E5=B9=B45=E6=9C=8819-20=E6=97=A5=E5=9C=A8=E5=8C=
+=97=E4=BA=AC=E5=9B=BD=E5=AE=B6=E4=BC=9A=E8=AE=AE=E4=B8=AD=E5=BF=83=E5=8F=
+=AC=E5=BC=80=EF=BC=8C=E5=A4=A7=E4=BC=9A=E4=B8=BB=E9=A2=98=EF=BC=9A=E4=BA=
+=A4=E5=8F=89=E3=80=81=E8=9E=8D=E5=90=88=E3=80=81=E7=9B=B8=E7=94=9F=E3=80=
+=81=E5=85=B1=E8=B5=A2=EF=BC=8C<span style=3D"color:#FF0000; font-size: 16px=
+;"><b>=E5=9B=A2=E8=B4=AD5=E5=BC=A0=E4=BB=A5=E4=B8=8A=E7=AB=8B=E5=87=8F1000=
+=E5=85=83</b></span>=EF=BC=8C=E6=95=B0=E9=87=8F=E6=9C=89=E9=99=90=EF=BC=
+=8C=E6=AC=B2=E8=B4=AD=E4=BB=8E=E9=80=9F=EF=BC=8C<a href=3D"http://subtracke=
+r.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY29tL2V2ZW50LzEyMjc0N=
+jQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11ee9b=
+cafd55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b97e7" target=3D"_blan=
+k" style=3D"text-decoration: none; color: #245c9f;"><b>=E5=AE=98=E7=BD=
+=91=E7=82=B9=E5=87=BB=E8=BF=99=E9=87=8C</b></a>=E3=80=82</td> </tbody></tab=
+le> <table width=3D"678" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" a=
+lign=3D"center" bgcolor=3D"#ffffff"> <tbody> <tr> <td colspan=3D"3" height=
+=3D"15"></td> </tr> <tr> <td width=3D"226"></td> <td width=3D"222"><a href=
+=3D"http://subtracker.submail.cn/prelinks?r=3DaHR0cHM6Ly93d3cuYmFnZXZlbnQuY=
+29tL2V2ZW50LzEyMjc0NjQ/YmFnX3RyYWNrPWVkbQ=3D=3D&t=3Dc47eff14460fc1c5070fada=
+29f1f1ef5&i=3D11ee9bcafd55ea7a73375f2ecd1678343509e524165fd0af3d601dbc958b9=
+7e7" target=3D"_blank" style=3D"font-family: '=E5=BE=AE=E8=BD=AF=E9=9B=
+=85=E9=BB=91',=E5=AE=8B=E4=BD=93,Arial,sans-serif; font-size: 24px; color: =
+#ffffff; display: block; width: 222px; height: 60px; text-align: center; li=
+ne-height: 60px; background: #9933FF; border-radius: 5px; text-decoration: =
+none;">=E7=AB=8B=E5=8D=B3=E6=8A=A5=E5=90=8D</a></td> <td width=3D"230"></td=
+> </tr> <tr> <td colspan=3D"3" height=3D"15"></td> </tr>    </tbody> </tabl=
+e>    <table width=3D"678" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" bgcolor=3D"#ffffff"> <tbody> <tr> <td><img src=3D"https:/=
+/static.oschina.net/uploads/space/2018/0408/180322_e65z_2982602.png" width=
+=3D"677" height=3D"119" /></td> </tr> </tbody> </table> <div style=3D"width=
+:0px; height:0px; display:none;"><img src=3Dhttp://subtracker.submail.cn//t=
+racking?t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D11ee9bcafd55ea7a73375f2ecd=
+1678343509e524165fd0af3d601dbc958b97e7" width=3D"1" height=3D"1"></div></bo=
+dy></html>
+
+
+--b1_eab00e13fa1f56242c7ddcc635a71a26--
+
+

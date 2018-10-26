@@ -1,0 +1,72 @@
+Received: from tvweb01.teamviewer.com (unknown [46.163.100.194])
+	by newmx14.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Fri, 03 Mar 2017 10:02:04 +0800
+X-QQ-FEAT: 1e+h8MW1O/53RkkXBfhF2kbP/5gDEr5zCdh/kcKosQ66DF1UNuLpzC9fq0FLZ
+	ddphLraSHtlZqfX3KezkbFp28iZSpB9zF4OxsrW1mW9FfNcS9faAof6vkiqOv0int3Mq5rV
+	gHEWhIBnlKTSeQzWZ3033ONca3u1EIeFaSCQg128oLEMUW+ILCW3ezUOWVjV+j4btjk6K+8
+	mii1G+K85qZ4CJxw+yby25Oe5GGyNn4Gc3OxeTfDRjUaDt8X+ZQT6UImJqdN5EBDt/ZYCUB
+	Tbzw==
+X-QQ-MAILINFO: M9mpTqh4QKvq6gK8CIQxqKaexVl/ArTC8IbWGK6BbAKbPA9BmQnAZllsM
+	wuK69hAZkJoIzoOWg+Bl+o6F3o389lDbgoCWCMx09oGM+Pznpk4//nhIRPkLVKhsHpMEYK2
+	Ybs/QDl0MQX4sn5f9Ih7TgE=
+X-QQ-mid: usamxproxy16t1488506525tl0epeb
+X-QQ-ORGSender: mailings-noreply@teamviewer.com
+X-KK-mid:usamxproxy16t1488506525tl0epeb
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+  s=s1024;d=teamviewer.com;
+  h=date:from:to:message-id:subject:mime-version:content-type;
+  bh=I96b6o3WxEYs1TsA3RKqbjxu2jg=;
+  b=e/IP5wZ2Klcvillx1eG8DAgfWmxJpEdkPmJ8/PPTUY3QrJgWoAHVxNZ8ZkCG33gubw4SIvd+
+    Ycdj4ksbopYQJ+AVBn4JEb2xPF2p2VO4nVVikVWi9zIlxO6SzC+cb4niMdGuK0Eys36wwymv
+    Cx6N0jXULwFrFxq7gmeae1eMB9c=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024;d=teamviewer.com;
+  h=date:from:to:message-id:subject:mime-version:content-type;
+  b=CSXdJmqWEkw34HzgxX+gwyR47KCE/mu71KT1KQ5Wu4dkY+4HxKa0pu4VjUQACvqYa/5cmMIf
+    4ZckX7FEEP7uMazz7ontmIvrFwP7zM0czYxoqaj5lts6dZaC/Wunwu8RSpbBD77TCr5l6Dkq
+    R1Mg8IWl4sxmo11c1cxaiuQTpO0=
+Received: from inxmail01.tvweb.he ([46.163.100.204]) by tvweb01.teamviewer.com with Microsoft SMTPSVC(7.5.7601.17514);
+	 Fri, 3 Mar 2017 03:00:22 +0100
+Date: Fri, 3 Mar 2017 03:00:22 +0100 (CET)
+From: TeamViewer News <mailings-noreply@teamviewer.com>
+To: 573275629@qq.com
+Message-ID: <INX.11a4d65dea885092f82058e1802.e3edcd.2e6.1.15a91e5853d4967.mailings-noreply@teamviewer.com>
+Subject: Confirm TeamViewer newsletter registration
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+List-Id: "0" <19122.11a4d65dea885092f82058e1802.localhost>
+Return-Path: mailings-noreply@teamviewer.com
+X-OriginalArrivalTime: 03 Mar 2017 02:00:22.0886 (UTC) FILETIME=[EB107060:01D293C1]
+
+Dear TeamViewer user,
+
+Thank you for registering for the TeamViewer newsletter. You provided the
+following email address during registration: 573275629@qq.com
+
+To complete the registration process, please click on the following link:
+
+http://mailings.teamviewer.com/inxmail/d/d.aspx?q0dscnkq000000cif0000000000=
+000000000fsgi19122&mail=3D573275629@qq.com
+
+If you are not automatically forwarded after clicking the link, please copy
+the link into the address bar of your browser.
+
+You can cancel your newsletter subscription at any time by clicking on the
+cancellation link provided in each newsletter.
+
+If you have not subscribed to the TeamViewer newsletter, please ignore this
+email.=20
+
+Best regards,
+Your TeamViewer team
+
+-----------------------------=20
+www.teamviewer.com
+
+TeamViewer GmbH * Jahnstr. 30 * 73037 G=C3=B6ppingen * Germany
+
+Registration Ulm HRB 534075 * CEO: Andreas K=C3=B6nig, CFO: Dr. Thomas Nowa=
+k
+
+Phone number +49 (0) 7161 60692 50 * Fax +49 (0) 7161 60692 79

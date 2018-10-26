@@ -1,0 +1,48 @@
+Received: from mail232-22.mail.alibaba.com (unknown [42.120.232.22])
+	by newmx.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Tue, 22 Sep 2015 18:02:30 +0800
+X-QQ-FEAT: m5XIv0l6wiK1omXqG7zGHmHgbD9LouUNx42V5tbOKJ4=
+X-QQ-MAILINFO: NL3WKUOj1eeIQSMs0zmGJ0DiY43Jh9DstBcREoezTj2Kvpls9kFc5ClFZ
+	4I2TY5a9S2IlTPL1tIDaoLHNRtp+vEIu35ya4ZVVvmrFHrkEzIGXzJchRtN1KjkoiC1Hmw1
+	aNZ6jtFjYUeKPmetBXh56boqZzEuNivr6Ww8X5gR3ea048T9re+OVX0=
+X-QQ-mid: mx126t1442916151tqbphbub3
+X-QQ-ORGSender: taobao@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1442916150; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=xmk87KkSK9nnLGUnRBb9IVBio7pTRXyvUz9Xnf7z6Z0=;
+	b=SMW7qdoPL3UP1ED2aMc/W3ChSMID0xdL00S+tKLHCzf2qtOJ8V/UDbqSwgSq3YZLPUx8jerB0EcrGNl3EqFejItD3dHUeJseEGTUTRf8nGD1XiF4pfwVWOfYjbsCxdGPPaz/LOGLxrQEwZqPOtJU0US6EwxL0Fb9VI/pYxMMXlo=
+Received: from messagecenter010236059066.cm4(10.236.59.66)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Tue, 22 Sep 2015 18:02:30 +0800
+Date: Tue, 22 Sep 2015 18:02:30 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <taobao@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <1613203305.8631511442916150611.JavaMail.admin@messagecenter010236059066.cm4>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 439206642916150466
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 54189194608647 申请已经达成退款。
+  宝贝：ELAND韩国衣恋秋冬新品女装翻领连衣裙EEOW44T52N专柜正品
+  退款金额：549.00
+
+点此查看<a href="http://refund.tmall.com/viewRefundDetailSpirit.htm?bizOrderId=1197769648564786" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

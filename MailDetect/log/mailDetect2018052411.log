@@ -1,0 +1,81 @@
+2018-05-24 11:00:05 DEBUG   mailDetect start
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:checkBox code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:序号 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:关键字 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:邮件主题 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:类型 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:位置 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:时间 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:判定结论 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:checkBox code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:序号 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:关键字 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:邮件主题 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:类型 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:位置 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:时间 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:判定结论 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:checkBox code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:checkBox code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:序号 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:关键字 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:邮件主题 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:类型 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:位置 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:收件人 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:发件人 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:抄送 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:密送 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:时间 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:2, columnName:判定结论 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:序号 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:关键字 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:邮件主题 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:类型 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:位置 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:收件人 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:发件人 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:抄送 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:密送 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:时间 code in maildetect.cpp
+2018-05-24 11:00:31 DEBUG   getTableColumnWidth, pageIndex:1, columnName:判定结论 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   onlineButtonClick_slot, code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:checkBox code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:checkBox code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:序号 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:关键字 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:邮件主题 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:类型 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:位置 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:收件人 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:发件人 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:抄送 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:密送 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:时间 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:2, columnName:判定结论 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:序号 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:关键字 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:邮件主题 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:类型 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:位置 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:收件人 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:发件人 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:抄送 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:密送 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:时间 code in maildetect.cpp
+2018-05-24 11:00:32 DEBUG   getTableColumnWidth, pageIndex:1, columnName:判定结论 code in maildetect.cpp
+2018-05-24 11:02:39 DEBUG   startCheckButtonClick_slot, code in maildetect.cpp
+2018-05-24 11:02:39 DEBUG   start online check, code in maildetect.cpp
+2018-05-24 11:02:39 DEBUG   add_fileCheck_conf, pageIndex:1, keyword:秘密;机密;绝密;中发;中办发;批示, code in checkconfig.cpp
+2018-05-24 11:02:39 DEBUG   testConnect, mailAddress:573275629@qq.com, passwd:baredptyvieybbjf, code in checkconfig.cpp
+2018-05-24 11:02:39 DEBUG   SocketThread run, code in socktthread.cpp
+2018-05-24 11:02:39 DEBUG   Socket run, code in socktthread.cpp
+2018-05-24 11:02:39 DEBUG   Socket run1, code in socktthread.cpp
+2018-05-24 11:02:39 DEBUG   Socket run2, code in socktthread.cpp
+2018-05-24 11:02:39 DEBUG   Socket run3, code in socktthread.cpp
+2018-05-24 11:02:40 DEBUG   Socket run4, code in socktthread.cpp
+2018-05-24 11:04:49 DEBUG   jsonParse, code in socktthread.cpp
+2018-05-24 11:04:49 DEBUG   Socket run5, code in socktthread.cpp
+2018-05-24 11:04:49 DEBUG   authTest_solt_2, code in checkconfig.cpp
+2018-05-24 11:04:49 DEBUG   �û������������, buttonText:���Ӳ���, code in checkconfig.cpp
+2018-05-24 11:04:49 DEBUG   configButtonClik_slot_1, code in checkconfig.cpp

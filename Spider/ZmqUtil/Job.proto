@@ -1,0 +1,7 @@
+syntax="proto3";
+package ZmqUtil;  
+import "Task.proto";
+message Job{  
+	Task task = 1;
+	bytes target_addition = 2;
+}  

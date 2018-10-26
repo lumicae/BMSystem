@@ -1,0 +1,10 @@
+{
+	"protocol"		: "imap",
+	"username"		: "liuyi@nercis.ac.cn",
+	"password"		: "D5F70B4248292EF3C7A5631C3E5EEECD",
+	"server"	    : "mail.nercis.ac.cn",
+	"port"			: 993,
+	"SSL"			: "1",
+	"store_path"	: "E:\\emailcheck\\mail\\uid",
+	"store_db"		: "E:\\emailcheck\\db\\uid.db"
+}

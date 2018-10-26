@@ -1,0 +1,48 @@
+Received: from mail232-26.mail.alibaba.com (unknown [42.120.232.26])
+	by newmx96.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Mon, 17 Aug 2015 11:46:02 +0800
+X-QQ-FEAT: D4aqtcRDiqT99I/fJWEwXgfsx6Z1JCvitJuKL4u8WiI=
+X-QQ-MAILINFO: NbUxUzKtP+7YtGe3kB/fOgdfpqA/oZpXUX/3viUs/4/fEouimJC+F1XnG
+	WWJGQrFMWBds1ZDhMB+rwX/5YqT/t7RstmMUgSUCWvsAVtVWmS8tzkR3s6QgWQBbp73EmG5
+	LzdVwHTfLxQx3UkowHsbXUaAnWwTVApPQgOLMDCmfxJJ++Akn633AOg=
+X-QQ-mid: mx96t1439783162tlqa6hdhi
+X-QQ-ORGSender: taobao@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1439783162; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=zEly/VIf7koxWAEaLXngYYGUwuv2LZz1zch1wx4k0t4=;
+	b=ItcIu3YPPgkAywftwsFcXfBVXEvYE/3ZX/5DMv8BSVGuLYPEj94CVtSK4s071fH5YLObJXwuqPL1JxdY06aWDNAsiOnCqJqxNN3LTrUgPkSHXyIiLBga8qIzxdtAvakKL9d5h39TuCrrJ2CzCHEwZNsVAG4WQ6xb/4oGMo8UPc0=
+Received: from messagecenter010236024058.cm4(10.236.24.58)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Mon, 17 Aug 2015 11:46:02 +0800
+Date: Mon, 17 Aug 2015 11:46:02 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <taobao@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <594820072.2819011439783162041.JavaMail.admin@messagecenter010236024058.cm4>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 102205839783161848
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 54226570698647 申请已经达成退款。
+  宝贝：红烧肉+鸡排饭
+  退款金额：14.04
+
+点此查看<a href="//refund.taobao.com/view_refund_detail_spirit.htm?refundId=54226570698647" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

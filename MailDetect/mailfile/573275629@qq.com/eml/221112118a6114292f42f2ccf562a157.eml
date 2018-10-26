@@ -1,0 +1,53 @@
+Received: from out209-57.dm.aliyun.com (unknown [140.205.209.57])
+	by newmx14.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Wed, 04 Jan 2017 18:08:46 +0800
+X-QQ-FEAT: bwgMLqpyqeLuvatcahdA1A5C17VG7ktbHPWz9veL0lQ4isr6upwdp415IbEcS
+	rHZMs2HLudSbn90Tea+duk3lkB8x28Ky5c2eKN/H8XQe3kkHQcB2ZfWJg94O8hEh9n1dBR1
+	khQSLccdqxyUxx3JCOuDk3ZUilKBAQRlja74Ao9YF8OgD+oHr2q0/gexIeAG7Jizw6NU2jM
+	QOiW5qWrhnP0FbDWIl0tzZCovN6Tn+IADpBDv3eZDWdCQZ6wjly2Rj4/wBTgn3q7q7l5+bV
+	de4A==
+X-QQ-MAILINFO: ODvMQTwIxEi3CIBlF2Fz+6HbOk69ca9WEgqtxj1943lVPdjTyuyLXydth
+	pFU76JkW6/L5OCNl2yCBRJ2xDmINMM3RhK6X5arwmP+0CdBMvHzk47DHkMuYCQtYoL/YpOZ
+	nbkvNyeZXXkk3ySDAuJPaedEau2NmdlMFa5nAEmI8NDb
+X-QQ-mid: mx14t1483524526t2464wow5
+X-QQ-ORGSender: taobao@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1483524526; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=aqfyoY1Lkt3gHpjeeJkNmvm/UB/ZlsExH22cu1Qk584=;
+	b=O0KGGKdJzdz5ZQVqqqtWUb6eQmm1fvgjgG9mIQFiqaufUUsFvdtovpLOJXmo3NC3vXpeueMxnLyWVl3509VNriIYnM+Y6hUSClvTYt66YWQc6jZzv5sJm5k8CuOHRj+t2uiV+YBIJWVxvPH5AX/7qs7hE4Ti9AOG39/D0GmvvnY=
+X-EnvId:17870283327000331765
+Received: from messagecenter011230138102.eu13(100.68.18.179)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Wed, 04 Jan 2017 18:08:46 +0800
+Date: Wed, 4 Jan 2017 18:08:46 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <taobao@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <729526603.21993281483524526294.JavaMail.admin@messagecenter011230138102.eu13>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 238510283524526283
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 127103908328647 申请已经达成退款。
+  宝贝：【众安保险】火车伤害保险
+  退款金额：10.00
+
+点此查看<a href="//refund.taobao.com/view_refund_detail_spirit.htm?refundId=127103908328647" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

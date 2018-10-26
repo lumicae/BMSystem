@@ -1,0 +1,27 @@
+syntax = "proto3";
+package ZmqUtil;
+import "Job.proto";
+
+enum Encode {
+	UTF8 = 0;
+	UCS2 = 1;
+	GBK = 2;
+}
+
+message KeywordItem{
+	int32 kid = 1;
+	string keyword=2;
+}
+
+message HitPosition{
+	int64 offset = 1;
+	bytes context = 2;
+	Encode encode_hint = 3;
+	KeywordItem keyword = 4;
+}
+
+message Result {
+	Job job = 1;
+	repeated HitPosition hit_positions = 2;
+	int32 keyword_serial = 3;
+}

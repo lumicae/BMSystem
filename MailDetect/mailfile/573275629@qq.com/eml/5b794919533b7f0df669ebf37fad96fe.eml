@@ -1,0 +1,48 @@
+Received: from mail232-57.mail.alibaba.com (unknown [42.120.232.57])
+	by newmx57.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Fri, 04 Sep 2015 14:26:28 +0800
+X-QQ-FEAT: D4aqtcRDiqRghPGGevvdI9N2NID6YN/qudFpkjLgX4c=
+X-QQ-MAILINFO: N5kFcZDRcyD8ZUBNGW9p3bC9txHPYTY4oydAmcOtBdxIiC+AadE4e6/x+
+	Z1cRwwiMy+NceI8gI+XKaQe6J3KNYUn3K7GCD1QcoE4RSyopBXKw3OGRnpzkcYBrf51oSJk
+	VnuD9Z9DHC1WjOe6ZPTR7oIo1FVY6Jmrc7T3k8cclFFUzaBnUJbvMas=
+X-QQ-mid: mx57t1441347988tdhx6s982
+X-QQ-ORGSender: taobao@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1441347988; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=ktDM7qVt+SuJLE28YlUI6OJ2ZCivYkOifTPTi7FGArs=;
+	b=B5MllyxkzulyI5zMOaFHp2NrSFuo62925OXrT6aMK7/af6UFmGi/jEx4qWI7JtOyp7WirCReAMYeQ0u4FUYngq+kQ+TY5rdpQqBH2ELysai+zXlq8ayQ1s08iUyEcuQeGGbCgQ3IuA8yQUH8isfNDfNDMHiuiC+Q74asnNTF3YU=
+Received: from messagecenter010236074071.cm4(10.236.74.71)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Fri, 04 Sep 2015 14:26:28 +0800
+Date: Fri, 4 Sep 2015 14:26:28 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <taobao@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <1280969676.2044131441347988219.JavaMail.admin@messagecenter010236074071.cm4>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 343007141347988071
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 53277190798647 申请已经达成退款。
+  宝贝：淘非特大号双排简易鞋柜无纺布防尘多层鞋架收纳创意组合鞋柜包邮
+  退款金额：34.90
+
+点此查看<a href="http://tuikuan.tmall.com/refund/view_detail.htm?refundId=53277190798647361" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

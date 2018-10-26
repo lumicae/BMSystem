@@ -1,0 +1,48 @@
+Received: from smtp.mail.taobao.com (unknown [110.75.3.82])
+	by newmx93.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Wed, 17 Sep 2014 15:13:08 +0800
+X-QQ-SSF: 00200000000000010xF00000000030x
+X-QQ-FEAT: jiGWm3V4u2UlE/L1d3ADDjOiO4FbSOsA
+X-QQ-mid: mx93t1410937988t80wkyl5y
+DomainKey-Signature: s=tk; d=smtp.mail.taobao.com; c=nofws; q=dns;
+  h=Received:Date:From:Reply-To:To:Message-ID:Subject:
+   MIME-Version:Content-Type:Content-Transfer-Encoding:
+   McTaskId:McIpGroup:TempletId;
+  b=5wRI/gLRVSiu80DpaXMiTbwbehY96YA0SiPxttQBohB6Ukj/v2prPLYd
+   1/mKLPJ/ysoc3u4fICFqDt/FhjWnOZRtwWX3qoyDHLBY1PEWdtSGHXk66
+   rKtKdmCkdFW68XTKe+UnfgYxyY/4X+aquwhMNI3gfFeflhhxW1B3AsrBz
+   E=;
+Received: from unknown (HELO messagecenter010097010025.cm3) ([10.236.106.134])
+  by smtp.mail.taobao.com with ESMTP; 17 Sep 2014 15:12:27 +0800
+Date: Wed, 17 Sep 2014 15:12:27 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <service@smtp.mail.taobao.com>
+Reply-To: admin@taobao.com
+To: 573275629@qq.com
+Message-ID: <740962341.33500211410937947316.JavaMail.admin@messagecenter010097010025.cm3>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 920502510937946072
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 34441665108647 申请已经达成退款。
+  宝贝：北京新月驾校约车服务 代理约车 成功率100% 平时16/次 周末20/次
+  退款金额：20.00
+
+点此查看<a href="http://refund.taobao.com/view_refund_detail_spirit.htm?refundId=34441665108647" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><img src="http://outmem.taobao.com/message/report_open_rate.do?channel=1&templetid=301147&messageid=1/1/920502510937946072&curdate=1410937947299"/><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

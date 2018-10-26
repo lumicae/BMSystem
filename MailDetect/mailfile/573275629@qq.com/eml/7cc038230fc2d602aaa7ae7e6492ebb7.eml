@@ -1,0 +1,860 @@
+Received: from zhihucamp.sendcloud.org (unknown [61.135.131.228])
+	by newmx102.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Tue, 28 Jun 2016 20:07:27 +0800
+X-QQ-FEAT: F2ARtry9UazQOizwhl/yfJZnk+5fpwZDJl52oBJ7Zg5xgkLsrsLADOqFStorm
+	2/R
+X-QQ-MAILINFO: M9mpTqh4QKvqGw2XRRfmOi20xaLAMxRigcSoUQ1uNH0NATQrjJ91boOru
+	kXFB8XfSU5ik5u7Oa2WxAbQ2CRy29GVDcWGPhJwX/vRhS3pqVrp9cXqh0casE7byyJ0rP/o
+	teqTo2o1zwX0CJXdS+Q8F6NpS7AJP0pAVgrpcb2aWr53
+X-QQ-mid: mx102t1467115648tj3p4rd9k
+X-QQ-CSender: email@newsletter2.zhihu.com
+X-QQ-ORGSender: email@newsletter2.zhihu.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=newsletter2.zhihu.com; 
+ i=@newsletter2.zhihu.com; q=dns/txt; s=sendcloud; t=1467115644; h=Date 
+ : From : To : Message-ID : Subject : MIME-Version : Content-Type : 
+ REPLY-TO : Date : From : Subject; 
+ bh=C/IMe4G7/1UYyLOQ5hcfUTmoF7+SdaNymNbRQvmdwYQ=; 
+ b=fXlJjYavFd7QCQqIxdBYtVZpzVaJzBwVYGbNNgVbRUtBy6vcatTu96OYhNKlhg//I/CjDw
+ EEPduv8Ki6A3w4iWApqBFHZA8HIjr3A8MN9p2tRenoP8AhaUelKZgp6EKOEQRp6P20EYdWTv
+ cFr65nVxK+LxkGaU5KxhYp/ZMeV6A=
+Received:from sc-10_10_120_205-others ([10.10.124.120]) by SendCloud Inbound Server (Haraka/2.2.4) with ESMTPA id 20CC663C-DF61-474E-B7C0-66FB513B46E4.1 envelope-from <weekly-digest@newsletter2.zhihu.com> (authenticated bits=0); Tue, 28 Jun 2016 16:49:00 +0800
+Date:Tue, 28 Jun 2016 16:49:00 +0800 (CST)
+From:=?UTF-8?B?55+l5LmO5q+P5ZGo57K+6YCJ?= <weekly-digest@newsletter2.zhihu.com>
+To:573275629@qq.com
+Message-ID:<1546313414.6994860.1467103740854.JavaMail.jetty@sc-10_10_120_205-webapi>
+Subject:=?utf-8?b?5oCO5qC36IO95aSf57O757uf55qE5LuO6ISa6Lid5omt5Lyk5Lit5oGi5aSN?=
+ =?utf-8?q?=3F?=
+MIME-Version:1.0
+Content-Type:multipart/mixed; boundary="----=_Part_6994859_1985431500.1467103740841"
+REPLY-TO:=?UTF-8?B?55+l5LmO5q+P5ZGo57K+6YCJ?= <weekly-digest@newsletter2.zhihu.com>
+X-SENDCLOUD-UUID:1467103740956_212_4639_6071.sc-10_10_24_154-inbound0$573275629@qq.com
+X-SENDCLOUD-LOG:1467103740956_212_4639_6071.sc-10_10_24_154-inbound0$573275629@qq.com#573275629@qq.com#56898#212#0
+X-SMTPAPI:
+
+
+------=_Part_6994859_1985431500.1467103740841
+Content-Type:text/html; charset="UTF-8"
+Content-Transfer-Encoding:quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html style=3D"margin: 0; padding: 0" xml=
+ns=3D"http://www.w3.org/1999/xhtml"><head title=3D"&#x77E5;&#x4E4E;&#x6BCF;=
+&#x5468;&#x7CBE;&#x9009;"><meta content=3D"text/html; charset=3Dutf-8" http=
+-equiv=3D"Content-Type"><style type=3D"text/css">/*<![CDATA[*/
+@media only screen and (max-width: 552px) { /* mobile */
+  body[yf] .zhwd-mobile-no-fullwidth {
+    width: auto;
+  }
+  body[yf] .zhwd-mobile-fullwidth {
+    width: 100%;
+  }
+  body[yf] .zhwd-mobile-paddingtop {
+    padding-top: 19px;
+  }
+  body[yf] .zhwd-mobile-no-radius {
+    border-radius: 0 !important;
+    width: 100%;
+    border-left: 0 none !important;
+    border-right: 0 none !important;
+  }
+  body[yf] .zhwd-mobile-hide {
+    display: none;
+  }
+  body[yf] .zhwd-mobile-centered-table {
+    width: 100%;
+    float: none;
+  }
+  body[yf] .zhwd-mobile-centered-table-wmt {
+    margin-top: 20px;
+  }
+  body[yf] .zhwd-mobile-full-width {
+    width: 100%;
+  }
+  body[yf] .zhwd-mobile-collapse-padding {
+    padding: 30px 20px !important;
+  }
+  body[yf] .zhwd-mobile-small-footer {
+    padding: 20px 20px 30px 20px !important;
+  }
+  body[yf] .zhwd-responsive-image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+
+.zhwd-high-res-img-wrap.zhwd-zhihu-logo {
+  width: 51px;
+  height: 23px;
+}
+.zhwd-high-res-img-wrap.zhwd-zhihu-square {
+  width: 25px;
+  height: 25px;
+}
+.zhwd-high-res-img-wrap.zhwd-zhihu-android {
+  width: 23px;
+  height: 26px;
+}
+.zhwd-high-res-img-wrap.zhwd-zhihu-apple {
+  width: 22px;
+  height: 24px;
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+  body[yf] .zhwd-high-res-img-wrap {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  body[yf] span.zhwd-high-res-img-wrap {
+    display: inline-block;
+  }
+  body[yf] .zhwd-high-res-img-wrap img {
+    display: none !important;
+  }
+  body[yf] .zhwd-high-res-img-wrap.zhwd-zhihu-logo {
+    background-image: url(http://s3.zhimg.com/edm/weekly_digest/logo_@2x.pn=
+g);
+  }
+  body[yf] .zhwd-high-res-img-wrap.zhwd-zhihu-square {
+    background-image: url(http://s3.zhimg.com/edm/weekly_digest/square_@2x.=
+png);
+  }
+  body[yf] .zhwd-high-res-img-wrap.zhwd-zhihu-android {
+    background-image: url(http://s3.zhimg.com/edm/weekly_digest/Android_@2x=
+.png);
+  }
+  body[yf] .zhwd-high-res-img-wrap.zhwd-zhihu-apple {
+    background-image: url(http://s1.zhimg.com/edm/weekly_digest/apple_@2x.p=
+ng);
+  }
+}
+/*]]>*/</style></head><body yf=3D"http://goo.gl/PAm8sL" style=3D"margin: 0;=
+ padding: 0"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"zhwd-mobile-fullwidth" style=3D"background-color:#f7f9fa" width=3D"100%=
+"><tr><td align=3D"center" class=3D"zhwd-mobile-fullwidth" style=3D"backgro=
+und-color: #F7F9FA" width=3D"100%"><table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"zhwd-mobile-fullwidth" style=3D"background-color:#=
+f7f9fa" width=3D"552"><tr><td height=3D"0" style=3D"font-size:0px; line-hei=
+ght: 0px; color: #f7f9fa">&#x8FD9;&#x662F;&#x4E00;&#x5C01;&#x6839;&#x636E;&=
+#x4F60;&#x7684;&#x5174;&#x8DA3;&#x5B9A;&#x5236;&#x7684;&#x7CBE;&#x534E;&#x5=
+408;&#x96C6;&#xFF0C;&#x5E0C;&#x671B;&#x4F60;&#x6BCF;&#x671F;&#x90FD;&#x80FD=
+;&#x9047;&#x89C1;&#x4E0D;&#x540C;&#x7684;&#x7CBE;&#x5F69;&#x3002;</td></tr>=
+<tr class=3D"zhwd-mobile-hide"><td><table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%"><tr><td height=3D"40" style=3D"font-size:0px=
+; line-height: 0px">&#xA0;</td></tr><tr><td align=3D"right" style=3D"font-s=
+ize:12px;color:#b6c2cc">&#x5982;&#x679C;&#x4E0D;&#x60F3;&#x7EE7;&#x7EED;&#x=
+63A5;&#x6536;&#x6765;&#x81EA;&#x77E5;&#x4E4E;&#x7684;&#x90AE;&#x4EF6;&#xFF0=
+C; &#x8BF7;&#x70B9;&#x51FB;<a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDov=
+L3d3dy56aGlodS5jb20vc2V0dGluZ3MvZW1haWwvdW5zdWJzY3JpYmU%2FdT00NjY0MDM1NDI5N=
+TgwOCZ0PWRpZ2VzdCZlPTE0NjcxMDM3NDAmdj1aVGM1TXpFM016SXhOMkV3TlRkbFlXUTJaR1Ew=
+WVRFMk0yWmxZek5qTUdGaE4yVTVaRGd3Wmc9PSZ1dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9=
+zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=
+=3Dunsubscribe&amp;s=3D0&amp;c=3DaT05Nzg0MzMyMjcmbD11bnN1YnNjcmliZSZzPTA%3D=
+" label=3D"unsubscribe" style=3D"font-size:12px;color:#8a939b;text-decorati=
+on:none">&#xA0;&#x9000;&#x8BA2;</a></td><td width=3D"35">&#xA0;</td></tr><t=
+r><td height=3D"20" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></=
+tr></table></td></tr><tr><td><table cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"zhwd-mobile-no-radius" style=3D"border-radius:4px;border:1px solid #d=
+edede;margin:0 auto;background-color:#ffffff"><tr><td style=3D"padding:45px=
+ 35px 45px 35px" class=3D"zhwd-mobile-collapse-padding" align=3D"left"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tr><td valign=3D=
+"middle" width=3D"51" style=3D"vertical-align:middle" class=3D"zhwd-high-re=
+s-img-wrap zhwd-zhihu-logo"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDo=
+vL3d3dy56aGlodS5jb20vP3V0bV9jYW1wYWlnbj13ZWVrbHkyMjAmdXRtX3NvdXJjZT13ZWVrbH=
+ktZGlnZXN0JnV0bV9tZWRpdW09ZW1haWw%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=
+=3D1&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTE%3D" target=3D"_blank"><img alt=
+=3D"&#x77E5;&#x4E4E;" height=3D"23" src=3D"http://s4.zhimg.com/edm/weekly_d=
+igest/logo.png" style=3D"outline:none;text-decoration:none;border:none;marg=
+in:0;padding:0;display:block" width=3D"51"></a></td><td align=3D"left" styl=
+e=3D"font-size:24px;color:#202121">&#xA0;&#xA0;&#x6BCF;&#x5468;&#x7CBE;&#x9=
+009;</td><td align=3D"right" style=3D"font-size:13px;color:#676b6d" valign=
+=3D"middle">&#x7B2C; 220 &#x671F;</td></tr></table></td></tr><tr><td height=
+=3D"45" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td height=3D"35=
+" style=3D"font-size:0px; line-height: 0px;border-top:1px #f1f4f6 solid">&#=
+xA0;</td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0"><tr><td><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5j=
+b20vcXVlc3Rpb24vMjA5NzY2NTQvYW5zd2VyLzEwMjk0OTA3Nj91dG1fY2FtcGFpZ249d2Vla2x=
+5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D97843=
+3227&amp;l=3Dzhihu&amp;s=3D2&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTI%3D" st=
+yle=3D"font-size:17px;font-weight:bold;text-decoration:none;color:#259;bord=
+er:none;outline:none">&#x600E;&#x6837;&#x80FD;&#x591F;&#x7CFB;&#x7EDF;&#x76=
+84;&#x4ECE;&#x811A;&#x8E1D;&#x626D;&#x4F24;&#x4E2D;&#x6062;&#x590D;?</a></t=
+d></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" class=3D"zhwd-mobile-no-fullwidth"><tr><td height=3D"15" style=
+=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td width=3D"22"><=
+img alt=3D"&#x6768;&#x560E;&#x560E;" height=3D"22" src=3D"http://mailbox.zh=
+img.com/6de5d73d2e6131ba40bcddec496abb18_l.jpg" style=3D"border-radius:2px;=
+outline:none;text-decoration:none;border:none;margin:0;padding:0;display:bl=
+ock" width=3D"22"></td><td width=3D"8"></td><td align=3D"left"><a href=3D"h=
+ttp://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcGVvcGxlL2lubmVzcy0=
+zMj91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbW=
+VkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D3&amp;c=3DaT05Nzg0Mz=
+MyMjcmbD16aGlodSZzPTM%3D" style=3D"font-size:13px;color:#333333;text-decora=
+tion:none"><strong>&#x6768;&#x560E;&#x560E;</strong></a><span style=3D"font=
+-size:13px;color:#666">&#xFF0C;&#x5317;&#x4EAC;&#x4F53;&#x80B2;&#x5927;&#x5=
+B66;&#xFF0C;&#x8FD0;&#x52A8;&#x5EB7;&#x590D;&#xFF0C;&#x5C31;&#x7231;&#x5FFD=
+;&#x60A0;&#x4EBA;</span></td><td style=3D"font-size:13px;color:#676b6d" cla=
+ss=3D"zhwd-mobile-hide" align=3D"right">170 &#xA0;&#x8D5E;&#x540C;</td></tr=
+><tr><td height=3D"12" style=3D"font-size:0px; line-height: 0px">&#xA0;</td=
+></tr></table></td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0"><tr><td style=3D"word-break:break-all"><a href=3D"http://tmail=
+.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMjA5NzY2NTQvYW5zd2=
+VyLzEwMjk0OTA3Nj91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ=
+2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D4&amp;c=
+=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTQ%3D" style=3D"font-size:13px;line-height:=
+22px;text-decoration:none;color:#333;display:block">&#x6211;&#x5728;&#x5317=
+;&#x4EAC;&#x4F53;&#x80B2;&#x5927;&#x5B66;&#x5C31;&#x8BFB;&#xFF0C;&#x5B66;&#=
+x7684;&#x662F;&#x8FD0;&#x52A8;&#x5EB7;&#x590D;&#x4E13;&#x4E1A;&#xFF0C;&#x52=
+1A;&#x521A;&#x8003;&#x4E0A;&#x7814;&#x7A76;&#x751F;&#xFF0C;&#x867D;&#x7136;=
+&#x4E0D;&#x5927;&#x5496;&#x4E5F;&#x4E0D;&#x662F;&#x5B66;&#x9738;&#xFF0C;&#x=
+4F46;&#x662F;&#x770B;&#x5230;&#x8FD9;&#x4E48;&#x591A;&#x4EBA;&#x56E0;&#x4E3=
+A;&#x5D34;&#x811A;&#x800C;&#x56F0;&#x6270;&#xFF0C;&#x8FD8;&#x662F;&#x60F3;&=
+#x8981;&#x6765;&#x8BF4;&#x8BF4;&#x3002;&#x5D34;&#x811A;&#x5B66;&#x540D;&#x4=
+E3A;&#x8E1D;&#x5173;&#x8282;&#x626D;&#x4F24;&#xFF0C;&#x4E60;&#x60EF;&#x6027=
+;&#x5D34;&#x811A;&#x5B66;&#x540D;&#x4E3A;&#x529F;&#x80FD;&#x6027;&#x8E1D;&#=
+x5173;&#x8282;&#x2026;<span style=3D"font-size:13px;display:inline-block;co=
+lor:#259">&#xA0;&#x9605;&#x8BFB;&#x5168;&#x6587;</span></a></td><td width=
+=3D"35" class=3D"zhwd-mobile-hide">&#xA0;</td><td class=3D"zhwd-mobile-hide=
+" style=3D"vertical-align: top" valign=3D"top"><a href=3D"http://tmail.zhih=
+u.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMjA5NzY2NTQvYW5zd2VyLzE=
+wMjk0OTA3Nj91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdC=
+Z1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D5&amp;c=3DaT=
+05Nzg0MzMyMjcmbD16aGlodSZzPTU%3D"><img src=3D"http://mailbox.zhimg.com/bb03=
+06b636c0593cc1632737b302103b_200x112.jpg" width=3D"140" style=3D"max-height=
+:105px;outline:none;text-decoration:none;border:none;margin:0;padding:0;dis=
+play:block"></a></td></tr></table></td></tr><tr><td height=3D"28" style=3D"=
+font-size:0px; line-height: 0px">&#xA0;</td></tr></table></td></tr><tr><td =
+height=3D"35" style=3D"font-size:0px; line-height: 0px;border-top:1px #f1f4=
+f6 solid">&#xA0;</td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0"><tr><td><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3=
+dy56aGlodS5jb20vcXVlc3Rpb24vNDc0NTI1OTkvYW5zd2VyLzEwNzc0MjcwOD91dG1fY2FtcGF=
+pZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&a=
+mp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D6&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodS=
+ZzPTY%3D" style=3D"font-size:17px;font-weight:bold;text-decoration:none;col=
+or:#259;border:none;outline:none">&#x4E3A;&#x4EC0;&#x4E48;&#x5149;&#x901F;&=
+#x6162;&#x4E00;&#x70B9;&#x70B9;&#xFF0C;&#x5C31;&#x4E0D;&#x4F1A;&#x6709;&#x7=
+8B3;&#x5143;&#x7D20;&#x3002;&#x8BA9;&#x5149;&#x901F;&#x5FEB;&#x4E00;&#x70B9=
+;&#x70B9;&#xFF0C;&#x5C31;&#x4E0D;&#x4F1A;&#x6709;&#x6C27;&#x5143;&#x7D20;&#=
+xFF1F;</a></td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%" class=3D"zhwd-mobile-no-fullwidth"><tr><td height=
+=3D"15" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td w=
+idth=3D"22"><img alt=3D"&#x5317;&#x51A5;&#x6709;&#x9C7C;" height=3D"22" src=
+=3D"http://mailbox.zhimg.com/c9a266ba34dbc5652ca15e16179984fb_l.jpg" style=
+=3D"border-radius:2px;outline:none;text-decoration:none;border:none;margin:=
+0;padding:0;display:block" width=3D"22"></td><td width=3D"8"></td><td align=
+=3D"left"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb=
+20vcGVvcGxlL05vcnRoVW5kZXJXb3JsZD91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3Vy=
+Y2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhih=
+u&amp;s=3D7&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTc%3D" style=3D"font-size:=
+13px;color:#333333;text-decoration:none"><strong>&#x5317;&#x51A5;&#x6709;&#=
+x9C7C;</strong></a><span style=3D"font-size:13px;color:#666">&#xFF0C;&#x740=
+6;&#x8BBA;&#x7269;&#x7406;Ph.D.</span></td><td style=3D"font-size:13px;colo=
+r:#676b6d" class=3D"zhwd-mobile-hide" align=3D"right">1627 &#xA0;&#x8D5E;&#=
+x540C;</td></tr><tr><td height=3D"12" style=3D"font-size:0px; line-height: =
+0px">&#xA0;</td></tr></table></td></tr><tr><td><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0"><tr><td style=3D"word-break:break-all"><a href=
+=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vND=
+c0NTI1OTkvYW5zd2VyLzEwNzc0MjcwOD91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY=
+2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu=
+&amp;s=3D8&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTg%3D" style=3D"font-size:1=
+3px;line-height:22px;text-decoration:none;color:#333;display:block">&#x8C22=
+;&#x9080;&#x3002;&#x8981;&#x4E86;&#x89E3;&#x8FD9;&#x4E2A;&#x95EE;&#x9898;&#=
+xFF0C;&#x6D89;&#x53CA;&#x5230;&#x4E24;&#x65B9;&#x9762;&#x77E5;&#x8BC6;&#xFF=
+0C;&#x4E00;&#x662F;&#x5316;&#x5B66;&#x5143;&#x7D20;&#x7684;&#x8D77;&#x6E90;=
+&#x662F;&#x4EC0;&#x4E48;&#xFF1F;&#x4E8C;&#x662F;&#x5149;&#x901F;&#x5982;&#x=
+4F55;&#x5F71;&#x54CD;&#x5143;&#x7D20;&#x5185;&#x90E8;&#x76F8;&#x4E92;&#x4F5=
+C;&#x7528;&#xFF1F;&#x5316;&#x5B66;&#x5143;&#x7D20;&#x7684;&#x8D77;&#x6E90;&=
+#x662F;&#x4EC0;&#x4E48;&#xFF1F;&#x5B87;&#x5B99;&#x7684;&#x65F6;&#x95F4;&#x5=
+48C;&#x7A7A;&#x95F4;&#x90FD;&#x6765;&#x6E90;&#x4E8E;137&#x4EBF;&#x5E74;&#x5=
+24D;&#x7684;&#x5927;&#x7206;&#x70B8;&#x3002;&#x6700;&#x521D;&#xFF0C;&#x5B87=
+;&#x5B99;&#x4E2D;&#x2026;<span style=3D"font-size:13px;display:inline-block=
+;color:#259">&#xA0;&#x9605;&#x8BFB;&#x5168;&#x6587;</span></a></td></tr></t=
+able></td></tr><tr><td height=3D"28" style=3D"font-size:0px; line-height: 0=
+px">&#xA0;</td></tr></table></td></tr><tr><td height=3D"35" style=3D"font-s=
+ize:0px; line-height: 0px;border-top:1px #f1f4f6 solid">&#xA0;</td></tr><tr=
+><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td><a hre=
+f=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vN=
+Dc5MTg2ODQvYW5zd2VyLzEwODIwMjA1OT91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3Vy=
+Y2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhih=
+u&amp;s=3D9&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTk%3D" style=3D"font-size:=
+17px;font-weight:bold;text-decoration:none;color:#259;border:none;outline:n=
+one">&#x5982;&#x4F55;&#x8BC4;&#x4EF7; 2016 &#x6B27;&#x6D32;&#x676F; 1/8 &#x=
+51B3;&#x8D5B;&#x610F;&#x5927;&#x5229; 2:0 &#x897F;&#x73ED;&#x7259;&#xFF1F;<=
+/a></td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" class=3D"zhwd-mobile-no-fullwidth"><tr><td height=3D"15" s=
+tyle=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td width=3D"2=
+2"><img alt=3D"zprj" height=3D"22" src=3D"http://mailbox.zhimg.com/0d8530d2=
+6de23fc78a3c4baf4efa7086_l.jpg" style=3D"border-radius:2px;outline:none;tex=
+t-decoration:none;border:none;margin:0;padding:0;display:block" width=3D"22=
+"></td><td width=3D"8"></td><td align=3D"left"><a href=3D"http://tmail.zhih=
+u.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcGVvcGxlL3podS1wYW4tcmVuLWppZT91dG1=
+fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPW=
+VtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D10&amp;c=3DaT05Nzg0MzMyMjcmb=
+D16aGlodSZzPTEw" style=3D"font-size:13px;color:#333333;text-decoration:none=
+"><strong>zprj</strong></a><span style=3D"font-size:13px;color:#666">&#xFF0=
+C;&#x4F2A;&#x88C5;&#x6210;&#x6495;&#x6587;&#x4EBA;</span></td><td style=3D"=
+font-size:13px;color:#676b6d" class=3D"zhwd-mobile-hide" align=3D"right">66=
+ &#xA0;&#x8D5E;&#x540C;</td></tr><tr><td height=3D"12" style=3D"font-size:0=
+px; line-height: 0px">&#xA0;</td></tr></table></td></tr><tr><td><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"word-break:br=
+eak-all"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb2=
+0vcXVlc3Rpb24vNDc5MTg2ODQvYW5zd2VyLzEwODIwMjA1OT91dG1fY2FtcGFpZ249d2Vla2x5M=
+jIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D9784332=
+27&amp;l=3Dzhihu&amp;s=3D11&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTEx" style=
+=3D"font-size:13px;line-height:22px;text-decoration:none;color:#333;display=
+:block">&#x9996;&#x5148;&#x611F;&#x8C22;&#x4F69;&#x83B1;&#xFF0C;&#x8BA9;&#x=
+6211;&#x8F93;&#x4E86;200&#x5757;&#x3002;-----------------------------------=
+-----&#x4EE5;&#x4E0B;&#x548C;&#x8DB3;&#x7403;&#x6709;&#x90E8;&#x5206;&#x517=
+3;&#x7CFB;-----------------------------&#x8D5B;&#x524D;&#x610F;&#x5927;&#x5=
+229;&#x65B0;&#x95FB;&#x53D1;&#x5E03;&#x4F1A;&#x8BB0;&#x8005;&#x95EE;&#x5E03=
+;&#x51AF;&#xFF1A;&#x4F60;&#x89C9;&#x5F97;&#x201C;&#x524D;&#x961F;&#x53CB;&#=
+x201D;&#x83AB;&#x62C9;&#x5854;&#x600E;&#x4E48;&#x6837;&#x2026;<span style=
+=3D"font-size:13px;display:inline-block;color:#259">&#xA0;&#x9605;&#x8BFB;&=
+#x5168;&#x6587;</span></a></td><td width=3D"35" class=3D"zhwd-mobile-hide">=
+&#xA0;</td><td class=3D"zhwd-mobile-hide" style=3D"vertical-align: top" val=
+ign=3D"top"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5=
+jb20vcXVlc3Rpb24vNDc5MTg2ODQvYW5zd2VyLzEwODIwMjA1OT91dG1fY2FtcGFpZ249d2Vla2=
+x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D9784=
+33227&amp;l=3Dzhihu&amp;s=3D12&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTEy"><i=
+mg src=3D"http://mailbox.zhimg.com/3b5ef5e45335b6d8599fe7b6ee07d3a1_200x112=
+.jpg" width=3D"140" style=3D"max-height:105px;outline:none;text-decoration:=
+none;border:none;margin:0;padding:0;display:block"></a></td></tr></table></=
+td></tr><tr><td height=3D"28" style=3D"font-size:0px; line-height: 0px">&#x=
+A0;</td></tr></table></td></tr><tr><td height=3D"35" style=3D"font-size:0px=
+; line-height: 0px;border-top:1px #f1f4f6 solid">&#xA0;</td></tr><tr><td><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td><a href=3D"ht=
+tp://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMjE4MTgw=
+NzUvYW5zd2VyLzEwNzg3MDIxNz91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2V=
+la2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=
+=3D13&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTEz" style=3D"font-size:17px;fon=
+t-weight:bold;text-decoration:none;color:#259;border:none;outline:none">&#x=
+5982;&#x4F55;&#x8BC4;&#x4EF7;&#x671F;&#x6743; (Stock Option) &#x8FD9;&#x79C=
+D;&#x6FC0;&#x52B1;&#x65B9;&#x5F0F;&#xFF1F;</a></td></tr><tr><td><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"zhwd-m=
+obile-no-fullwidth"><tr><td height=3D"15" style=3D"font-size:0px; line-heig=
+ht: 0px">&#xA0;</td></tr><tr><td width=3D"22"><img alt=3D"&#x4F55;&#x660E;&=
+#x79D1;" height=3D"22" src=3D"http://mailbox.zhimg.com/36b158fd8_l.jpg" sty=
+le=3D"border-radius:2px;outline:none;text-decoration:none;border:none;margi=
+n:0;padding:0;display:block" width=3D"22"></td><td width=3D"8"></td><td ali=
+gn=3D"left"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5=
+jb20vcGVvcGxlL2hlLW1pbmcta2U%2FdXRtX2NhbXBhaWduPXdlZWtseTIyMCZ1dG1fc291cmNl=
+PXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbA%3D%3D&amp;i=3D978433227&amp;l=3D=
+zhihu&amp;s=3D14&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTE0" style=3D"font-si=
+ze:13px;color:#333333;text-decoration:none"><strong>&#x4F55;&#x660E;&#x79D1=
+;</strong></a><span style=3D"font-size:13px;color:#666">&#xFF0C;&#x4E0D;&#x=
+5199;&#x7A0B;&#x5E8F;&#x7684;&#x6570;&#x636E;&#x5DE5;&#x7A0B;&#x5E08;&#x4E0=
+D;&#x662F;&#x597D;&#x4EA7;&#x54C1;&#x7ECF;&#x7406;</span></td><td style=3D"=
+font-size:13px;color:#676b6d" class=3D"zhwd-mobile-hide" align=3D"right">86=
+ &#xA0;&#x8D5E;&#x540C;</td></tr><tr><td height=3D"12" style=3D"font-size:0=
+px; line-height: 0px">&#xA0;</td></tr></table></td></tr><tr><td><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"word-break:br=
+eak-all"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb2=
+0vcXVlc3Rpb24vMjE4MTgwNzUvYW5zd2VyLzEwNzg3MDIxNz91dG1fY2FtcGFpZ249d2Vla2x5M=
+jIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D9784332=
+27&amp;l=3Dzhihu&amp;s=3D15&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTE1" style=
+=3D"font-size:13px;line-height:22px;text-decoration:none;color:#333;display=
+:block">&#x8FD8;&#x80FD;&#x600E;&#x4E48;&#x8BC4;&#x4EF7;&#xFF1F;&#x671F;&#x=
+6743;&#xFF08;Stock Option&#xFF09;&#x662F;&#x4EBA;&#x7C7B;&#x5546;&#x4E1A;&#=
+x667A;&#x6167;&#x7684;&#x4F1F;&#x5927;&#x7ED3;&#x6676;&#xFF0C;&#x5982;&#x67=
+9C;&#x5217;&#x51FA;&#x5BF9;&#x5546;&#x4E1A;&#x6700;&#x6709;&#x5F71;&#x54CD;=
+&#x529B;&#x7684;&#x524D;&#x5341;&#x5927;&#x91D1;&#x878D;&#x4EA7;&#x54C1;&#x=
+FF0C;&#x671F;&#x6743;&#x662F;&#x5F88;&#x6709;&#x5E0C;&#x671B;&#x5F53;&#x900=
+9;&#x7684;&#x3002;&#x7B80;&#x5355;&#x8BF4;&#xFF0C;&#x671F;&#x6743;&#x5C06;&=
+#x521B;&#x59CB;&#x4EBA;&#x753B;&#x997C;&#x5439;&#x6CE1;&#x6CE1;&#x6FC0;&#x5=
+2B1;&#x56E2;&#x961F;&#x8FD9;&#x4EF6;&#x4E8B;&#x60C5;&#xFF0C;&#x5B9E;&#x73B0=
+;&#x7CFB;&#x2026;<span style=3D"font-size:13px;display:inline-block;color:#=
+259">&#xA0;&#x9605;&#x8BFB;&#x5168;&#x6587;</span></a></td></tr></table></t=
+d></tr><tr><td height=3D"28" style=3D"font-size:0px; line-height: 0px">&#xA=
+0;</td></tr></table></td></tr><tr><td height=3D"35" style=3D"font-size:0px;=
+ line-height: 0px;border-top:1px #f1f4f6 solid">&#xA0;</td></tr><tr><td><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td><a href=3D"htt=
+p://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMjE4MTU0O=
+TAvYW5zd2VyLzk0MDE5MDY2P3V0bV9jYW1wYWlnbj13ZWVrbHkyMjAmdXRtX3NvdXJjZT13ZWVr=
+bHktZGlnZXN0JnV0bV9tZWRpdW09ZW1haWw%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;=
+s=3D16&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTE2" style=3D"font-size:17px;fo=
+nt-weight:bold;text-decoration:none;color:#259;border:none;outline:none">&#=
+x4E3A;&#x4EC0;&#x4E48; Deep Learning &#x6700;&#x5148;&#x5728;&#x8BED;&#x97F=
+3;&#x8BC6;&#x522B;&#x548C;&#x56FE;&#x50CF;&#x5904;&#x7406;&#x9886;&#x57DF;&=
+#x53D6;&#x5F97;&#x7A81;&#x7834;&#xFF1F;</a></td></tr><tr><td><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"zhwd-mob=
+ile-no-fullwidth"><tr><td height=3D"15" style=3D"font-size:0px; line-height=
+: 0px">&#xA0;</td></tr><tr><td width=3D"22"><img alt=3D"&#x79D1;&#x7814;&#x=
+541B;" height=3D"22" src=3D"http://mailbox.zhimg.com/45d3079af176cc6446ae24=
+7b3016371f_l.png" style=3D"border-radius:2px;outline:none;text-decoration:n=
+one;border:none;margin:0;padding:0;display:block" width=3D"22"></td><td wid=
+th=3D"8"></td><td align=3D"left"><a href=3D"http://tmail.zhihu.com/t?u=3DaH=
+R0cDovL3d3dy56aGlodS5jb20vcGVvcGxlL3BoLWQtZXI%2FdXRtX2NhbXBhaWduPXdlZWtseTI=
+yMCZ1dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbA%3D%3D&amp;i=3D9=
+78433227&amp;l=3Dzhihu&amp;s=3D17&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTE3"=
+ style=3D"font-size:13px;color:#333333;text-decoration:none"><strong>&#x79D=
+1;&#x7814;&#x541B;</strong></a><span style=3D"font-size:13px;color:#666">&#=
+xFF0C;&#x6BCF;&#x5468;&#x516D;&#x63D0;&#x4F9B;&#x4E00;&#x4EFD;&#x9AD8;&#x8D=
+28;&#x91CF;&#x56DE;&#x7B54;&#x3002;</span></td><td style=3D"font-size:13px;=
+color:#676b6d" class=3D"zhwd-mobile-hide" align=3D"right">167 &#xA0;&#x8D5E=
+;&#x540C;</td></tr><tr><td height=3D"12" style=3D"font-size:0px; line-heigh=
+t: 0px">&#xA0;</td></tr></table></td></tr><tr><td><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0"><tr><td style=3D"word-break:break-all"><a hr=
+ef=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24v=
+MjE4MTU0OTAvYW5zd2VyLzk0MDE5MDY2P3V0bV9jYW1wYWlnbj13ZWVrbHkyMjAmdXRtX3NvdXJ=
+jZT13ZWVrbHktZGlnZXN0JnV0bV9tZWRpdW09ZW1haWw%3D&amp;i=3D978433227&amp;l=3Dz=
+hihu&amp;s=3D18&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTE4" style=3D"font-siz=
+e:13px;line-height:22px;text-decoration:none;color:#333;display:block">&#x3=
+010;&#x4E0D;&#x597D;&#x610F;&#x601D;&#xFF0C;&#x7531;&#x4E8E;&#x524D;&#x6BB5=
+;&#x65F6;&#x95F4;&#x88AB;&#x544A;&#x77E5;&#x540D;&#x79F0;&#x4E0D;&#x7B26;&#=
+x5408;&#x77E5;&#x4E4E;&#x547D;&#x540D;&#x89C4;&#x8303;&#xFF0C;&#x88AB;&#x89=
+81;&#x6C42;&#x5F3A;&#x5236;&#x6539;&#x540D;&#xFF0C;&#x73B0;&#x5728;&#x6211;=
+&#x4EEC;&#x540D;&#x79F0;&#x6539;&#x4E3A;&#x201C;&#x79D1;&#x7814;&#x541B;&#x=
+201D;&#xFF0C;&#x6B22;&#x8FCE;&#x5927;&#x5BB6;&#x7EE7;&#x7EED;&#x5173;&#x6CE=
+8;~&#x53E6;&#x5916;&#x7531;&#x4E8E;&#x6539;&#x540D;&#x671F;&#x95F4;&#x4E0D;=
+&#x5141;&#x8BB8;&#x53D1;&#x9001;&#x4EFB;&#x4F55;&#x6D88;&#x606F;&#xFF0C;&#x=
+5BFC;&#x81F4;&#x6211;&#x4EEC;&#x8FD9;&#x7BC7;&#x6587;&#x7AE0;&#x53D1;&#x5E0=
+3;&#x7565;&#x665A;&#xFF0C;&#x2026;<span style=3D"font-size:13px;display:inl=
+ine-block;color:#259">&#xA0;&#x9605;&#x8BFB;&#x5168;&#x6587;</span></a></td=
+><td width=3D"35" class=3D"zhwd-mobile-hide">&#xA0;</td><td class=3D"zhwd-m=
+obile-hide" style=3D"vertical-align: top" valign=3D"top"><a href=3D"http://=
+tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMjE4MTU0OTAvY=
+W5zd2VyLzk0MDE5MDY2P3V0bV9jYW1wYWlnbj13ZWVrbHkyMjAmdXRtX3NvdXJjZT13ZWVrbHkt=
+ZGlnZXN0JnV0bV9tZWRpdW09ZW1haWw%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D=
+19&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTE5"><img src=3D"http://mailbox.zhi=
+mg.com/9059814c244e965c884245ab68366201_200x112.png" width=3D"140" style=3D=
+"max-height:105px;outline:none;text-decoration:none;border:none;margin:0;pa=
+dding:0;display:block"></a></td></tr></table></td></tr><tr><td height=3D"28=
+" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr></table></td></=
+tr><tr><td height=3D"35" style=3D"font-size:0px; line-height: 0px;border-to=
+p:1px #f1f4f6 solid">&#xA0;</td></tr><tr><td><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0"><tr><td><a href=3D"http://tmail.zhihu.com/t?u=3Da=
+HR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMTk2OTgyMjMvYW5zd2VyLzQzNTkxNDAzP3V0=
+bV9jYW1wYWlnbj13ZWVrbHkyMjAmdXRtX3NvdXJjZT13ZWVrbHktZGlnZXN0JnV0bV9tZWRpdW0=
+9ZW1haWw%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D20&amp;c=3DaT05Nzg0MzMy=
+MjcmbD16aGlodSZzPTIw" style=3D"font-size:17px;font-weight:bold;text-decorat=
+ion:none;color:#259;border:none;outline:none">&#x73B0;&#x5728;&#x662F;&#x54=
+26;&#x8D8A;&#x6765;&#x8D8A;&#x591A;&#x5DE5;&#x4E1A;&#x8BBE;&#x8BA1;&#x4E13;=
+&#x4E1A;&#x7684;&#x4EBA;&#x90FD;&#x5F00;&#x59CB;&#x505A;&#x4EA4;&#x4E92;&#x=
+8BBE;&#x8BA1;&#x7684;&#x5DE5;&#x4F5C;&#xFF1F;</a></td></tr><tr><td><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"zhw=
+d-mobile-no-fullwidth"><tr><td height=3D"15" style=3D"font-size:0px; line-h=
+eight: 0px">&#xA0;</td></tr><tr><td width=3D"22"><img alt=3D"&#x6768;&#x66E=
+6;" height=3D"22" src=3D"http://mailbox.zhimg.com/1df1e222f88bb4df406b01b33=
+d4b1eda_l.jpg" style=3D"border-radius:2px;outline:none;text-decoration:none=
+;border:none;margin:0;padding:0;display:block" width=3D"22"></td><td width=
+=3D"8"></td><td align=3D"left"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0=
+cDovL3d3dy56aGlodS5jb20vcGVvcGxlL3lhbmcteGktODI%2FdXRtX2NhbXBhaWduPXdlZWtse=
+TIyMCZ1dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbA%3D%3D&amp;i=
+=3D978433227&amp;l=3Dzhihu&amp;s=3D21&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzP=
+TIx" style=3D"font-size:13px;color:#333333;text-decoration:none"><strong>&#=
+x6768;&#x66E6;</strong></a><span style=3D"font-size:13px;color:#666">&#xFF0=
+C;&#x7528;&#x8BBE;&#x8BA1;&#x53BB;&#x751F;&#x6D3B;</span></td><td style=3D"=
+font-size:13px;color:#676b6d" class=3D"zhwd-mobile-hide" align=3D"right">13=
+6 &#xA0;&#x8D5E;&#x540C;</td></tr><tr><td height=3D"12" style=3D"font-size:=
+0px; line-height: 0px">&#xA0;</td></tr></table></td></tr><tr><td><table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"word-break:b=
+reak-all"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb=
+20vcXVlc3Rpb24vMTk2OTgyMjMvYW5zd2VyLzQzNTkxNDAzP3V0bV9jYW1wYWlnbj13ZWVrbHky=
+MjAmdXRtX3NvdXJjZT13ZWVrbHktZGlnZXN0JnV0bV9tZWRpdW09ZW1haWw%3D&amp;i=3D9784=
+33227&amp;l=3Dzhihu&amp;s=3D22&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTIy" st=
+yle=3D"font-size:13px;line-height:22px;text-decoration:none;color:#333;disp=
+lay:block">&#x9996;&#x5148;&#x8BA9;&#x6211;&#x4EEC;&#x6765;&#x5206;&#x6790;=
+&#x4E00;&#x4E0B;&#x5DE5;&#x4E1A;&#x8BBE;&#x8BA1;&#x548C;&#x4EA4;&#x4E92;&#x=
+8BBE;&#x8BA1;&#x3002;&#xFF08;Architectural Graphic Standards, Wiley, 2000&#=
+xFF0C;&#x611F;&#x8C22; @&#x5E7D;&#x7BC1;&#x5750;&#x5578; &#x540C;&#x978B;&#=
+x6316;&#x6398;&#xFF09;&#x5916;&#x89C2;&#x8BBE;&#x8BA1;&#x4E4B;&#x5916;&#xFF=
+0C;&#x5DE5;&#x4E1A;&#x8BBE;&#x8BA1;&#x4E2D;&#x6709;&#x4E00;&#x4E2A;&#x5F88;=
+&#x91CD;&#x8981;&#x7684;&#x73AF;&#x8282;&#xFF1A;ergonomics&#xFF0C;&#x4E5F;&=
+#x5C31;&#x662F;&#x4EBA;&#x2026;<span style=3D"font-size:13px;display:inline=
+-block;color:#259">&#xA0;&#x9605;&#x8BFB;&#x5168;&#x6587;</span></a></td><t=
+d width=3D"35" class=3D"zhwd-mobile-hide">&#xA0;</td><td class=3D"zhwd-mobi=
+le-hide" style=3D"vertical-align: top" valign=3D"top"><a href=3D"http://tma=
+il.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMTk2OTgyMjMvYW5z=
+d2VyLzQzNTkxNDAzP3V0bV9jYW1wYWlnbj13ZWVrbHkyMjAmdXRtX3NvdXJjZT13ZWVrbHktZGl=
+nZXN0JnV0bV9tZWRpdW09ZW1haWw%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D23&=
+amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTIz"><img src=3D"http://mailbox.zhimg.=
+com/93532df5548d14d75490d92755e0ac00_200x112.jpg" width=3D"140" style=3D"ma=
+x-height:105px;outline:none;text-decoration:none;border:none;margin:0;paddi=
+ng:0;display:block"></a></td></tr></table></td></tr><tr><td height=3D"28" s=
+tyle=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr></table></td></tr>=
+<tr><td height=3D"35" style=3D"font-size:0px; line-height: 0px;border-top:1=
+px #f1f4f6 solid">&#xA0;</td></tr><tr><td><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td><a href=3D"http://tmail.zhihu.com/t?u=3DaH=
+R0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vNDc4MzU0MDUvYW5zd2VyLzEwODA0Njc2NT91d=
+G1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVt=
+PWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D24&amp;c=3DaT05Nzg0MzMyMjc=
+mbD16aGlodSZzPTI0" style=3D"font-size:17px;font-weight:bold;text-decoration=
+:none;color:#259;border:none;outline:none">&#x5F71;&#x89C6;&#x7EA7;&#x522B;=
+&#x7684;&#x7834;&#x788E;&#x6548;&#x679C;&#x600E;&#x4E48;&#x5236;&#x4F5C;&#x=
+FF1F;</a></td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" class=3D"zhwd-mobile-no-fullwidth"><tr><td height=3D=
+"15" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td widt=
+h=3D"22"><img alt=3D"&#x900D;&#x9065;&#x5251;&#x5BA2;" height=3D"22" src=3D=
+"http://mailbox.zhimg.com/3b9b67e62ae03a1edf82d93b6dac0a39_l.jpg" style=3D"=
+border-radius:2px;outline:none;text-decoration:none;border:none;margin:0;pa=
+dding:0;display:block" width=3D"22"></td><td width=3D"8"></td><td align=3D"=
+left"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vc=
+GVvcGxlL3hveW9qYW5rP3V0bV9jYW1wYWlnbj13ZWVrbHkyMjAmdXRtX3NvdXJjZT13ZWVrbHkt=
+ZGlnZXN0JnV0bV9tZWRpdW09ZW1haWw%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D=
+25&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTI1" style=3D"font-size:13px;color:=
+#333333;text-decoration:none"><strong>&#x900D;&#x9065;&#x5251;&#x5BA2;</str=
+ong></a><span style=3D"font-size:13px;color:#666">&#xFF0C;&#x9E45;&#x5382;&=
+#x91CC;&#x7684;&#x733F;&#x7C7B;, 3D, VR, Console</span></td><td style=3D"fo=
+nt-size:13px;color:#676b6d" class=3D"zhwd-mobile-hide" align=3D"right">89 &=
+#xA0;&#x8D5E;&#x540C;</td></tr><tr><td height=3D"12" style=3D"font-size:0px=
+; line-height: 0px">&#xA0;</td></tr></table></td></tr><tr><td><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"word-break:brea=
+k-all"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20v=
+cXVlc3Rpb24vNDc4MzU0MDUvYW5zd2VyLzEwODA0Njc2NT91dG1fY2FtcGFpZ249d2Vla2x5MjI=
+wJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227=
+&amp;l=3Dzhihu&amp;s=3D26&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTI2" style=
+=3D"font-size:13px;line-height:22px;text-decoration:none;color:#333;display=
+:block">&#x5148;&#x8BF4;&#x7ED3;&#x8BBA;: &#x5BF9;&#x4E8E;&#x7269;&#x7406;&=
+#x7834;&#x574F;&#x800C;&#x8A00;, &#x6700;&#x9EBB;&#x70E6;&#x7684;&#x4E0D;&#=
+x662F;&#x7269;&#x7406;&#x90E8;&#x5206;, &#x800C;&#x662F;&#x89C6;&#x89C9;&#x=
+90E8;&#x5206;. &#x6240;&#x4EE5;&#x8FD9;&#x5E76;&#x4E0D;&#x662F;&#x4E00;&#x4=
+E2A;&#x7B80;&#x5355;&#x7684;&#x6280;&#x672F;&#x95EE;&#x9898;, &#x800C;&#x66=
+2F;&#x6D89;&#x53CA;&#x5230;&#x5236;&#x4F5C;&#x5DE5;&#x5177;&#x548C;&#x6D41;=
+&#x7A0B;&#x4E86;. AAA&#x7EA7;&#x6E38;&#x620F;&#x4E2D;&#x5E38;&#x7528;&#x768=
+4;&#x662F;Havok&#x7269;&#x7406;&#x5F15;&#x64CE;&#x4E2D;&#x7684;&#x8FD9;&#x4=
+E00;&#x529F;&#x80FD;. &#x4EE5;&#x4E0B;&#x5185;&#x5BB9;&#x2026;<span style=
+=3D"font-size:13px;display:inline-block;color:#259">&#xA0;&#x9605;&#x8BFB;&=
+#x5168;&#x6587;</span></a></td><td width=3D"35" class=3D"zhwd-mobile-hide">=
+&#xA0;</td><td class=3D"zhwd-mobile-hide" style=3D"vertical-align: top" val=
+ign=3D"top"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5=
+jb20vcXVlc3Rpb24vNDc4MzU0MDUvYW5zd2VyLzEwODA0Njc2NT91dG1fY2FtcGFpZ249d2Vla2=
+x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D9784=
+33227&amp;l=3Dzhihu&amp;s=3D27&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTI3"><i=
+mg src=3D"http://mailbox.zhimg.com/d001284428c232f470a5647a4fa4a6c7_200x112=
+.png" width=3D"140" style=3D"max-height:105px;outline:none;text-decoration:=
+none;border:none;margin:0;padding:0;display:block"></a></td></tr></table></=
+td></tr><tr><td height=3D"28" style=3D"font-size:0px; line-height: 0px">&#x=
+A0;</td></tr></table></td></tr><tr><td height=3D"35" style=3D"font-size:0px=
+; line-height: 0px;border-top:1px #f1f4f6 solid">&#xA0;</td></tr><tr><td><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td><a href=3D"ht=
+tp://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMzMwNDUx=
+NDEvYW5zd2VyLzEwMzA5MDE2MD91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2V=
+la2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=
+=3D28&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTI4" style=3D"font-size:17px;fon=
+t-weight:bold;text-decoration:none;color:#259;border:none;outline:none">&#x=
+4E59;&#x809D;&#x65E9;&#x6709;&#x75AB;&#x82D7;&#xFF0C;&#x4E3A;&#x4F55;&#x827=
+E;&#x6ECB;&#x75AB;&#x82D7;&#x4ECD;&#x7136;&#x56F0;&#x96BE;&#x91CD;&#x91CD;&=
+#xFF1F;</a></td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" class=3D"zhwd-mobile-no-fullwidth"><tr><td height=
+=3D"15" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td w=
+idth=3D"22"><img alt=3D"Juntao Yu" height=3D"22" src=3D"http://mailbox.zhim=
+g.com/cf5e784246711525236dedb04930a8e9_l.jpg" style=3D"border-radius:2px;ou=
+tline:none;text-decoration:none;border:none;margin:0;padding:0;display:bloc=
+k" width=3D"22"></td><td width=3D"8"></td><td align=3D"left"><a href=3D"htt=
+p://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcGVvcGxlL2p0eXU%2FdXR=
+tX2NhbXBhaWduPXdlZWtseTIyMCZ1dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT=
+1lbWFpbA%3D%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D29&amp;c=3DaT05Nzg0M=
+zMyMjcmbD16aGlodSZzPTI5" style=3D"font-size:13px;color:#333333;text-decorat=
+ion:none"><strong>Juntao Yu</strong></a><span style=3D"font-size:13px;color=
+:#666">&#xFF0C;Molecular Biology</span></td><td style=3D"font-size:13px;col=
+or:#676b6d" class=3D"zhwd-mobile-hide" align=3D"right">153 &#xA0;&#x8D5E;&#=
+x540C;</td></tr><tr><td height=3D"12" style=3D"font-size:0px; line-height: =
+0px">&#xA0;</td></tr></table></td></tr><tr><td><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0"><tr><td style=3D"word-break:break-all"><a href=
+=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMz=
+MwNDUxNDEvYW5zd2VyLzEwMzA5MDE2MD91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY=
+2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu=
+&amp;s=3D30&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTMw" style=3D"font-size:13=
+px;line-height:22px;text-decoration:none;color:#333;display:block">&#x62FF;=
+HIV &#x548C; HBV &#x4F5C;&#x6BD4;&#x8F83;&#xFF0C;&#x4E3B;&#x8981;&#x662F;&#=
+x770B;&#x75AB;&#x82D7;&#x7684;&#x6297;&#x539F;&#x6210;&#x5206;&#x662F;&#x4E=
+C0;&#x4E48;&#xFF0C;HBV &#x662F;&#x4E00;&#x4E2A;&#x6BD4;&#x8F83;&#x4FDD;&#x5=
+B88;&#x6210;&#x5206;&#xFF0C;&#x800C; HIV &#x76EE;&#x524D;&#x8FD8;&#x6CA1;&#=
+x627E;&#x5230;&#x8FD9;&#x6837;&#x7684;&#x6210;&#x5206;&#xFF0C;&#x6240;&#x4E=
+E5; HIV &#x786E;&#x5B9E;&#x8981;&#x4E0D;&#x597D;&#x5BF9;&#x4ED8;&#x4E00;&#x=
+4E9B;&#xFF0C; &#x6709;&#x5F88;&#x591A;&#x56E0;&#x7D20;&#x5BFC;&#x81F4;&#x4E=
+86; HIV &#x7684;&#x75AB;&#x82D7;&#x8BBE;&#x8BA1;&#x56F0;&#x96BE;&#xFF0C;&#x=
+5217;&#x4E3E;&#x2026;<span style=3D"font-size:13px;display:inline-block;col=
+or:#259">&#xA0;&#x9605;&#x8BFB;&#x5168;&#x6587;</span></a></td><td width=3D=
+"35" class=3D"zhwd-mobile-hide">&#xA0;</td><td class=3D"zhwd-mobile-hide" s=
+tyle=3D"vertical-align: top" valign=3D"top"><a href=3D"http://tmail.zhihu.c=
+om/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMzMwNDUxNDEvYW5zd2VyLzEwMz=
+A5MDE2MD91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1d=
+G1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D31&amp;c=3DaT05=
+Nzg0MzMyMjcmbD16aGlodSZzPTMx"><img src=3D"http://mailbox.zhimg.com/21c27b12=
+5b6d7661fa0452fbf7a034f6_200x112.jpg" width=3D"140" style=3D"max-height:105=
+px;outline:none;text-decoration:none;border:none;margin:0;padding:0;display=
+:block"></a></td></tr></table></td></tr><tr><td height=3D"28" style=3D"font=
+-size:0px; line-height: 0px">&#xA0;</td></tr></table></td></tr><tr><td heig=
+ht=3D"35" style=3D"font-size:0px; line-height: 0px;border-top:1px #f1f4f6 s=
+olid">&#xA0;</td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0"><tr><td><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56=
+aGlodS5jb20vcXVlc3Rpb24vMjQ5NTAzOTgvYW5zd2VyLzEwMDY2MDk1Mj91dG1fY2FtcGFpZ24=
+9d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=
+=3D978433227&amp;l=3Dzhihu&amp;s=3D32&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzP=
+TMy" style=3D"font-size:17px;font-weight:bold;text-decoration:none;color:#2=
+59;border:none;outline:none">&#x5982;&#x4F55;&#x6539;&#x5584;&#x56FD;&#x518=
+5;&#x5FC3;&#x7406;&#x54A8;&#x8BE2;&#x884C;&#x4E1A;&#x7684;&#x6DF7;&#x4E71;&=
+#x60C5;&#x51B5;&#xFF1F;</a></td></tr><tr><td><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"zhwd-mobile-no-fullwidth"=
+><tr><td height=3D"15" style=3D"font-size:0px; line-height: 0px">&#xA0;</td=
+></tr><tr><td width=3D"22"><img alt=3D"&#x795D;&#x5353;&#x5B8F;" height=3D"=
+22" src=3D"http://mailbox.zhimg.com/b8efc8bae9f349cf3d8ae1385b89f933_l.jpg"=
+ style=3D"border-radius:2px;outline:none;text-decoration:none;border:none;m=
+argin:0;padding:0;display:block" width=3D"22"></td><td width=3D"8"></td><td=
+ align=3D"left"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGl=
+odS5jb20vcGVvcGxlL3podS16aHVvLWhvbmctYmo%2FdXRtX2NhbXBhaWduPXdlZWtseTIyMCZ1=
+dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbA%3D%3D&amp;i=3D978433=
+227&amp;l=3Dzhihu&amp;s=3D33&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTMz" styl=
+e=3D"font-size:13px;color:#333333;text-decoration:none"><strong>&#x795D;&#x=
+5353;&#x5B8F;</strong></a><span style=3D"font-size:13px;color:#666">&#xFF0C=
+;&#x5FC3;&#x7406;&#x54A8;&#x8BE2;&#x7763;&#x5BFC;&#xFF0C;&#x4E34;&#x5E8A;&#=
+x5FC3;&#x7406;&#x5B66;&#x6559;&#x6388;&#xFF0C;ACT&#x5FC3;&#x7406;&#x2026;</=
+span></td><td style=3D"font-size:13px;color:#676b6d" class=3D"zhwd-mobile-h=
+ide" align=3D"right">59 &#xA0;&#x8D5E;&#x540C;</td></tr><tr><td height=3D"1=
+2" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr></table></td><=
+/tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td=
+ style=3D"word-break:break-all"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR=
+0cDovL3d3dy56aGlodS5jb20vcXVlc3Rpb24vMjQ5NTAzOTgvYW5zd2VyLzEwMDY2MDk1Mj91dG=
+1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtP=
+WVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D34&amp;c=3DaT05Nzg0MzMyMjcm=
+bD16aGlodSZzPTM0" style=3D"font-size:13px;line-height:22px;text-decoration:=
+none;color:#333;display:block">1&#x3001;&#x660E;&#x786E;&#x5FC3;&#x7406;&#x=
+54A8;&#x8BE2;&#x5E08;&#x804C;&#x4E1A;&#x5B9A;&#x4F4D;&#x548C;&#x76F8;&#x517=
+3;&#x4E3B;&#x7BA1;&#x90E8;&#x95E8;&#xFF0C;&#x81EA;&#x4ECE;&#x5FC3;&#x7406;&=
+#x54A8;&#x8BE2;&#x5E08;&#x8D44;&#x683C;&#x8BA4;&#x8BC1;&#x5F00;&#x59CB;&#x4=
+EE5;&#x540E;&#xFF0C;&#x4E3B;&#x8981;&#x6709;&#x4EBA;&#x793E;&#x90E8;&#x7EC4=
+;&#x7EC7;&#x6BCF;&#x5E74;&#x4E24;&#x6B21;&#x7684;&#x5168;&#x56FD;&#x8003;&#=
+x8BD5;&#xFF0C;&#x4F46;&#x662F;&#xFF0C;&#x8003;&#x8BD5;&#x4E4B;&#x540E;&#x7F=
+3A;&#x4E4F;&#x771F;&#x6B63;&#x7684;&#x76D1;&#x7BA1;&#xFF0C;&#x4ECE;&#x800C;=
+&#x5BFC;&#x81F4;&#x76EE;&#x524D;&#x5FC3;&#x7406;&#x54A8;&#x8BE2;&#x884C;&#x=
+4E1A;&#x95EE;&#x9898;&#x4E1B;&#x751F;&#x3002;&#x5FC3;&#x7406;&#x2026;<span =
+style=3D"font-size:13px;display:inline-block;color:#259">&#xA0;&#x9605;&#x8=
+BFB;&#x5168;&#x6587;</span></a></td></tr></table></td></tr><tr><td height=
+=3D"28" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr></table><=
+/td></tr><tr><td height=3D"35" style=3D"font-size:0px; line-height: 0px;bor=
+der-top:1px #f1f4f6 solid">&#xA0;</td></tr><tr><td><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0"><tr><td style=3D"font-size:16px;font-weight=
+:bold;color:#333333"><strong>&#x70ED;&#x95E8;&#x6536;&#x85CF;&#x5939;</stro=
+ng></td></tr><tr><td height=3D"15" style=3D"font-size:0px; line-height: 0px=
+">&#xA0;</td></tr><tr><td valign=3D"top"><a href=3D"http://tmail.zhihu.com/=
+t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vY29sbGVjdGlvbi8zMjAxOTk0Nz91dG1fY2FtcGFpZ=
+249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp=
+;i=3D978433227&amp;l=3Dzhihu&amp;s=3D35&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZ=
+zPTM1" style=3D"border:none;text-decoration:none;outline:none"><span style=
+=3D"font-size:14px;color:#259;font-weight:bold">&#x300C;&#x8FDB;&#x5316;&#x=
+6210;&#x66F4;&#x597D;&#x7684;&#x4EBA;&#x300D;</span>&#xA0;&#xA0;<span style=
+=3D"font-size:13px;color:#666666">5480 &#x4EBA;&#x5173;&#x6CE8; &#x2022; 76=
+ &#x95EE;&#x7B54;</span></a></td></tr><tr><td height=3D"15" style=3D"font-s=
+ize:0px; line-height: 0px">&#xA0;</td></tr><tr><td valign=3D"top"><a href=
+=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vY29sbGVjdGlvbi=
+85MTQ5Nzg4OD91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2Vzd=
+CZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D36&amp;c=3D=
+aT05Nzg0MzMyMjcmbD16aGlodSZzPTM2" style=3D"border:none;text-decoration:none=
+;outline:none"><span style=3D"font-size:14px;color:#259;font-weight:bold">&=
+#x6211;&#x60F3;&#x6709;&#x6240;&#x623F;&#x5B50;&#xFF0C;&#x518D;&#x6709;&#x4=
+E2A;&#x5F00;&#x6EE1;&#x82B1;&#x7684;&#x5C0F;&#x56ED;&#x3002;</span>&#xA0;&#=
+xA0;<span style=3D"font-size:13px;color:#666666">278 &#x4EBA;&#x5173;&#x6CE=
+8; &#x2022; 83 &#x95EE;&#x7B54;</span></a></td></tr><tr><td height=3D"15" s=
+tyle=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td valign=3D"=
+top"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vY2=
+9sbGVjdGlvbi8yMDE1ODA3Nz91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla=
+2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=
+=3D37&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTM3" style=3D"border:none;text-d=
+ecoration:none;outline:none"><span style=3D"font-size:14px;color:#259;font-=
+weight:bold">&#x827A;&#x672F;&#x3001;&#x8BBE;&#x8BA1;&#x3001;&#x4E0E;&#x7F8=
+E;&#x76F8;&#x5173;</span>&#xA0;&#xA0;<span style=3D"font-size:13px;color:#6=
+66666">2501 &#x4EBA;&#x5173;&#x6CE8; &#x2022; 151 &#x95EE;&#x7B54;</span></=
+a></td></tr><tr><td height=3D"15" style=3D"font-size:0px; line-height: 0px"=
+>&#xA0;</td></tr><tr><td valign=3D"top"><a href=3D"http://tmail.zhihu.com/t=
+?u=3DaHR0cDovL3d3dy56aGlodS5jb20vY29sbGVjdGlvbi8yMzE4NjMwND91dG1fY2FtcGFpZ2=
+49d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;=
+i=3D978433227&amp;l=3Dzhihu&amp;s=3D38&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZz=
+PTM4" style=3D"border:none;text-decoration:none;outline:none"><span style=
+=3D"font-size:14px;color:#259;font-weight:bold">&#x5403;&#x70B9;&#x597D;&#x=
+7684; &#x5F88;&#x6709;&#x5FC5;&#x8981;</span>&#xA0;&#xA0;<span style=3D"fon=
+t-size:13px;color:#666666">12429 &#x4EBA;&#x5173;&#x6CE8; &#x2022; 455 &#x9=
+5EE;&#x7B54;</span></a></td></tr></table></td></tr><tr><td height=3D"28" st=
+yle=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td height=3D"3=
+5" style=3D"font-size:0px; line-height: 0px;border-top:1px #f1f4f6 solid">&=
+#xA0;</td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%"><tr><td style=3D"font-size:16px;font-weight:bold;color:#=
+333333"><strong>&#x4F60;&#x53EF;&#x80FD;&#x611F;&#x5174;&#x8DA3;&#x7684;&#x=
+8BDD;&#x9898;</strong></td></tr><tr><td height=3D"5" style=3D"font-size:0px=
+; line-height: 0px">&#xA0;</td></tr><tr><td><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"238" align=3D"left" style=3D"border:1px s=
+olid #FFFFFF;border-collapse:collapse" class=3D"zhwd-mobile-full-width"><tr=
+><td bgcolor=3D"#FFFFFF" height=3D"20" style=3D"font-size:0px; line-height:=
+ 0px"><p style=3D"mso-table-lspace:0;mso-table-rspace:0">&#xA0;</p></td></t=
+r><tr><td bgcolor=3D"#FFFFFF" width=3D"40"><a href=3D"http://tmail.zhihu.co=
+m/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vdG9waWMvMjAwNTIwODg%2FdXRtX2NhbXBhaWduP=
+XdlZWtseTIyMCZ1dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbA%3D%3D=
+&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D39&amp;c=3DaT05Nzg0MzMyMjcmbD16aGl=
+odSZzPTM5" style=3D"border:none;text-decoration:none;outline:none"><img alt=
+=3D"&#x82F1;&#x56FD;&#x8131;&#x6B27;" height=3D"40" src=3D"http://mailbox.z=
+himg.com/24ce38dd5fc2a0c4e0525e577eef7d64_m.png" style=3D"border-radius:4px=
+;outline:none;text-decoration:none;border:none;margin:0;padding:0;display:b=
+lock" width=3D"40"></a></td><td bgcolor=3D"#FFFFFF" width=3D"13">&#xA0;</td=
+><td bgcolor=3D"#FFFFFF" height=3D"40"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0"><tr><td height=3D"20" valign=3D"top"><a href=3D"http://=
+tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vdG9waWMvMjAwNTIwODg%2FdXR=
+tX2NhbXBhaWduPXdlZWtseTIyMCZ1dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT=
+1lbWFpbA%3D%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D40&amp;c=3DaT05Nzg0M=
+zMyMjcmbD16aGlodSZzPTQw" style=3D"border:none;text-decoration:none;outline:=
+none"><span style=3D"font-size:14px;color:#259;font-weight:bold;color:#259"=
+>&#x82F1;&#x56FD;&#x8131;&#x6B27;</span></a></td></tr><tr><td height=3D"20"=
+ style=3D"font-size:13px;color:#666666" valign=3D"bottom">7334 &#x4EBA;&#x5=
+173;&#x6CE8;</td></tr></table></td></tr></table><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"238" align=3D"left" style=3D"border:1=
+px solid #FFFFFF;border-collapse:collapse" class=3D"zhwd-mobile-full-width"=
+><tr><td bgcolor=3D"#FFFFFF" height=3D"20" style=3D"font-size:0px; line-hei=
+ght: 0px"><p style=3D"mso-table-lspace:0;mso-table-rspace:0">&#xA0;</p></td=
+></tr><tr><td bgcolor=3D"#FFFFFF" width=3D"40"><a href=3D"http://tmail.zhih=
+u.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vdG9waWMvMTk1NzE4NzY%2FdXRtX2NhbXBha=
+WduPXdlZWtseTIyMCZ1dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbA%3=
+D%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D41&amp;c=3DaT05Nzg0MzMyMjcmbD1=
+6aGlodSZzPTQx" style=3D"border:none;text-decoration:none;outline:none"><img=
+ alt=3D"&#x6743;&#x529B;&#x7684;&#x6E38;&#x620F;&#xFF08;&#x7F8E;&#x5267;&#x=
+FF09;" height=3D"40" src=3D"http://mailbox.zhimg.com/5b526554579cb694666a7c=
+1a263b4053_m.jpg" style=3D"border-radius:4px;outline:none;text-decoration:n=
+one;border:none;margin:0;padding:0;display:block" width=3D"40"></a></td><td=
+ bgcolor=3D"#FFFFFF" width=3D"13">&#xA0;</td><td bgcolor=3D"#FFFFFF" height=
+=3D"40"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td hei=
+ght=3D"20" valign=3D"top"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL=
+3d3dy56aGlodS5jb20vdG9waWMvMTk1NzE4NzY%2FdXRtX2NhbXBhaWduPXdlZWtseTIyMCZ1dG=
+1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbA%3D%3D&amp;i=3D97843322=
+7&amp;l=3Dzhihu&amp;s=3D42&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTQy" style=
+=3D"border:none;text-decoration:none;outline:none"><span style=3D"font-size=
+:14px;color:#259;font-weight:bold;color:#259">&#x6743;&#x529B;&#x7684;&#x6E=
+38;&#x620F;&#xFF08;&#x7F8E;&#x5267;&#xFF09;</span></a></td></tr><tr><td hei=
+ght=3D"20" style=3D"font-size:13px;color:#666666" valign=3D"bottom">118460 =
+&#x4EBA;&#x5173;&#x6CE8;</td></tr></table></td></tr></table><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"238" align=3D"left" sty=
+le=3D"border:1px solid #FFFFFF;border-collapse:collapse" class=3D"zhwd-mobi=
+le-full-width"><tr><td bgcolor=3D"#FFFFFF" height=3D"20" style=3D"font-size=
+:0px; line-height: 0px"><p style=3D"mso-table-lspace:0;mso-table-rspace:0">=
+&#xA0;</p></td></tr><tr><td bgcolor=3D"#FFFFFF" width=3D"40"><a href=3D"htt=
+p://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vdG9waWMvMjAwNTI2NzM%2=
+FdXRtX2NhbXBhaWduPXdlZWtseTIyMCZ1dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZG=
+l1bT1lbWFpbA%3D%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D43&amp;c=3DaT05N=
+zg0MzMyMjcmbD16aGlodSZzPTQz" style=3D"border:none;text-decoration:none;outl=
+ine:none"><img alt=3D"&#x957F;&#x5F81;&#x4E03;&#x53F7;" height=3D"40" src=
+=3D"http://mailbox.zhimg.com/d92356f85124ece57a38947f53756d9a_m.png" style=
+=3D"border-radius:4px;outline:none;text-decoration:none;border:none;margin:=
+0;padding:0;display:block" width=3D"40"></a></td><td bgcolor=3D"#FFFFFF" wi=
+dth=3D"13">&#xA0;</td><td bgcolor=3D"#FFFFFF" height=3D"40"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td height=3D"20" valign=3D"=
+top"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vdG=
+9waWMvMjAwNTI2NzM%2FdXRtX2NhbXBhaWduPXdlZWtseTIyMCZ1dG1fc291cmNlPXdlZWtseS1=
+kaWdlc3QmdXRtX21lZGl1bT1lbWFpbA%3D%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=
+=3D44&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTQ0" style=3D"border:none;text-d=
+ecoration:none;outline:none"><span style=3D"font-size:14px;color:#259;font-=
+weight:bold;color:#259">&#x957F;&#x5F81;&#x4E03;&#x53F7;</span></a></td></t=
+r><tr><td height=3D"20" style=3D"font-size:13px;color:#666666" valign=3D"bo=
+ttom">151 &#x4EBA;&#x5173;&#x6CE8;</td></tr></table></td></tr></table><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"238" align=3D"l=
+eft" style=3D"border:1px solid #FFFFFF;border-collapse:collapse" class=3D"z=
+hwd-mobile-full-width"><tr><td bgcolor=3D"#FFFFFF" height=3D"20" style=3D"f=
+ont-size:0px; line-height: 0px"><p style=3D"mso-table-lspace:0;mso-table-rs=
+pace:0">&#xA0;</p></td></tr><tr><td bgcolor=3D"#FFFFFF" width=3D"40"><a hre=
+f=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vdG9waWMvMTk4N=
+jcyNzI%2FdXRtX2NhbXBhaWduPXdlZWtseTIyMCZ1dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdX=
+RtX21lZGl1bT1lbWFpbA%3D%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D45&amp;c=
+=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTQ1" style=3D"border:none;text-decoration:n=
+one;outline:none"><img alt=3D"&#x9AD8;&#x8003;&#x5FD7;&#x613F;&#x586B;&#x62=
+A5;" height=3D"40" src=3D"http://mailbox.zhimg.com/2aa3ddab903f3010b51aefa7=
+d3362526_m.jpg" style=3D"border-radius:4px;outline:none;text-decoration:non=
+e;border:none;margin:0;padding:0;display:block" width=3D"40"></a></td><td b=
+gcolor=3D"#FFFFFF" width=3D"13">&#xA0;</td><td bgcolor=3D"#FFFFFF" height=
+=3D"40"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td hei=
+ght=3D"20" valign=3D"top"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL=
+3d3dy56aGlodS5jb20vdG9waWMvMTk4NjcyNzI%2FdXRtX2NhbXBhaWduPXdlZWtseTIyMCZ1dG=
+1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbA%3D%3D&amp;i=3D97843322=
+7&amp;l=3Dzhihu&amp;s=3D46&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTQ2" style=
+=3D"border:none;text-decoration:none;outline:none"><span style=3D"font-size=
+:14px;color:#259;font-weight:bold;color:#259">&#x9AD8;&#x8003;&#x5FD7;&#x61=
+3F;&#x586B;&#x62A5;</span></a></td></tr><tr><td height=3D"20" style=3D"font=
+-size:13px;color:#666666" valign=3D"bottom">4312 &#x4EBA;&#x5173;&#x6CE8;</=
+td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td heigh=
+t=3D"28" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td =
+height=3D"35" style=3D"font-size:0px; line-height: 0px;border-top:1px #f1f4=
+f6 solid">&#xA0;</td></tr><tr><td><table align=3D"left" width=3D"238" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"zhwd-mobile-centered-t=
+able" style=3D"border:1px solid #FFFFFF;border-collapse:collapse"><tr><td b=
+gcolor=3D"#FFFFFF"><p style=3D"mso-table-lspace:0;mso-table-rspace:0"><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left"><tr><td c=
+lass=3D"zhwd-high-res-img-wrap zhwd-zhihu-square"><img height=3D"25" src=3D=
+"http://s4.zhimg.com/edm/weekly_digest/square.png" width=3D"25" style=3D"ve=
+rtical-align:middle;outline:none;text-decoration:none;border:none;margin:0;=
+padding:0;display:block"></td><td width=3D"20">&#xA0;</td><td style=3D"font=
+-size:16px;font-weight:bold;color:#0077d9">&#x77E5;&#x4E4E;&#x5BA2;&#x6237;=
+&#x7AEF;</td></tr><tr><td height=3D"14" style=3D"font-size:0px; line-height=
+: 0px">&#xA0;</td></tr><tr><td align=3D"center" colspan=3D"3"><table width=
+=3D"179" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color:#d4d9de;border-radius:5px;text-align:center" height=3D"38"><tr><td=
+ height=3D"38" valign=3D"middle" style=3D"padding-right:5px;padding-left:20=
+px;line-height:0"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56a=
+GlodS5jb20vYXBwLz91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRp=
+Z2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D47&amp=
+;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTQ3" target=3D"_blank"><span class=3D"zhw=
+d-high-res-img-wrap zhwd-zhihu-apple"><img src=3D"http://s3.zhimg.com/edm/w=
+eekly_digest/apple.png" width=3D"23" height=3D"26" style=3D"outline:none;te=
+xt-decoration:none;border:none;margin:0;padding:0;display:block"></span></a=
+></td><td style=3D"color:#333333;font-weight:bold;padding-right:20px;white-=
+space:nowrap"><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlod=
+S5jb20vYXBwLz91dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2Vz=
+dCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D48&amp;c=
+=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTQ4" style=3D"border:none;color:#0084b4;tex=
+t-decoration:none;color:#ffffff;font-size:15px;font-weight:bold" target=3D"=
+_blank">iPhone &#x7248;</a></td></tr></table></td></tr><tr><td height=3D"12=
+" style=3D"font-size:0px; line-height: 0px">&#xA0;</td></tr><tr><td align=
+=3D"center" colspan=3D"3"><table width=3D"179" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" style=3D"background-color:#d4d9de;border-radius:5px;te=
+xt-align:center" height=3D"38"><tr><td height=3D"38" valign=3D"middle" styl=
+e=3D"padding-right:5px;padding-left:20px;line-height:0"><a href=3D"http://t=
+mail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vYXBwLz91dG1fY2FtcGFpZ249d2=
+Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D=
+978433227&amp;l=3Dzhihu&amp;s=3D49&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTQ5=
+" target=3D"_blank"><span class=3D"zhwd-high-res-img-wrap zhwd-zhihu-androi=
+d"><img src=3D"http://s4.zhimg.com/edm/weekly_digest/Android.png" width=3D"=
+23" height=3D"26" style=3D"outline:none;text-decoration:none;border:none;ma=
+rgin:0;padding:0;display:block"></span></a></td><td style=3D"color:#333333;=
+font-weight:bold;padding-right:20px;white-space:nowrap"><a href=3D"http://t=
+mail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vYXBwLz91dG1fY2FtcGFpZ249d2=
+Vla2x5MjIwJnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D=
+978433227&amp;l=3Dzhihu&amp;s=3D50&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTUw=
+" style=3D"border:none;color:#0084b4;text-decoration:none;color:#ffffff;fon=
+t-size:15px" target=3D"_blank">Android &#x7248;</a></td></tr></table></td><=
+/tr></table></p></td></tr></table><table align=3D"left" width=3D"238" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"zhwd-mobile-centered-t=
+able zhwd-mobile-centered-table-wmt" style=3D"border:1px solid #FFFFFF;bord=
+er-collapse:collapse"><tr><td bgcolor=3D"#FFFFFF"><p style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"left"><tr><td><a href=3D"http://tmail.zhihu.com/t?u=3DaHR0c=
+HM6Ly96aHVhbmxhbi56aGlodS5jb20vcC8yMTQwNjExNT91dG1fY2FtcGFpZ249d2Vla2x5MjIw=
+JnV0bV9zb3VyY2U9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&=
+amp;l=3Dzhihu&amp;s=3D51&amp;c=3DaT05Nzg0MzMyMjcmbD16aGlodSZzPTUx" style=3D=
+"text-decoration:none"><img alt=3D"&#x77E5;&#x4E4E;&#x5468;&#x520A;" src=3D=
+"http://zhstatic.zhihu.com/eDM/weeklydigest/weekly-220.png" style=3D"font-s=
+ize:14px;color:#0077d9;outline:none;text-decoration:none;border:none;margin=
+:0;padding:0;display:block" width=3D"218" class=3D"zhwd-responsive-image" h=
+eight=3D"128"></a></td></tr></table></p></td></tr></table></td></tr></table=
+></td></tr></table></td></tr></table></td></tr><tr><td><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tr><td style=3D"padding=
+:20px 25px 45px 25px;font-size:12px;color:#b6c2cc;line-height:17px" class=
+=3D"zhwd-mobile-small-footer" align=3D"center">&#x8FD9;&#x5C01;&#x90AE;&#x4=
+EF6;&#x7684;&#x6536;&#x4EF6;&#x5730;&#x5740;&#x662F; 573275629@qq.com&#xFF1=
+B;&#x70B9;&#x51FB; <a href=3D"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56=
+aGlodS5jb20vc2V0dGluZ3MvZW1haWwvdW5zdWJzY3JpYmU%2FdT00NjY0MDM1NDI5NTgwOCZ0P=
+WRpZ2VzdCZlPTE0NjcxMDM3NDAmdj1aVGM1TXpFM016SXhOMkV3TlRkbFlXUTJaR1EwWVRFMk0y=
+WmxZek5qTUdGaE4yVTVaRGd3Wmc9PSZ1dG1fY2FtcGFpZ249d2Vla2x5MjIwJnV0bV9zb3VyY2U=
+9d2Vla2x5LWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls&amp;i=3D978433227&amp;l=3Dunsubsc=
+ribe&amp;s=3D52&amp;c=3DaT05Nzg0MzMyMjcmbD11bnN1YnNjcmliZSZzPTUy" label=3D"=
+unsubscribe" style=3D"border:none;color:#8a939b;text-decoration:none">&#xA0=
+;&#x9000;&#x8BA2;</a><br>&#x4F60;&#x53EF;&#x4EE5;&#x901A;&#x8FC7;<a href=3D=
+"http://tmail.zhihu.com/t?u=3DaHR0cDovL3d3dy56aGlodS5jb20vc2V0dGluZ3MvZW1ha=
+Ww%2FdXRtX2NhbXBhaWduPXdlZWtseTIyMCZ1dG1fc291cmNlPXdlZWtseS1kaWdlc3QmdXRtX2=
+1lZGl1bT1lbWFpbA%3D%3D&amp;i=3D978433227&amp;l=3Dzhihu&amp;s=3D53&amp;c=3Da=
+T05Nzg0MzMyMjcmbD16aGlodSZzPTUz" style=3D"border:none;color:#8a939b;text-de=
+coration:none">&#xA0;&#x8BBE;&#x7F6E;&#xA0;</a><span>&#x7BA1;&#x7406;&#x517=
+6;&#x4ED6;&#x6765;&#x81EA;&#x77E5;&#x4E4E;&#x7684;&#x90AE;&#x4EF6;</span><b=
+r>&#xA9; 2016 &#x77E5;&#x4E4E;</td></tr></table></td></tr></table></td></tr=
+></table><img src=3D"http://tmail.zhihu.com/static/-1618354119/email.png"><=
+/body></html>
+------=_Part_6994859_1985431500.1467103740841--
+
+
+
+

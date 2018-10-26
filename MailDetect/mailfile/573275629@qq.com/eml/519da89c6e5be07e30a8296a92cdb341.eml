@@ -1,0 +1,104 @@
+Received: from m12-15.163.com (unknown [220.181.12.15])
+	by newmx16.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Sun, 29 Mar 2015 11:39:39 +0800
+X-QQ-FEAT: SFCmZrWZMruPaYqYb/QRC1Oj2w8UB5+JLiPkF5ibxgBrmbWmnAzduDTaEJW/9
+	DR3wyRomyvB0TEXPU7QjJcOx6qyyoiC+f0idN3nTGYOVy9dg+Gxbu8UmNT60juVRYdbqRgc
+	ZgB6STyUpLqohPfrpoU00iBe464dIsepi82vkOqdYpSUyYLRpvdcKwUi0ib5cFPfKG2mxio
+	1x8MnkMKEg5+4P/ZTlb5x
+X-QQ-MAILINFO: ObpyOLNbESSkyw+fixUhvYwf+eRLwoIiEBl3dIQ8MldfHSjEPyxHO6AE4
+	cwPA3GKZWtIcODlpVXA6RtEX10UgwQTourrziDimm3xw7+5tfETaFc0gn1mE2vHppGsi5Li
+	4+zJb2qCmPjB3G//7ILEgOM=
+X-QQ-mid: mx16t1427600379tkwk0l8ib
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=From:Mime-Version:Subject:Message-Id:Date; bh=nQGkE
+	399Dg4RCGm6KKhgRd7t48kAUWfYXSK+aPd10sE=; b=OYkZQgt0TMQea3NIUVEjb
+	CmOV403TcVCrW9XxTCdNp5B+HqdifwgHLvtp8c+zquXh2lxpB50L84nGhUh4Ljgi
+	SEGJiqW4dQUnwSXx26r7pwiUuB+KQ/AI9EDaVGC2xNSnphnUPlkk/CBD8NqFRW93
+	3RmLRXyVEIqZ2QCDjk4qOg=
+Received: from [10.106.86.149] (unknown [117.136.38.65])
+	by smtp11 (Coremail) with SMTP id D8CowEAJZjr1cxdVbZOdAQ--.77S2;
+	Sun, 29 Mar 2015 11:39:36 +0800 (CST)
+From: Shijin Qi <ljq90@163.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-7784BF23-6C28-4583-9F1B-4E9383A0D92D
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: =?utf-8?B?RndkOiAyMDE1572R5piT5pyJ6YGT56CU5Y+R57G75a6e5Lmg55Sf?=
+ =?utf-8?B?6IGM5L2N56yU6K+V6YKA6K+3?=
+Message-Id: <208B4628-FD13-4A22-9CB9-5ED60BE0E421@163.com>
+Date: Sun, 29 Mar 2015 11:39:33 +0800
+References: <a1f6a26704aa90f45e52b430f0caf4f1@61.135.218.136>
+To: "573275629@qq.com" <573275629@qq.com>
+X-Mailer: iPhone Mail (12A405)
+X-CM-TRANSID:D8CowEAJZjr1cxdVbZOdAQ--.77S2
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUceT5DUUUU
+X-Originating-IP: [117.136.38.65]
+X-CM-SenderInfo: pomtmii6rwjhhfrp/1tbiZQrK4VD+bCgetQACsH
+
+
+--Apple-Mail-7784BF23-6C28-4583-9F1B-4E9383A0D92D
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: base64
+
+DQoNCuWPkeiHquaIkeeahCBpUGhvbmUNCg0K5Lul5LiL5piv6L2s5Y+R55qE6YKu5Lu277yaDQoN
+Cj4g5Y+R5Lu25Lq6OiBOZXRlYXNlIFJEIEpvYiA8eW91ZGFvam9iQDE4OC5jb20+DQo+IOaXpeac
+nzogMjAxNeW5tDPmnIgyN+aXpSBHTVQrODE4OjE4OjQ4DQo+IOaUtuS7tuS6ujogImxqcTkwQDE2
+My5jb20iIDxsanE5MEAxNjMuY29tPg0KPiDkuLvpopg6IDIwMTXnvZHmmJPmnInpgZPnoJTlj5Hn
+sbvlrp7kuaDnlJ/ogYzkvY3nrJTor5XpgoDor7cNCj4gDQo+IOadjuS9s+eQqu+8jOaCqOWlve+8
+jA0KPiANCj4g5oiR5Lus5b6I6auY5YW05Zyw6YCa55+l5oKo5Y+C5Yqg572R5piT5pyJ6YGT56CU
+5Y+R57G75a6e5Lmg55Sf55qE56yU6K+V77yM5YW35L2T5a6J5o6S5aaC5LiL77yaDQo+IA0KPiDn
+rJTor5Xml7bpl7TvvJoyMDE15bm0M+aciDMx5pelKOWRqOS6jCkgMTI6MDAtMTM6MzANCj4gDQo+
+IOeslOivleWcsOeCue+8mua4heWNjuenkeaKgOWbreWIm+S4muWkp+WOpjLlsYINCj4gDQo+ICrp
+nIDopoHluKbvvJox44CB566A5Y6G77ybMuOAgeiTneiJsuaIlum7keiJsuetvuWtl+eslO+8mw0K
+PiANCj4g5aaC5pyJ6Zeu6aKY77yM6K+35Zue5aSN6YKu5Lu26IezbWFjaG9uZ0ByZC5uZXRlYXNl
+LmNvbeaIluiHtOeUtTAxMC04MjU1ODE2My05ODMzDQo+IA0KPiDnpZ3mgqjnrJTor5XpobrliKkN
+Cj4gDQo+IA0KPiANCj4g572R5piT5pyJ6YGT5oub6IGY5bCP57uEDQo+IDE1LTAzLTI3DQo=
+
+--Apple-Mail-7784BF23-6C28-4583-9F1B-4E9383A0D92D
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div><br><br>=E5=8F=91=E8=87=AA=E6=88=91=E7=
+=9A=84 iPhone</div><div><br>=E4=BB=A5=E4=B8=8B=E6=98=AF=E8=BD=AC=E5=8F=91=E7=
+=9A=84=E9=82=AE=E4=BB=B6=EF=BC=9A<br><br></div><blockquote type=3D"cite"><di=
+v><b>=E5=8F=91=E4=BB=B6=E4=BA=BA:</b> Netease RD Job &lt;<a href=3D"mailto:y=
+oudaojob@188.com">youdaojob@188.com</a>&gt;<br><b>=E6=97=A5=E6=9C=9F:</b> 20=
+15=E5=B9=B43=E6=9C=8827=E6=97=A5 GMT+818:18:48<br><b>=E6=94=B6=E4=BB=B6=E4=BA=
+=BA:</b> "<a href=3D"mailto:ljq90@163.com">ljq90@163.com</a>" &lt;<a href=3D=
+"mailto:ljq90@163.com">ljq90@163.com</a>&gt;<br><b>=E4=B8=BB=E9=A2=98:</b> <=
+b>2015=E7=BD=91=E6=98=93=E6=9C=89=E9=81=93=E7=A0=94=E5=8F=91=E7=B1=BB=E5=AE=9E=
+=E4=B9=A0=E7=94=9F=E8=81=8C=E4=BD=8D=E7=AC=94=E8=AF=95=E9=82=80=E8=AF=B7</b>=
+<br><br></div></blockquote><blockquote type=3D"cite"><div>=E6=9D=8E=E4=BD=B3=
+=E7=90=AA=EF=BC=8C=E6=82=A8=E5=A5=BD=EF=BC=8C<br><br>
+
+<p>=E6=88=91=E4=BB=AC=E5=BE=88=E9=AB=98=E5=85=B4=E5=9C=B0=E9=80=9A=E7=9F=A5=E6=
+=82=A8=E5=8F=82=E5=8A=A0=E7=BD=91=E6=98=93=E6=9C=89=E9=81=93=E7=A0=94=E5=8F=91=
+=E7=B1=BB=E5=AE=9E=E4=B9=A0=E7=94=9F=E7=9A=84=E7=AC=94=E8=AF=95=EF=BC=8C=E5=85=
+=B7=E4=BD=93=E5=AE=89=E6=8E=92=E5=A6=82=E4=B8=8B=EF=BC=9A</p><p><font color=3D=
+"red">=E7=AC=94=E8=AF=95=E6=97=B6=E9=97=B4=EF=BC=9A2015=E5=B9=B43=E6=9C=8831=
+=E6=97=A5(=E5=91=A8=E4=BA=8C) 12:00-13:30</font></p><p><font color=3D"red">=E7=
+=AC=94=E8=AF=95=E5=9C=B0=E7=82=B9=EF=BC=9A=E6=B8=85=E5=8D=8E=E7=A7=91=E6=8A=80=
+=E5=9B=AD=E5=88=9B=E4=B8=9A=E5=A4=A7=E5=8E=A62=E5=B1=82</font>
+</p><p><b>*=E9=9C=80=E8=A6=81=E5=B8=A6=EF=BC=9A1=E3=80=81=E7=AE=80=E5=8E=86=EF=
+=BC=9B2=E3=80=81=E8=93=9D=E8=89=B2=E6=88=96=E9=BB=91=E8=89=B2=E7=AD=BE=E5=AD=
+=97=E7=AC=94=EF=BC=9B</b>
+</p><p>=E5=A6=82=E6=9C=89=E9=97=AE=E9=A2=98=EF=BC=8C=E8=AF=B7=E5=9B=9E=E5=A4=
+=8D=E9=82=AE=E4=BB=B6=E8=87=B3<a href=3D"mailto:machong@rd.netease.com">mach=
+ong@rd.netease.com</a>=E6=88=96=E8=87=B4=E7=94=B5010-82558163-9833
+</p><p>=E7=A5=9D=E6=82=A8=E7=AC=94=E8=AF=95=E9=A1=BA=E5=88=A9</p><p>
+
+
+<br><br>=E7=BD=91=E6=98=93=E6=9C=89=E9=81=93=E6=8B=9B=E8=81=98=E5=B0=8F=E7=BB=
+=84<br>15-03-27
+
+
+
+</p></div></blockquote></body></html>=
+
+--Apple-Mail-7784BF23-6C28-4583-9F1B-4E9383A0D92D--
+
+

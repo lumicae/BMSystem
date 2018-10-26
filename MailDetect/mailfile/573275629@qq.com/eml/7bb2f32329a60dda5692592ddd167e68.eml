@@ -1,0 +1,949 @@
+Received: from 50.31.46.223 (unknown [50.31.46.223])
+	by newmx25.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Wed, 22 Jun 2016 04:27:23 +0800
+X-QQ-FEAT: 16g1gbGUaDI/LMSJxJT/h28pz1H1mIlNKTLJLAuDseZH7nvis0aH8u1ZFnczk
+	uXMbgsA1yRSZPVudgXV5nkAarivloJi91xqf47t7DJgg2Jw6B/e1UmhZdZvOxvYzDuP55i2
+	nA5OETwH/Go2nRI/JSQO56wb7TiOu2j9GRIdfNqw8pMaQ5anVtaUr8ABDFy0NIoufXFWWce
+	a/NT6ynyhL5lM1uzs+oRCPo4nn0qecCqcteSzOgr9p41MBzxXSc2Y5si8NPOoZ0pCePRrVv
+	Z/hAaeLHHn1QRQtMb76R7s3aGtrCZw8vsFsO5tEds7YYBA
+X-QQ-MAILINFO: MfiUJyQXz1c0xsTJz5airPabKohsKsPhm8od/Py4K2pS95vP1RLzyfNck
+	diz3IYZ8DYlza20VEcEVpPpY7JsogMRwc0ZQSiMYoui75Bq0fhXZLBsufRPRV5QLU7zICeQ
+	zd4g+4ctMM0mswRHzZu4CoFtuBQsKroFIMWfYd+Z6WTC
+X-QQ-mid: usamxproxy17t1466540845tmqy0w0
+X-QQ-CSender: bounces+231424-d0bd-573275629=qq.com@email.italki.com
+X-QQ-ORGSender: bounces+231424-d0bd-573275629=qq.com@email.italki.com
+X-KK-mid:usamxproxy17t1466540845tmqy0w0
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=italki.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=smtpapi; bh=ZhjJbhNR+16uVSC993DD8/aAW+o=; b=HNM2Fjckv7FoGIXyC7
+	BAdLo+jJmiL40buSrGMEA+anng67DG+EjCbFdobiPLX9nw8UPitSdkbe41zREvWW
+	GORk7NoAfrm4LwIX/59dFU+fWiMw3YsCpgC8aO+CElkSbCPpAxB9fvdZCR4pQFHy
+	Sj9yXuuF+oPJYaXNPF6s5v5M8=
+Received: by filter0835p1mdw1.sendgrid.net with SMTP id filter0835p1mdw1.24299.576909A51
+        2016-06-21 09:32:21.036113172 +0000 UTC
+Received: from MjMxNDI0 (o16789125x251.outbound-mail.sendgrid.net [167.89.125.251])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with HTTP id frDzbnlST3O_kJb4tGh40Q
+	for <noreply@italki.com>; Tue, 21 Jun 2016 09:32:21.123 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=7ef173793c0b7595b5e17c6229e2ca0b8257fd7b83b02e2c868928c71a4b
+Date: Tue, 21 Jun 2016 09:32:21 +0000
+From: "italki" <noreply@italki.com>
+Mime-Version: 1.0
+Reply-to: noreply@italki.com
+Subject: =?UTF-8?Q?2016=E5=B9=B46=E6=9C=88=E8=AF=AD=E8=A8=80=E5=A4=A7=E9=A4=90?=
+To: 573275629@qq.com
+Message-ID: <frDzbnlST3O_kJb4tGh40Q@ismtpd0005p1iad1.sendgrid.net>
+List-Unsubscribe: <http://email.italki.com/wf/unsubscribe?upn=Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8recMc-2BOM0x2BOND2P-2Fw5EyETGobH7PspZ7rb9kaDDQxebsqEkX-2Fc6zSc-2FQjHc-2F4S6wbbKTc-2F16ZSjA62X6qhj3JaN22y5wWJyDmOsaZ4VhlXB-2F1rokWtPRx3BiuQD7lQs3sguH-2BzeOug39sTHIcycwKDzaBo48TQEQCTq8rEXw4q7K4rmn6-2FEMHMm0pX-2BcXdA58DET8srnhqongjxQPSFravm-2B1RWFSfYzOH2-2BOtzVvb9CtI0BllEGxUXBQihpnv8pbsyLfYanp0cXUVoY1e2i-2BY52hv82T9rwSpRevtpI18EJVLbLy7GhnhgzvWlpkui9A0HxwQRIhcVIvT-2F8PmUAg-3D-3D>, <mailto:unsubscribe@email.italki.com?subject=http://email.italki.com/wf/unsubscribe*q*upn=Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8recMc-2BOM0x2BOND2P-2Fw5EyETGobH7PspZ7rb9kaDDQxebsqEkX-2Fc6zSc-2FQjHc-2F4S6wbbKTc-2F16ZSjA62X6qhj3JaN22y5wWJyDmOsaZ4VhlXB-2F1rokWtPRx3BiuQD7lQs3sguH-2BzeOug39sTHIcycwKDzaBo48TQEQCTq8rEXw4q7K4rmn6-2FEMHMm0pX-2BcXdA58DET8srnhqongjxQPSFravm-2B1RWFSfYzOH2-2BOtzVvb9CtI0BllEGxUXBQihpnv8pbsyLfYanp0cXUVoY1e2i-2BY52hv82T9rwSpRevtpI18EJVLbLy7GhnhgzvWlpkui9A0HxwQRIhcVIvT-2F8PmUAg-3D-3D>
+X-SG-EID: ef2bHTvMRlwuVoU9sJWNkczGsEmy/al1gJOF2V4CfxqL53VCaHcAv1ka0FyJgBpcOR6keG49ntq5OQ
+ XsZpDJtPh7L0RPUBx/hUQpstOQz5HJEbAmADlbAwvPrios4iZFBrTexMyrdAeeg2/PlNBiAXbK5pET
+ KD3Wz3MVixshzb1/jABxuSvap941lQ8Tkur8tDadscpk5cc2d0tFMkM/Hg==
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LBXzmcw5LXGdqViYr+YNs39O3hiA3VBLOv85N
+ 2OzDpHjxRYxHvmx/2v/U7/S8QH8XSaFpY7e1ZOu3BqXJZjx2D9/IvAWDJRru/P7od8Uqb5S23Bd36o
+ z/X8TgMYPZMVzVQlG/zs63TmSnGJXkDttVhx
+
+--7ef173793c0b7595b5e17c6229e2ca0b8257fd7b83b02e2c868928c71a4b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+( https://www.italki.com/teachers/professional?utm_source=3Dinternal&utm_me=
+dium=3Demail&utm_campaign=3Dnewsletter_bulletin&utm_content=3Dcnb )
+
+
+
+
+=E6=96=B0=E5=87=BA=E7=82=89=E7=9A=84=E9=9D=A2=E5=8C=85
+=3D=3D=3D=3D=3D=3D
+
+
+
+
+
+
+=E4=BB=8A=E5=A4=A9=E6=98=AF=E4=B8=96=E7=95=8C=E9=9F=B3=E4=B9=90=E6=97=A5=E3=
+=80=82=E5=AF=B9=E5=BE=88=E5=A4=9A=E4=BA=BA=E6=9D=A5=E8=AF=B4=EF=BC=8C=E9=9F=
+=B3=E4=B9=90=E6=98=AF=E4=BB=96=E4=BB=AC=E7=9A=84=E7=81=B5=E6=84=9F=E6=9D=A5=
+=E6=BA=90=EF=BC=8C=E9=82=A3=E4=B9=88=E4=B8=BA=E4=BB=80=E4=B9=88=E4=B8=8D=E7=
+=94=A8=E9=9F=B3=E4=B9=90=E6=9D=A5=E6=BF=80=E5=8A=B1=E4=BD=A0=E7=9A=84=E8=AF=
+=AD=E8=A8=80=E5=AD=A6=E4=B9=A0 ( https://www.italki.com/teachers/profession=
+al?utm_source=3Dinternal&utm_medium=3Demail&utm_campaign=3Dnewsletter_bulle=
+tin&utm_content=3Dtop )=E5=91=A2=EF=BC=9F=E8=AE=A9=E6=88=91=E4=BB=AC=E4=B8=
+=80=E8=B5=B7=E5=92=8C=E8=80=81=E5=B8=88=E4=BB=AC=E8=81=8A=E8=81=8A=E4=BD=A0=
+=E5=9C=A8=E5=90=AC=E5=93=AA=E4=BA=9B=E9=9F=B3=E4=B9=90=EF=BC=8C=E8=BF=99=E4=
+=BA=9B=E9=9F=B3=E4=B9=90=E5=AF=B9=E4=BD=A0=E7=9A=84=E8=AF=AD=E8=A8=80=E5=AD=
+=A6=E4=B9=A0=E5=8F=88=E6=9C=89=E4=BD=95=E5=B8=AE=E5=8A=A9=E5=90=A7=E3=80=82
+
+=E6=AD=A4=E5=A4=96=E5=91=A2=EF=BC=8C=E6=88=91=E4=BB=AC=E4=B9=9F=E4=B8=8D=E5=
+=BE=97=E4=B8=8D=E6=8F=90=E4=B8=80=E4=B8=8B=E4=BB=8A=E5=B9=B4=E5=A4=8F=E5=A4=
+=A9=E6=9C=80=E9=87=8D=E8=A6=81=E7=9A=84=E4=B8=80=E4=B8=AA=E6=B4=BB=E5=8A=A8=
+=EF=BC=9Aitalki=E5=A5=A5=E6=9E=97=E5=8C=B9=E5=85=8B=E8=AF=AD=E8=A8=80=E6=8C=
+=91=E6=88=98=E8=B5=9B ( https://www.italki.com/languagechallenge?utm_source=
+=3Dinternal&utm_medium=3Demail&utm_campaign=3Dnewsletter_bulletin&utm_conte=
+nt=3Dtop )=E3=80=82=E6=97=A0=E8=AE=BA=E4=BD=A0=E6=98=AF=E6=83=B3=E8=A6=81=
+=E5=AD=A6=E4=B9=A0=E4=B8=80=E9=97=A8=E6=96=B0=E7=9A=84=E8=AF=AD=E8=A8=80=EF=
+=BC=8C=E8=BF=98=E6=98=AF=E6=83=B3=E8=A6=81=E6=8C=91=E6=88=98=E8=87=AA=E5=B7=
+=B1=E5=9C=A8=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=A0=E4=B8=8A=E7=9A=84=E8=80=90=
+=E5=8A=9B=E5=92=8C=E4=BD=93=E5=8A=9B=EF=BC=8C=E6=AD=A4=E6=97=B6=EF=BC=8C=E6=
+=AD=A4=E5=88=BB=E6=97=A0=E7=96=91=E6=98=AF=E4=B8=80=E4=B8=AA=E5=BC=80=E5=A7=
+=8B=E7=9A=84=E5=A5=BD=E6=97=B6=E6=9C=BA=E3=80=82=E6=83=B3=E8=A6=81=E5=8F=98=
+=E5=BE=97=E6=9B=B4=E5=BF=AB=EF=BC=8C=E6=9B=B4=E9=AB=98=EF=BC=8C=E6=9B=B4=E5=
+=BC=BA=EF=BC=9F=E5=81=9A=E5=A5=BD=E5=87=86=E5=A4=87=EF=BC=8C=E7=8E=B0=E5=9C=
+=A8=E5=B0=B1=E5=BC=80=E5=A7=8B=E5=90=A7 ( https://www.italki.com/languagech=
+allenge?utm_source=3Dinternal&utm_medium=3Demail&utm_campaign=3Dnewsletter_=
+bulletin&utm_content=3Dtop )=EF=BC=81
+
+
+
+
+
+
+
+
+
+
+=E5=BF=83=E7=81=B5=E9=B8=A1=E6=B1=A4
+=3D=3D=3D=3D
+
+
+
+
+ ( http://weibo.com/italki )
+=E6=9B=B4=E5=A4=9A=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=A0=E8=B5=84=E6=96=99=EF=
+=BC=8C=E8=AF=B7=E5=85=B3=E6=B3=A8italki=E5=BE=AE=E5=8D=9A ( http://weibo.co=
+m/italki )
+
+
+
+
+
+
+=E4=B8=BB=E8=8F=9C
+=3D=3D
+
+
+
+
+ ( https://www.italki.com/article/769/Music-Is-The-Master-Key-To-New-Doors-=
+In-Language-Learning-Chinese?utm_source=3Dinternal&utm_medium=3Demail&utm_c=
+ampaign=3Dnewsletter_bulletin&utm_content=3Dcnb )
+
+=E9=9F=B3=E4=B9=90=EF=BC=8C=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=A0=E7=9A=84=E6=
+=96=B0=E7=A7=98=E7=B1=8D ( https://www.italki.com/article/769/Music-Is-The-=
+Master-Key-To-New-Doors-In-Language-Learning-Chinese?utm_source=3Dinternal&=
+utm_medium=3Demail&utm_campaign=3Dnewsletter_bulletin&utm_content=3Dcnb )
+
+Jack=E5=8F=91=E8=A1=A8=E4=BA=8E2016=E5=B9=B46=E6=9C=8820=E6=97=A5
+=E5=9C=A8=E5=B0=8F=E6=97=B6=E5=80=99=EF=BC=8C=E6=88=91=E4=BB=AC=E9=80=9A=E8=
+=BF=87=E6=AD=8C=E6=9B=B2=E6=9D=A5=E5=AD=A6=E4=B9=A0=E8=87=AA=E5=B7=B1=E7=9A=
+=84=E6=AF=8D=E8=AF=AD=E3=80=82=E7=8E=B0=E5=9C=A8=EF=BC=8C=E7=A7=91=E5=AD=A6=
+=E5=AE=B6=E4=BB=AC=E7=A0=94=E7=A9=B6=E5=8F=91=E7=8E=B0=E5=90=8C=E6=A0=B7=E7=
+=9A=84=E6=96=B9=E6=B3=95=E4=B9=9F=E9=80=82=E7=94=A8=E4=BA=8E=E5=AD=A6=E4=B9=
+=A0=E6=96=B0=E7=9A=84=E8=AF=AD=E8=A8=80=E3=80=82(=E9=98=85=E8=AF=BB=E5=85=
+=A8=E6=96=87 ( https://www.italki.com/article/769/Music-Is-The-Master-Key-T=
+o-New-Doors-In-Language-Learning-Chinese?utm_source=3Dinternal&utm_medium=
+=3Demail&utm_campaign=3Dnewsletter_bulletin&utm_content=3Dcnb ))
+
+
+
+
+
+
+
+
+=E9=A5=AE=E6=96=99
+=3D=3D
+
+
+
+
+ ( http://www.mosalingua.com/en/raffle?utm_source=3Ditalki_newsletter&utm_m=
+edium=3Demail&utm_campaign=3Ditalki )
+
+
+
+=E9=A9=AC=E4=B8=8A=E5=8F=82=E5=8A=A0MosaLingua=E5=A4=8F=E6=97=A5=E5=A4=A7=
+=E6=8A=BD=E5=A5=96=E5=90=A7
+=E5=B0=8Fi=E7=9A=84=E5=A5=BD=E4=BC=99=E4=BC=B4MosaLingua=E4=B8=BE=E5=8A=9E=
+=E7=9A=84=E5=A4=8F=E6=97=A5=E5=A4=A7=E6=8A=BD=E5=A5=96 ( http://www.mosalin=
+gua.com/en/raffle?utm_source=3Ditalki_newsletter&utm_medium=3Demail&utm_cam=
+paign=3Ditalki ) =E6=AD=A3=E5=9C=A8=E7=81=AB=E7=83=AD=E8=BF=9B=E8=A1=8C=E4=
+=B8=AD=EF=BC=81=E9=80=9F=E9=80=9F=E5=8A=A0=E5=85=A5=E8=B5=A2=E5=8F=96=E4=BB=
+=B7=E5=80=BC250=E7=BE=8E=E9=87=91=E7=9A=84=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=
+=A0=E5=A4=A7=E7=A4=BC=E5=8C=85=EF=BC=8C=E5=85=B6=E4=B8=AD=E5=8C=85=E6=8B=AC=
+5=E8=8A=82=E5=92=8C italki=E7=9A=84=E5=85=8D=E8=B4=B9=E8=AF=AD=E8=A8=80=E8=
+=AF=BE ( https://www.italki.com/teachers/professional?utm_source=3Dinternal=
+&utm_medium=3Demail&utm_campaign=3Dnewsletter_bulletin&utm_content=3Dpro )=
+=EF=BC=81
+
+
+
+
+
+
+
+
+=E7=94=9C=E5=93=81
+=3D=3D
+
+
+
+
+ ( https://www.italki.com/teachers/professional?utm_source=3Dinternal&utm_m=
+edium=3Demail&utm_campaign=3Dnewsletter_bulletin&utm_content=3Dcartoon )
+ =E5=9C=A8italki=E4=B8=8A=E5=AD=A6=E4=B9=A0=E6=9B=B4=E5=A4=9A=E7=9A=84=E5=
+=A4=96=E8=AF=AD ( https://www.italki.com/teachers/professional?utm_source=
+=3Dinternal&utm_medium=3Demail&utm_campaign=3Dnewsletter_bulletin&utm_conte=
+nt=3Dcnb )
+
+
+
+
+
+
+=E6=89=93=E5=8C=85
+=E7=94=B5=E5=BD=B1=E6=8E=A8=E8=8D=90=E3=80=8A=E9=9F=B3=E4=B9=90=E4=B9=8B=E5=
+=A3=B0=E3=80=8B
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+
+
+
+ ( http://www.italki.com/articles?utm_source=3Dinternal&utm_medium=3Demail&=
+utm_campaign=3Dnewsletter_bulletin&utm_content=3Dcnb )
+=E6=9C=80=E7=AC=A6=E5=90=88=E6=9C=AC=E6=9C=9F=E4=B8=BB=E9=A2=98=E7=9A=84=E7=
+=94=B5=E5=BD=B1=E5=BD=93=E7=84=B6=E6=98=AF=E3=80=8A=E9=9F=B3=E4=B9=90=E4=B9=
+=8B=E5=A3=B0=E3=80=8B=E4=BA=86=EF=BC=8C=E6=88=91=E7=9F=A5=E9=81=93=E4=B9=9F=
+=E8=AE=B8=E4=BD=A0=E7=9C=8B=E8=BF=87=E4=BA=86=EF=BC=8C=E4=BD=86=E6=98=AF=E8=
+=BF=99=E7=BB=9D=E5=AF=B9=E6=98=AF=E4=B8=80=E9=83=A8=E5=80=BC=E5=BE=97=E4=BD=
+=A0=E5=8F=8D=E5=A4=8D=E9=87=8D=E6=B8=A9=E7=9A=84=E7=94=B5=E5=BD=B1=E3=80=82=
+=E8=BF=99=E6=AC=A1=E7=9C=8B=E7=9A=84=E6=97=B6=E5=80=99=E4=B8=8D=E5=A6=A8=E8=
+=81=94=E6=83=B3=E4=B8=8B=E7=89=87=E5=AD=90=E4=B8=AD=E8=AF=AD=E8=A8=80=E5=92=
+=8C=E9=9F=B3=E4=B9=90=E7=9A=84=E7=A7=8D=E7=A7=8D=E8=81=94=E7=B3=BB=EF=BC=8C=
+=E4=BC=9A=E6=9C=89=E4=B8=8D=E4=B8=80=E6=A0=B7=E7=9A=84=E6=83=8A=E5=96=9C=E5=
+=93=A6=E3=80=82=E5=B0=A4=E5=85=B6=E6=98=AF=E3=80=8ADo-re-mi-=E3=80=8B=EF=BC=
+=8C=E4=BD=A0=E4=BC=9A=E5=8F=91=E7=8E=B0=EF=BC=8C=E9=9F=B3=E4=B9=90=E8=83=BD=
+=E5=B8=AE=E4=BD=A0=E5=AD=A6=E4=B9=A0=E8=AF=AD=E8=A8=80=EF=BC=8C=E5=AD=97=E6=
+=AF=8D=E4=B9=9F=E8=83=BD=E5=B8=AE=E4=BD=A0=E5=AD=A6=E4=B9=A0=E4=B9=90=E7=90=
+=86=E5=93=A6=E3=80=82=E6=98=AF=E4=B8=8D=E6=98=AF=E5=BE=88=E5=A5=87=E5=A6=99=
+=E7=9A=84=E4=BD=93=E9=AA=8C?
+
+=E6=9B=B4=E5=A4=9A=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=A0=E8=B5=84=E6=BA=90 ( =
+http://www.italki.com/articles?utm_source=3Dinternal&utm_medium=3Demail&utm=
+_campaign=3Dnewsletter_bulletin&utm_content=3Dcnb )
+
+
+
+
+
+
+
+
+=E4=B9=B0=E5=8D=95
+=3D=3D
+
+
+
+
+ ( https://www.italki.com/teachers/professional?utm_source=3Dinternal&utm_m=
+edium=3Demail&utm_campaign=3Dnewsletter_bulletin&utm_content=3Dcnb )
+
+
+
+
+
+
+
+
+
+To unsubscribe please click here ( http://email.italki.com/wf/unsubscribe?u=
+pn=3DGg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8r=
+JUXeU9vz6G7JWhaXCkZwCjemuwB3tuFDXlACcT3GpvDtUEHnUOT8MqTxXvHLYIKAcJMtyp6DSE7=
+cPDQKRIrPstPNDMVkr2z1GQjpyNVjrtvHDMqzkVPfL9W5qBUCx2vMbS1VsKqjStkUb8cacCBoT9=
+Wj2RIGXcOk2viMuTHVVvn11Gxx9ajJ13xea4nrHmuoxc0vyxh0lccFfUo5A-2BNBwU0FXhXuBVy=
+oLaqP06k2WBpKM-2FA8s83hPJhJ8sEvtG2NX6VjH1VK3pzPghHN7XtASjMLbbgrJLK-2BD58xl1=
+BhEMMyspnocjhPy4uCIFGL61FwvZ9WarewSNU85OgGYWRWzw-3D-3D )
+
+
+
+ italki
+Units 903-906A, 9/F, Kowloon Centre, 33 Ashley Road, Tsimshatsui, Hong Kong=
+,=20=
+
+--7ef173793c0b7595b5e17c6229e2ca0b8257fd7b83b02e2c868928c71a4b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<style type=3D"text/css">.ReadMsgBody{width:100%;}.ExternalClass{width:100%=
+;}span.yshortcuts{color:#000;background-color:none;border:none;}span.yshort=
+cuts:hover,span.yshortcuts:active,span.yshortcuts:focus{color:#000;backgrou=
+nd-color:none;border:none;}p{margin-top:0;margin-right:0;margin-bottom:0;ma=
+rgin-left:0;}*{-webkit-text-size-adjust:none;}</style>
+
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-c=
+ollapse:collapse;background:#ddd;min-width:620px;table-layout:fixed;"><tbod=
+y><tr><td align=3D"center" style=3D"padding-right:10px;padding-top:10px;pad=
+ding-bottom:10px;padding-left:10px;"><div style=3D"width:auto;margin-right:=
+auto;margin-left:auto;margin-top:0;margin-bottom:0;color:#000;font-family:A=
+rial;font-size:12px;line-height:150%;"><table style=3D"width:100%;border-co=
+llapse:separate;table-layout:fixed;" cellspacing=3D"0" cellpadding=3D"0"><t=
+body><tr><td align=3D"center"><table width=3D"600" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;width:600px;background:#ffffff;"><tbody><tr><td><table cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"width:600px;border-collapse:collapse;tabl=
+e-layout:fixed;"><tbody><tr><td width=3D"100%" style=3D"vertical-align:top;=
+"><div><table style=3D"width:100%;border-collapse:separate;table-layout:fix=
+ed;" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"background=
+:#ffffff;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;"><tbody=
+><tr><td style=3D"vertical-align: top;" align=3D"center"><div><a href=3D"ht=
+tp://email.italki.com/wf/click?upn=3Drr8d7B-2BfQpynbpL4SpLiWV237jHcQw54FnMY=
+xnGASc2xmV1UM0rb-2B61qNyoUGwpUB4xjyVU3q-2BKcD-2BRuDEcqxsu8vGFXrC0Kdf7dHDp3H=
+ms9cfOAxd5BqY1EVNyaEX6jB5UYJOsM6TEB3n8RgH8cItsB3wwoN6Rg2NIxMVPMPpXO3dnfhaZI=
+cwUseHyrP5M6_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRw=
+YfTNqT8r0mNuDHrcuBuembidwPevfvG3onVt9BIr1IhcreaBrO1HXjku1z-2FmYWetU1lI0pyJK=
+64CwsghxmZxLR8E68lzNsWRwObNO17YKyGiUYE3XGoEk7d4TmB0OlvtkElqyG-2BYUAGYJQv-2B=
+aCjqu4BV-2BR9YIFqvmHjFqvvTbuKh55dQ-2B-2FcFm-2BSnlmU2zKjWnJ75rB1iSj2v0bMUtir=
+Chyg2sxQFwqcnYqjK88aZc6tnkKL6zAnNs8NZ83pZpfWqLbROgC8FeFsfJnCGTKkEEIO1PWiNK4=
+75CLl7Q0ypcKKDovr1Zqj4ti-2BCXH5N2o1ZMEUAeZ-2BTHWmTRUj9yHEUV0BVA8xSFg-3D-3D"=
+><img style=3D"border:medium none;width:600px;height:auto;resize:none;posit=
+ion:relative;display:block;top:0px;left:0px;" width=3D"600" height=3Dauto" =
+src=3D"http://static.sendgrid.com/uploads/UID_231424_NL_22556687_f112a68586=
+275fdf8828439f9cd39483/1e90c7d9cdd617c0ad33da980d94d847" /></a></div></td><=
+/tr></tbody></table></td></tr></tbody></table></div>
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#transparent;" cellspacing=3D"0" cellpadding=3D"0"><tbo=
+dy><tr><td style=3D"background:#transparent;"><table width=3D"100%" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spaci=
+ng:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><d=
+iv style=3D"word-wrap:break-word;line-height:140%;text-align:left;"><h1 sty=
+le=3D"width: 100%; font-size: 30px; line-height: 120%; color: rgb(0, 0, 0);=
+ margin: 0px; text-align: center;">
+	<span style=3D"font-size:28px;"><span style=3D"color: rgb(80,80,80);">=E6=
+=96=B0=E5=87=BA=E7=82=89=E7=9A=84=E9=9D=A2=E5=8C=85</span></span></h1>
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"0" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#ffffff;" cellspacing=3D25" cellpadding=3D"0"><tbody><t=
+r><td style=3D"background:#ffffff;"><table width=3D"100%" cellspacing=3D"0"=
+ cellpadding=3D"0" style=3D"border-collapse:separate;border-spacing:0px;tab=
+le-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><div style=
+=3D"word-wrap:break-word;line-height:140%;text-align:left;"><p style=3D"mar=
+gin: 0px 0px; font-size: 20px; color: rgb(84, 84, 84); font-family: Arial; =
+line-height: 25.92px; background-color: rgb(255, 255, 255);">
+
+<p style=3D"margin: 0px 0px; font-size: 18px; color: rgb(84, 84, 84); font-=
+family: Arial; line-height: 25.92px; background-color: rgb(255, 255, 255);">
+
+=E4=BB=8A=E5=A4=A9=E6=98=AF<strong>=E4=B8=96=E7=95=8C=E9=9F=B3=E4=B9=90=E6=
+=97=A5</strong>=E3=80=82=E5=AF=B9=E5=BE=88=E5=A4=9A=E4=BA=BA=E6=9D=A5=E8=AF=
+=B4=EF=BC=8C=E9=9F=B3=E4=B9=90=E6=98=AF=E4=BB=96=E4=BB=AC=E7=9A=84=E7=81=B5=
+=E6=84=9F=E6=9D=A5=E6=BA=90=EF=BC=8C=E9=82=A3=E4=B9=88=E4=B8=BA=E4=BB=80=E4=
+=B9=88=E4=B8=8D=E7=94=A8=E9=9F=B3=E4=B9=90=E6=9D=A5=E6=BF=80=E5=8A=B1=E4=BD=
+=A0=E7=9A=84<a href=3D"http://email.italki.com/wf/click?upn=3Drr8d7B-2BfQpy=
+nbpL4SpLiWV237jHcQw54FnMYxnGASc2xmV1UM0rb-2B61qNyoUGwpUB4xjyVU3q-2BKcD-2BRu=
+DEcqxsu8vGFXrC0Kdf7dHDp3Hms9cfOAxd5BqY1EVNyaEX6jB5UYJOsM6TEB3n8RgH8cItsB3ww=
+oN6Rg2NIxMVPMPpUk101QF-2F4-2B37HJ-2FMZ7ejZE_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVn=
+cNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8rtQ47pmVyWujiNHAD1Dgzn8TeBn5Xa-2Bta0H=
+3qR87MomKtZdr0ftPGqqBzhEp7NdZVEzOxGBKdIoUZSqUCi8cBHuQiiKG-2BKCiUZ9PeEXDZ1YS=
+mB27abFTycLVikzpT9AzRYaEnifnRUZTx2RK2oYqXpqvDFeYCKiNds0kKrtbVZN6j8ZSADqIWpA=
+NzQ5SjOa-2FBt2D-2B9PdGAVS0jwIl2hobilQp1TtCaqiznZihVpSgRwY5eeXHXkMRLZIeWtXYM=
+7W9Cdz-2FfTcxqrdWrVcqa166tfL-2BfvAz1IbFICvBiNBRibk7SJ-2FefAq15P9joU-2FZAOwi=
+qUWSMfCQh0FHhT99YBCfSg-3D-3D">=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=A0</a>=E5=
+=91=A2=EF=BC=9F=E8=AE=A9=E6=88=91=E4=BB=AC=E4=B8=80=E8=B5=B7=E5=92=8C=E8=80=
+=81=E5=B8=88=E4=BB=AC=E8=81=8A=E8=81=8A=E4=BD=A0=E5=9C=A8=E5=90=AC=E5=93=AA=
+=E4=BA=9B=E9=9F=B3=E4=B9=90=EF=BC=8C=E8=BF=99=E4=BA=9B=E9=9F=B3=E4=B9=90=E5=
+=AF=B9=E4=BD=A0=E7=9A=84=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=A0=E5=8F=88=E6=9C=
+=89=E4=BD=95=E5=B8=AE=E5=8A=A9=E5=90=A7=E3=80=82<br/><br/>
+=E6=AD=A4=E5=A4=96=E5=91=A2=EF=BC=8C=E6=88=91=E4=BB=AC=E4=B9=9F=E4=B8=8D=E5=
+=BE=97=E4=B8=8D=E6=8F=90=E4=B8=80=E4=B8=8B=E4=BB=8A=E5=B9=B4=E5=A4=8F=E5=A4=
+=A9=E6=9C=80=E9=87=8D=E8=A6=81=E7=9A=84=E4=B8=80=E4=B8=AA=E6=B4=BB=E5=8A=A8=
+=EF=BC=9Aitalki<a href=3D"http://email.italki.com/wf/click?upn=3Drr8d7B-2Bf=
+QpynbpL4SpLiWVXey49eb5AAEpeYnS8Mc0vD7X-2Bb2bhPXStCxjxWvLWTkUQFAwoV5NI-2F204=
+iJbz-2BdjZDnxMDxQGuO3BAfqgz6REt7MgrDYv5cHPjwAbbXxACirO2dtySYsr-2BtawvkVg-2F=
+5VCXtdUSVIcivOpfo12EEsSPpyVBd-2BKI-2F1Kg15-2B-2FxV6n_Gg9-2B6crVESnGFL4I7b1B=
+RDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8rxNrjjWlnhvK0BYcDUGcSg4FeWyq=
+nSDwbnP2br9MvpAioP-2BMYxOU3VHzTCRAQwyl-2FqewQHaYOKayc-2F9Jjaax-2BTEc9nI1oNA=
+XmLxmgOeYhY19b1R62-2BI6o6K8wQ8NbJIQ-2FVl90M6-2F-2FbVN0IVDiU-2BDTUR947giCcue=
+M2Pys7l-2F835ZzXV-2Bv1eNOOGYncvdtcrO8rHw6DskLAZJwL90nlXTuZcIaYvlVdQNvf74pkN=
+dLXCxemAYSfZ8FMrvXejJJW-2BE-2F-2F7UEyRugwcu6Munb9fiK5NvqqYcc6hxTmPCoZRxETv5=
+JtwKfA3ZJ1fHFzDhD5E4fRIaNAc3QvxpT2nHSlirNUg-3D-3D"><strong>=E5=A5=A5=E6=9E=
+=97=E5=8C=B9=E5=85=8B=E8=AF=AD=E8=A8=80=E6=8C=91=E6=88=98=E8=B5=9B</strong>=
+</a>=E3=80=82=E6=97=A0=E8=AE=BA=E4=BD=A0=E6=98=AF=E6=83=B3=E8=A6=81=E5=AD=
+=A6=E4=B9=A0=E4=B8=80=E9=97=A8=E6=96=B0=E7=9A=84=E8=AF=AD=E8=A8=80=EF=BC=8C=
+=E8=BF=98=E6=98=AF=E6=83=B3=E8=A6=81=E6=8C=91=E6=88=98=E8=87=AA=E5=B7=B1=E5=
+=9C=A8=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=A0=E4=B8=8A=E7=9A=84=E8=80=90=E5=8A=
+=9B=E5=92=8C=E4=BD=93=E5=8A=9B=EF=BC=8C=E6=AD=A4=E6=97=B6=EF=BC=8C=E6=AD=A4=
+=E5=88=BB=E6=97=A0=E7=96=91=E6=98=AF=E4=B8=80=E4=B8=AA=E5=BC=80=E5=A7=8B=E7=
+=9A=84=E5=A5=BD=E6=97=B6=E6=9C=BA=E3=80=82=E6=83=B3=E8=A6=81=E5=8F=98=E5=BE=
+=97=E6=9B=B4=E5=BF=AB=EF=BC=8C=E6=9B=B4=E9=AB=98=EF=BC=8C=E6=9B=B4=E5=BC=BA=
+=EF=BC=9F=E5=81=9A=E5=A5=BD=E5=87=86=E5=A4=87=EF=BC=8C=E7=8E=B0=E5=9C=A8=E5=
+=B0=B1<a href=3D"http://email.italki.com/wf/click?upn=3Drr8d7B-2BfQpynbpL4S=
+pLiWVXey49eb5AAEpeYnS8Mc0vD7X-2Bb2bhPXStCxjxWvLWTkUQFAwoV5NI-2F204iJbz-2Bdj=
+ZDnxMDxQGuO3BAfqgz6REt7MgrDYv5cHPjwAbbXxACirO2dtySYsr-2BtawvkVg-2F5VCXtdUSV=
+IcivOpfo12EEsSPpyVBd-2BKI-2F1Kg15-2B-2FxV6n_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVn=
+cNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8ret-2BIFP7P6Vh1bV9Em9vk1H3O0e9vOTjyzj=
+mRTRvbBjBCkc8Wl3v-2FTompFkWLNaZsmL2ArP5Kd6jBEtl1Z8AKTQvjIIy7yQJQLSH3cgxOuq8=
+M1S1IfpUkgqnStFc6jYef8ipfstM5674eEh3Wyccx5RRQ-2BmRpH8JHtOcizO1O9v2GEFnokhmM=
+Z7OIJNDTKpZnsXLDLsObVNlEIGgK-2F0Dj1FHdM6VXfCNJWxtV1SPCQowhBcHkdpIPcDuDAnMFd=
+yuuj2L1PhPSe7UiKqIyzj2TZmXLu7musHUmafg11S0rPaHVbVii-2FYinG4YtFPiG-2Fl-2FX4a=
+76OmjMM6v67EqjXx0wgQ-3D-3D"><strong>=E5=BC=80=E5=A7=8B=E5=90=A7</strong><a>=
+=EF=BC=81<br /><br/>
+	</p></div>
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"back=
+ground:#ffffff;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;"><=
+tbody><tr><td width=3D"100%" style=3D"width:100%;border-top-color:#e6e6e6;b=
+order-top-style:solid;border-top-width:2px;" ></td></tr></tbody></table></t=
+d></tr></tbody></table></div>
+
+
+</td></tr></tbody></table></td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#transparent;" cellspacing=3D"0" cellpadding=3D"0"><tbo=
+dy><tr><td style=3D"background:#transparent;"><table width=3D"100%" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spaci=
+ng:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><d=
+iv style=3D"word-wrap:break-word;line-height:140%;text-align:left;"><h1 sty=
+le=3D"width: 100%; font-size: 30px; line-height: 120%; color: rgb(0, 0, 0);=
+ margin: 0px; text-align: center;">
+	<span style=3D"font-size:28px;"><span style=3D"color: rgb(80,80,80);">=E5=
+=BF=83=E7=81=B5=E9=B8=A1=E6=B1=A4</span></span></h1>
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<div><table style=3D"width:100%;border-collapse:separate;table-layout:fixed=
+;background:#ffffff;" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td st=
+yle=3D"background:#ffffff;"><table width=3D"100%" cellspacing=3D"0" cellpad=
+ding=3D"25" style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;"><tbody><tr><td width=3D"162px" style=3D"vertical-align:top;text-=
+align:center;font-size:16px" align=3D"left"><div style=3D"width:100%; overf=
+low:hidden;" align=3D"middle"><a href=3D"http://email.italki.com/wf/click?u=
+pn=3DL2QfBupENOpKqLZNo2jHiTIVIWdn3NH6bBK-2B2pQu-2FEw-3D_Gg9-2B6crVESnGFL4I7=
+b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8rV0pz4TpE9KjWf-2FI8kxbo8H=
+meIU7RKP6iaIXLK8kxh9MAK4wFsaOgS3-2FfwnbYWi2Yvvqv2ZAcvqE8ao4rHBblIi-2FVj8221=
+92gmmK3ZQA05kWb-2FA794jCSY6eLPpkBkPBTLilmeAkdqV8waLDqPSofTLT-2BQdy8TJpDyzVK=
+-2Fk-2B0Uo3WqxD2PKKBy-2FEnJNuYzDoN3qv0wymXjod0IjaGmU-2FHy3jr4k2RzOR9QBqRblV=
+ClZFydUBXYXNHl1g5TwuC7eGeLAXGDyJCZDqx7TC53CZ12YyG6KsrSRw15nts-2FyzTZoehgSHU=
+gelzaXpRWpV2frGr1Kfu5TQWQlqpXk4Z-2FllcRQ-3D-3D"><img style=3D"border:medium=
+ none;height:auto;width:70%;resize:none;position:relative;display:block;top=
+:0;left:0;" src=3D"http://static.sendgrid.com/uploads/UID_231424_NL_2255668=
+7_ab160cd683fdb62df578c543ba1d04a4/ef1e717bebdafb86516eb5b5a7c8e258" /></a>=
+<br/><a href=3D"http://email.italki.com/wf/click?upn=3DL2QfBupENOpKqLZNo2jH=
+iTIVIWdn3NH6bBK-2B2pQu-2FEw-3D_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2Be=
+PjmS-2FO7TDHv3UQRwYfTNqT8rKFjCIDamJV3DM81UmCPyJHoKrab5vVP0H5EgTEHP-2F56Ly-2=
+BCsa3A-2F9HmHuIJN9uNFOFOTPab6zVkLIKJHiu7DgQgQUItuPnWMLS1d2OsGxG6kOEdtUR1eHQ=
+ZtiUYvkP4W-2F9T-2ByKmk7V2i2dfCLfez4dNe-2FaIsOqeyrvYeWqzlDXaUF3TLuWZ-2FA0SlF=
+leaKKuY8ksh0vttD8PzCKjLw-2BtOXDURKJRHoPKU9JOdu8A-2Fu9FCeamJYJB0Yl-2F1PwqbwU=
+zgiKWqNYIPO810SMXGJRX9YNdzKJbqABWPv-2BKIc2oB0qyCP2ht1VfKFgZukU4GedyRtVh7Xnh=
+Wt7XkwzDB2-2BtVjw-3D-3D">=E6=9B=B4=E5=A4=9A=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=
+=B9=A0=E8=B5=84=E6=96=99=EF=BC=8C=E8=AF=B7=E5=85=B3=E6=B3=A8italki=E5=BE=AE=
+=E5=8D=9A</a></div></td></tr></tbody></table></div>
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;" cellspacing=3D"12" cellpadding=3D"12"><tbody><tr><td style=3D"ba=
+ckground:#ffffff;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;"=
+><tbody><tr><td width=3D"100%" style=3D"width:100%;border-top-color:#e6e6e6=
+;border-top-style:solid;border-top-width:2px;" ></td></tr></tbody></table><=
+/td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#transparent;" cellspacing=3D"0" cellpadding=3D"0"><tbo=
+dy><tr><td style=3D"background:#transparent;"><table width=3D"100%" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spaci=
+ng:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><d=
+iv style=3D"word-wrap:break-word;line-height:140%;text-align:left;"><h1 sty=
+le=3D"width: 100%; font-size: 30px; line-height: 120%; color: rgb(0, 0, 0);=
+ margin: 0px; text-align: center;">
+	<span style=3D"font-size:28px;"><span style=3D"color: rgb(80,80,80);">=E4=
+=B8=BB=E8=8F=9C</span></span></h1>
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#ffffff;" cellspacing=3D"15" cellpadding=3D"0"><tbody><=
+tr><td style=3D"background:#ffffff;"><table width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"border-collapse:separate;border-spacing:0px;ta=
+ble-layout:fixed;"><tbody><tr><td width=3D"162px" style=3D"vertical-align:t=
+op;text-align:left;" align=3D"left"><div style=3D"border-radius:50%;width:1=
+40px; height:140px; overflow:hidden;"><a href=3D"http://email.italki.com/wf=
+/click?upn=3Drr8d7B-2BfQpynbpL4SpLiWdQcaTmHrzskKY-2FXlvWBx0Gb6PvCicjEsa-2B0=
+GWgJl20WO1U7v0yKF8Az-2BrceptjJhkikuFi0vFMk4vAevfV7B8uPgFq3hg0WfiUA79zQJ-2Bq=
+5N2c8xCrAlYdVGwfIHS8hBxrA4lrNuhIo57jMGjy0VwocIFLbnQbuRDuXVQOSKf1tBq-2BPU1IZ=
+AtJrb8pXjfQ4dWcaAvEat51Glf7Ru0gMIj1gIQ48T0TpEnYgmrAXNcrGc2mR-2Fjxj1PEOxhcNV=
+LAQsw-3D-3D_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwY=
+fTNqT8rERdnPBoTVVoPqkjbwb75t-2B4a74ynxRrRmoM5D-2BpcSc5wyDYIpJqkrgF7QWw4LEjl=
+xaEvvodtQtHcQYL27U9chZ-2B1Y74oatcy8UbPCkhykmK53y3-2FmiRcmczet-2B0Obx58o0L2t=
+xdPm-2BZuhbEARYrVZNyeiB107i7vLYgnaMu-2BB0zEIdd2-2BSv46plxQHa8L8uuKpODcYr23h=
+M5sNWD-2B4Z3nlnHAzleG4tHQnxNJBcp-2B9oHYyJYw8K6oNBXw68AKvBck7uqc9fgktr5jZkeK=
+mMukLbME3f-2BxchY0BRv37STWemK216H12vb2azIyMlSZO7erTbBtlYNGMrUYjz3YDLpZQ-3D-=
+3D"><img style=3D"border:medium none;width:auto;max-height:140px;resize:non=
+e;position:relative;display:block;top:0%;left:-10%;" src=3D"https://01d04dc=
+66b4e3a4c4c93-ed7165fd755afd5811f5d7ebed3ff477.ssl.cf1.rackcdn.com/default2=
+172_0.jpg" /></a></div></td><td style=3D"vertical-align:top;"><div style=3D=
+"word-wrap:break-word;line-height:140%;text-align:left;"><p style=3D"color:=
+#000000;font-family:Arial;font-size:12px;line-height:180%;margin:0;text-ali=
+gn:left;">
+	<a href=3D"http://email.italki.com/wf/click?upn=3Drr8d7B-2BfQpynbpL4SpLiWd=
+QcaTmHrzskKY-2FXlvWBx0Gb6PvCicjEsa-2B0GWgJl20WO1U7v0yKF8Az-2BrceptjJhkikuFi=
+0vFMk4vAevfV7B8uPgFq3hg0WfiUA79zQJ-2Bq5N2c8xCrAlYdVGwfIHS8hBxrA4lrNuhIo57jM=
+Gjy0VwocIFLbnQbuRDuXVQOSKf1tBq-2BPU1IZAtJrb8pXjfQ4dWcaAvEat51Glf7Ru0gMIj1gI=
+Q48T0TpEnYgmrAXNcrGc2mR-2Fjxj1PEOxhcNVLAQsw-3D-3D_Gg9-2B6crVESnGFL4I7b1BRDK=
+Aq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8r34lyMrbGh9DUpMFFcqbGuoJOhLMAtH=
+U1Y3yYVhVZl2-2B6dJaY-2BcZ-2BCXH-2FJPAQvcpQ2D-2FJOdMNL5J1kDM6-2BBL4de6IBa5G9=
+Xbf7-2B2G6MtaXAJuuKMjH82365GMTpvbfCCQTWx6ASvV-2BfiWAnTk09QUwUObNk0c2V-2FLQF=
+8RG7x2f2scKeOKzuuK3sGQxUt4zieWs4iEnA9eRWylU72bMFyGEqTOwQskU2wVJf0feIIhAcB3b=
+3OozK9ETAEXSy1oIr2AfZ3A-2BcBMroz8SujEzMz4Ex1zcOQN1Si5BO-2F-2Fu3SCnH2hngoyxC=
+M8p-2BjC75jhdntqVSU3xQAdufHzvyVhWxDtrQ-3D-3D"><span style=3D"font-size:22px=
+;"><strong>=E9=9F=B3=E4=B9=90=EF=BC=8C=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=A0=
+=E7=9A=84=E6=96=B0=E7=A7=98=E7=B1=8D</strong></span></a></p>
+<p style=3D"margin: 5px 0px; font-size: 18px; color: rgb(84, 84, 84); font-=
+family: Arial; line-height: 25.92px; background-color: rgb(255, 255, 255);">
+<span style=3D"font-size: 13px; line-height:2.5">Jack=E5=8F=91=E8=A1=A8=E4=
+=BA=8E2016=E5=B9=B46=E6=9C=8820=E6=97=A5<br/></span>
+=09
+
+=E5=9C=A8=E5=B0=8F=E6=97=B6=E5=80=99=EF=BC=8C=E6=88=91=E4=BB=AC=E9=80=9A=E8=
+=BF=87=E6=AD=8C=E6=9B=B2=E6=9D=A5=E5=AD=A6=E4=B9=A0=E8=87=AA=E5=B7=B1=E7=9A=
+=84=E6=AF=8D=E8=AF=AD=E3=80=82=E7=8E=B0=E5=9C=A8=EF=BC=8C=E7=A7=91=E5=AD=A6=
+=E5=AE=B6=E4=BB=AC=E7=A0=94=E7=A9=B6=E5=8F=91=E7=8E=B0=E5=90=8C=E6=A0=B7=E7=
+=9A=84=E6=96=B9=E6=B3=95=E4=B9=9F=E9=80=82=E7=94=A8=E4=BA=8E=E5=AD=A6=E4=B9=
+=A0=E6=96=B0=E7=9A=84=E8=AF=AD=E8=A8=80=E3=80=82(<a href=3D"http://email.it=
+alki.com/wf/click?upn=3Drr8d7B-2BfQpynbpL4SpLiWdQcaTmHrzskKY-2FXlvWBx0Gb6Pv=
+CicjEsa-2B0GWgJl20WO1U7v0yKF8Az-2BrceptjJhkikuFi0vFMk4vAevfV7B8uPgFq3hg0Wfi=
+UA79zQJ-2Bq5N2c8xCrAlYdVGwfIHS8hBxrA4lrNuhIo57jMGjy0VwocIFLbnQbuRDuXVQOSKf1=
+tBq-2BPU1IZAtJrb8pXjfQ4dWcaAvEat51Glf7Ru0gMIj1gIQ48T0TpEnYgmrAXNcrGc2mR-2Fj=
+xj1PEOxhcNVLAQsw-3D-3D_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO=
+7TDHv3UQRwYfTNqT8rKfoFk3JLaxFp8-2BxZJ-2FcGlKkZPwlNaJWCd1rO64yis2GQgR22ZPqHz=
+YlKwA6usNF7Qv9d03MSz3f-2FYSZQfyLATXUitUyGz8xeZkutp9uu7UDH-2F8yuH9rRyXUm3vZS=
+hoEwCf6bodT2LEg17XxHYNKLTXdf5LEtiPVHMirjiW11Rdqi12Dt750Uhb9qkZU4l8f4xz8-2FT=
+Mk0HJCiDdLPYsG1tPhFXz2JpMY4tGv3HoAmPxZjeie7TDgSTuXzvZZ9vT1q3kXrJKW1NlO0nXLY=
+jNXzPwWZeTpIDBN00QCgB-2BD7EhWO-2Fq0jZc6hXYPWVHGy0VICtkt7mnGu3dYnLLiiv8RczA-=
+3D-3D">=E9=98=85=E8=AF=BB=E5=85=A8=E6=96=87</a>)</p>
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+
+
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;" cellspacing=3D"25" cellpadding=3D"0"><tbody><tr><td style=3D"bac=
+kground:#ffffff;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;">=
+<tbody><tr><td width=3D"100%" style=3D"width:100%;border-top-color:#e6e6e6;=
+border-top-style:solid;border-top-width:2px;" ></td></tr></tbody></table></=
+td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#transparent;" cellspacing=3D"0" cellpadding=3D"0"><tbo=
+dy><tr><td style=3D"background:#transparent;"><table width=3D"100%" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spaci=
+ng:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><d=
+iv style=3D"word-wrap:break-word;line-height:140%;text-align:left;"><h1 sty=
+le=3D"width: 100%; font-size: 30px; line-height: 120%; color: rgb(0, 0, 0);=
+ margin: 0px; text-align: center;">
+	<span style=3D"font-size:28px;"><span style=3D"color: rgb(80,80,80);">=E9=
+=A5=AE=E6=96=99</span></span></h1>
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#ffffff;" cellspacing=3D"15" cellpadding=3D"0"><tbody><=
+tr><td style=3D"background:#ffffff;"><table width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"border-collapse:separate;border-spacing:0px;ta=
+ble-layout:fixed;"><tbody><tr><td width=3D"162px" style=3D"vertical-align:t=
+op;text-align:left;" align=3D"left"><div style=3D"width:140px; height:140px=
+; overflow:hidden;"><div style=3D"border-radius:50%;width:140px; height:140=
+px; overflow:hidden;"><a href=3D"http://email.italki.com/wf/click?upn=3D4jH=
+QFjTF5c5LqQSZ6jFE2NHQSy-2F4ae4GmONQSro3HKtxW-2FPCOjHVKnIu2aCjJTm8F94nFfV7HV=
+KZdfPmBnmDjssYeqq6iqhrv7-2BxmFi95z11K9ykt-2Fp8iBtcsTTlL1hCM5UERY5CMvcGu3XpW=
+JQYaw-3D-3D_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwY=
+fTNqT8rx3-2BnR0DrH-2B30zWXEDHYyRKul1Qgwdfdu43MwtVdmFS9fMz-2FcwMcaw0IIAQBnQ1=
+XwjNKA78HCVo8314mxPm2RvUACaP-2B3rhKlidiMCBQupWc8Pgg8qq6P7Rs1w7sEEBm-2B71znU=
+Twc3ze6i8-2FsAcOCV3RSJyRLMQSGAh3YWloHs1zR1lwcomvpBOdte4-2BBIef-2B5pVyEKhYWY=
+xoCilDxt8RdoZ75bC-2F1SCFzGYYO83RFav4b-2BZ-2B6kCa0zXg0W8Rom1j5JNXHACVm27Bf4j=
+CfWkfxGqIon-2BZXDVjGupAYrfHV8dLvImaLvdyUPKYZEQDUzq3Kddgya5EVQWLlEAUcpVDrA-3=
+D-3D"><img style=3D"border:medium none;width:auto;height:140px;resize:none;=
+position:relative;display:block;top:0%;left:0%;" src=3D"https://01d04dc66b4=
+e3a4c4c93-ed7165fd755afd5811f5d7ebed3ff477.ssl.cf1.rackcdn.com/default1171_=
+0.jpg" /></a></div></td><td style=3D"vertical-align:top;"><div style=3D"wor=
+d-wrap:break-word;line-height:140%;text-align:left;">
+<p style=3D"margin: 5px 0px; font-size: 18px; color: rgb(84, 84, 84); font-=
+family: Arial; line-height: 25.92px; background-color: rgb(255, 255, 255);">
+
+=09
+<strong>=E9=A9=AC=E4=B8=8A=E5=8F=82=E5=8A=A0MosaLingua=E5=A4=8F=E6=97=A5=E5=
+=A4=A7=E6=8A=BD=E5=A5=96=E5=90=A7</strong><br/>
+=E5=B0=8Fi=E7=9A=84=E5=A5=BD=E4=BC=99=E4=BC=B4MosaLingua=E4=B8=BE=E5=8A=9E=
+=E7=9A=84<a href=3D"http://email.italki.com/wf/click?upn=3D4jHQFjTF5c5LqQSZ=
+6jFE2NHQSy-2F4ae4GmONQSro3HKtxW-2FPCOjHVKnIu2aCjJTm8F94nFfV7HVKZdfPmBnmDjss=
+Yeqq6iqhrv7-2BxmFi95z11K9ykt-2Fp8iBtcsTTlL1hCM5UERY5CMvcGu3XpWJQYaw-3D-3D_G=
+g9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8rvPlQ4-=
+2Bi-2B3jCGS35Dn7eF8ETGZAYrFWKRFuj7mMzIDMIrrThSmjnkpdYuGQ4-2B4Wjjqrkd8ZmzPpb=
+YFMbTeq65B3kn11pzfRDgWijFABsHwVmzjGO7uuPX-2B-2FPRJVbsvgM-2F-2B43B6ne-2Fo-2F=
+aTGSqwIUKh-2BsOYF0UBG6gejZ9Ao9OrMlfrSOiwud4sLp1eyosIO4Fr3FJxBBN48fs49vPY8c2=
+Pt-2FccFyDFtT2NQOGGPG3RHOkvlRdGmai4atFwErr9o3E7kmOJegCHfBhvlN7tKJ2TN8PWDuOe=
+tAJXTnyQFwYIEIEqHFDggDL2Bd-2FhIF9u39Qniuljw7APUqhElEBsaQA30w-3D-3D">=E5=A4=
+=8F=E6=97=A5=E5=A4=A7=E6=8A=BD=E5=A5=96</a> =E6=AD=A3=E5=9C=A8=E7=81=AB=E7=
+=83=AD=E8=BF=9B=E8=A1=8C=E4=B8=AD=EF=BC=81=E9=80=9F=E9=80=9F=E5=8A=A0=E5=85=
+=A5=E8=B5=A2=E5=8F=96=E4=BB=B7=E5=80=BC250=E7=BE=8E=E9=87=91=E7=9A=84=E8=AF=
+=AD=E8=A8=80=E5=AD=A6=E4=B9=A0=E5=A4=A7=E7=A4=BC=E5=8C=85=EF=BC=8C=E5=85=B6=
+=E4=B8=AD=E5=8C=85=E6=8B=AC5=E8=8A=82=E5=92=8C <a href=3D"http://email.ital=
+ki.com/wf/click?upn=3Drr8d7B-2BfQpynbpL4SpLiWV237jHcQw54FnMYxnGASc2xmV1UM0r=
+b-2B61qNyoUGwpUB4xjyVU3q-2BKcD-2BRuDEcqxsu8vGFXrC0Kdf7dHDp3Hms9cfOAxd5BqY1E=
+VNyaEX6jB5UYJOsM6TEB3n8RgH8cItsB3wwoN6Rg2NIxMVPMPpUkk4UTIsQIqgORd85uygj-2F_=
+Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8r7cMzf=
+7q5dgIjpA28skcxev1DlktY0sLF7SFA6qeJ7OYPXTc-2FTf7jLfR61Ywka3dWWu6A4SfMfAv4uS=
+-2F2rV5PtxMR8VhH7-2Fa6-2FNYfmz75EX9KeI23YpsZtMNG4-2BhsTgX9nTH0oixwz4iFAmtrS=
+EqaZw0NpQADT48hXeM2fy0c6fEVzC-2Fj-2FZjC-2Bn34utVm5UChONgwyKh0u3AzCaj8i5ma7x=
+ngrZtVNSZhDYuQ1TllHs5v33BWx-2FJeoCvIKX0kri1J9SvPfnSvcWDPpmbCoDXQ-2FHLzv6sGn=
+UMhGZuaG4WDrf9qc5w-2FtwRP01N2AIUxZ0B-2BF6ieykKNmFcnxECw52sTZg-3D-3D">italki=
+=E7=9A=84=E5=85=8D=E8=B4=B9=E8=AF=AD=E8=A8=80=E8=AF=BE</a>=EF=BC=81
+</p>
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;" cellspacing=3D"25" cellpadding=3D"0"><tbody><tr><td style=3D"bac=
+kground:#ffffff;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;">=
+<tbody><tr><td width=3D"100%" style=3D"width:100%;border-top-color:#e6e6e6;=
+border-top-style:solid;border-top-width:2px;" ></td></tr></tbody></table></=
+td></tr></tbody></table></div>
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#transparent;" cellspacing=3D"0" cellpadding=3D"0"><tbo=
+dy><tr><td style=3D"background:#transparent;"><table width=3D"100%" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spaci=
+ng:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><d=
+iv style=3D"word-wrap:break-word;line-height:140%;text-align:left;"><h1 sty=
+le=3D"width: 100%; font-size: 30px; line-height: 120%; color: rgb(0, 0, 0);=
+ margin: 0px; text-align: center;">
+	<span style=3D"font-size:28px;"><span style=3D"color: rgb(80,80,80);">=E7=
+=94=9C=E5=93=81</span></span></h1>
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#ffffff;" cellspacing=3D"25" cellpadding=3D"0"><tbody><=
+tr><td style=3D"background:#ffffff;"><table width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"border-collapse:separate;border-spacing:0px;ta=
+ble-layout:fixed;"><tbody><tr><td width=3D"162px" style=3D"vertical-align:t=
+op;text-align:center;font-size:16px" align=3D"left"><div style=3D"width:100=
+%; overflow:hidden" align=3D"center"><a href=3D"http://email.italki.com/wf/=
+click?upn=3Drr8d7B-2BfQpynbpL4SpLiWV237jHcQw54FnMYxnGASc2xmV1UM0rb-2B61qNyo=
+UGwpUB4xjyVU3q-2BKcD-2BRuDEcqxsu8vGFXrC0Kdf7dHDp3Hms9cfOAxd5BqY1EVNyaEX6jB5=
+UYJOsM6TEB3n8RgH8cItsB3wwoN6Rg2NIxMVPMPpWu4TD91nInZtNeQ1YXPKER_Gg9-2B6crVES=
+nGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8r9zztd-2BIsKjpYnaX=
+y1rFzRg3La-2BXjvWsH9aR778TrrnFTcFhsbiPRazXCLF12ODCaUhDit-2FJe97qFaKaWFY6-2B=
+-2FKbD4vUgnxx2BXlVCCUss58-2F4actmx7XfKcemXMAUY956exHm6-2FWqqwtbC9OPxf84lfG2=
+jo6c-2FcwLhgx6UL-2BCj6A8t-2BJHq3u7SFMwYtFxfESfpaB1Zkhp-2Bh7Y8G96zRivOSTQhgw=
+-2BHSh4dXfmI8PyZuJub-2F6mq3BpsIUivXkLJlPLSQgkgi58W8-2FGcDj49sHqO2fdEsNgw8Ip=
+YlzyKEcRebmRtWfgZ2Igq2TZ-2BgMlJ4D71IKMup-2BMjOn0XItcv7Z3A-3D-3D"><img style=
+=3D"border:medium none;height:auto;width:80%;resize:none;position:relative;=
+display:block;top:0;left:0;" src=3D"http://static.sendgrid.com/uploads/UID_=
+231424_NL_22556687_ab160cd683fdb62df578c543ba1d04a4/0026ad2588a84e0bdf064da=
+815180ae0" /></a><br/><a href=3D"http://email.italki.com/wf/click?upn=3Drr8=
+d7B-2BfQpynbpL4SpLiWV237jHcQw54FnMYxnGASc2xmV1UM0rb-2B61qNyoUGwpUB4xjyVU3q-=
+2BKcD-2BRuDEcqxsu8vGFXrC0Kdf7dHDp3Hms9cfOAxd5BqY1EVNyaEX6jB5UYJOsM6TEB3n8Rg=
+H8cItsB3wwoN6Rg2NIxMVPMPpXO3dnfhaZIcwUseHyrP5M6_Gg9-2B6crVESnGFL4I7b1BRDKAq=
+0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8r-2Fuo7kShp8BM10QfL72Ki3YmjaCcueQ=
+7JnLxwmz1bnh2-2F0KVe-2BMzRcOFlzzL7KbR-2BGmaZmc8oUhtMxoimMknWlnkQx59fvwBdDcZ=
+8-2BAWhTmk4Ab1HQZHh0YfPgaCxZZJoxpeP9JKUXuL3Gy4SkpMeRjOiWlJsaem8iJz0tJE1yVZn=
+69alwnc56gyy8x87-2Btr4qyWXhn2fIoF-2B7zS2D2xu1r8hbvqWDnBrX2nOg7n-2FaOOmMiyGH=
+lpA4B6GKps3U4cYwsirtAGgIxqr53lS8Qn5DjTku8VX5GYZOpWwgYx8J7p4DTwJ88Fgdj-2BrCh=
+Yh-2FF-2FE4Fgd0V3-2BQWJW3U62nhnlsA-3D-3D"> =E5=9C=A8italki=E4=B8=8A=E5=AD=
+=A6=E4=B9=A0=E6=9B=B4=E5=A4=9A=E7=9A=84=E5=A4=96=E8=AF=AD</a>
+
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;" cellspacing=3D"25" cellpadding=3D"0"><tbody><tr><td style=3D"bac=
+kground:#ffffff;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;">=
+<tbody><tr><td width=3D"100%" style=3D"width:100%;border-top-color:#e6e6e6;=
+border-top-style:solid;border-top-width:2px;" ></td></tr></tbody></table></=
+td></tr></tbody></table></div>
+
+
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#transparent;" cellspacing=3D"0" cellpadding=3D"0"><tbo=
+dy><tr><td style=3D"background:#transparent;"><table width=3D"100%" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spaci=
+ng:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><d=
+iv style=3D"word-wrap:break-word;line-height:140%;text-align:left;"><h1 sty=
+le=3D"width: 100%; font-size: 30px; line-height: 120%; color: rgb(0, 0, 0);=
+ margin: 0px; text-align: center;">
+	<span style=3D"font-size:28px;"><span style=3D"color: rgb(80,80,80);">=E6=
+=89=93=E5=8C=85</span></span><br/><span style=3D"font-size:22px;"><span sty=
+le=3D"color: rgb(80,80,80);">=E7=94=B5=E5=BD=B1=E6=8E=A8=E8=8D=90=E3=80=8A=
+=E9=9F=B3=E4=B9=90=E4=B9=8B=E5=A3=B0=E3=80=8B</span></span></h1>
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<div><table style=3D"width:100%;border-collapse:separate;table-layout:fixed=
+;background:#ffffff;" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td st=
+yle=3D"background:#ffffff;"><table width=3D"100%" cellspacing=3D"0" cellpad=
+ding=3D"25" style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;"><tbody><tr><td width=3D"162px" style=3D"vertical-align:top;text-=
+align:center;font-size:18px" align=3D"left"><div style=3D"width:100%; overf=
+low:hidden;" align=3D"middle"><a href=3D"http://email.italki.com/wf/click?u=
+pn=3D4jHQFjTF5c5LqQSZ6jFE2IyaS9-2BvNTQCmaA0BDJ1nPIRe4Qj3Ql-2FIKV6PRGZcsPi8D=
+e0PlZIZrks-2FMmTzUaus5POs8v2V9EUYnfNq3fSumwtKOTNwKn4GedflsQVzCR8S6XKAEgys8j=
+6fo1qwl1WEW28ARVltTNugSTHX1yPlNM-3D_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50n=
+j-2BePjmS-2FO7TDHv3UQRwYfTNqT8rV1LD1fwdhl6IEnNKPO-2B-2FMHM1rYgGGd0VNmruViK-=
+2BHdzpUTWfqAG0od5ZshrHqBF2XFidI-2FiV-2FqiSRLS318-2BjYp5wkt6SieANwGS-2FYQt24=
+KAuf6gBPRUsrd8VcyTMpA6pQR-2BmwW14FYJaT3ai4sS3YdJDHqRNXI0E1D-2BSeHhih0Kb2mhI=
+XgIrdOAYAzR9KVT0bXzYQNKOLyZ2LU1GdwCXyj1kLf4LcsqcXHzIm7zjP6O1Pok16gW3p-2FJGX=
+xHRxy6ntmcfkFH99dxeXdEYGvweQj3fXQbopRyRKN8pNBOz07qmiZkJyqAIS-2F7HKBT4GljIZR=
+rzDpMNwHlVz-2BBWXWJguw-3D-3D"><img style=3D"border:medium none;height:auto;=
+width:80%;resize:none;position:relative;display:block;top:0;left:0;" src=3D=
+"http://static.sendgrid.com/uploads/UID_231424_NL_22556687_9fd602b9e3f5c3c9=
+eab1d3435be2c97c/ada105374a5af2109061f986aff58307" /></a><br/><p style=3D"m=
+argin: 5px 0px; font-size: 18px; color: rgb(84, 84, 84); font-family: Arial=
+; line-height: 25.92px; background-color: rgb(255, 255, 255);">=E6=9C=80=E7=
+=AC=A6=E5=90=88=E6=9C=AC=E6=9C=9F=E4=B8=BB=E9=A2=98=E7=9A=84=E7=94=B5=E5=BD=
+=B1=E5=BD=93=E7=84=B6=E6=98=AF=E3=80=8A=E9=9F=B3=E4=B9=90=E4=B9=8B=E5=A3=B0=
+=E3=80=8B=E4=BA=86=EF=BC=8C=E6=88=91=E7=9F=A5=E9=81=93=E4=B9=9F=E8=AE=B8=E4=
+=BD=A0=E7=9C=8B=E8=BF=87=E4=BA=86=EF=BC=8C=E4=BD=86=E6=98=AF=E8=BF=99=E7=BB=
+=9D=E5=AF=B9=E6=98=AF=E4=B8=80=E9=83=A8=E5=80=BC=E5=BE=97=E4=BD=A0=E5=8F=8D=
+=E5=A4=8D=E9=87=8D=E6=B8=A9=E7=9A=84=E7=94=B5=E5=BD=B1=E3=80=82=E8=BF=99=E6=
+=AC=A1=E7=9C=8B=E7=9A=84=E6=97=B6=E5=80=99=E4=B8=8D=E5=A6=A8=E8=81=94=E6=83=
+=B3=E4=B8=8B=E7=89=87=E5=AD=90=E4=B8=AD=E8=AF=AD=E8=A8=80=E5=92=8C=E9=9F=B3=
+=E4=B9=90=E7=9A=84=E7=A7=8D=E7=A7=8D=E8=81=94=E7=B3=BB=EF=BC=8C=E4=BC=9A=E6=
+=9C=89=E4=B8=8D=E4=B8=80=E6=A0=B7=E7=9A=84=E6=83=8A=E5=96=9C=E5=93=A6=E3=80=
+=82=E5=B0=A4=E5=85=B6=E6=98=AF=E3=80=8ADo-re-mi-=E3=80=8B=EF=BC=8C=E4=BD=A0=
+=E4=BC=9A=E5=8F=91=E7=8E=B0=EF=BC=8C=E9=9F=B3=E4=B9=90=E8=83=BD=E5=B8=AE=E4=
+=BD=A0=E5=AD=A6=E4=B9=A0=E8=AF=AD=E8=A8=80=EF=BC=8C=E5=AD=97=E6=AF=8D=E4=B9=
+=9F=E8=83=BD=E5=B8=AE=E4=BD=A0=E5=AD=A6=E4=B9=A0=E4=B9=90=E7=90=86=E5=93=A6=
+=E3=80=82=E6=98=AF=E4=B8=8D=E6=98=AF=E5=BE=88=E5=A5=87=E5=A6=99=E7=9A=84=E4=
+=BD=93=E9=AA=8C?<br/><br/><a href=3D"http://email.italki.com/wf/click?upn=
+=3D4jHQFjTF5c5LqQSZ6jFE2IyaS9-2BvNTQCmaA0BDJ1nPIRe4Qj3Ql-2FIKV6PRGZcsPi8De0=
+PlZIZrks-2FMmTzUaus5POs8v2V9EUYnfNq3fSumwtKOTNwKn4GedflsQVzCR8S6XKAEgys8j6f=
+o1qwl1WEW28ARVltTNugSTHX1yPlNM-3D_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-=
+2BePjmS-2FO7TDHv3UQRwYfTNqT8rk7xoPPetMbLQxxeHT9c4ZCL10kzWYKpAO-2BpBQ1jP5ki-=
+2B0tD-2Bqe78E3VTwH0qVaVhGS0tuYdZuXyX4D2x9-2FM1yeVJTszcwlnq-2BF-2FnDzcpNUu4L=
+D6UwMGSGRKlpWilKlntPQYp5RoQG-2F1GdQtuYhUijwTcfo3e7HnQlNj5KDfYJS7M7GSzfznKgC=
+vS-2BChqN17Fa31mNsJjnl8e7AcSnWJMuPkrLmR4NnVB5zZxITMm1OAVuPujH1jjNZ8mh8m9Nxb=
+PJ6aN3iPYIMXWitHecYS2dPT1mhmUUlS50aask4sIu4IvFWavD3Hlljp4sbhs7SQkU1-2F-2FhH=
+gE3B6TXJssntAPlg-3D-3D">=E6=9B=B4=E5=A4=9A=E8=AF=AD=E8=A8=80=E5=AD=A6=E4=B9=
+=A0=E8=B5=84=E6=BA=90</a></p>
+
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;" cellspacing=3D"25" cellpadding=3D"0"><tbody><tr><td style=3D"bac=
+kground:#ffffff;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;">=
+<tbody><tr><td width=3D"100%" style=3D"width:100%;border-top-color:#e6e6e6;=
+border-top-style:solid;border-top-width:2px;" ></td></tr></tbody></table></=
+td></tr></tbody></table></div>
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#transparent;" cellspacing=3D"0" cellpadding=3D"0"><tbo=
+dy><tr><td style=3D"background:#transparent;"><table width=3D"100%" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"border-collapse:separate;border-spaci=
+ng:0px;table-layout:fixed;"><tbody><tr><td style=3D"vertical-align:top;"><d=
+iv style=3D"word-wrap:break-word;line-height:140%;text-align:left;"><h1 sty=
+le=3D"width: 100%; font-size: 30px; line-height: 120%; color: rgb(0, 0, 0);=
+ margin: 0px; text-align: center;">
+	<span style=3D"font-size:28px;"><span style=3D"color: rgb(80,80,80);">=E4=
+=B9=B0=E5=8D=95</span></span></h1>
+</div></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table><table style=3D"width:100%;border-collapse:separate;table-layo=
+ut:fixed;background:#ffffff;" cellspacing=3D"25" cellpadding=3D"0"><tbody><=
+tr><td style=3D"background:#ffffff;"><table width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"border-collapse:separate;border-spacing:0px;ta=
+ble-layout:fixed;"><tbody><tr><td width=3D"162px" style=3D"vertical-align:t=
+op;text-align:center;font-size:18px" align=3D"left"><div style=3D"width:100=
+%; overflow:hidden" align=3D"center"><a href=3D"http://email.italki.com/wf/=
+click?upn=3Drr8d7B-2BfQpynbpL4SpLiWV237jHcQw54FnMYxnGASc2xmV1UM0rb-2B61qNyo=
+UGwpUB4xjyVU3q-2BKcD-2BRuDEcqxsu8vGFXrC0Kdf7dHDp3Hms9cfOAxd5BqY1EVNyaEX6jB5=
+UYJOsM6TEB3n8RgH8cItsB3wwoN6Rg2NIxMVPMPpXO3dnfhaZIcwUseHyrP5M6_Gg9-2B6crVES=
+nGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8rz1N8nGqBEzoBu1N8q=
+ifJj-2BIaYdexBU9tyNXcZF5J-2FfdRUAwZfntaLFd-2BSh-2BaGDfIAodVdAowWWJlmWvy1J-2=
+BGQDkfPU5TFFuphOaT7tYbhVEQ5M3pkrlkcxu-2F2ns9-2FdG3oD6xkd1RUupL2K8E8CQS-2FBi=
+X5zRXD-2BZBhbVyR-2FQ7liWK2vg8qCrBSfn44HyOfZQJ1dGS0IT9zByA-2BUUeHgKjs-2Bcwn3=
+djYv9k73SHu7nQ9q1K5NedEIvDT0U-2BYMAUXJXkoD0RmGiNHayizoum5eUvz6zHiiRTVHVgzTA=
+P40m3LpWbj-2FStfokDBj66HaPmLnvMofPIUS-2FB7ygUc1uArKZlPA-3D-3D"><img style=
+=3D"border:medium none;height:auto;width:60%;resize:none;position:relative;=
+display:block;top:0;left:0;" src=3D"
+
+http://static.sendgrid.com/uploads/UID_231424_NL_22174366_be4507f4e25dbf418=
+c76e0f587c6ad38/5c1fa9044819a1dde6ec786f1b35a959" /></a></div></td></tr></t=
+body></table></td></tr></tbody></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div><table style=3D"border-collapse:separate;border-spacing:0px;table-layo=
+ut:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></t=
+body></table></div><div><table style=3D"border-collapse:separate;border-spa=
+cing:0px;table-layout:fixed;" cellpadding=3D"5" cellspacing=3D"5"><tbody><t=
+r><td></td></tr></tbody></table><table style=3D"width:100%;border-collapse:=
+separate;table-layout:fixed;" cellspacing=3D"0" cellpadding=3D"0"><tbody><t=
+r><td style=3D"background:#ffffcf;"><table width=3D"100%" cellspacing=3D"0"=
+ cellpadding=3D"0" style=3D"border-collapse:separate;border-spacing:0px;tab=
+le-layout:fixed;"><tbody><tr><td style=3D"vertical-align:middle;padding-top=
+:10px;padding-bottom:10px;padding-left:0;padding-right:0;"><div style=3D"wo=
+rd-wrap:break-word;line-height:140%;text-align:left;"><p style=3D"text-alig=
+n:center;font-size:11px;margin:0;">Email not displaying correctly? <a href=
+=3D"http://email.italki.com/wf/click?upn=3DS3nfqh0AoG8P5WTK6jF4DP8TUQPg2frB=
+3bSQdBbi5XAVpMb2FXnOlWF1Uh0tsSznh8RZnz5I4wW-2Bh6UHu0jnd7AkGyol39y6mAoHt5yKQ=
+APjAwYOpAuiMhu8ccLqETc-2Blgcn3nhL7EyHgb-2FtNSYb8QxPapiFZk8DBw-2BehzxqHK-2Fc=
+RxNLtdcG1jKwRi7lDCgNC6U4WK7LBu-2BqokShXKNPogET9DvcTloP-2BopC1UCniVd-2B3t-2B=
+Jg3856kBQRTqyJcPMZCkEMCgSbSJ2NHgaJBqbJY-2Fr8qecdzld6wsBsdcHjskk6BVzIlXO3RD0=
+eFxy7m-2FV_Gg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYf=
+TNqT8rr-2BHuchekoDTvUoa1Wtfv06I-2F7ZMxE-2Bup-2FxpF9006SWtXYm5Rxjdr4Jj6ke-2F=
+1siiulnMUotWju7roSgOaWwPR-2FI-2BgrHATRpa-2FeMfj3H-2FLQ9-2BQvQ8eNs9lfhsgCMU4=
+vbYdFyhZWPtzQIPPOeTWcC6bVHDnhgu5cxeW-2FmrlOJ4qcAvIDcLNCXqJp-2BIpJohelUyZFFC=
+y-2BcxPwKwuWSdK6N9Acpc0nwQvd98BrUv2iknYieB3ltQKHE9f6rHRtn-2BHBLtFSqzfqPyW0u=
+-2B0JE6PcPONDwm7yDvRdZUW4iFP12ZnR35NGUKfKkSDHZfSZvITIASyymKPVzCtIM0YmysGCKw=
+cmA-3D-3D" style=3D"text-decoration:none;"><span style=3D"text-decoration:u=
+nderline;color:#002AFF;">View it</span></a> in your browser</p></div></td><=
+/tr></tbody></table></td></tr></tbody></table></div><div><table style=3D"bo=
+rder-collapse:separate;border-spacing:0px;table-layout:fixed;" cellpadding=
+=3D"5" cellspacing=3D"5"><tbody><tr><td></td></tr></tbody></table><table st=
+yle=3D"width:100%;border-collapse:separate;table-layout:fixed;background:#f=
+1f1f1;" cellspacing=3D"15" cellpadding=3D"0"><tbody><tr><td style=3D"backgr=
+ound:#f1f1f1;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"border-collapse:separate;border-spacing:0px;table-layout:fixed;"><tb=
+ody><tr><td style=3D"vertical-align:middle;font-size:11px;padding-top:10px;=
+padding-right:10px;padding-bottom:10px;padding-left:10px;"><div style=3D"wo=
+rd-wrap:break-word;line-height:140%;text-align:left;"><p style=3D"font-size=
+:11px;margin:0px;text-align:left;">To unsubscribe please click <a style=3D"=
+text-decoration:none;" href=3D"http://email.italki.com/wf/unsubscribe?upn=
+=3DGg9-2B6crVESnGFL4I7b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8rA1=
+fVq1YnEm1czzUe9MFpU-2FAK6u2Gf9VnQ8YqBfxDWOg-2F3cfLPf932AU9JzhLgqJO420OUfm-2=
+FUmLw8eqF7P-2Fja7jCx3FiAPSr0PBR7saw49ftD4zkxRpyLfsiXRQGHOc4XPKyD3UK4gBGhQM2=
+wdDLbHL2wB7-2B1-2FUS62bahTOt-2BPrTHeIYqXp2tNB3y7PApAxLqSqkOowXu66uKz0yIYpMw=
+jqTMixRCDqVbH3xsjmxp2vceallVznN-2BkHbteZDrdPAhqMiu-2BRw2jSqz-2FwSNiiBkq1hIc=
+o5ylXAp-2F987Z-2B32ga5wuEjouBvMN3MeREsSKkEC8GwfDvi3dIl4HV2jb-2Bnag-3D-3D"><=
+span style=3D"color:#0000FF;text-decoration:underline;">here</span></a></p>=
+</div></td><td style=3D"vertical-align:middle;font-size:11px;padding-top:10=
+px;padding-right:10px;padding-bottom:10px;padding-left:10px;"><div style=3D=
+"word-wrap:break-word;line-height:140%;text-align:left;"><p style=3D"font-s=
+ize:11px;margin:0px;text-align:left;"> italki<br />Units 903-906A, 9/F, Kow=
+loon Centre, 33 Ashley Road, Tsimshatsui, Hong Kong, </p></div></td></tr></=
+tbody></table></td></tr></tbody></table></div></td></tr></tbody></table></t=
+d></tr></tbody></table></td></tr></tbody></table></div></td></tr></tbody></=
+table><img src=3D"http://email.italki.com/wf/open?upn=3DGg9-2B6crVESnGFL4I7=
+b1BRDKAq0yVncNUqY50nj-2BePjmS-2FO7TDHv3UQRwYfTNqT8rD4Imvg1bTTRb2LjVFhfI3T-2=
+Brmtjm9YTEIgYqUhM4ItBgziJPbFro1t5uS-2BSIcKSWOItcL74uUTXhW4IiHjKg6QCEhCGTF8q=
+yTrIc21qBgns5IJEHb-2Bq0l1AeJmf84bZ1Ur3wobr-2BrEiEDou73sCcbjo3pVT5lxD4MQlgVd=
+OMrbLOfIF3SQC27gCdV6jL2pxjlzw-2Fh7f8pHhjPbic6juxI1GzSQR2SMW7GygfbHwxL0i2I6J=
+-2BbnXvz70N2q8C-2BtskT4xzUTSrqZZlVX1ZcuZ98S2PHQbECeWteabxAKSfy1TAsWrli5dfeT=
+f5D7iYmZzP-2FYjZjIbZPIPyhgmAUmEXjg-3D-3D" alt=3D"" width=3D"1" height=3D"1"=
+ border=3D"0" style=3D"height:1px !important;width:1px !important;border-wi=
+dth:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-=
+right:0 !important;margin-left:0 !important;padding-top:0 !important;paddin=
+g-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;=
+"/>
+
+--7ef173793c0b7595b5e17c6229e2ca0b8257fd7b83b02e2c868928c71a4b--

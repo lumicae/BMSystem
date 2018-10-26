@@ -1,0 +1,33 @@
+Received: from mail225-134.mail.alibaba.com (unknown [42.156.225.134])
+	by newmx36.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Fri, 27 Mar 2015 18:36:30 +0800
+X-QQ-FEAT: 5/D3MDH5qrM69PgkvVWnnrOwy3IooIrlW9LUP84or6Q=
+X-QQ-MAILINFO: N5kFcZDRcyD88geDYAfo+WHWd1a1sgjLcBRLgPuJCuT8de5xoDSqavdjx
+	tTquaFokQ3oKKPAlIdNA7wyiYAogWwNloaxxtVWWSKXNEvrcIDV49Q/XAVKHPCHOe9Yt90o
+	nwMfm70nrEkoD0XXgkBZ2V+VaKeBgojlOBxims0NwQtcDPs0vPmQfHY=
+X-QQ-mid: mx36t1427452590t6niepiy8
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1427452590; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=yiyCrBrFnMAI3AP5UGbQQY1AMu5xQ+250QbQpe9iK68=;
+	b=mv4cE3mRZaKCnFTr07HYEhJvylw44dF6zB+mclO6VZXQVve5cXjXPKom0rVJ9vLsu4enJeGIpFgAaVCQFrBDGxidum2TVekqTd8zV1zEzkl3mEXFg4+s55gg7JSD4QhSi9Z0fPsANpmQghAM+HaJtDbnAwI+eWj+1WmT/sJvlP4=
+Received: from messagecenter010236092026.cm4(10.236.92.26)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Fri, 27 Mar 2015 18:36:30 +0800
+Date: Fri, 27 Mar 2015 18:36:30 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <news@new.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <492018708.961081427452590071.JavaMail.admin@messagecenter010236092026.cm4>
+Subject: =?utf-8?B?5qyi6L+O5Y+C5Yqg6Zi/6YeM5be05be05oub6IGY5Zyo57q/56yU6K+V?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 880102627452589976
+McIpGroup: online
+TempletId: 162904060
+
+<p>刘明奇，你好！</p><br /><p>感谢您关注阿里巴巴集团招聘。您的简历我们已收到，特邀请您参加 <strong>2015实习生招聘-研发工程师JAVA</strong> 在线笔试</p>请在阿里校招官网的个人中心获取笔试入口，并根据安排准时参与在线答题。</p><p><strong>温馨提示：</strong></p><p>本次笔试开放时间为： 2015-04-02 19:00 ~ 2015-04-02 19:40，答题时长：40分钟，请准时参加！</p><br /><p>有问题，请 <a target="_blank" href="http://service.taobao.com/support/minerva/robot.htm?source_id=1406135106">联系客服</a> 或查看 <a href="http://campus.alibaba.com/trainFaq.htm" target="_blank">FAQ</a></p><br /><br /><p><font color="#e22929">提醒：请使用chrome、firefox等高级浏览器进行在线笔试，其它浏览器可能无法正常访问！</font></p><br /><p>阿里巴巴集团-校招团队</p>
+
+<hr />
+<br />本邮件为系统邮件，请勿直接回复！<img src="http://outmem.taobao.com/message/report_open_rate.do?channel=1&templetid=162904060&messageid=1/1/880102627452589976&curdate=1427452589977"/><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

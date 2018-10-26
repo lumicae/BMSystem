@@ -1,0 +1,65 @@
+Received: from m12-14.163.com (unknown [220.181.12.14])
+	by newmx35.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Sat, 20 Dec 2014 16:56:40 +0800
+X-QQ-FEAT: x+dxIIhayxdVBV4KzOiwqomcVoAQwu3ZZzWbXNVuPep4O+dtLy6susIVu/Q+b
+	SFU511H/kVqCVq2DK4yPw+Rom5HuByYc5C4neuk4MmHNgPnqdenVFNuzgLJ5KnkhlHCeigC
+	oqAyXbpcPjmdEwy/AhBN7bqRtu3U6E6Kid0fEf495ybb1jypWa2Z5KceTBa7MXtjuXvMyQ0
+	=
+X-QQ-MAILINFO: NbUxUzKtP+7YfwpwF3T2wdJ8E2iuvtYK66oPKq19ij0+vdENeRIxWJxdl
+	/bk+1PV5LgM8a+IYJ8cRBKeYRJxUt5/HYGAI99yTWf8E5Nx6JS/hQKvXR9aFGlJTwADGqB+
+	Fw==
+X-QQ-SSF: 003000000000000101F000010000601
+X-QQ-mid: mx35t1419065801t33fy27aa
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=Date:From:Message-ID:Subject:MIME-Version; bh=TcL4z
+	lfuRiIzzKk7d9EwnckjHD8njfvu57qqAjy6g7w=; b=XU11Fu+AqEZpiGINls4+I
+	d4akDj8bYYOyO9KLQDxjLft4rKTWzpQwUfZ8UUISxyWBeuvYSH6lpMXX1h4OUqck
+	fSVAaTWEJUxGUtrGRcq8QfcpJUTJmsknrK/lS26jwx37v4xhTopUFHYcna/JPeH2
+	+h0HAurleHmm9jynyKneG4=
+Received: from qd-PC (unknown [124.205.155.146])
+	by smtp10 (Coremail) with SMTP id DsCowED5NZ_HOZVUOAzBAw--.1329S2;
+	Sat, 20 Dec 2014 16:56:39 +0800 (CST)
+Date: Sat, 20 Dec 2014 16:56:40 +0800 (CST)
+From: rl189020@163.com
+To: 573275629@qq.com
+Message-ID: <522533321.1.1419065801109.JavaMail.qd@qd-PC>
+Subject: =?GBK?B?y+fWqteisuHIz9ak?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_0_1936435642.1419065800934"
+X-CM-TRANSID:DsCowED5NZ_HOZVUOAzBAw--.1329S2
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjfU189NDUUUU
+X-Originating-IP: [124.205.155.146]
+X-CM-SenderInfo: tuormmqqsqqiywtou0bp/xtbB0wBo+lEAOiGU0AABsO
+
+------=_Part_0_1936435642.1419065800934
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><script><body>function register(){window.location.href =
+=3D "http://www.sina.com"}</script><div style=3D"width:600px; height:445px;=
+margin:40px auto ; background-image: url('http://localhost:8080/DRM/images/=
+userRegister/email.png'); font-family:'=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91=
+',Microsoft YaHei; font-size:20px"><div style=3D"width:560px; height:25px;p=
+adding-top:80px;padding-left:20px"><label>=E6=82=A8=E5=A5=BD!</label></div>=
+<div style=3D"width:560px; height:25px;padding-top:15px;padding-left:20px">=
+<label>=E6=AC=A2=E8=BF=8E=E5=8A=A0=E5=85=A5=E7=BB=A5=E7=9F=A5</label></div>=
+<div style=3D"width:560px; height:25px;padding-top:15px;padding-left:20px">=
+<label>=E4=B8=BA=E4=BF=9D=E8=AF=81=E6=AD=A3=E5=B8=B8=E4=BD=BF=E7=94=A8=E7=
+=BD=91=E7=AB=99=E5=8A=9F=E8=83=BD=EF=BC=8C=E8=AF=B7=E4=BA=8E24=E5=B0=8F=E6=
+=97=B6=E5=86=85=E6=BF=80=E6=B4=BB=E8=B4=A6=E5=8F=B7</label></div><div style=
+=3D"width:600px; height:65px;padding-top:15px;padding-left:20px"><a href=3D=
+"http://www.sina.com"><img style=3D"width:200px; heigth:35px; margin-left:2=
+00px;background-image: url('http://localhost:8080/DRM/images/userRegister/e=
+mailBtn.png');background-repeat:no-repeat"></a></div><div style=3D"width:56=
+0px; height:25px;padding-top:15px;padding-left:20px"><label>=E5=A6=82=E6=9E=
+=9C=E4=BB=A5=E4=B8=8A=E6=8C=89=E9=92=AE=E6=97=A0=E6=B3=95=E6=89=93=E5=BC=80=
+=EF=BC=8C=E8=AF=B7=E6=8A=8A=E4=B8=8B=E9=9D=A2=E7=9A=84=E9=93=BE=E6=8E=A5=E5=
+=A4=8D=E5=88=B6=E5=88=B0=E6=B5=8F=E8=A7=88=E5=99=A8=E5=9C=B0=E5=9D=80=E6=A0=
+=8F=E4=B8=AD=E6=89=93=E5=BC=80=EF=BC=9A</label></div><div style=3D"width:56=
+0px; height:25px;padding-top:40px;padding-left:20px"><a href=3D"http://www.=
+sina.com">http://www.sina.com</a></div></div></body></html>
+------=_Part_0_1936435642.1419065800934--
+
+

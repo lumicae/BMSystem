@@ -1,0 +1,52 @@
+Received: from out209-25.dm.aliyun.com (unknown [140.205.209.25])
+	by newmx.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Wed, 10 May 2017 11:52:29 +0800
+X-QQ-FEAT: FRywArojKxZo8rAv41m71CkLxUyY3zFmawY/xm9uonBAGZzMQJXsgl8wk67VR
+	JcG7uvcqnyDMIbnKfFg1Zzh8DSo0l1P79wWrti55QoiwDLjHx4EfXRrvMK3QRa+NN+Y/Qi6
+	NafJ2PWRHZ7mGqcE9VeCgVoti/nrnfelh1v9UZnfuW49OsnavAzxLqZUFe6VUJIoQmUdfiL
+	nUgDUxQWVJ93quAPZp1HcXaHcy2pI6Ka/F4spCZllZkny3uFXUsLjmQ8MaK0AE2w=
+X-QQ-MAILINFO: M9mpTqh4QKvqAdibpJIN88lEIENRQgghzOQX884NNb0hwtkJiLQS1KcVR
+	tuEwHa4M29kcJKOrw0z9hmk3fHZDCxPJj8aTnoicJDPwmGOaSgraxLojmD1z5v+yS0lLNZM
+	zXsGVbyz79ZJCbvEv7FPcAArkPcGePWQXG9bkE1ZQqwU
+X-QQ-mid: mx2t1494388349tz7pm4d5p
+X-QQ-ORGSender: taobao@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1494388349; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=lUIQ26r+FQxoaLMmcQLJrTx9gDyPox/M4UMEp8gxChc=;
+	b=Q5omtGeZHJTTEnQuUUAZBPMOxD+81+peEUObSlripOBm7ZBed8IYuJNBXvelTjGuHfxlMY4ePGGvzm3reYm6yF51LCYnBtp5amUMvd2gwNkNVaAiR2QUaqQj/Xe/lkgUq1Amh4gIYTLz5wMiX3GINDBC1Madl3FhTqMGM4DPO0w=
+X-EnvId:17870283333670744498
+Received: from messagecenter010177058250.et2(100.68.13.237)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Wed, 10 May 2017 11:52:29 +0800
+Date: Wed, 10 May 2017 11:52:29 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <taobao@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <475598426.18713601494388349010.JavaMail.admin@messagecenter010177058250.et2>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 464825094388349003
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 781691951678647 申请已经达成退款。
+  宝贝：一片式无痕无钢圈文胸小胸聚拢调整型内衣美背加厚胸罩茜茜公主
+  退款金额：148.00
+
+点此查看<a href="http://refund.tmall.com/viewRefundDetailSpirit.htm?bizOrderId=13010148830674786" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

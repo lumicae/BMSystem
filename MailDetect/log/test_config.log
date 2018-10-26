@@ -1,0 +1,317 @@
+2018-06-14 09:39:12,687 - INFO - Table created successfully
+2018-06-14 09:39:12,767 - INFO - D:\gitRepository\BMSystem\MailDetect
+2018-06-14 09:39:12,767 - INFO - (u'imap', 'liuyi@nercis.ac.cn', 'GTMCmail8800', 'mail.nercis.ac.cn', 993, u'1')
+2018-06-14 09:39:13,414 - INFO - liuyi@nercis.ac.cnGTMCmail8800
+2018-06-14 09:39:13,415 - INFO - login success
+2018-06-14 09:39:13,499 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "login", "result": "16"}
+2018-06-14 09:39:13,499 - INFO - () "/" "INBOX"
+2018-06-14 09:39:13,499 - INFO - INBOX"
+2018-06-14 09:39:21,395 - INFO - de351910d196dbe3f496902f3e9788ef 0
+2018-06-14 09:39:21,400 - INFO - the liuyi@nercis.ac.cn task download 1 eml
+2018-06-14 09:39:21,400 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "1"}
+2018-06-14 09:39:21,401 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\de351910d196dbe3f496902f3e9788ef.eml
+2018-06-14 09:39:21,401 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\de351910d196dbe3f496902f3e9788ef.eml
+2018-06-14 09:39:21,421 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\de351910d196dbe3f496902f3e9788ef.eml
+2018-06-14 09:39:21,707 - INFO - Attachment:mac数据.rar
+2018-06-14 09:39:21,710 - INFO - elsemac数据.rar
+2018-06-14 09:39:21,711 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\de351910d196dbe3f496902f3e9788ef.eml
+2018-06-14 09:39:21,924 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "1"}
+2018-06-14 09:39:22,510 - INFO - 7076f369e57ff59dbcd3c582a29b548d 1
+2018-06-14 09:39:22,512 - INFO - the liuyi@nercis.ac.cn task download 2 eml
+2018-06-14 09:39:22,512 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "2"}
+2018-06-14 09:39:22,513 - INFO - (\Drafts) "/" "&g0l6P3ux-"
+2018-06-14 09:39:22,513 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\7076f369e57ff59dbcd3c582a29b548d.eml
+2018-06-14 09:39:22,513 - INFO - &g0l6P3ux-"
+2018-06-14 09:39:22,513 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\7076f369e57ff59dbcd3c582a29b548d.eml
+2018-06-14 09:39:22,515 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\7076f369e57ff59dbcd3c582a29b548d.eml
+2018-06-14 09:39:22,523 - INFO - Attachment:=?UTF-8?Q?=E4=BA=86=E4=BA=86=E4=BA=86=E4=BA=86dkk_?=k
+ lkjlkj234247687&(&(&(&(&ifelseprintimprotpython.docx
+2018-06-14 09:39:22,525 - INFO - else=UTF-8Q=E4=BA=86=E4=BA=86=E4=BA=86=E4=BA=86dkk_=k lkjlkj234247687&(&(&(&(&ifelseprintimprotpython.docx
+2018-06-14 09:39:22,526 - INFO - Attachment:=?UTF-8?Q?=E6=96=B0=E5=BB=BA_?=Microsoft Word
+2018-06-14 09:39:22,526 - INFO - (\Sent) "/" "&XfJT0ZAB-"
+2018-06-14 09:39:22,526 - INFO - &XfJT0ZAB-"
+2018-06-14 09:39:22,526 - INFO - else=UTF-8Q=E6=96=B0=E5=BB=BA_=Microsoft Word
+2018-06-14 09:39:22,528 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\7076f369e57ff59dbcd3c582a29b548d.eml
+2018-06-14 09:39:22,627 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "2"}
+2018-06-14 09:39:23,572 - INFO - e24953a87743a52b483c0225078f697a 0
+2018-06-14 09:39:23,573 - INFO - the liuyi@nercis.ac.cn task download 3 eml
+2018-06-14 09:39:23,573 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "3"}
+2018-06-14 09:39:23,575 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\e24953a87743a52b483c0225078f697a.eml
+2018-06-14 09:39:23,575 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\e24953a87743a52b483c0225078f697a.eml
+2018-06-14 09:39:23,575 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\e24953a87743a52b483c0225078f697a.eml
+2018-06-14 09:39:23,584 - INFO - Attachment:项目改动文件.zip
+2018-06-14 09:39:23,585 - INFO - else项目改动文件.zip
+2018-06-14 09:39:23,585 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\e24953a87743a52b483c0225078f697a.eml
+2018-06-14 09:39:23,693 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "3"}
+2018-06-14 09:39:25,124 - INFO - c0fcba1a2797872f85262ff0652e2213 1
+2018-06-14 09:39:25,125 - INFO - the liuyi@nercis.ac.cn task download 4 eml
+2018-06-14 09:39:25,125 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "4"}
+2018-06-14 09:39:25,127 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\c0fcba1a2797872f85262ff0652e2213.eml
+2018-06-14 09:39:25,128 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\c0fcba1a2797872f85262ff0652e2213.eml
+2018-06-14 09:39:25,131 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\c0fcba1a2797872f85262ff0652e2213.eml
+2018-06-14 09:39:25,154 - INFO - Attachment:7z015.7z
+2018-06-14 09:39:25,155 - INFO - else7z015.7z
+2018-06-14 09:39:25,155 - INFO - Attachment:doc002.doc
+2018-06-14 09:39:25,155 - INFO - elsedoc002.doc
+2018-06-14 09:39:25,157 - INFO - Attachment:docx006.docx
+2018-06-14 09:39:25,157 - INFO - elsedocx006.docx
+2018-06-14 09:39:25,157 - INFO - Attachment:dps010.dps
+2018-06-14 09:39:25,157 - INFO - elsedps010.dps
+2018-06-14 09:39:25,157 - INFO - Attachment:htm017.HTM
+2018-06-14 09:39:25,158 - INFO - elsehtm017.HTM
+2018-06-14 09:39:25,158 - INFO - Attachment:html016.html
+2018-06-14 09:39:25,160 - INFO - elsehtml016.html
+2018-06-14 09:39:25,160 - INFO - Attachment:iso018.iso
+2018-06-14 09:39:25,161 - INFO - elseiso018.iso
+2018-06-14 09:39:25,161 - INFO - Attachment:pdf012.pdf
+2018-06-14 09:39:25,161 - INFO - elsepdf012.pdf
+2018-06-14 09:39:25,161 - INFO - Attachment:pps008.pps
+2018-06-14 09:39:25,163 - INFO - elsepps008.pps
+2018-06-14 09:39:25,163 - INFO - Attachment:ppt005.ppt
+2018-06-14 09:39:25,164 - INFO - elseppt005.ppt
+2018-06-14 09:39:25,164 - INFO - Attachment:pptx004.pptx
+2018-06-14 09:39:25,164 - INFO - elsepptx004.pptx
+2018-06-14 09:39:25,164 - INFO - Attachment:rar013.rar
+2018-06-14 09:39:25,164 - INFO - elserar013.rar
+2018-06-14 09:39:25,164 - INFO - Attachment:rtf009.RTF
+2018-06-14 09:39:25,165 - INFO - elsertf009.RTF
+2018-06-14 09:39:25,165 - INFO - Attachment:txt001.txt
+2018-06-14 09:39:25,167 - INFO - elsetxt001.txt
+2018-06-14 09:39:25,167 - INFO - Attachment:wps007.wps
+2018-06-14 09:39:25,167 - INFO - elsewps007.wps
+2018-06-14 09:39:25,167 - INFO - Attachment:xls003.xls
+2018-06-14 09:39:25,167 - INFO - elsexls003.xls
+2018-06-14 09:39:25,168 - INFO - Attachment:xlsx011.xlsx
+2018-06-14 09:39:25,168 - INFO - elsexlsx011.xlsx
+2018-06-14 09:39:25,170 - INFO - Attachment:zip014.zip
+2018-06-14 09:39:25,171 - INFO - elsezip014.zip
+2018-06-14 09:39:25,171 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\c0fcba1a2797872f85262ff0652e2213.eml
+2018-06-14 09:39:25,252 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "4"}
+2018-06-14 09:39:26,242 - INFO - a0095b8fa203efb1430ad836073575d2 2
+2018-06-14 09:39:26,243 - INFO - the liuyi@nercis.ac.cn task download 5 eml
+2018-06-14 09:39:26,243 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "5"}
+2018-06-14 09:39:26,244 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\a0095b8fa203efb1430ad836073575d2.eml
+2018-06-14 09:39:26,244 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\a0095b8fa203efb1430ad836073575d2.eml
+2018-06-14 09:39:26,246 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\a0095b8fa203efb1430ad836073575d2.eml
+2018-06-14 09:39:26,260 - INFO - Attachment:关于公司局域网ip地址绑定的通知.docx
+2018-06-14 09:39:26,262 - INFO - else关于公司局域网ip地址绑定的通知.docx
+2018-06-14 09:39:26,263 - INFO - Attachment:IP地址使用分配表.xlsx
+2018-06-14 09:39:26,263 - INFO - elseIP地址使用分配表.xlsx
+2018-06-14 09:39:26,265 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\a0095b8fa203efb1430ad836073575d2.eml
+2018-06-14 09:39:26,358 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "5"}
+2018-06-14 09:39:27,793 - INFO - 8e3ae53ba4407c40efe161c4229f559f 3
+2018-06-14 09:39:27,796 - INFO - the liuyi@nercis.ac.cn task download 6 eml
+2018-06-14 09:39:27,796 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "6"}
+2018-06-14 09:39:27,796 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\8e3ae53ba4407c40efe161c4229f559f.eml
+2018-06-14 09:39:27,798 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\8e3ae53ba4407c40efe161c4229f559f.eml
+2018-06-14 09:39:27,801 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\8e3ae53ba4407c40efe161c4229f559f.eml
+2018-06-14 09:39:27,832 - INFO - Attachment:2018-03-02项目改动.zip
+2018-06-14 09:39:27,834 - INFO - else2018-03-02项目改动.zip
+2018-06-14 09:39:27,834 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\8e3ae53ba4407c40efe161c4229f559f.eml
+2018-06-14 09:39:27,915 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "6"}
+2018-06-14 09:39:28,806 - INFO - d8fa9e6caf537c8c9e066253395df1f3 4
+2018-06-14 09:39:28,808 - INFO - the liuyi@nercis.ac.cn task download 7 eml
+2018-06-14 09:39:28,809 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "7"}
+2018-06-14 09:39:28,809 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\d8fa9e6caf537c8c9e066253395df1f3.eml
+2018-06-14 09:39:28,809 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\d8fa9e6caf537c8c9e066253395df1f3.eml
+2018-06-14 09:39:28,809 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\d8fa9e6caf537c8c9e066253395df1f3.eml
+2018-06-14 09:39:28,811 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\d8fa9e6caf537c8c9e066253395df1f3.eml
+2018-06-14 09:39:28,901 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "7"}
+2018-06-14 09:39:30,142 - INFO - 513e7dd1e26a6a11a0a4a1c8db21d011 5
+2018-06-14 09:39:30,144 - INFO - the liuyi@nercis.ac.cn task download 8 eml
+2018-06-14 09:39:30,144 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "8"}
+2018-06-14 09:39:30,145 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\513e7dd1e26a6a11a0a4a1c8db21d011.eml
+2018-06-14 09:39:30,145 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\513e7dd1e26a6a11a0a4a1c8db21d011.eml
+2018-06-14 09:39:30,148 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\513e7dd1e26a6a11a0a4a1c8db21d011.eml
+2018-06-14 09:39:30,171 - INFO - Attachment:12 txt.txt
+2018-06-14 09:39:30,173 - INFO - else12 txt.txt
+2018-06-14 09:39:30,174 - INFO - Attachment:13 pdf.pdf
+2018-06-14 09:39:30,174 - INFO - else13 pdf.pdf
+2018-06-14 09:39:30,176 - INFO - Attachment:06 doc.doc
+2018-06-14 09:39:30,177 - INFO - else06 doc.doc
+2018-06-14 09:39:30,177 - INFO - Attachment:07 docx.docx
+2018-06-14 09:39:30,177 - INFO - else07 docx.docx
+2018-06-14 09:39:30,178 - INFO - Attachment:08 xls.xls
+2018-06-14 09:39:30,180 - INFO - else08 xls.xls
+2018-06-14 09:39:30,180 - INFO - Attachment:09 xlsx.xlsx
+2018-06-14 09:39:30,180 - INFO - else09 xlsx.xlsx
+2018-06-14 09:39:30,180 - INFO - Attachment:10 ppt.ppt
+2018-06-14 09:39:30,181 - INFO - else10 ppt.ppt
+2018-06-14 09:39:30,181 - INFO - Attachment:11 pptx.pptx
+2018-06-14 09:39:30,183 - INFO - else11 pptx.pptx
+2018-06-14 09:39:30,183 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\513e7dd1e26a6a11a0a4a1c8db21d011.eml
+2018-06-14 09:39:30,299 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "8"}
+2018-06-14 09:39:31,155 - INFO - d33ac1e35e2d5a556160867bf8213d3d 6
+2018-06-14 09:39:31,157 - INFO - the liuyi@nercis.ac.cn task download 9 eml
+2018-06-14 09:39:31,157 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "9"}
+2018-06-14 09:39:31,158 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\d33ac1e35e2d5a556160867bf8213d3d.eml
+2018-06-14 09:39:31,158 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\d33ac1e35e2d5a556160867bf8213d3d.eml
+2018-06-14 09:39:31,160 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\d33ac1e35e2d5a556160867bf8213d3d.eml
+2018-06-14 09:39:31,161 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\d33ac1e35e2d5a556160867bf8213d3d.eml
+2018-06-14 09:39:31,240 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "9"}
+2018-06-14 09:39:32,191 - INFO - 383b986c666cb1aee8438d41b012b7d6 7
+2018-06-14 09:39:32,193 - INFO - the liuyi@nercis.ac.cn task download 10 eml
+2018-06-14 09:39:32,193 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "10"}
+2018-06-14 09:39:32,193 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\383b986c666cb1aee8438d41b012b7d6.eml
+2018-06-14 09:39:32,194 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\383b986c666cb1aee8438d41b012b7d6.eml
+2018-06-14 09:39:32,194 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\383b986c666cb1aee8438d41b012b7d6.eml
+2018-06-14 09:39:32,197 - INFO - Attachment:cpp.zip
+2018-06-14 09:39:32,198 - INFO - elsecpp.zip
+2018-06-14 09:39:32,198 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\383b986c666cb1aee8438d41b012b7d6.eml
+2018-06-14 09:39:32,323 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "10"}
+2018-06-14 09:39:35,009 - INFO - f7ceabd06ed0897294b28c94211940ac 8
+2018-06-14 09:39:35,010 - INFO - the liuyi@nercis.ac.cn task download 11 eml
+2018-06-14 09:39:35,012 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "11"}
+2018-06-14 09:39:35,013 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\f7ceabd06ed0897294b28c94211940ac.eml
+2018-06-14 09:39:35,013 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\f7ceabd06ed0897294b28c94211940ac.eml
+2018-06-14 09:39:35,023 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\f7ceabd06ed0897294b28c94211940ac.eml
+2018-06-14 09:39:35,098 - INFO - Attachment:12 txt.txt
+2018-06-14 09:39:35,098 - INFO - else12 txt.txt
+2018-06-14 09:39:35,098 - INFO - Attachment:13 pdf.pdf
+2018-06-14 09:39:35,098 - INFO - else13 pdf.pdf
+2018-06-14 09:39:35,101 - INFO - Attachment:14 bmp.bmp
+2018-06-14 09:39:35,101 - INFO - else14 bmp.bmp
+2018-06-14 09:39:35,101 - INFO - Attachment:15 png.PNG
+2018-06-14 09:39:35,101 - INFO - else15 png.PNG
+2018-06-14 09:39:35,101 - INFO - Attachment:16 jpg.JPG
+2018-06-14 09:39:35,102 - INFO - else16 jpg.JPG
+2018-06-14 09:39:35,102 - INFO - Attachment:17 gif.GIF
+2018-06-14 09:39:35,104 - INFO - else17 gif.GIF
+2018-06-14 09:39:35,104 - INFO - Attachment:18 dib.dib
+2018-06-14 09:39:35,105 - INFO - else18 dib.dib
+2018-06-14 09:39:35,105 - INFO - Attachment:19 tif.TIF
+2018-06-14 09:39:35,105 - INFO - else19 tif.TIF
+2018-06-14 09:39:35,107 - INFO - Attachment:20 rar.rar
+2018-06-14 09:39:35,107 - INFO - else20 rar.rar
+2018-06-14 09:39:35,108 - INFO - Attachment:21 7z.7z
+2018-06-14 09:39:35,108 - INFO - else21 7z.7z
+2018-06-14 09:39:35,109 - INFO - Attachment:22 zip.zip
+2018-06-14 09:39:35,111 - INFO - else22 zip.zip
+2018-06-14 09:39:35,111 - INFO - Attachment:23秘密.wps
+2018-06-14 09:39:35,111 - INFO - else23秘密.wps
+2018-06-14 09:39:35,112 - INFO - Attachment:24机密.zip
+2018-06-14 09:39:35,114 - INFO - else24机密.zip
+2018-06-14 09:39:35,115 - INFO - Attachment:01 wps.wps
+2018-06-14 09:39:35,115 - INFO - else01 wps.wps
+2018-06-14 09:39:35,115 - INFO - Attachment:02 et.et
+2018-06-14 09:39:35,115 - INFO - else02 et.et
+2018-06-14 09:39:35,115 - INFO - Attachment:03 pps.pps
+2018-06-14 09:39:35,117 - INFO - else03 pps.pps
+2018-06-14 09:39:35,117 - INFO - Attachment:04 rtf.rtf
+2018-06-14 09:39:35,118 - INFO - else04 rtf.rtf
+2018-06-14 09:39:35,118 - INFO - Attachment:05 dps.dps
+2018-06-14 09:39:35,118 - INFO - else05 dps.dps
+2018-06-14 09:39:35,118 - INFO - Attachment:06 doc.doc
+2018-06-14 09:39:35,119 - INFO - else06 doc.doc
+2018-06-14 09:39:35,119 - INFO - Attachment:07 docx.docx
+2018-06-14 09:39:35,121 - INFO - else07 docx.docx
+2018-06-14 09:39:35,121 - INFO - Attachment:08 xls.xls
+2018-06-14 09:39:35,121 - INFO - else08 xls.xls
+2018-06-14 09:39:35,121 - INFO - Attachment:09 xlsx.xlsx
+2018-06-14 09:39:35,121 - INFO - else09 xlsx.xlsx
+2018-06-14 09:39:35,122 - INFO - Attachment:10 ppt.ppt
+2018-06-14 09:39:35,124 - INFO - else10 ppt.ppt
+2018-06-14 09:39:35,124 - INFO - Attachment:11 pptx.pptx
+2018-06-14 09:39:35,124 - INFO - else11 pptx.pptx
+2018-06-14 09:39:35,125 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\f7ceabd06ed0897294b28c94211940ac.eml
+2018-06-14 09:39:35,226 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "11"}
+2018-06-14 09:39:37,828 - INFO - 629ee7a90f85f89eaa46efbf5e4d4811 9
+2018-06-14 09:39:37,831 - INFO - the liuyi@nercis.ac.cn task download 12 eml
+2018-06-14 09:39:37,832 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "12"}
+2018-06-14 09:39:37,832 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\629ee7a90f85f89eaa46efbf5e4d4811.eml
+2018-06-14 09:39:37,832 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\629ee7a90f85f89eaa46efbf5e4d4811.eml
+2018-06-14 09:39:37,842 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\629ee7a90f85f89eaa46efbf5e4d4811.eml
+2018-06-14 09:39:37,910 - INFO - Attachment:12 txt.txt
+2018-06-14 09:39:37,911 - INFO - else12 txt.txt
+2018-06-14 09:39:37,911 - INFO - Attachment:13 pdf.pdf
+2018-06-14 09:39:37,911 - INFO - else13 pdf.pdf
+2018-06-14 09:39:37,913 - INFO - Attachment:14 bmp.bmp
+2018-06-14 09:39:37,914 - INFO - else14 bmp.bmp
+2018-06-14 09:39:37,914 - INFO - Attachment:15 png.PNG
+2018-06-14 09:39:37,914 - INFO - else15 png.PNG
+2018-06-14 09:39:37,914 - INFO - Attachment:16 jpg.JPG
+2018-06-14 09:39:37,914 - INFO - else16 jpg.JPG
+2018-06-14 09:39:37,914 - INFO - Attachment:17 gif.GIF
+2018-06-14 09:39:37,915 - INFO - else17 gif.GIF
+2018-06-14 09:39:37,917 - INFO - Attachment:18 dib.dib
+2018-06-14 09:39:37,917 - INFO - else18 dib.dib
+2018-06-14 09:39:37,917 - INFO - Attachment:19 tif.TIF
+2018-06-14 09:39:37,917 - INFO - else19 tif.TIF
+2018-06-14 09:39:37,918 - INFO - Attachment:20 rar.rar
+2018-06-14 09:39:37,918 - INFO - else20 rar.rar
+2018-06-14 09:39:37,920 - INFO - Attachment:21 7z.7z
+2018-06-14 09:39:37,921 - INFO - else21 7z.7z
+2018-06-14 09:39:37,921 - INFO - Attachment:22 zip.zip
+2018-06-14 09:39:37,921 - INFO - else22 zip.zip
+2018-06-14 09:39:37,923 - INFO - Attachment:23秘密.wps
+2018-06-14 09:39:37,923 - INFO - else23秘密.wps
+2018-06-14 09:39:37,924 - INFO - Attachment:24机密.zip
+2018-06-14 09:39:37,924 - INFO - else24机密.zip
+2018-06-14 09:39:37,924 - INFO - Attachment:01 wps.wps
+2018-06-14 09:39:37,926 - INFO - else01 wps.wps
+2018-06-14 09:39:37,926 - INFO - Attachment:02 et.et
+2018-06-14 09:39:37,927 - INFO - else02 et.et
+2018-06-14 09:39:37,927 - INFO - Attachment:03 pps.pps
+2018-06-14 09:39:37,927 - INFO - else03 pps.pps
+2018-06-14 09:39:37,927 - INFO - Attachment:04 rtf.rtf
+2018-06-14 09:39:37,928 - INFO - else04 rtf.rtf
+2018-06-14 09:39:37,928 - INFO - Attachment:05 dps.dps
+2018-06-14 09:39:37,930 - INFO - else05 dps.dps
+2018-06-14 09:39:37,930 - INFO - Attachment:06 doc.doc
+2018-06-14 09:39:37,930 - INFO - else06 doc.doc
+2018-06-14 09:39:37,930 - INFO - Attachment:07 docx.docx
+2018-06-14 09:39:37,930 - INFO - else07 docx.docx
+2018-06-14 09:39:37,931 - INFO - Attachment:08 xls.xls
+2018-06-14 09:39:37,931 - INFO - else08 xls.xls
+2018-06-14 09:39:37,933 - INFO - Attachment:09 xlsx.xlsx
+2018-06-14 09:39:37,933 - INFO - else09 xlsx.xlsx
+2018-06-14 09:39:37,934 - INFO - Attachment:10 ppt.ppt
+2018-06-14 09:39:37,934 - INFO - else10 ppt.ppt
+2018-06-14 09:39:37,934 - INFO - Attachment:11 pptx.pptx
+2018-06-14 09:39:37,934 - INFO - else11 pptx.pptx
+2018-06-14 09:39:37,936 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\629ee7a90f85f89eaa46efbf5e4d4811.eml
+2018-06-14 09:39:38,101 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "12"}
+2018-06-14 09:39:39,046 - INFO - afef47c49418053094b912c7ba1ae0d3 10
+2018-06-14 09:39:39,048 - INFO - the liuyi@nercis.ac.cn task download 13 eml
+2018-06-14 09:39:39,048 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "13"}
+2018-06-14 09:39:39,049 - INFO - (\Trash) "/" "&XfJSIJZk-"
+2018-06-14 09:39:39,049 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\afef47c49418053094b912c7ba1ae0d3.eml
+2018-06-14 09:39:39,049 - INFO - &XfJSIJZk-"
+2018-06-14 09:39:39,049 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\afef47c49418053094b912c7ba1ae0d3.eml
+2018-06-14 09:39:39,051 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\afef47c49418053094b912c7ba1ae0d3.eml
+2018-06-14 09:39:39,055 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\afef47c49418053094b912c7ba1ae0d3.eml
+2018-06-14 09:39:39,329 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "13"}
+2018-06-14 09:39:40,065 - INFO - 9f8f58956f1ea7ff4b01081a6447398c 0
+2018-06-14 09:39:40,066 - INFO - the liuyi@nercis.ac.cn task download 14 eml
+2018-06-14 09:39:40,068 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "14"}
+2018-06-14 09:39:40,069 - INFO - (\Junk) "/" "&V4NXPpCuTvY-"
+2018-06-14 09:39:40,069 - INFO - &V4NXPpCuTvY-"
+2018-06-14 09:39:40,069 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\9f8f58956f1ea7ff4b01081a6447398c.eml
+2018-06-14 09:39:40,069 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\9f8f58956f1ea7ff4b01081a6447398c.eml
+2018-06-14 09:39:40,069 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\9f8f58956f1ea7ff4b01081a6447398c.eml
+2018-06-14 09:39:40,071 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\9f8f58956f1ea7ff4b01081a6447398c.eml
+2018-06-14 09:39:40,151 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "14"}
+2018-06-14 09:39:41,132 - INFO - f051cb7ae9eca55c6a3c562195d98024 0
+2018-06-14 09:39:41,134 - INFO - the liuyi@nercis.ac.cn task download 15 eml
+2018-06-14 09:39:41,134 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "15"}
+2018-06-14 09:39:41,135 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\f051cb7ae9eca55c6a3c562195d98024.eml
+2018-06-14 09:39:41,137 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\f051cb7ae9eca55c6a3c562195d98024.eml
+2018-06-14 09:39:41,137 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\f051cb7ae9eca55c6a3c562195d98024.eml
+2018-06-14 09:39:41,147 - INFO - Attachment:2018-03-15项目改动.zip
+2018-06-14 09:39:41,148 - INFO - else2018-03-15项目改动.zip
+2018-06-14 09:39:41,148 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\f051cb7ae9eca55c6a3c562195d98024.eml
+2018-06-14 09:39:41,243 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "15"}
+2018-06-14 09:39:42,144 - INFO - 6026cd38103e5a55835866e7b09122de 1
+2018-06-14 09:39:42,145 - INFO - the liuyi@nercis.ac.cn task download 16 eml
+2018-06-14 09:39:42,145 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "16"}
+2018-06-14 09:39:42,147 - INFO - () "/" "&dcVr0mWHTvZZOQ-"
+2018-06-14 09:39:42,147 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\6026cd38103e5a55835866e7b09122de.eml
+2018-06-14 09:39:42,147 - INFO - &dcVr0mWHTvZZOQ-"
+2018-06-14 09:39:42,148 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\6026cd38103e5a55835866e7b09122de.eml
+2018-06-14 09:39:42,148 - INFO - success read a file: D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\6026cd38103e5a55835866e7b09122de.eml
+2018-06-14 09:39:42,150 - ERROR - D:\gitRepository\BMSystem\MailDetect\mailfile\liuyi@nercis.ac.cn\eml\6026cd38103e5a55835866e7b09122de.eml
+2018-06-14 09:39:42,154 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "download", "result": "finished"}
+2018-06-14 09:39:42,154 - INFO - the liuyi@nercis.ac.cn task download success
+2018-06-14 09:39:42,233 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "result": "16"}
+2018-06-14 09:39:42,246 - INFO - task: liuyi@nercis.ac.cn parse success
+2018-06-14 09:39:42,252 - INFO - {"username": "liuyi@nercis.ac.cn", "status": "parse", "file_num": "94", "result": "finished"}

@@ -1,0 +1,215 @@
+Received: from 17.151.1.101 (unknown [17.151.1.101])
+	by newmx25.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Wed, 25 Jun 2014 10:32:34 +0800
+X-QQ-SSF: 004000000A0000602x900001000050x
+X-QQ-mid: usamxproxy13t1403663558tav1ina
+X-QQ-FEAT: ANi1GsF1FLmEm5d0AiLi7VXd7YFYmnMskRljtzQYj4k=
+X-KK-mid:usamxproxy13t1403663558tav1ina
+DKIM-Signature: v=1; a=rsa-sha256; d=apple.com; s=mailout2048s; c=relaxed/relaxed;
+	q=dns/txt; i=@apple.com; t=1403663550;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=y9ERR+l2lsEWSqu+imtJ7B5Dy5BHWEAlG6G1nCwukCk=;
+	b=p918ia6OmLj6Hy+edW60iMXl7uQEpPE2OUbopMA9WTg5SzfOvQx9WlWQPIUzb1Re
+	7zn7TApPg6gKdQppZZ3clxYFje5VsZ2kdvVlc+qLlCP2MxIG9aZAZ5wl2axPuuf4
+	jBtOhhevJxeczCv3jSPjOrShKUqz3JZaU95s2HbCjih7yk3sGKribhXcRtuRCsZD
+	HAWJ3Wn1G6CfUdDDbDzkLiBNrjgcR+2l6YbJGQdKUZ/1i1e3QVFwIQ3RH2wMF5BK
+	p/NKVUCS1lH/vRe3eqQbfXYGf4vyXSM6mbrpOp7Zy1W2kVulcTJHtk5yCZAs6xRW
+	15ttIi6GTy1/MUfsjEr/0w==;
+Date: Wed, 25 Jun 2014 02:32:30 +0000 (GMT)
+From: Apple <do_not_reply@apple.com>
+To: 573275629@qq.com
+Message-ID: <1743017781.13006921403663550557.JavaMail.email@email.apple.com>
+Subject: =?UTF-8?B?5oKo5pyA6L+R55So5oKo55qEIEFwcGw=?=
+ =?UTF-8?B?ZSBJRCDkuIvovb3nmoTlhoXlrrnjgII=?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_656982_635171383.1403663550557"
+X-EmailType-Id: 10631
+X-Sent-To: 573275629@qq.com,2,k%2BmjWPCFEH1m5ry2zndhApTuWzZ%2FsWXmBYlTsHG5QWYxZxBDADlHJ0LpCMgLzUQ8nCz4pMKonLfb1KHNNUoh%2BOtYwQwI5x8ClWlDd7rWuy%2B8iwxMGSG55pddN6w9ED2MBKo1d8%2Beg%2FnTeilC5ZDJsKqDiRoN%2BZM%2BewKk%2B2MhqXwWl%2BbhnniSQnqqVoFleuX46lMiZF4wH2cmxuVCn93%2Fv%2F7XelsNwXQDXdPoq%2FAjC8hfoIS1ZRyIsXT%2BRtt8Qk6D3n3bXvU12%2BwxpS7lD06orxT0NjFgNPMNa4Oc%2F4DVgqVH16RByFoAclnpjd%2BFz8%2BqPPMSn1L5LK8iFFolW%2BXNUab6J3MolTRm1aFqVsblbLG0wGJL53XK2eP9u%2FwCIzPgMzFw3emlAt0DYXH%2F8DCrnKq3X7ykI8Y%2Fzjkxd94fd60%3D
+X-Attach-Flag: N
+X-TXN_ID: A121475F-46B5-4543-8A11-59C1FDEE5E8B
+X-Business-Group: iTunes
+X-DKIM_SIGN_REQUIRED: YES
+
+------=_Part_656982_635171383.1403663550557
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+=E5=88=98=E4=B8=89=EF=BC=8C=E6=82=A8=E5=A5=BD=EF=BC=9A
+
+=E6=82=A8=E7=9A=84 Apple ID 573275629@qq.com =E5=88=9A=E5=88=9A=E5=9C=A8=E4=
+=B8=80=E5=8F=B0=E4=BB=A5=E5=89=8D=E6=9C=AA=E4=B8=8E=E6=AD=A4 Apple ID =E7=
+=9B=B8=E5=85=B3=E8=81=94=E7=9A=84=E7=94=B5=E8=84=91=E6=88=96=E8=AE=BE=E5=A4=
+=87=E4=B8=8A=E4=BB=8E App Store =E4=B8=8B=E8=BD=BD=E4=BA=86 =E5=BE=AE=E5=8D=
+=9A HD=E3=80=82=E5=A6=82=E6=9E=9C=E6=82=A8=E8=87=AA=E4=B8=8A=E6=AC=A1=E8=B4=
+=AD=E4=B9=B0=E5=90=8E=E9=87=8D=E8=AE=BE=E8=BF=87=E6=82=A8=E7=9A=84=E5=AF=86=
+=E7=A0=81=EF=BC=8C=E6=82=A8=E5=8F=AF=E8=83=BD=E4=B9=9F=E4=BC=9A=E6=94=B6=E5=
+=88=B0=E6=AD=A4=E9=82=AE=E4=BB=B6=E3=80=82
+
+=E5=A6=82=E6=9E=9C=E6=98=AF=E6=82=A8=E6=9C=AC=E4=BA=BA=E5=90=AF=E5=A7=8B=E4=
+=BA=86=E6=AD=A4=E9=A1=B9=E4=B8=8B=E8=BD=BD=EF=BC=8C=E8=AF=B7=E5=BF=BD=E7=95=
+=A5=E6=AD=A4=E9=82=AE=E4=BB=B6=E3=80=82=E5=8F=91=E9=80=81=E6=AD=A4=E9=82=AE=
+=E4=BB=B6=E5=8F=AA=E6=98=AF=E4=B8=BA=E4=BA=86=E6=8F=90=E9=86=92=E6=82=A8=E6=
+=B3=A8=E6=84=8F=EF=BC=8C=E4=BB=A5=E9=98=B2=E6=AD=A4=E4=B8=8B=E8=BD=BD=E9=9D=
+=9E=E6=82=A8=E6=9C=AC=E4=BA=BA=E6=89=80=E4=B8=BA=E3=80=82
+
+=E5=A6=82=E6=9E=9C=E6=AD=A4=E4=B8=8B=E8=BD=BD=E4=B8=8D=E6=98=AF=E7=94=B1=E6=
+=82=A8=E5=90=AF=E5=A7=8B=E7=9A=84=EF=BC=8C=E6=88=91=E4=BB=AC=E5=BB=BA=E8=AE=
+=AE=E4=BD=A0=E5=89=8D=E5=BE=80 http://iforgot.apple.com =E6=9B=B4=E6=94=B9=
+=E6=82=A8=E7=9A=84=E5=AF=86=E7=A0=81=EF=BC=8C=E7=84=B6=E5=90=8E=E6=9F=A5=E7=
+=9C=8B http://support.apple.com/kb/HT4232?viewlocale=3Dzh_CN=E8=8E=B7=E5=8F=
+=96=E6=9B=B4=E5=A4=9A=E5=B8=AE=E5=8A=A9=E3=80=82
+
+=E8=B0=A8=E4=B8=8A
+Apple
+
+=E5=95=86=E6=A0=87=E5=92=8C=E7=89=88=E6=9D=83 (C) 2014 Apple Inc. 31-33, ru=
+e Sainte Zithe, L-2763 Luxembourg..
+
+=E4=BF=9D=E7=95=99=E6=89=80=E6=9C=89=E6=9D=83=E5=88=A9=E3=80=82
+https://www.apple.com/legal/
+
+=E5=8F=8A=E6=97=B6=E9=80=9A=E7=9F=A5
+http://www.apple.com/enews/subscribe/
+
+=E5=AE=A2=E6=88=B7=E9=9A=90=E7=A7=81=E6=94=BF=E7=AD=96
+https://www.apple.com.cn/privacy/
+
+=E6=88=91=E7=9A=84 Apple ID
+https://appleid.apple.com/cgi-bin/WebObjects/MyInfo
+
+------=_Part_656982_635171383.1403663550557
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><!DOCTYPE HT=
+ML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+=09<meta name=3D"viewport" content=3D"width=3D671">
+    <meta HTTP-EQUIV=3D"content-type" content=3D"text/html;charset=3Dutf8">
+  <title></title>
+  <style type=3D"text/css">
+a,a.aapl-link,a.aapl-link:link {
+    text-decoration:none;
+    color: #0088cc;
+}
+a.aapl-link:hover {text-decoration:underline}
+
+@media only screen and (max-device-width: 768px) {
+=09#aapl-eyebrow, #aapl-footer {-webkit-text-size-adjust:120%;}
+=09#aapl-eyebrow a, #aapl-footer a {color:inherit}
+}
+  </style>
+  </head>
+  <body bgcolor=3D"#ffffff" style=3D"margin:0;padding:0">
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+align=3D"center">
+=09<tr>
+=09<td style=3D"padding:20px 11px 40px 11px;background-color:#ffffff;">
+=09<table width=3D"700" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" al=
+ign=3D"center" style=3D"margin:0 auto;background-color:#ffffff" bgcolor=3D"=
+#ffffff">
+=09  <tr>
+=09    <td width=3D"700" valign=3D"top">
+=09      <table width=3D"648" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center" style=3D"margin:0 auto;-webkit-border-top-left-radius:=
+10px;-webkit-border-top-right-radius:10px;background-color:#ffffff" bgcolor=
+=3D"#ffffff">
+=09=09    <tr><td><img src=3D"http://r.mzstatic.com//email/apple_notificati=
+on/top.gif" alt=3D"" width=3D"648" height=3D"122" border=3D"0" style=3D"dis=
+play:block;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0p=
+x"></td></tr>
+=09      </table>
+=09      <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center" style=3D"margin:0 auto;-webkit-border-bottom-left-radi=
+us:10px;-webkit-border-bottom-right-radius:10px;background-color:#f1f1f1">
+=09=09    <tr>
+=09=09=09  <td>
+=09=09=09=09<table width=3D"490" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" style=3D"margin:0 auto;background-color:#f1f1f1">
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td width=3D"490" align=3D"left" style=3D"padding:0 0 22p=
+x 0">
+=09=09=09=09=09=09=09<div style=3D"font-family: Lucida Grande, Lucida Sans,=
+ Lucida Sans Unicode, Arial, Helvetica, Verdana, sans-serif; color:#333333;=
+ font-size:12px;line-height: 1.25em;"><span style=3D"font-weight:bold">=E5=
+=88=98=E4=B8=89=EF=BC=8C=E6=82=A8=E5=A5=BD=EF=BC=9A</span><br><br>=E6=82=A8=
+=E7=9A=84 Apple ID 573275629@qq.com =E5=88=9A=E5=88=9A=E5=9C=A8=E4=B8=80=E5=
+=8F=B0=E4=BB=A5=E5=89=8D=E6=9C=AA=E4=B8=8E=E6=AD=A4 Apple ID =E7=9B=B8=E5=
+=85=B3=E8=81=94=E7=9A=84=E7=94=B5=E8=84=91=E6=88=96=E8=AE=BE=E5=A4=87=E4=B8=
+=8A=E4=BB=8E App Store =E4=B8=8B=E8=BD=BD=E4=BA=86 =E5=BE=AE=E5=8D=9A HD=E3=
+=80=82=E5=A6=82=E6=9E=9C=E6=82=A8=E8=87=AA=E4=B8=8A=E6=AC=A1=E8=B4=AD=E4=B9=
+=B0=E5=90=8E=E9=87=8D=E8=AE=BE=E8=BF=87=E6=82=A8=E7=9A=84=E5=AF=86=E7=A0=81=
+=EF=BC=8C=E6=82=A8=E5=8F=AF=E8=83=BD=E4=B9=9F=E4=BC=9A=E6=94=B6=E5=88=B0=E6=
+=AD=A4=E9=82=AE=E4=BB=B6=E3=80=82<br><br>=E5=A6=82=E6=9E=9C=E6=98=AF=E6=82=
+=A8=E6=9C=AC=E4=BA=BA=E5=90=AF=E5=A7=8B=E4=BA=86=E6=AD=A4=E9=A1=B9=E4=B8=8B=
+=E8=BD=BD=EF=BC=8C=E8=AF=B7=E5=BF=BD=E7=95=A5=E6=AD=A4=E9=82=AE=E4=BB=B6=E3=
+=80=82=E5=8F=91=E9=80=81=E6=AD=A4=E9=82=AE=E4=BB=B6=E5=8F=AA=E6=98=AF=E4=B8=
+=BA=E4=BA=86=E6=8F=90=E9=86=92=E6=82=A8=E6=B3=A8=E6=84=8F=EF=BC=8C=E4=BB=A5=
+=E9=98=B2=E6=AD=A4=E4=B8=8B=E8=BD=BD=E9=9D=9E=E6=82=A8=E6=9C=AC=E4=BA=BA=E6=
+=89=80=E4=B8=BA=E3=80=82<br><br>=E5=A6=82=E6=9E=9C=E6=AD=A4=E4=B8=8B=E8=BD=
+=BD=E4=B8=8D=E6=98=AF=E7=94=B1=E6=82=A8=E5=90=AF=E5=A7=8B=E7=9A=84=EF=BC=8C=
+=E6=88=91=E4=BB=AC=E5=BB=BA=E8=AE=AE=E4=BD=A0=E5=89=8D=E5=BE=80 <a href=3D'=
+http://iforgot.apple.com' class=3D"aaple-link" style=3D"color:#0088cc">ifor=
+got.apple.com</a> =E6=9B=B4=E6=94=B9=E6=82=A8=E7=9A=84=E5=AF=86=E7=A0=81=EF=
+=BC=8C=E7=84=B6=E5=90=8E=E6=9F=A5=E7=9C=8B <a href=3D'http://support.apple.=
+com/kb/HT4232?viewlocale=3Dzh_CN' class=3D"aaple-link" style=3D"color:#0088=
+cc">Apple ID=EF=BC=9A=E4=BF=9D=E6=8A=A4=E5=B8=90=E6=88=B7=E5=AE=89=E5=85=A8=
+=E6=80=A7=E7=9A=84=E6=8F=90=E7=A4=BA</a>=E8=8E=B7=E5=8F=96=E6=9B=B4=E5=A4=
+=9A=E5=B8=AE=E5=8A=A9=E3=80=82<br><br>=E8=B0=A8=E4=B8=8A<br>Apple</div>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09  </td>
+=09=09    </tr>
+=09=09    <tr><td style=3D"padding-top:101px"><img src=3D"http://r.mzstatic=
+.com//email/apple_notification/btm.gif" alt=3D"" width=3D"630" height=3D"21=
+" border=3D"0" style=3D"display:block;margin-top:0px;margin-right:0px;margi=
+n-bottom:0px;margin-left:0px"></td></tr>
+=09      </table>
+=09      <table width=3D"490" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center" id=3D"aapl-footer" style=3D"margin:0 auto;">
+=09=09    <tr><td style=3D"padding:10px 20px 10px 0;">
+=09=09=09  <div style=3D"font-family: Geneva, Verdana, Arial, Helvetica, sa=
+ns-serif; font-size:9px; line-height: 1.34em; color:#999999;">=E5=95=86=E6=
+=A0=87=E5=92=8C=E7=89=88=E6=9D=83 =C2=A9 2014 Apple Inc. 31-33, rue Sainte =
+Zithe, L-2763 Luxembourg.</div>
+=09=09=09  <div style=3D"font-family: Geneva, Verdana, Arial, Helvetica, sa=
+ns-serif; font-size:9px; line-height: 1.34em; color:#999999;"><a target=3D"=
+_blank" style=3D"color:#999999;text-decoration:underline;" href=3D"https://=
+www.apple.com/legal/">=E4=BF=9D=E7=95=99=E6=89=80=E6=9C=89=E6=9D=83=E5=88=
+=A9=E3=80=82</a>&#32;/ <a target=3D"_blank" style=3D"font-family: Geneva, V=
+erdana, Arial, Helvetica, sans-serif; font-size:9px;line-height: 1.34em;col=
+or:#999999;text-decoration:underline;" href=3D"http://www.apple.com/enews/s=
+ubscribe/">=E5=8F=8A=E6=97=B6=E9=80=9A=E7=9F=A5</a>&#32;/ <a target=3D"_bla=
+nk" style=3D"font-family: Geneva, Verdana, Arial, Helvetica, sans-serif; fo=
+nt-size:9px;line-height: 1.34em;color:#999999;text-decoration:underline;" h=
+ref=3D"https://www.apple.com.cn/privacy/">=E5=AE=A2=E6=88=B7=E9=9A=90=E7=A7=
+=81=E6=94=BF=E7=AD=96</a>&#32;/ <a target=3D"_blank" style=3D"font-family: =
+Geneva, Verdana, Arial, Helvetica, sans-serif; font-size:9px;line-height: 1=
+.34em;color:#999999;text-decoration:underline;" href=3D"https://appleid.app=
+le.com/cgi-bin/WebObjects/MyInfo">=E6=88=91=E7=9A=84 Apple ID</a></div>
+=09=09    </td></tr>
+=09      </table>
+=09=09</td>
+=09  </tr>
+=09</table>
+=09</td>
+=09</tr>
+=09</table>
+  </body>
+<img src=3D'http://outsideapple.apple.com/img/APPLE_EMAIL_LINK/spacer4.gif?=
+v=3D2&a=3Dk%2BmjWPCFEH1m5ry2zndhApTuWzZ%2FsWXmBYlTsHG5QWYxZxBDADlHJ0LpCMgLz=
+UQ8nCz4pMKonLfb1KHNNUoh%2BOtYwQwI5x8ClWlDd7rWuy%2B8iwxMGSG55pddN6w9ED2MBKo1=
+d8%2Beg%2FnTeilC5ZDJsKqDiRoN%2BZM%2BewKk%2B2MhqXwWl%2BbhnniSQnqqVoFleuX46lM=
+iZF4wH2cmxuVCn93%2Fv%2F7XelsNwXQDXdPoq%2FAjC8hfoIS1ZRyIsXT%2BRtt8Qk6D3n3bXv=
+U12%2BwxpS7lD06orxT0NjFgNPMNa4Oc%2F4DVgqVH16RByFoAclnpjd%2BFz8%2BqPPMSn1L5L=
+K8iFFolW%2BXNUab6J3MolTRm1aFqVsblbLG0wGJL53XK2eP9u%2FwCIzPgMzFw3emlAt0DYXH%=
+2F8DCrnKq3X7ykI8Y%2Fzjkxd94fd60%3D'/>
+</html>
+------=_Part_656982_635171383.1403663550557--
+.
+

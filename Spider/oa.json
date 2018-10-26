@@ -1,0 +1,10 @@
+{
+"ftp_ip":"192.168.17.133",
+"ftp_user":"lmq",
+"ftp_passwd":"1",
+"ftp_remote_dir":"/home/lmq/ftp",
+"db_driver":"dm.jdbc.driver.DmDriver",
+"db_url":"jdbc:dm://127.0.0.1:5236/DAMENG",
+"db_user":"SYSDBA",
+"db_passwd":"SYSDBA"
+}

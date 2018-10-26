@@ -1,0 +1,32 @@
+Received: from mail225-136.mail.alibaba.com (unknown [42.156.225.136])
+	by newmx17.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Tue, 03 Nov 2015 19:54:45 +0800
+X-QQ-FEAT: D4aqtcRDiqQrR16DvhHPQkJRBx8QZ9pZocZz5qtqFwY=
+X-QQ-MAILINFO: MfiUJyQXz1c0sQYGd0uDZ3VGmlZiVVbkOUyJmWpSqlfYOCYzBfFsfrsLA
+	q4zbUO8Le15k70wWZkP2fo9OogczV8SbbWRtVZNUmvizw0c+Ppw+h18w7x7iTi3PjG5TCe9
+	hwvkXixAmyretx7IWYy8vsNgbCtSoYRhvQ==
+X-QQ-mid: mx17t1446551685tylu30j2l
+X-QQ-ORGSender: service@smtp.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1446551685; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=N8M+lL0FkoDFIdeZpMlnP9YreODHxavys94x8YLMYeU=;
+	b=YP3kWsNi95oiGf1aMK7swmcCh5ihUVWlCkh5wfVlxpSQBwa3yoaQhM+UdvcbwiKJlka/Qx/vNKJXr/nwBRBwKgMMReUgmR+xWP/UT6kYNWcRIQPfqNHsc2WVGUE00IPssgumFOGDBNniv0KwgvdYz78yBOPTE1iGH4VG5jGEs4w=
+Received: from alicom-messagecenter-35.cm10(10.147.11.154)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Tue, 03 Nov 2015 19:41:55 +0800
+Date: Tue, 3 Nov 2015 19:41:55 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <service@smtp.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <8684295.6304491446550915119.JavaMail.admin@alicom-messagecenter-35.cm10>
+Subject: =?utf-8?B?6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 575815446550914920
+McIpGroup: online
+TempletId: 120846973
+
+亲爱的"lumicae"：<br>
+订单编号：1233741973974786， 卖家已经给您退款。<a href="https://tosp.taobao.com/leader/buyerDetail.htm?caseId=3011511032360942" target="_blank"> 点此查看详情 </a><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

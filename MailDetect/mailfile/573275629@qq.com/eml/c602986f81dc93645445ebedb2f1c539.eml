@@ -1,0 +1,400 @@
+Received: from 54.240.13.25 (unknown [54.240.13.25])
+	by newmx24.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Sun, 29 Mar 2015 12:57:38 +0800
+X-QQ-FEAT: ANi1GsF1FLlQz6bBvDMvOVUw7t7YR0ckF8Fayr9B+S8=
+X-QQ-MAILINFO: N5kFcZDRcyD8kjMQeOEtyNLT06etx4m0dPVGyVWOVQ4sZK0EBYO5u9Im7
+	URgQ2NTgHVRWwt7z+y86M4/crekF6pbAoGEG1X99NyGM8AstfAJU8tKaoxwYd+xHKvwt4py
+	gFBjspGrk78OB8lU6Elx9s+v2DUOIWmPDw==
+X-QQ-mid: usamxproxy12t1427605073tihqre8
+X-QQ-CSender: 20150329045733210e1ab105404e399dc35d0c494a0957@bounces.amazon.com
+X-KK-mid:usamxproxy12t1427605073tihqre8
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1427605054;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID;
+	bh=zKVzwQ40vIHvzuILj3zgwqaaEDrBv9u3+/AlDjvZ3j4=;
+	b=dHL9E90TI2prymaquNYM1hOXNwkLQQzrS34UHuFods26r+Q5HSJdMh8SepWhZwvG
+	ABKjHU4wB6xLLqaWKuJSTRSnZWWw4YAdxww9tEqrDS01mKymmV5jiqCAq+2PyPXNqdC
+	4y3PrUawzRNxN/HeiXgX6T9kLYKti71E2p/C/qRg=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=yg4mwqurec7fkhzutopddd3ytuaqrvuz; d=amazon.com; t=1427605054;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=zKVzwQ40vIHvzuILj3zgwqaaEDrBv9u3+/AlDjvZ3j4=;
+	b=VchlXanJ9JsR7AcebuCmUeBWKnIic6vmYEiIn+gLXjqWD7FnFVrWAiHp9+0IxDfW
+	NdDqkwPJSPwfyKyhGTzrnu76cGqjEprq8/9MBxd2LRBFosCJB/Jh08C1jV7PTQyLb+0
+	fCWL5cBFtsuiysmLPMnlSKAC07VKdbIXL2mIbeto=
+Date: Sun, 29 Mar 2015 04:57:34 +0000
+From: "Amazon.com" <account-update@amazon.com>
+Reply-To: "account-update@amazon.com" <account-update@amazon.com>
+To: Liu Mingqi <573275629@qq.com>
+Message-ID: <0000014c63e462bc-9b1bb3ea-c7bf-4fe3-9663-d2b8ade91412-000000@email.amazonses.com>
+Subject: Welcome to Amazon!-Take a tour of Your Account features
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1883470_396063865.1427605054061"
+Bounces-to: 20150329045733210e1ab105404e399dc35d0c494a0957@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.rtn.msg.20150329045733210e1ab105404e399dc35d0c494a0957@1427605054064.rte-svc-1e2-i-4ffc9cbf.us-east-1.amazon.com>
+X-SES-Outgoing: 2015.03.29-54.240.13.25
+Feedback-ID: 1.us-east-1.ZHcGJK6s+x+i9lRHKog4RW3tECwWIf1xzTYCZyUaiec=:AmazonSES
+
+------=_Part_1883470_396063865.1427605054061
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1883471_1593557002.1427605054061"
+
+------=_Part_1883471_1593557002.1427605054061
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to Amazon, Liu Mingqi!
+
+Check out our Help & Customer Service page to learn about the services and =
+features which will let you get the most out of your Amazon.com experience:
+http://www.amazon.com/help?ref_=3DTE_tx_cs
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+[Orders]
+Need to check the status of your order? Go to =E2=80=9COrders=E2=80=9D to t=
+rack, change or return items:
+https://www.amazon.com/gp/css/your-account-access?ref_=3DTE_tx_od#or
+
+[Payment]
+Add or delete payment methods and view, apply or purchase gift cards:
+https://www.amazon.com/gp/css/your-account-access?ref_=3DTE_tx_pt#pa
+
+[Settings]
+Manage your shipping addresses, password, e-mail address and e-mail prefere=
+nces:
+https://www.amazon.com/gp/css/your-account-access?ref_=3DTE_tx_st#se
+
+[Manage Your Kindle]
+Manage your Kindle library and account:
+https://www.amazon.com/manageyourkindle?ref_=3DTE_tx_kn
+
+[Digital Content]
+Access your Amazon Instant Videos, MP3 content and Apps & Devices:
+https://www.amazon.com/gp/css/your-account-access?ref_=3DTE_tx_dc#dc
+
+Sign in to Your Account to access these features:
+https://www.amazon.com/youraccount?ref_=3DTE_tx_ya
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Using a mobile device? Download the free Amazon App and track your orders o=
+n the go:
+http://www.amazon.com/gp/feature.html?docId=3D1000625601&ref_=3DTE_tx_mb
+
+Follow us on
+Facebook: https://www.facebook.com/Amazon?ref_=3DTE_tx_fb
+Twitter: https://www.twitter.com/Amazon?ref_=3DTE_tx_tw
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Please note: This message was sent from an e-mail address that can=E2=80=99=
+t accept incoming e-mail. Please don=E2=80=99t reply to this message.
+------=_Part_1883471_1593557002.1427605054061
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial scale=3D=
+1.0" />=20
+  <meta http=3D"" content=3D"text/html; charset=3Diso-8859-1" -equiv=3D"Con=
+tent-Type" />=20
+  <title>Welcome to Amazon - Take a tour of the features in Your Account</t=
+itle>=20
+ </head>=20
+ <body style=3D"margin: 0; font: 14px/20px Arial, sans-serif; -webkit-text-=
+size-adjust: none !important; -ms-text-size-adjust: 100% !important;">=20
+  <table style=3D"border-collapse: collapse; color: #333 !important; margin=
+-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; width: 65=
+5px;" id=3D"container" cellpadding=3D"0">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"padding-top: 0; padding-right: 20px; padding-bottom: 20px=
+; padding-left: 20px;" class=3D"frame">=20
+      <table style=3D"border-collapse: collapse; width: 100%; margin-top: 2=
+0px; margin-right: 0; margin-bottom: 0; margin-left: 0;" id=3D"main" cellpa=
+dding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"width: 100%; margin-top: 20px; margin-right: 0; margi=
+n-bottom: 0; margin-left: 0;" id=3D"header">=20
+          <table align=3D"left" style=3D"border-collapse: collapse; width: =
+115px;" class=3D"logo" cellpadding=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td> <a href=3D"https://www.amazon.com/gp/r.html?C=3D2CSCFXWTN=
+GKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.=
+com%2Fref%3Dpe_1118270_124801060_TE_logo&A=3D7MURBAWLSJ7FFQSOHHY0FKB1OCCA&H=
+=3DXWKS4WGEQERMZFVQXIHFZAIOR4QA" style=3D"font-size: 14px; line-height: 20p=
+x; font-family: Arial, sans-serif; text-decoration: none;" title=3D"Visit A=
+mazon.com"> <img alt=3D"Amazon" border=3D"0" height=3D"31" id=3D"amazonLogo=
+" src=3D"http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/te/logo.png=
+" style=3D"border: 0;" width=3D"107" /> </a> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table>=20
+          <table align=3D"right" style=3D"text-align: right; border-collaps=
+e: collapse; white-space: nowrap;" class=3D"navigation" cellpadding=3D"0">=
+=20
+           <tbody>=20
+            <tr>=20
+             <td> <a href=3D"https://www.amazon.com/gp/r.html?C=3D2CSCFXWTN=
+GKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.=
+com%2Fgp%2Fcss%2Fyour-orders-access%2Fref%3Dpe_1118270_124801060_TE_oh_tn&A=
+=3DGXQMYNCUNLHPKB4QHZBMUXSZGRQA&H=3DVEWNT3AWTTWOELBTJGXVYVGIAJKA" style=3D"=
+font-size: 14px; line-height: 20px; font-family: Arial, sans-serif; text-de=
+coration: none; color: #006699; border-right-width: 1px; border-right-color=
+: #CCC; border-right-style: solid; margin-right: 7px; padding-right: 10px;"=
+>Your Orders</a> <a href=3D"https://www.amazon.com/gp/r.html?C=3D2CSCFXWTNG=
+KK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.c=
+om%2Fgp%2Fcss%2Fyour-account-access%2Fref%3Dpe_1118270_124801060_TE_ya_tn&A=
+=3D438GSNKCW82DLA0PDYVSOIZAWSUA&H=3DSG9HCM3ZD7Y9BMCQO9JZFUUGBRCA" style=3D"=
+font-size: 14px; line-height: 20px; font-family: Arial, sans-serif; text-de=
+coration: none; color: #006699; border-right-width: 1px; border-right-color=
+: #CCC; border-right-style: solid; margin-right: 7px; padding-right: 10px;"=
+>Your Account</a> <a class=3D"last" href=3D"http://www.amazon.com/gp/r.html=
+?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=3Dhttp%3A%2F%=
+2Fwww.amazon.com%2Fhelp%3Fref_%3Dpe_1118270_124801060_TE_hp&A=3D8DCRRFGQB0T=
+D5GZJKXADB5P1E6QA&H=3DFQVADRQW12F1JRKELC20ZEGZZRIA" style=3D"font-size: 14p=
+x; line-height: 20px; font-family: Arial, sans-serif; text-decoration: none=
+; color: #006699;">Help</a> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table style=3D"border-collapse: collapse; width: 100%; margin-to=
+p: 20px;" id=3D"summary" cellpadding=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td> <h2 style=3D"font-size: 20px; line-height: 24px; font-fam=
+ily: Arial, sans-serif; margin: 0; text-align: center; padding: 0; font-wei=
+ght: normal; color: #000 !important;">Welcome to Amazon, Liu Mingqi!</h2> <=
+p style=3D"font-size: 14px; line-height: 20px; font-family: Arial, sans-ser=
+if; margin-top: 4px; margin-right: 0; margin-bottom: 10px; margin-left: 0;"=
+> Check out our <a href=3D"http://www.amazon.com/gp/r.html?C=3D2CSCFXWTNGKK=
+5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%=
+2Fhelp%3Fref_%3Dpe_1118270_124801060_TE_hp_iln&A=3DP60AUGAOV0O09T4DD3J017YJ=
+K6EA&H=3DZXUZCWDWVD4ZE2DF4IHJZBLB9AAA" style=3D"font-size: 14px; line-heigh=
+t: 20px; font-family: Arial, sans-serif; text-decoration: none; color: #006=
+699;">Help &amp; Customer Service </a> page to learn about the services and=
+ features which will let you get the most out of your Amazon.com experience=
+. </p> </td>=20
+            </tr>=20
+            <tr>=20
+             <td align=3D"center"> <img alt=3D"" border=3D"0" class=3D"sepa=
+rator" height=3D"23" src=3D"http://g-ec2.images-amazon.com/images/G/01/x-lo=
+cale/cs/te/separator._V356391798_.png" width=3D"611" /> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table style=3D"border-collapse: collapse; width: 100%;" id=3D"se=
+lfService" cellpadding=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td> <h3 style=3D"font-size: 18px; line-height: 22px; font-fam=
+ily: Arial, sans-serif; margin-top: 10px; margin-right: 0; margin-bottom: 0=
+; margin-left: 0; padding: 0; font-weight: normal; color: #000 !important;"=
+> <a href=3D"https://www.amazon.com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYO=
+EVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2=
+Fyour-account-access%2Fref%3Dpe_1118270_124801060_TE_ya_od%23or&A=3DJABKJHS=
+POSPQE8Y8REAHJZAJMW4A&H=3DHNVHRYMPI6HA3DAAYAKDKOOZWJMA" style=3D"font-size:=
+ 14px; line-height: 20px; font-family: Arial, sans-serif; text-decoration: =
+none; font-size: 18px; color: #006699;">Orders</a> </h3> <p style=3D"font-s=
+ize: 14px; line-height: 20px; font-family: Arial, sans-serif; margin-top: 4=
+px; margin-bottom: 10px; margin-left: 0; border-bottom-width: 1px; border-b=
+ottom-color: #EEE; border-bottom-style: solid; padding-bottom: 15px;">Need =
+to check the status of your order? Go to =E2=80=9COrders=E2=80=9D to track,=
+ change or return items.</p> </td>=20
+             <td width=3D"300" rowspan=3D"5" align=3D"right" valign=3D"bott=
+om"> <a href=3D"http://www.amazon.com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAO=
+YOEVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=3D&A=3DXD65ZVARXFIO0LTCADVNHTHXCNQA&H=3DC=
+0AHEQ6KXBEM1IUX1LFCDX8PCZ4A" title=3D"View Your Orders"> <img alt=3D"View Y=
+our Orders" border=3D"0" height=3D"403" src=3D"http://g-ec2.images-amazon.c=
+om/images/G/01/x-locale/cs/te/boxes.png" width=3D"252" /> </a> </td>=20
+            </tr>=20
+            <tr>=20
+             <td> <h3 style=3D"font-size: 18px; line-height: 22px; margin-t=
+op: 10px; margin-right: 0; margin-bottom: 0; margin-left: 0; padding: 0; fo=
+nt-weight: normal; color: #000 !important;"> <a href=3D"https://www.amazon.=
+com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=
+=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fyour-account-access%2Fref%3Dpe=
+_1118270_124801060_TE_ya_pt%23pa&A=3DSC0KI4FK6CAU04AV6RGIPZCNC8QA&H=3D6UXP7=
+RANF1OLYGCNUH8VHSCNV4QA" style=3D"font-size: 14px; line-height: 20px; font-=
+family: Arial, sans-serif; text-decoration: none; font-size: 18px; color: #=
+006699;">Payment</a> </h3> <p style=3D"font-size: 14px; line-height: 20px; =
+font-family: Arial, sans-serif; margin-top: 4px; margin-bottom: 10px; margi=
+n-left: 0; border-bottom-width: 1px; border-bottom-color: #EEE; border-bott=
+om-style: solid; padding-bottom: 15px;">Add or delete payment methods and v=
+iew, apply or purchase gift cards.</p> </td>=20
+            </tr>=20
+            <tr>=20
+             <td> <h3 style=3D"font-size: 18px; line-height: 22px; margin-t=
+op: 10px; margin-right: 0; margin-bottom: 0; margin-left: 0; padding: 0; fo=
+nt-weight: normal; color: #000 !important;"> <a href=3D"https://www.amazon.=
+com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=
+=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fyour-account-access%2Fref%3Dpe=
+_1118270_124801060_TE_ya_st%23se&A=3DLQFX37IO94WP0WVOMYFJSMXDDAAA&H=3DGKLCA=
+MQWYU4ZYGL0K5JWJAVAPS0A" style=3D"font-size: 14px; line-height: 20px; font-=
+family: Arial, sans-serif; text-decoration: none; font-size: 18px; color: #=
+006699;">Settings</a> </h3> <p style=3D"font-size: 14px; line-height: 20px;=
+ font-family: Arial, sans-serif; margin-top: 4px; margin-bottom: 10px; marg=
+in-left: 0; border-bottom-width: 1px; border-bottom-color: #EEE; border-bot=
+tom-style: solid; padding-bottom: 15px;">Manage your shipping addresses, pa=
+ssword, e-mail address and e-mail preferences.</p> </td>=20
+            </tr>=20
+            <tr>=20
+             <td class=3D"last"> <h3 style=3D"font-size: 18px; line-height:=
+ 22px; margin-top: 10px; margin-right: 0; margin-bottom: 0; margin-left: 0;=
+ padding: 0; font-weight: normal; color: #000 !important;"> <a href=3D"http=
+s://www.amazon.com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z=
+5MUTG6&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fmanageyourkindle%3Fref_%3Dp=
+e_1118270_124801060_TE_ya_kn&A=3DT3P52KEUPX5G4RXAXLCTNRFOSWGA&H=3D3POC5QQZI=
+EP3AU1CCAFWUDHVIJSA" style=3D"font-size: 14px; line-height: 20px; font-fami=
+ly: Arial, sans-serif; text-decoration: none; font-size: 18px; color: #0066=
+99;">Manage your Kindle</a> </h3> <p style=3D"font-size: 14px; line-height:=
+ 20px; font-family: Arial, sans-serif; margin-top: 4px; margin-bottom: 10px=
+; margin-left: 0; border-bottom-width: 1px; border-bottom-color: #EEE; bord=
+er-bottom-style: solid; padding-bottom: 15px;">Manage your Kindle library a=
+nd account.</p> </td>=20
+            </tr>=20
+            <tr>=20
+             <td class=3D"last"> <h3 style=3D"font-size: 18px; line-height:=
+ 22px; margin-top: 10px; margin-right: 0; margin-bottom: 0; margin-left: 0;=
+ padding: 0; font-weight: normal; color: #000 !important;"> <a href=3D"http=
+s://www.amazon.com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z=
+5MUTG6&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fyour-account-acc=
+ess%2Fref%3Dpe_1118270_124801060_TE_ya_dc%23dc&A=3DSIYHGG8KCBJ2XS1DHYLZAALN=
+KOSA&H=3DEYGCA57Y8KAVDDW6KVAZAZRBZ5GA" style=3D"font-size: 14px; line-heigh=
+t: 20px; font-family: Arial, sans-serif; text-decoration: none; font-size: =
+18px; color: #006699;">Digital Content</a> </h3> <p style=3D"font-size: 14p=
+x; line-height: 20px; font-family: Arial, sans-serif; margin-top: 4px; marg=
+in-bottom: 10px; margin-left: 0; padding-bottom: 5px;">Access your Amazon I=
+nstant Videos, MP3 content and Apps &amp; Devices.</p> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table style=3D"border-collapse: collapse; width: 100%; margin-to=
+p: 20px; text-align: center;" id=3D"callToAction" cellpadding=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td> <a class=3D"button primary" href=3D"https://www.amazon.co=
+m/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=3D=
+https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fyour-account-access%2Fref%3Dpe_11=
+18270_124801060_TE_ya_si&A=3D9DVCNW7QDJA2CYP31DT0YAX1JPOA&H=3D37S6G4JZGHN6K=
+NPIP1AAR62LHJWA" style=3D"font-size: 14px; line-height: 46px; font-family: =
+Arial, sans-serif !important; border-radius: 3px; border-style: solid; bord=
+er-width: 1px; cursor: pointer; display: inline-block; overflow: hidden; ve=
+rtical-align: middle; box-shadow: 0 1px 0 rgba(255, 255, 255, 0.6) inset; f=
+ont-size: 15px; white-space: nowrap; border-color: #CBA957 #BF942A #AA8326;=
+ background: #F0C14B; height: 46px; width: 353px; text-decoration: none;"> =
+<p style=3D"font-size: 14px; font-family: Arial, sans-serif; display: inlin=
+e; margin: 0; color: #111;">Sign in to Your Account to start using these fe=
+atures</p> </a> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table style=3D"text-align: center; border-collapse: collapse; wi=
+dth: 100%; margin-top: 20px;" id=3D"mobile" cellpadding=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td> <p style=3D"font-size: 14px; line-height: 18px; font-fami=
+ly: Arial, sans-serif; margin: 0;"> Using a mobile device? Download the fre=
+e <a href=3D"http://www.amazon.com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOE=
+VGVVX&R=3DNRYH4Z5MUTG6&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Ffeature=
+.html%3FdocId%3D1000625601%26ref_%3Dpe_1118270_124801060_TE_mb&A=3D9DBIQJKC=
+9TQM8TC1KUWNDORXWNWA&H=3DNDCBOPZQIC64VSWV4QKG3CVIB24A" style=3D"text-decora=
+tion: none; color: #006699; font-size: 14px !important; line-height: 18px !=
+important; font-family: Arial, sans-serif;">Amazon App</a> and start tracki=
+ng your orders on the go. </p> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table style=3D"text-align: center; border-collapse: collapse; wi=
+dth: 100%; margin-top: 20px;" id=3D"socialMedia" cellpadding=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td align=3D"center"> <img alt=3D"" border=3D"0" class=3D"sepa=
+rator" height=3D"23" src=3D"http://g-ec2.images-amazon.com/images/G/01/x-lo=
+cale/cs/te/separator._V356391798_.png" width=3D"611" /> </td>=20
+            </tr>=20
+            <tr>=20
+             <td style=3D"vertical-align: middle; border-bottom: 1px solid =
+#EEE; padding-top: 20px; padding-right: 0; padding-bottom: 17px; padding-le=
+ft: 0; font-size: 14px;"> <p style=3D"font-size: 14px; font-family: Arial, =
+sans-serif; display: inline; margin: 0;"> Follow us <a href=3D"https://www.=
+amazon.com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=
+=3DC&U=3Dhttps%3A%2F%2Fwww.facebook.com%2FAmazon%3Fref_%3DTE_fb&A=3D7I8WMRK=
+H1VDIKIBJYHMEC2LUZ2YA&H=3DBZEG0J3BVSTFQQ30SBAMVQI3GSGA" style=3D"font-size:=
+ 14px; line-height: 20px; font-family: Arial, sans-serif; padding-left: 10p=
+x; text-decoration: none; color: #006699; font-size: 14px;"> <img alt=3D"Fa=
+cebook" border=3D"0" height=3D"16" src=3D"http://g-ecx.images-amazon.com/im=
+ages/G/01/x-locale/cs/te/icon-facebook.png" style=3D"vertical-align: middle=
+; margin-top: -2px;" width=3D"16" /> Facebook </a> <a href=3D"https://www.a=
+mazon.com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOEVGVVX&R=3DNRYH4Z5MUTG6&T=
+=3DC&U=3Dhttps%3A%2F%2Ftwitter.com%2Famazon%3Fref_%3DTE_tw&A=3DMSGIKGHHQNSP=
+8AHTAJVTA5DZWQ4A&H=3DYIJ6PCWIN7LKOARLPLC3GWIH3XEA" style=3D"font-size: 14px=
+; line-height: 20px; font-family: Arial, sans-serif; padding-left: 10px; te=
+xt-decoration: none; color: #006699;"> <img alt=3D"Twitter" border=3D"0" he=
+ight=3D"16" src=3D"http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/t=
+e/icon-twitter.png" style=3D"vertical-align: middle; margin-top: -2px;" wid=
+th=3D"16" /> Twitter </a> </p> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table style=3D"text-align: center; border-collapse: collapse; wi=
+dth: 100%; margin-top: 20px; font-size: 11px; color: #666 !important; line-=
+height: 16px; margin-bottom: 10px;" id=3D"legalCopy" cellpadding=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td> <p style=3D"font-size: 11px; line-height: 14px; font-fami=
+ly: Arial, sans-serif; margin-top: 10px; margin-right: 0; margin-bottom: 10=
+px; margin-left: 0;">This e-mail was sent from a notification-only address =
+that can=E2=80=99t accept incoming e-mail. Please don=E2=80=99t reply to th=
+is message.</p> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> =20
+ <img src=3D"http://www.amazon.com/gp/r.html?C=3D2CSCFXWTNGKK5&K=3DAHBAOYOE=
+VGVVX&R=3DNRYH4Z5MUTG6&T=3DE&U=3Dhttp%3A%2F%2Fimages.amazon.com%2Fimages%2F=
+G%2F01%2Fnav%2Ftransp.gif&A=3DXL28YHL9SQOGU6L3FSWSY4KFJUCA&H=3DZ8XYDXU4ITNV=
+ALJ1GAKMDZCDD4MA" /></body>
+</html>
+------=_Part_1883471_1593557002.1427605054061--
+
+------=_Part_1883470_396063865.1427605054061--

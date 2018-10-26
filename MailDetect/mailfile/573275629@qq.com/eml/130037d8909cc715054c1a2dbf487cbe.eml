@@ -1,0 +1,81 @@
+Received: from db-sys-mailout02.db01.baidu.com (unknown [123.125.66.203])
+	by newmx2.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Wed, 28 May 2014 20:22:10 +0800
+X-QQ-SSF: 005000000A0000G11x900001000050x
+X-QQ-mid: mx2t1401279730t9w2m0f7k
+X-QQ-FEAT: nHaaMjwLeTybbBcTgnLhKh7iEwQ7N0qYV3jiECTjbM4=
+Received: from passport.baidu.com (tc-passport-web01.tc.baidu.com [10.26.193.25])
+	by db-sys-mailout02.db01.baidu.com (Postfix) with ESMTP id 887BF3B9824C
+	for <573275629@qq.com>; Wed, 28 May 2014 20:22:10 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=2760; s=passmail;
+	t=1401279730; c=relaxed/simple;
+	h=From:To:Subject;
+	d=baidu.com;
+	z=From:=20baidu=20<passport@baidu.com>
+	|To:=20lumicae=20<573275629@qq.com>
+	|Subject:=20=3D?UTF-8?B?55m+5bqm5biQ5Y+3LS3pgq7nrrHouqvku73pqozor4E=3D?=3D;
+	bh=pVNW8rII6bZSvsOgFxy7SR4QxVY=;
+	b=C3KGfLhQdyW8EHwikMvl+291r91+8kBHwbAduBlZRD1Xa4bpcg+0fOutWRx4Ye4RM4AT4xDoxQttUTlorYwTq70vpmK5ZKrVuFMT6DlJf5WUJWwM0vxPABSvXcnQsl0fko8kXUvTvc2yAFaQPBlSTK448MG4pvnBQavo6Aho6Jg=
+Date: Wed, 28 May 2014 20:22:10 +0800
+To: lumicae <573275629@qq.com>
+From: baidu <passport@baidu.com>
+Subject: =?UTF-8?B?55m+5bqm5biQ5Y+3LS3pgq7nrrHouqvku73pqozor4E=?=
+Message-ID: <27e2c08885dfc38630005debbb53fe1d@passport.baidu.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html style=3D"background:rgb(243,243,243)"><head><meta http-equiv=3DCont=
+ent-Type content=3D"text/html; charset=3Dutf-8"><title>=E7=99=BE=E5=BA=A6=
+=E5=B8=90=E5=8F=B7=E5=9B=A2=E9=98=9F--=E6=89=BE=E5=9B=9E=E5=AF=86=E7=A0=81=
+</title></head><body><table cellpadding=3D0 cellspacing=3D0 bgcolor=3D"#f=
+7f7f7" width=3D"100%" style=3D"" class=3Dbaidu_pass style=3D"background:r=
+gb(243,243,243)"><tbody><tr><td><table cellpadding=3D0 cellspacing=3D0 wi=
+dth=3D"100%"> <tbody><tr><td style=3D"width:60px;">&nbsp;<td style=3D"wid=
+th:137px;"><div style=3D"line-height:40px;height:40px;">&nbsp;</div><img =
+src=3Dhttp://passport.baidu.com/getpass/img/logo.gif?v=3D01109558.gif cla=
+ss=3Dlogo ellpadding=3D0 cellspacing=3D0><td style=3D"">&nbsp; </table><t=
+r><td><table cellpadding=3D0 cellspacing=3D0 width=3D"96%" style=3D"backg=
+round:#ffffff;border:1px solid rgb(204,204,204);margin:2%;"> <tbody><tr><=
+td width=3D"30px;">&nbsp;<td align=3D""><div style=3D"line-height:40px;he=
+ight:40px;">&nbsp;</div><p style=3D"margin:0px;padding:0px;"><strong
+style=3D"font-size:14px;line-height:30px;color:#333333;font-family:arial,=
+sans-serif;">=E4=BA=B2=E7=88=B1=E7=9A=84=E7=94=A8=E6=88=B7=EF=BC=9A</stro=
+ng></p><div style=3D"line-height:20px;height:20px;">&nbsp;</div><p style=3D=
+"margin:0px;padding:0px;line-height:30px;font-size:14px;color:#333333;fon=
+t-family:'=E5=AE=8B=E4=BD=93',arial,sans-serif;">=E6=82=A8=E5=A5=BD=EF=BC=
+=81=E6=84=9F=E8=B0=A2=E6=82=A8=E4=BD=BF=E7=94=A8=E7=99=BE=E5=BA=A6=E6=9C=8D=
+=E5=8A=A1=EF=BC=8C=E6=82=A8=E6=AD=A3=E5=9C=A8=E8=BF=9B=E8=A1=8C=E9=82=AE=E7=
+=AE=B1=E9=AA=8C=E8=AF=81=EF=BC=8C=E6=9C=AC=E6=AC=A1=E8=AF=B7=E6=B1=82=E7=9A=
+=84=E9=AA=8C=E8=AF=81=E7=A0=81=E4=B8=BA=EF=BC=9A</p><p style=3D"margin:0p=
+x;padding:0px;line-height:30px;font-size:14px;color:#333333;font-family:'=
+=E5=AE=8B=E4=BD=93',arial,sans-serif;"><b style=3D"font-size:18px;color:#=
+ff9900">525958</b><span style=3D"margin:0px;padding:0px;margin-left:10px;=
+line-height:30px;font-size:14px;color:#979797;font-family:'=E5=AE=8B=E4=BD=
+=93',arial,sans-serif;">(=E4=B8=BA=E4=BA=86=E4=BF=9D=E9=9A=9C=E6=82=A8=E5=
+=B8=90=E5=8F=B7=E7=9A=84=E5=AE=89=E5=85=A8=E6=80=A7=EF=BC=8C=E8=AF=B7=E5=9C=
+=A81=E5=B0=8F=E6=97=B6=E5=86=85=E5=AE=8C=E6=88=90=E9=AA=8C=E8=AF=81=E3=80=
+=82)</span></p><div style=3D"line-height:80px;height:80px;">&nbsp;</div><=
+p style=3D"margin:0px;padding:0px;line-height:30px;font-size:14px;color:#=
+333333;font-family:'=E5=AE=8B=E4=BD=93',arial,sans-serif;">=E7=99=BE=E5=BA=
+=A6=E5=B8=90=E5=8F=B7=E5=9B=A2=E9=98=9F</p><p
+style=3D"margin:0px;padding:0px;line-height:30px;font-size:14px;color:#33=
+3333;font-family:'=E5=AE=8B=E4=BD=93',arial,sans-serif;">2014=E5=B9=B405=E6=
+=9C=8828=E6=97=A5</p><div style=3D"line-height:20px;height:20px;">&nbsp;<=
+/div><td width=3D"30px;">&nbsp;<tr><td width=3D"30px;">&nbsp;<td style=3D=
+"border-top:1px dashed #dfdfdf;height:160px;"><div style=3D"float:left;wi=
+dth:15%;"><img src=3Dhttp://passport.baidu.com/export/app/img/qrcode_andr=
+oid.png?v=3D01109558.png style=3D"border:1px solid #dfdfdf;padding:5px;">=
+</div><div style=3D"float:right;width:85%;"><p style=3D"text-indent:2em;c=
+olor:#666666;font-size:14px;">=E7=BB=91=E5=AE=9A<a href=3Dhttp://passport=
+.baidu.com/export/app/index.html style=3D"font-size:16px;color:#3366cc;te=
+xt-decoration:none;font-weight:bold;" target=3D_blank>=E5=AE=89=E5=85=A8=E4=
+=B8=AD=E5=BF=83=E6=89=8B=E6=9C=BA=E7=89=88</a>=EF=BC=8C=E6=94=B6=E5=8F=96=
+=E9=AA=8C=E8=AF=81=E7=A0=81=E4=B8=8D=E5=86=8D=E7=AD=89=E5=BE=85=EF=BC=81<=
+/p><p style=3D"text-indent:2em;color:#666666;font-size:14px;">=E8=B5=B6=E7=
+=B4=A7=E6=89=AB=E6=8F=8F=E4=B8=8B=E8=BD=BD=E5=90=A7</p></div></table></ta=
+ble>
+
+
+

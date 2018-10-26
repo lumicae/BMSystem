@@ -1,0 +1,68 @@
+Received: from 166.78.70.161 (unknown [166.78.70.161])
+	by newmx15.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Wed, 05 Nov 2014 13:55:46 +0800
+X-QQ-FEAT: /ih5KGSjpnCjVfQvLeotUPRKV3T88ifA+V0dZZ+vX2jnMcmJq9mFmRe00M0xH
+	zI+KEfs/VDqg9CO0gAEvVlGHKgualWUr+SPih/S3zdBOPmCdVwJn5D8T8POaDa4cfZJIh3c
+	+Gl+t0utMxuaLNNCtQGlG6ogcsbybccJYVes/6LazzYqYjsaKh4BVUZgQboEqQk3jx9zLRi
+	YqizGaylK3Q==
+X-QQ-MAILINFO: M9mpTqh4QKvqCKKf42OAA0Gx2C7zeuuqPgCgS7zlzZjBButuO8sSebU8M
+	msCxf0kYg0tZTe6G+GmPTDR9yooO0E1hI6331hzO3iyf59Ibj2iAbSn+3euGmQoxCLwGj+4
+	e0PYpghd7NDQ
+X-QQ-SSF: 005000000A00000000900001002050x
+X-QQ-mid: usamxproxy13t1415166948tbn8iyq
+X-QQ-CSender: bounce+ae22bc.0f8cb-573275629=qq.com@verycd.com
+X-KK-mid:usamxproxy13t1415166948tbn8iyq
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=verycd.com; q=dns/txt; s=smtp;
+ t=1415166946; h=Sender: Date: Message-Id: Content-Type: Mime-Version:
+ To: From: Subject; bh=kMQNrcFn9Av1BmwCWLkgmWQlPhosBK1pElvO/TZWM0I=; b=L0LuX81vvhsYxpNqNkayFMiRpqCyOWm/FS7uzKNz8ampzGSxbRNl3ChUHnbXjU2L9isiBVRU
+ XykJGoWcNaqZGASamIufuuCn8QipthctyMn0cU3N6FsBx7uwm4quM5LQV56saNDECXriiUpC
+ jE97H4z6I9cFIGjY87+QlQm9c3o=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=verycd.com; s=smtp; q=dns;
+ h=Subject: From: To: Mime-Version: Content-Type: Message-Id: Date:
+ Sender;
+ b=R4wkoKfHMAZ0NXIzuIw1V3oTMNvaL3/rlw39hLJ4/wjOdbad+gxoVt9Jqx30OI3L2lUurn
+ z0O3SILgPqwseENr83YR/PCcU4CwxUXlpmfx2YyAWteON1TAwmH4G1WSZOThahF+HCip0Kx3
+ pUFw0qJA4U/W9DoIDmJAGbQOsPV1A=
+Received: from localhost (Unknown [115.182.65.73]) by mxa.mailgun.org with
+ ESMTP id 5459bbde.7fcf1c78ec90-in7; Wed, 05 Nov 2014 05:55:42 -0000 (UTC)
+Subject: =?utf-8?B?5qyi6L+O5L2g77yMbHVtaWNhZQ==?=
+From: =?utf-8?B?VmVyeUNEIA==?=<noreply@verycd.com>
+To: 573275629@qq.com
+Mime-Version: 1.0
+X-Mailgun-Tag: verycd
+Content-Type: text/plain; charset="utf-8"
+Message-Id: <20141105055542.113456.7349@verycd.com>
+X-Mailgun-Sid: WyI1NThlYyIsICI1NzMyNzU2MjlAcXEuY29tIiwgIjBmOGNiIl0=
+Date: Wed, 05 Nov 2014 05:55:46 +0000
+Sender: noreply@verycd.com
+
+亲爱的lumicae：
+
+欢迎加入VeryCD!
+
+请点击链接完成注册：
+
+http://www.verycd.com/signup/register_validate?key=ded4192f4b93a458960aeff11dad4bd4&continue=http%3A%2F%2Fwww.verycd.com
+
+如果你的email程序不支持链接点击，请将上面的地址拷贝至你的浏览器(如IE)的地址栏进入VeryCD。
+
+希望您在VeryCD的体验有益和愉快!
+
+- VeryCD.com
+
+(这是一封自动产生的email，请勿回复。)
+
+
+Dear lumicae:
+
+Welcome to VeryCD.com. Please click on the following link to complete your registration with us:
+
+http://www.verycd.com/signup/register_validate?key=ded4192f4b93a458960aeff11dad4bd4&continue=http%3A%2F%2Fwww.verycd.com
+
+If your email program does not support clickable link, please copy the above address to your web browser's address bar and enter VeryCD from there.
+
+Enjoy your stay at VeryCD.
+
+- VeryCD.com
+
+(This is a program-generated email, please do not reply.)

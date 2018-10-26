@@ -1,0 +1,384 @@
+Received: from mail309.jd.com (unknown [120.52.149.170])
+	by newmx1.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Tue, 22 Nov 2016 12:16:51 +0800
+X-QQ-FEAT: 1H0gB2LNL0YfcGu4S9ft5RgLBz7ofOIkNiVK6sHx1YXAL2Csr00pZhmSIWQOs
+	qy70vbHj1YovNojmYY3DLaiW/yo26bddazxqI5COq3/Z5Q5YvqOcsiwYLQ1fJGJo+FCfFJ4
+	aaLLdFcz5B3WWtNyyloSUAsDmgI+QixUeIJIfbZyQQe7wkcSi7ZFMntKpjyF0py4IOGHIvj
+	5k/9HUHsY5qyAwF1UA/jV1U/ddJB7zZuaXu0NnnNwdnAW8C8hDplE1QpMlL9oX9Sx+JfN8+
+	N1q6FyxAmlAGsnhrAH1P+8KhmggipKUcd2IgS+q+gvNV2E
+X-QQ-MAILINFO: ObpyOLNbESSk4gmAXA9GlaG7ZOflwKG1LuVYXgIhDa/vI0yq5K9DyMYe5
+	KkKe65Dz1HKVYvq7usEWpLLvswrsDXcwnR+a8AFXV+TQuLuDHwQ2dzLwk4zokHGOZBdImtt
+	YqN9e8PMf+GdFBOBaclMznrgS6ka03NS6Q==
+X-QQ-mid: mx18t1479788211t5qxjpdac
+X-QQ-ORGSender: newsletter1@jd.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1479788211;
+	s=leo; d=jd.com; i=leo@jd.com;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=QsY03xyYHRFyemINhjG3bE5Js4rckjU36eXD9g0AkAs=;
+	b=B+ispWU+9WtmvsflbW+uNA4+nT0iCKCcflN+izH7cif8k4D8jWmNZfkK7g5pIXvA
+	YrunPz4XLRFsDvjkVzGnCcoKuVxUAEWdYARA6mkTkFktidIw3D6fdnDVmCg5uiYfpsW
+	xJ2Pb+cuHlQP32HJRw+b+/GDu4XM3PGZ2t2yJF1E=
+Date: Tue, 22 Nov 2016 12:16:51 +0800 (CST)
+From: =?utf-8?B?5Lqs5LicSkQuY29t?= <newsletter1@jd.com>
+To: 573275629@qq.com
+Message-ID: <367203575.6397941479788211757.JavaMail.admin@host-10-190-23-152>
+Subject: =?UTF-8?B?572X6L6R5oCd57u06YKA6K+35L2g5LiA6LW36Leo5bm0?=
+MIME-Version: 1.0
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=20
+  <title>=E7=BD=97=E8=BE=91=E6=80=9D=E7=BB=B4=E9=82=80=E8=AF=B7=E4=BD=A0=E4=
+=B8=80=E8=B5=B7=E8=B7=A8=E5=B9=B4</title>
+ </head>=20
+ <body><!-- webmail_open_begin --><table style=3D'display:none;' width=3D'1=
+' height=3D'1'><tr><td> <img width=3D'1' height=3D'1' src=3D'http://dc2.jd.=
+com/auto.php?service=3Dtransfer&type=3Dpms&from=3Ddmp&kid=3D154&klid=3D3869=
+62&gatewayurl=3D4797880710715821505'> </td></tr></table><!-- webmail_open_e=
+nd -->=20
+  <div id=3D"head_1479708570712" data-type=3D"bar" class=3D"widget selected=
+" draggable=3D"false">=20
+   <span>=20
+    <table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" a=
+lign=3D"center" bgcolor=3D"#ffffff">=20
+     <!-- webmail_url_begin -->=20
+     <tbody>
+      <tr>=20
+       <td>=20
+        <table width=3D"96%" height=3D"30" align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0">=20
+         <tbody>
+          <tr>=20
+           <td> <font style=3D"font-size: 12px;" color=3D"#888888"> <a href=
+=3D"#" style=3D"color:#888888;text-decoration: none;" draggable=3D"false">&=
+nbsp;</a> </font> </td>=20
+           <td align=3D"right"> <font style=3D"font-size: 12px;" color=3D"#=
+888888"> <a href=3D"http://dc2.jd.com/auto.php?service=3Dtransfer&amp;type=
+=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=3D386962&amp;gatewayurl=3D4797=
+880710715821505_head_1479708570712_2_1479788205236&amp;to=3Dhttp%3A%2F%2Fur=
+.jr.jd.com%2Fsurvey%2Fshow%3Fid%3D121%26u%3Dhttp%253A%252F%252Fjr.jd.com%25=
+2F" style=3D"color:#888888" draggable=3D"false">=E6=88=91=E8=A6=81=E6=8A=95=
+=E8=AF=89</a> </font> </td>=20
+          </tr>=20
+         </tbody>
+        </table> </td>=20
+      </tr>=20
+      <!-- webmail_url_end -->=20
+      <tr>=20
+       <td>=20
+        <table width=3D"96%" align=3D"center" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0">=20
+         <tbody>
+          <tr>=20
+           <td align=3D"left"><a href=3D"http://dc2.jd.com/auto.php?service=
+=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=3D386962&a=
+mp;gatewayurl=3D4797880710715821505_head_1479708570712_3_1479788205236&amp;=
+to=3Dhttp%3A%2F%2Fjr.jd.com%2F" draggable=3D"false"><img src=3D"http://img3=
+0.360buyimg.com/uep/jfs/t3112/271/978499985/6579/2b20757f/57c41c41N6e3aa99c=
+.png" width=3D"166" height=3D"71" border=3D"0" draggable=3D"false"></a></td=
+>=20
+           <td align=3D"right"> <a href=3D"http://dc2.jd.com/auto.php?servi=
+ce=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=3D386962=
+&amp;gatewayurl=3D4797880710715821505_head_1479708570712_4_1479788205236&am=
+p;to=3Dhttp%3A%2F%2Fsale.jd.com%2Fm%2Fact%2FcZEH1o2qJw.html" draggable=3D"f=
+alse"> <img src=3D"http://img30.360buyimg.com/uep/jfs/t3475/172/587910627/9=
+554/878125a4/580ec75bN75ecdf2d.jpg" width=3D"120" height=3D"48" border=3D"0=
+" draggable=3D"false"> </a> </td>=20
+          </tr>=20
+         </tbody>
+        </table> </td>=20
+      </tr>=20
+      <tr>=20
+       <td width=3D"100%" height=3D"35" bgcolor=3D"#efefef">=20
+        <table align=3D"center" style=3D"font-size: 12px;" height=3D"32" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+         <tbody>
+          <tr>=20
+           <td valign=3D"middle" align=3D"center"> <a valign=3D"middle" sty=
+le=3D"color:#272727;text-decoration:none;" href=3D"http://dc2.jd.com/auto.p=
+hp?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=
+=3D386962&amp;gatewayurl=3D4797880710715821505_head_1479708570712_5_1479788=
+205236&amp;to=3Dhttp%3A%2F%2Fjr.jd.com%2F" draggable=3D"false">=E9=A6=96=E9=
+=A1=B5</a> </td>=20
+           <td valign=3D"middle" align=3D"center" width=3D"40" height=3D"15=
+"> <img valign=3D"middle" src=3D"http://img30.360buyimg.com/uep/jfs/t3181/2=
+35/1040957599/1312/adf8638e/57c41c57N3aa0a193.jpg" width=3D"24" height=3D"1=
+5" border=3D"0" draggable=3D"false"> </td>=20
+           <td valign=3D"middle" align=3D"center"> <a valign=3D"middle" sty=
+le=3D"color:#272727;text-decoration:none;" href=3D"http://dc2.jd.com/auto.p=
+hp?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=
+=3D386962&amp;gatewayurl=3D4797880710715821505_head_1479708570712_6_1479788=
+205236&amp;to=3Dhttp%3A%2F%2Flicai.jd.com%2F" draggable=3D"false">=E7=90=86=
+=E8=B4=A2</a> </td>=20
+           <td valign=3D"middle" align=3D"center" width=3D"40" height=3D"15=
+"> <img valign=3D"middle" src=3D"http://img30.360buyimg.com/uep/jfs/t3181/2=
+35/1040957599/1312/adf8638e/57c41c57N3aa0a193.jpg" width=3D"24" height=3D"1=
+5" border=3D"0" draggable=3D"false"> </td>=20
+           <td valign=3D"middle" align=3D"center"> <a valign=3D"middle" sty=
+le=3D"color:#272727;text-decoration:none;" href=3D"http://dc2.jd.com/auto.p=
+hp?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=
+=3D386962&amp;gatewayurl=3D4797880710715821505_head_1479708570712_7_1479788=
+205236&amp;to=3Dhttp%3A%2F%2Fz.jd.com%2FsceneIndex.html" draggable=3D"false=
+">=E4=BC=97=E7=AD=B9</a> </td>=20
+           <td valign=3D"middle" align=3D"center" width=3D"40" height=3D"15=
+"> <img valign=3D"middle" src=3D"http://img30.360buyimg.com/uep/jfs/t3181/2=
+35/1040957599/1312/adf8638e/57c41c57N3aa0a193.jpg" width=3D"24" height=3D"1=
+5" border=3D"0" draggable=3D"false"> </td>=20
+           <td valign=3D"middle" align=3D"center"> <a valign=3D"middle" sty=
+le=3D"color:#272727;text-decoration:none;" href=3D"http://dc2.jd.com/auto.p=
+hp?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=
+=3D386962&amp;gatewayurl=3D4797880710715821505_head_1479708570712_8_1479788=
+205236&amp;to=3Dhttp%3A%2F%2Fbao.jd.com%2F" draggable=3D"false">=E4=BF=9D=
+=E9=99=A9</a> </td>=20
+           <td valign=3D"middle" align=3D"center" width=3D"40" height=3D"15=
+"> <img valign=3D"middle" src=3D"http://img30.360buyimg.com/uep/jfs/t3181/2=
+35/1040957599/1312/adf8638e/57c41c57N3aa0a193.jpg" width=3D"24" height=3D"1=
+5" border=3D"0" draggable=3D"false"> </td>=20
+           <td valign=3D"middle" align=3D"center"> <a valign=3D"middle" sty=
+le=3D"color:#272727;text-decoration:none;" href=3D"http://www.baitiao.com/"=
+ draggable=3D"false">=E7=99=BD=E6=9D=A1</a> </td>=20
+           <td valign=3D"middle" align=3D"center" width=3D"40" height=3D"15=
+"> <img valign=3D"middle" src=3D"http://img30.360buyimg.com/uep/jfs/t3181/2=
+35/1040957599/1312/adf8638e/57c41c57N3aa0a193.jpg" width=3D"24" height=3D"1=
+5" border=3D"0" draggable=3D"false"> </td>=20
+           <td valign=3D"middle" align=3D"center"> <a valign=3D"middle" sty=
+le=3D"color:#272727;text-decoration:none;" href=3D"http://dc2.jd.com/auto.p=
+hp?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=
+=3D386962&amp;gatewayurl=3D4797880710715821505_head_1479708570712_10_147978=
+8205236&amp;to=3Dhttp%3A%2F%2Floan.jd.com%2Fhome%2Findex.htm" draggable=3D"=
+false">=E4=BC=81=E4=B8=9A=E9=87=91=E8=9E=8D</a> </td>=20
+           <td valign=3D"middle" align=3D"center" width=3D"40" height=3D"15=
+"> <img valign=3D"middle" src=3D"http://img30.360buyimg.com/uep/jfs/t3181/2=
+35/1040957599/1312/adf8638e/57c41c57N3aa0a193.jpg" width=3D"24" height=3D"1=
+5" border=3D"0" draggable=3D"false"> </td>=20
+           <td valign=3D"middle" align=3D"center"> <a valign=3D"middle" sty=
+le=3D"color:#272727;text-decoration:none;" href=3D"http://dc2.jd.com/auto.p=
+hp?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=
+=3D386962&amp;gatewayurl=3D4797880710715821505_head_1479708570712_11_147978=
+8205236&amp;to=3Dhttps%3A%2F%2Fgupiao.jd.com%2F" draggable=3D"false">=E8=82=
+=A1=E7=A5=A8</a> </td>=20
+           <td valign=3D"middle" align=3D"center" width=3D"40" height=3D"15=
+"> <img valign=3D"middle" src=3D"http://img30.360buyimg.com/uep/jfs/t3181/2=
+35/1040957599/1312/adf8638e/57c41c57N3aa0a193.jpg" width=3D"24" height=3D"1=
+5" border=3D"0" draggable=3D"false"> </td>=20
+           <td valign=3D"middle" align=3D"center"> <a valign=3D"middle" sty=
+le=3D"color:#272727;text-decoration:none;" href=3D"http://dc2.jd.com/auto.p=
+hp?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=
+=3D386962&amp;gatewayurl=3D4797880710715821505_head_1479708570712_12_147978=
+8205236&amp;to=3Dhttps%3A%2F%2Fdj.jd.com%2F" draggable=3D"false">=E4=B8=9C=
+=E5=AE=B6</a> </td>=20
+          </tr>=20
+         </tbody>
+        </table> </td>=20
+      </tr>=20
+     </tbody>
+    </table> </span>=20
+   <span class=3D"selectedBar"></span>=20
+   <span class=3D"close-btn"></span>=20
+  </div>=20
+  <div id=3D"html_1479708575404" data-type=3D"html" class=3D"widget" dragga=
+ble=3D"false">=20
+   <span> <title>=E6=97=B6=E9=97=B4=E7=9A=84=E6=9C=8B=E5=8F=8B=E8=B7=A8=E5=
+=B9=B4=E6=BC=94=E8=AE=B2</title>=20
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">=20
+    <table id=3D"__01" width=3D"650" height=3D"1550" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" align=3D"center">=20
+     <tbody>
+      <tr>=20
+       <td><a href=3D"http://dc2.jd.com/auto.php?service=3Dtransfer&amp;typ=
+e=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=3D386962&amp;gatewayurl=3D479=
+7880710715821505___01_1_1479788205236&amp;to=3Dhttp%3A%2F%2Fz.jd.com%2Fproj=
+ect%2Fdetails%2F68868.html"><img src=3D"http://img30.360buyimg.com/cms/jfs/=
+t3460/356/1705969992/125613/dcc67bd5/582ebd4dN4fb76551.jpg" alt=3D"" width=
+=3D"650" height=3D"241" style=3D"width:100%; display:block;"></a></td>=20
+      </tr>=20
+      <tr>=20
+       <td><a href=3D"http://dc2.jd.com/auto.php?service=3Dtransfer&amp;typ=
+e=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=3D386962&amp;gatewayurl=3D479=
+7880710715821505___01_2_1479788205236&amp;to=3Dhttp%3A%2F%2Fz.jd.com%2Fproj=
+ect%2Fdetails%2F68868.html"><img src=3D"http://img12.360buyimg.com/cms/jfs/=
+t3352/364/1731527538/146189/d72a7401/582ebd4dNca080d37.jpg" alt=3D"" width=
+=3D"650" height=3D"246" style=3D"width:100%; display:block;"></a></td>=20
+      </tr>=20
+      <tr>=20
+       <td><a href=3D"http://dc2.jd.com/auto.php?service=3Dtransfer&amp;typ=
+e=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=3D386962&amp;gatewayurl=3D479=
+7880710715821505___01_3_1479788205236&amp;to=3Dhttp%3A%2F%2Fz.jd.com%2Fproj=
+ect%2Fdetails%2F68868.html"><img src=3D"http://img11.360buyimg.com/cms/jfs/=
+t3691/134/1426723513/21872/916f757e/58257bb3N5db187cd.jpg" alt=3D"" width=
+=3D"650" height=3D"53" style=3D"width:100%; display:block;"></a></td>=20
+      </tr>=20
+      <tr>=20
+       <td> <img src=3D"http://img10.360buyimg.com/cms/jfs/t3361/147/142765=
+6265/89858/f6d6217/58257bb3N31288117.jpg" alt=3D"" width=3D"650" height=3D"=
+181" style=3D"width:100%; display:block;"></td>=20
+      </tr>=20
+      <tr>=20
+       <td> <img src=3D"http://img14.360buyimg.com/cms/jfs/t3664/61/1417846=
+934/134363/49e0c64/58257bb4Nb975335d.jpg" alt=3D"" width=3D"650" height=3D"=
+256" style=3D"width:100%; display:block;"></td>=20
+      </tr>=20
+      <tr>=20
+       <td> <img src=3D"http://img11.360buyimg.com/cms/jfs/t3478/108/137780=
+4409/179531/de999663/58257bb5N45b60750.jpg" alt=3D"" width=3D"650" height=
+=3D"366" style=3D"width:100%; display:block;"></td>=20
+      </tr>=20
+      <tr>=20
+       <td> <img src=3D"http://img30.360buyimg.com/cms/jfs/t3331/325/139768=
+2207/52633/b060e68b/58257bb3Nefe90496.jpg" alt=3D"" width=3D"650" height=3D=
+"105" style=3D"width:100%; display:block;"></td>=20
+      </tr>=20
+      <tr>=20
+       <td><a href=3D"http://dc2.jd.com/auto.php?service=3Dtransfer&amp;typ=
+e=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;klid=3D386962&amp;gatewayurl=3D479=
+7880710715821505___01_4_1479788205236&amp;to=3Dhttp%3A%2F%2Fz.jd.com%2Fproj=
+ect%2Fdetails%2F68868.html"><img src=3D"http://img10.360buyimg.com/cms/jfs/=
+t3559/143/1439653376/28822/e65e9ffb/58257bb3N4c653675.jpg" alt=3D"" width=
+=3D"650" height=3D"102" style=3D"width:100%; display:block;"></a></td>=20
+      </tr>=20
+     </tbody>
+    </table> </span>=20
+   <span class=3D"selectedBar"></span>=20
+   <span class=3D"close-btn"></span>=20
+  </div>=20
+  <div id=3D"tail_1479708733525" data-type=3D"bar" class=3D"widget" draggab=
+le=3D"false">=20
+   <span>=20
+    <table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" a=
+lign=3D"center" bgcolor=3D"#ffffff">=20
+     <tbody>
+      <tr>=20
+       <td>=20
+        <table width=3D"100%" bgcolor=3D"#d5d6d8" height=3D"120" align=3D"c=
+enter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+         <tbody>
+          <tr>=20
+           <td width=3D"100%" height=3D"120">=20
+            <table height=3D"103" align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">=20
+             <tbody>
+              <tr>=20
+               <td width=3D"23" height=3D"103"></td>=20
+               <td> <a style=3D"font-size: 0;" href=3D"http://dc2.jd.com/au=
+to.php?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;k=
+lid=3D386962&amp;gatewayurl=3D4797880710715821505_tail_1479708733525_1_1479=
+788205236&amp;to=3Dhttp%3A%2F%2Fjrappgw.jd.com%2Fresources%2FdownloadApp.ht=
+ml%3Fid%3D318" draggable=3D"false"> <img src=3D"http://img30.360buyimg.com/=
+uep/jfs/t3163/235/1015988966/11082/5f11de77/57c41c46N18b77ef2.png" width=3D=
+"216" height=3D"102" border=3D"0" alt=3D"=E4=BA=AC=E4=B8=9C=E9=87=91=E8=9E=
+=8D=E5=AE=A2=E6=88=B7=E7=AB=AF" draggable=3D"false"> </a> </td>=20
+               <td width=3D"10" height=3D"85"></td>=20
+               <td width=3D"1" height=3D"85" bgcolor=3D"#b7b7b7"></td>=20
+               <td width=3D"7" height=3D"85"></td>=20
+               <td> <a style=3D"font-size: 0;" href=3D"http://dc2.jd.com/au=
+to.php?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;k=
+lid=3D386962&amp;gatewayurl=3D4797880710715821505_tail_1479708733525_2_1479=
+788205236&amp;to=3Dhttp%3A%2F%2Fdc2.jd.com%2F%3FtkdSQQ" draggable=3D"false"=
+> <img src=3D"http://img30.360buyimg.com/uep/jfs/t3031/214/1320624918/11878=
+/a9709635/57c41c4bN04af670d.png" width=3D"216" height=3D"102" border=3D"0" =
+alt=3D"=E4=BA=AC=E4=B8=9C=E9=92=B1=E5=8C=85" draggable=3D"false"> </a> </td=
+>=20
+               <td width=3D"10" height=3D"85"></td>=20
+               <td width=3D"1" height=3D"85" bgcolor=3D"#b7b7b7"></td>=20
+               <td width=3D"24" height=3D"85"></td>=20
+               <td> </td>
+               <td> <a style=3D"font-size: 0;" href=3D"http://dc2.jd.com/au=
+to.php?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;kid=3D154&amp;k=
+lid=3D386962&amp;gatewayurl=3D4797880710715821505_tail_1479708733525_3_1479=
+788205236&amp;to=3Dhttp%3A%2F%2Fgpm.jd.com%2Fh5%2Fshare-bridge.html%3FADTAG=
+%3D2069" draggable=3D"false"> <img src=3D"http://img30.360buyimg.com/uep/jf=
+s/t3064/116/1011687877/11920/645868a7/57c41c4fN70013fa6.png" width=3D"218" =
+height=3D"102" border=3D"0" alt=3D"=E4=BA=AC=E4=B8=9C=E8=82=A1=E7=A5=A8" dr=
+aggable=3D"false"> </a> </td>=20
+               <td width=3D"23" height=3D"103"></td>=20
+              </tr>=20
+             </tbody>
+            </table> </td>=20
+          </tr>=20
+         </tbody>
+        </table> </td>=20
+      </tr>=20
+      <tr>=20
+       <td style=3D"border-bottom: 1px solid #ededed;">=20
+        <table width=3D"96%" height=3D"75" align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0">=20
+         <tbody>
+          <tr>=20
+           <td align=3D"center"> <a style=3D"font-size: 0;" href=3D"http://=
+dc2.jd.com/auto.php?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&amp;ki=
+d=3D154&amp;klid=3D386962&amp;gatewayurl=3D4797880710715821505_tail_1479708=
+733525_4_1479788205236&amp;to=3Dhttp%3A%2F%2Fjr.jd.com" draggable=3D"false"=
+><img src=3D"http://img30.360buyimg.com/uep/jfs/t3160/223/986085061/10500/6=
+b15f8c/57c41c2aNfc439bcb.png" width=3D"341" height=3D"33" border=3D"0" alt=
+=3D"=E8=BD=BB=E6=9D=BE=E7=90=86=E8=B4=A2" draggable=3D"false"> </a> </td>=
+=20
+          </tr>=20
+         </tbody>
+        </table> </td>=20
+      </tr>=20
+      <tr>=20
+       <td>=20
+        <table width=3D"96%" style=3D"font-size: 12px" height=3D"75" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+         <tbody>
+          <tr>=20
+           <td style=3D"padding-top:5px;"> <font color=3D"#5e5e5e" style=3D=
+"line-height: 20px;">=20
+             <!-- webmail_unsubscribe_begin --> =E6=82=A8=E6=94=B6=E5=88=B0=
+=E6=AD=A4=E9=82=AE=E4=BB=B6=E6=98=AF=E5=9B=A0=E4=B8=BA=E6=82=A8=E6=9B=BE=E7=
+=BB=8F=E5=9C=A8=E4=BA=AC=E4=B8=9C=E7=BD=91=E7=AB=99=E6=B3=A8=E5=86=8C/=E8=
+=AE=A2=E9=98=85=E7=94=B5=E5=AD=90=E6=9C=9F=E5=88=8A=EF=BC=8C=E5=A6=82=E6=9E=
+=9C=E6=82=A8=E4=B8=8D=E6=83=B3=E7=BB=A7=E7=BB=AD=E6=94=B6=E5=88=B0=E6=AD=A4=
+=E7=B1=BB=E9=82=AE=E4=BB=B6=EF=BC=8C=E8=AF=B7=E7=82=B9=E5=87=BB<a href=3D"h=
+ttp://dc2.jd.com/auto.php?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddmp&=
+amp;kid=3D154&amp;klid=3D386962&amp;gatewayurl=3D4797880710715821505_tail_1=
+479708733525_5_1479788205236&amp;to=3Dhttp%3A%2F%2Fi-mkt.jd.com%2Fsubscribe=
+%2Findex%3Ftoken%3D" style=3D"color:#5e5e5e;" draggable=3D"false">=E9=80=80=
+=E8=AE=A2</a><br>=20
+             <!-- webmail_unsubscribe_end --> =E5=95=86=E5=93=81=E4=BB=B7=
+=E6=A0=BC=E4=BC=9A=E5=9B=A0=E7=BD=91=E7=AB=99=E4=BF=83=E9=94=80=E6=B4=BB=E5=
+=8A=A8=E8=80=8C=E4=BA=A7=E7=94=9F=E5=8F=98=E5=8A=A8=EF=BC=8C=E6=9C=80=E7=BB=
+=88=E5=95=86=E5=93=81=E4=BB=B7=E6=A0=BC=E4=BB=A5=E4=BA=AC=E4=B8=9CJD.com=E5=
+=AE=9E=E9=99=85=E6=98=BE=E7=A4=BA=E4=BB=B7=E6=A0=BC=E4=B8=BA=E5=87=86=EF=BC=
+=8C=E7=BB=99=E6=82=A8=E5=B8=A6=E6=9D=A5=E4=B8=8D=E4=BE=BF=E6=95=AC=E8=AF=B7=
+=E8=B0=85=E8=A7=A3<br> =E4=BB=BB=E4=BD=95=E9=97=AE=E9=A2=98=E6=AC=A2=E8=BF=
+=8E=E6=82=A8=E8=87=B4=E7=94=B5=E6=88=96=E9=82=AE=E4=BB=B6=E8=81=94=E7=B3=BB=
+=E4=BA=AC=E4=B8=9C=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83=EF=BC=9A95118=EF=BC=
+=8C=E5=A6=82=E6=9C=89=E9=97=AE=E9=A2=98=E4=B9=9F=E8=AF=B7=E8=AE=BF=E9=97=AE=
+<a href=3D"http://dc2.jd.com/auto.php?service=3Dtransfer&amp;type=3Dpms&amp=
+;from=3Ddmp&amp;kid=3D154&amp;klid=3D386962&amp;gatewayurl=3D47978807107158=
+21505_tail_1479708733525_6_1479788205236&amp;to=3Dhttp%3A%2F%2Fjrhelp.jd.co=
+m" style=3D"color:#5e5e5e;" draggable=3D"false">=E5=B8=AE=E5=8A=A9=E4=B8=AD=
+=E5=BF=83</a> </font> </td>=20
+          </tr>=20
+          <tr>
+           <td height=3D"20"></td>
+          </tr>=20
+          <tr>=20
+           <td align=3D"center" style=3D"padding-bottom: 10px;"> <a href=3D=
+"http://dc2.jd.com/auto.php?service=3Dtransfer&amp;type=3Dpms&amp;from=3Ddm=
+p&amp;kid=3D154&amp;klid=3D386962&amp;gatewayurl=3D4797880710715821505_tail=
+_1479708733525_7_1479788205236&amp;to=3Dhttp%3A%2F%2Fwww.jd.com" target=3D"=
+_blank" style=3D"font-size: 0;" draggable=3D"false"> <img src=3D"http://img=
+30.360buyimg.com/uep/jfs/t3034/183/1385280464/13036/40a0ca5d/57c41c53N98fbc=
+14c.png" border=3D"0" width=3D"139" height=3D"25" alt=3D"=E4=BA=AC=E4=B8=9C=
+=E5=95=86=E5=9F=8E" draggable=3D"false"> </a> <br> Copyright ?2004-2016 =E4=
+=BA=AC=E4=B8=9CJD.com =E7=89=88=E6=9D=83=E6=89=80=E6=9C=89 </td>=20
+          </tr>=20
+         </tbody>
+        </table> </td>=20
+      </tr>=20
+     </tbody>
+    </table> </span>=20
+   <span class=3D"selectedBar"></span>=20
+   <span class=3D"close-btn"></span>=20
+  </div>=20
+ </body>
+</html>
+

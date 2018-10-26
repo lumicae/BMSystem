@@ -1,0 +1,207 @@
+Received: from mail232-34.mail.alibaba.com (unknown [42.120.232.34])
+	by newmx22.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Sat, 10 Oct 2015 17:32:14 +0800
+X-QQ-FEAT: D4aqtcRDiqQPbGCyBsfTnDikNsLH8KS+xpNGKD/mGGw=
+X-QQ-MAILINFO: ObpyOLNbESSkae0YpShzg9wXFvQGNzoBeoK6X+DVox/mAG+ddm1dD34SE
+	NcklOe0aBMvhcXNKe3dbuB+xaSzHLp6VA6wzLxpm16WKw78Bx+5BDF4Z33u7kYOdEvAuXYn
+	oQ3h+Wg4N4VmiTdroGT2HEHXKi5GDvck/FC9KAWC+WG7q7XzjdAzL/M=
+X-QQ-mid: mx22t1444469534tij40vb2a
+X-QQ-ORGSender: service@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1444469534; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=ra1g7kY9lBoyR3xCtGL1tfWJiuXMDMZyqCqzbVMorMk=;
+	b=roZ7h0gaw2C1UJ3LiLiW+0SEu3zt1daFaopaRMlzaH2eDbl2BdYhIuGNMTW2RLTZ6TwRbYUmB0QTjBpYtEFWwim8omm6RtctVtzeMhCs1YMCV1P9Rr6WctWCF4eCUuJVrhZeyg1Ign4NWWnUVxfb0DERgmv84+QbuCgwNlJTpZQ=
+Received: from messagecenter010236052074.cm4(10.236.52.74)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Sat, 10 Oct 2015 17:25:58 +0800
+Date: Sat, 10 Oct 2015 17:25:58 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <service@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <1734465923.1905831444469158069.JavaMail.admin@messagecenter010236052074.cm4>
+Subject: =?utf-8?B?5b+r6YCS5YWs5Y+45ruh5oSP5bqm6LCD56CUMjAxNeW5tDnmnIg=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 828007444464287866
+McIpGroup: online
+TempletId: 890580999
+reportid: 19696
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<body>
+<style type="text/css">
+    <!--
+    .STYLE3 {
+        color: #2953a6
+    }
+
+    .STYLE4 {
+        font-size: 18px
+    }
+
+    -->
+</style>
+<center>
+    <style>
+        img {
+            display: block;
+        }
+    </style>
+    <table width="740" style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #999;">
+        <tr>
+            <td width="665" align="right">
+                <font size="2" color="#999" face="宋体">
+                    如邮件未能正常显示，
+                </font>
+            </td>
+            <td align="right" width="75">
+                <a href="http://survey.taobao.com/survey/Qgbc~dqHh" style="text-decoration: none; font: 12px/1.5 tahoma, arial, 宋体, sans-serif;color: #2953a6;">
+                    <font color=" #2953a6">
+                        请点此查看 </font> </a></td>
+        </tr>
+        <tr>
+            <td width="665" align="right">
+                <font size="2" color="#999" face="宋体">
+                    此邮件包含淘宝Taobao.com的促销优惠信息，如果您不想再收到此类邮件，
+                </font>
+            </td>
+            <td align="right" width="75">
+                <a href="mailto:unsub@dm.taobao.com" style="text-decoration: none; font: 12px/1.5 tahoma, arial, 宋体, sans-serif; text-align: right; color: #2953a6;">
+                    <font color=" #2953a6">
+                        请点此退订
+                    </font>
+                </a>
+            </td>
+        </tr>
+    </table>
+    <div style="width: 740px;padding:2px;border:2px solid #e5e5e5;">
+        <!-- header -->
+        <table bgcolor="#ff4200" width="740" height="85" cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="left" width="520">
+                    <a href="http://www.tmall.com" style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; ">
+                        <img style="border: 0;" src="http://gtms04.alicdn.com/tps/i4/TB14QlEGXXXXXXRXVXXvs.B5pXX-740-85.jpg"/></a>
+                </td>
+            </tr>
+        </table>
+        <!-- end header --><!-- nav -->
+        <!-- end nav --><!-- content -->
+        <table width="710" height="260" border="0" cellpadding="0" cellspacing="0" bordercolor="#E5E5E5"
+               style="margin-left:5px; margin-top:20px; font-size:13px;font-family:宋体;color:#333;">
+            <tbody>
+            <tr>
+                <td width="11" height="22" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+                <td colspan="2" height="30" valign="middle" bordercolor="#E5E5E5" border="1" style="padding-left:10px;margin-top:10px;font-weight: bold; font-size:14px;">
+                     亲爱的用户：
+                </td>
+            </tr>
+            <tr>
+                <td height="69" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+                <td colspan="2" valign="middle" bordercolor="#E5E5E5" style="line-height:20px;text-indent:20px;" border="1">
+                    <div>以下是一份关于物流需求以及快递公司满意度的调研问卷，麻烦抽出3-5分钟时间填写。</div>
+                    <div>您的答案没有对错之分，请真实、完整的表达出自己的感受和想法。您的意见和建议对于我们非常重要！谢谢！</div>
+                </td>
+            </tr>
+            <tr>
+                <td height="56" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+                <td colspan="2" align="center" valign="middle" bordercolor="#E5E5E5" border="1">
+                    <table width="433" height="44" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td width="216" height="44" align="right" style="color:#666;font-size:14px;font-weight:bold;">请点击右侧按钮查看邀请函：</td>
+                            <td width="217"><a href="http://survey.taobao.com/survey/Qgbc~dqHh" target="_blank"><img
+                                    src="http://img04.taobaocdn.com/tps/i4/T1zC81Xg0tXXXXXXXX-86-25.png" width="86" height="25" border="0"/></a></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td height="26" colspan="2" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+                <td width="698" valign="middle" bordercolor="#E5E5E5" border="1" style="text-indent:20px;">如果按钮无法显示，请打开此链接：<a href="http://survey.taobao.com/survey/Qgbc~dqHh" target="_blank" style="color:2953A6;text-decoration:none;">http://survey.taobao.com/survey/Qgbc~dqHh</a>
+                </td>
+            </tr>
+            <tr>
+                </tr>
+            <tr>
+                <td height="50" colspan="2" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+
+       
+            </tr>
+            <tr>
+
+
+                <td height="120" colspan="2" valign="middle" bordercolor="#E5E5E5" border="1">&nbsp;</td>
+                <td align="right" valign="middle" bordercolor="#E5E5E5" border="1">菜鸟用户研究团队</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table bgcolor="#f4f4f4" width="740" style="margin-top:10px;">
+            <tr>
+                <td width="8">
+                </td>
+                <td align="left" colspan="2">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #666;">
+                        亲爱的淘宝商家：
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td align="left" colspan="2">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #666;">
+                        您之所以收到这封邮件，是因为您曾经注册成为淘宝或天猫商家。我们保证仅向您发送关于淘宝或天猫的产品、促销优惠以及服务的电子邮件。淘宝和天猫尊重并保护您的隐私。
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td align="left" colspan="2">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #999;">
+                        商品价格或促销内容如有调整，以淘宝Taobao.com上最终页为准。
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td align="left" colspan="2">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #999;">
+                        如果您有任何关于用户体验方面的问题或建议，都可联系我们：<a href="mailto:lejian.wdl@alibaba-inc.com" target="_blank" style="color:2953A6;text-decoration:none;">lejian.wdl@alibaba-inc.com</a> 。<br/>
+                        如有其它疑问，请访问淘宝&nbsp;<a style="color: #2953a6;" href="http://service.taobao.com/support/main/service_center.htm?spm=1.7274553.754895749.1.SPfZ0N">帮助中心</a>&nbsp;或拨打淘宝热线 0571-88158198获得更多帮助
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td align="center">
+                    <div style="font: 12px/1.5 tahoma, arial, 宋体, sans-serif; color: #999;">
+                        Copyright 淘宝Taobao.com All Right Reserved
+                    </div>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <td height="10">
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+            </tr>
+        </table>
+        <!-- end footer -->
+    </div>
+</center>
+</body>
+</html> 回td退订<br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

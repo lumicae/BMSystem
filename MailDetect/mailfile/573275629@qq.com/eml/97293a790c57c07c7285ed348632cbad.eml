@@ -1,0 +1,55 @@
+Received: from 198.2.186.23 (unknown [198.2.186.23])
+	by newmx13.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Sat, 20 Jun 2015 11:37:25 +0800
+X-QQ-FEAT: Pz/DvRwIHaK8Yho35SGEhlpumJwwZDGptXJHZXetrQ27v2M6DprXNHYDmRMZ/
+	uvzf7DtWprw5d9nJpkfUEyBT/m4G9pb6V4rr2DAl8ruFlwz36089oue8le8UJGl4nHHyb//
+	8/KfSdzLwZrGS3T56MaY7zgInpt2bXu+ALXQCt3rXLFJB1MzWp8jnJM/LSWMjJNZ0cYhfR+
+	3mIeaecjT1W3RvDOlEAoT
+X-QQ-MAILINFO: NL3WKUOj1eeIpEHG21SrT7uBiZmkihAE7zYfFj4jHculuYf74URn3+bRY
+	HCk4DhGbbkB+FwMw6Sv4IVSUiwl1AxCeYx8DHaIv54dyxARrHjtVukWk/g7B5eG00607Wca
+	JGFDtEn+XLTiGcQcAoEon3eEdYbKku4DnNOjPSCWGNX/h2tMHws1zak=
+X-QQ-mid: usamxproxy15t1434771456ts26g28
+X-QQ-CSender: bounce-md_30103144.5584d9bb.v1-875dfbfc9c1b4be2bf4d433fb5ab0bfd@mandrillapp.com
+X-QQ-ORGSender: bounce-md_30103144.5584d9bb.v1-875dfbfc9c1b4be2bf4d433fb5ab0bfd@mandrillapp.com
+X-KK-mid:usamxproxy15t1434771456ts26g28
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mail186-23.suw21.mandrillapp.com;
+ h=From:Sender:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=oj@mail186-23.suw21.mandrillapp.com;
+ bh=puT9Pfun+3UioMEjf9tS9rRI19U=;
+ b=S0PlNBes/vWZVfqo9kdNv4MZJeGQziLe9G6LqY6Wzvs8pStHMVeML4EHDkOICODnOdOhVRhw0P4m
+   AB6tDKCrdgKUrIcVFsgqIxsHIN08yKVEUxADDVxeMpTPnemY/nlVi4sDbqhYsi+rPOiVdZFc1uYq
+   G6FjdEkPR+XTIdbtMuo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=mail186-23.suw21.mandrillapp.com;
+ b=D2C6r656DI748z9WJ81mqD5Ho/RZesy42t5OLDX9ZlUwAaZp0QxqvRP6Xf+NmjF0qLI3kpFJ6QOo
+   1jWwpwr6FDruWjeSbVlXeb592SlDCd8DH3oS5sE+os5R6RE5/o/meKJgyqGDOrC0WzPcGl+b4lz7
+   BWCjGrcBnGo7yjYdKtA=;
+Received: from pmta02.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail186-23.suw21.mandrillapp.com id hgjg00174bkv for <573275629@qq.com>; Sat, 20 Jun 2015 03:10:51 +0000 (envelope-from <bounce-md_30103144.5584d9bb.v1-875dfbfc9c1b4be2bf4d433fb5ab0bfd@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1434769851; h=From : 
+ Sender : Subject : To : Message-Id : Date : MIME-Version : Content-Type 
+ : Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=d6jWdJKyL8LKmNGu+ZJMIjWgZfxVzsk9zsqiu/cFBps=; 
+ b=NRO9/93sZc2GJI3JGzZ7nma95SaR8E/GQb5Xz65zPowlvo1FbS5tiimEciO6f1OzfApoSu
+ +gT/uyB4SkWFtDBJmoGnLhZA8bNIMeT/W6as4FpuqAKHXPAuEwRQLmoM0L+W7CGcYUZcGO+Y
+ /zF+gFutJwf9LqDauthFBHMEa5kGw=
+From: LeetCode OJ <oj@leetcode.com>
+Sender: LeetCode OJ <oj@mail186-23.suw21.mandrillapp.com>
+Subject: [LeetCode OJ] Confirm E-mail Address
+Return-Path: <bounce-md_30103144.5584d9bb.v1-875dfbfc9c1b4be2bf4d433fb5ab0bfd@mandrillapp.com>
+Received: from [173.230.148.103] by mandrillapp.com id 875dfbfc9c1b4be2bf4d433fb5ab0bfd; Sat, 20 Jun 2015 03:10:51 +0000
+To: <573275629@qq.com>
+Message-Id: <20150620031050.13328.55620@leetcode.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30103144.875dfbfc9c1b4be2bf4d433fb5ab0bfd
+X-Mandrill-User: md_30103144
+Date: Sat, 20 Jun 2015 03:10:51 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Welcome lumicae!
+
+Thanks for signing up with LeetCode OJ!
+You must follow this link to activate your account:
+https://leetcode.com/accounts/confirm-email/eacueuurvfi5xa0ibgcdhjcqtfxvbmbf95mabdae6e3bch1jmza6nktk3yupj7bj/
+
+Have fun coding, and don't hesitate to contact us with your feedback.

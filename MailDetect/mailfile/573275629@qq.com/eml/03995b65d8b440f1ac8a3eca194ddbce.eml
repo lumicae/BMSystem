@@ -1,0 +1,53 @@
+Received: from out22-179.mail.alibaba.com (unknown [115.124.22.179])
+	by newmx81.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Tue, 15 Nov 2016 15:16:28 +0800
+X-QQ-FEAT: c1sy7WzK7UB5KjZYC5o/2VQHd+RrzgqZdAGV5PnNq0D+CGkQ+LgPtUmvvSV4v
+	xmgTcbVYSvPmYuLUko/AJrOqInhcEdzud2Ye5fG9hrDsJdHQyOp3sP5Ec4n1kitBWzQD4z+
+	XdSS2qndtL0zE7bMuTuHwqtoCsppdi7XNE/UlKaqQcW3CfEjE7ScRyLPBBSWsuO3hDe9Xc0
+	I0kXTszDV+Zv/tsgaSF+vbL1yl1yxaqNSSaFSPcl5ZuKqIpUtxYK7ncAjTGLg+sa6DRsE8K
+	UlGg==
+X-QQ-MAILINFO: MfiUJyQXz1c06KUpqd6P5FwXZOBcmpYIWdk633TW3gSe2pEl6Un+2UtJG
+	8tE+Ijv633lP0+jn1YNJcRndnwCRhVUmRYfhSF37W9RSNrWJuHxD3hwyUzUMX9Mh2wEiBuK
+	d7q/nbc9D4eE+NCB9EqVMHEmYJjKbfUFspWSViuJfw5Kg+raul5wgtXX0XozMVbGOg==
+X-QQ-mid: mx81t1479194189t730nlx7d
+X-QQ-ORGSender: taobao@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1479194188; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=9IC3HQyMxxpKdzduOQ4xftnCT98LzZDbdUOtL2wUh6M=;
+	b=MaXu29CrWQcxQHfFutMTv5SqF6TfQOxsHTYX4J4nWK8ZTJQkzGdcRmRymgO2ZuEdhGT58CfZoFBf8clfPk47e7fuLlMB47CgLEeO1WwxOP1467gmu0Y8IH3T8d2vWTcQP+rcKPefS+Riaa69K3SL/zd7P27qtoGqElhMUZMUm4w=
+X-EnvId:4905553716
+Received: from messagecenter011230138134.eu13(100.68.18.123)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Tue, 15 Nov 2016 15:16:28 +0800
+Date: Tue, 15 Nov 2016 15:16:28 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <taobao@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <2126906667.1626971479194188760.JavaMail.admin@messagecenter011230138134.eu13>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 261413479194188715
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 117053304788647 申请已经达成退款。
+  宝贝：【双11全球狂欢节】韩国AHC第二代B5玻尿酸水乳套装120mL*2补水
+  退款金额：156.00
+
+点此查看<a href="http://refund.tmall.com/viewRefundDetailSpirit.htm?bizOrderId=2645801093894786" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

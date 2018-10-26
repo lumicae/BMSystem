@@ -1,0 +1,72 @@
+Received: from smtp539.submail.cn (unknown [112.124.122.181])
+	by newmx28.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Fri, 27 Apr 2018 00:11:13 +0800
+X-QQ-FEAT: wXMbxCcERP15snFXFgPnyLQwRRDfxligk6o5H7cUyqbuU5CmCdGgrrH4wVMwJ
+	rSwTXatGrHNq4lKyE5lPHSc4URYeKmd/CrxB3I/NdEklswOpUzHi801BNKfwIwWkHITw5/e
+	gYKqAKFmtuyzmipU8hEsbBdl63Y1GquK37DBPH67Q4UoCD9shkF9TtyLb0nzFTF2mnjoKZ2
+	IucXn2ltb59D+VY70L6p32t8oH0cXAXe4iAS76xjGuqLS9c0nM0JBde48EgINIWlaU2YBEq
+	MYkFp3B9ypk6JHBWCJ1sSHKdg=
+X-QQ-MAILINFO: M9mpTqh4QKvqrgrGvDoNLBA3FYZE5N4QsFi7V6jKBXCrdEcbKO62P6HO9
+	iUXn6TJAN3oWRZuM+4Jy1rUIA7dd6dqe9cIxvxBUtsogeWLBUHGIVmGhfATBVP/p//Gar8I
+	u8OV7lPEDtlYsoVwCOhqPqgZ5gCOZ2rHdTRYwgWmQoAVHtDhvJN81i8ycejpKHfLiQ==
+X-QQ-mid: mx28t1524759074tsrvk1epl
+X-QQ-ORGSender: oschina@submail.oschina.net
+Received: by smtp539.submail.cn (submail - subsmtp, from userid 5002)
+	id CD90B1229FD; Thu, 26 Apr 2018 16:11:13 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=submail.oschina.net;
+	s=submail; t=1524759073;
+	bh=Kfz+1d2qKe+hL8eQ4W1wCr4CzCVtmmKUOEhruCp0424=;
+	h=Date:To:From:Subject:List-Unsubscribe;
+	b=m0GcckW1rkqeoqK/4q1C0QueTU7ZzzFk8Lw6ebBwk+cxcUtnNLAc2ADT1htlIPIP3
+	 9Y2LQ36ixGuB2bHS7ghtF+e6H/u3gdx8X2UZlzb1wPySxi4AvMFnI5De01C0Gu+43M
+	 dWGI6+vaJ2sN65h8Tv8sCxBTEm+14bJHny3oRiAg=
+Received: from localhost.localdomain (unknown [10.168.227.238])
+	by smtp539.submail.cn (submail - subsmtp) with ESMTPA id B163D122AAF
+	for <573275629@qq.com>; Thu, 26 Apr 2018 16:02:16 +0000 (GMT)
+Date: Thu, 26 Apr 2018 16:02:14 +0000
+To: 573275629@qq.com
+From: =?utf-8?B?5byA5rqQ5Lit5Zu9?= <oschina@submail.oschina.net>
+Subject: =?utf-8?B?56eR5aSn6K6v6aOe5byA5Y+R6ICF5aSn6LWb?=
+Message-ID: <d76bc4cec9d927119d8f6a8df8660d30@submail.cn>
+X-Mailer: Submail Version 1.0.1
+List-Unsubscribe: <http://submail.cn/autounsubscribe?ref=c47eff14460fc1c5070fada29f1f1ef50c43b4a5206823fa27fb385ac5e0e62c5941ee75c1199c41f94a1f1aa53713c915d74e74516c0a23427407bc49b8d17ccb375d9a4eeb77dcb9da3c005a5c0d22c22a199e4f8234491149605d6609f440>
+Precedence: bulk
+x-submail-send-cmd: ug01v2
+x-submail-type: me
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_d76bc4cec9d927119d8f6a8df8660d30"
+Content-Transfer-Encoding: quoted-printable
+
+--b1_d76bc4cec9d927119d8f6a8df8660d30
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BF      =092018=E9=A6=96=E5=B1=8A=E2=80=9C=E9=A1=B6=E5=A4=A9=
+=E7=AB=8B=E5=9C=B0=E2=80=9DiFLYTEK AI=E5=BC=80=E5=8F=91=E8=80=85=E5=A4=
+=A7=E8=B5=9B    =20
+
+
+--b1_d76bc4cec9d927119d8f6a8df8660d30
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BF<html> <head> <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8"> </head> <body> <div style=3D"text-align:center;"> =09=
+<span style=3D"font-size:14px;"><strong>2018=E9=A6=96=E5=B1=8A=E2=80=9C=
+=E9=A1=B6=E5=A4=A9=E7=AB=8B=E5=9C=B0=E2=80=9DiFLYTEK AI=E5=BC=80=E5=8F=
+=91=E8=80=85=E5=A4=A7=E8=B5=9B</strong></span><strong><span style=3D"font-s=
+ize:14px;"></span></strong>  </div> <br> <a href=3D"http://subtracker.subma=
+il.cn/prelinks?r=3DaHR0cHM6Ly93d3cub3NjaGluYS5uZXQvb3NjLXhmLWlmbHl0ZWs/eWpx=
+Zg=3D=3D&t=3Dc47eff14460fc1c5070fada29f1f1ef5&i=3D71d9e4e2cde2f576c76f6b37e=
+15559b3cd62e4afea0f3f31d2729742b94ebae0" target=3D"_blank"><img src=3D"http=
+s://static.oschina.net/uploads/space/2018/0424/145206_vEGs_2663968.jpg" wid=
+th=3D"100%" alt=3D"" /></a> <div style=3D"width:0px; height:0px; display:no=
+ne;"><img src=3Dhttp://subtracker.submail.cn//tracking?t=3Dc47eff14460fc1c5=
+070fada29f1f1ef5&i=3D71d9e4e2cde2f576c76f6b37e15559b3cd62e4afea0f3f31d27297=
+42b94ebae0" width=3D"1" height=3D"1"></div></body> </html>
+
+
+--b1_d76bc4cec9d927119d8f6a8df8660d30--
+
+

@@ -1,0 +1,53 @@
+Received: from out209-62.dm.aliyun.com (unknown [140.205.209.62])
+	by newmx97.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Mon, 19 Dec 2016 10:59:38 +0800
+X-QQ-FEAT: jOSrWukrYecyBm+i2iAvEuINRTlGg3r9zb8oW4V0zh7c20xdfmJpGPiq3RF9M
+	BBTm6DWKHjtEHGaCHU3hvp4GsUNp3ZBBmwoLx4/un6jDrNEZnUknELmndsH+GmzjmeG8l2q
+	COgnSX42nHsqiDAJXfX2g4mOhKKC690Eq1Krhgm0VEoFRZiEHtRESgVdX0R8f3m1P/+oH/v
+	3E+2TlcmEJUmrRkG5RVL8jXkr/qOiLOlYZJvg36hK7rcRA7xKnKEnn1e2x9XG2OU17eQqxg
+	gCQg==
+X-QQ-MAILINFO: ODvMQTwIxEi3CIBlF2Fz+6GRPqzYJzT2n9kaf6G9MiFlNgygz22GvIolw
+	u4AbsEHOhCzv78yT4JQ4HS6AYSDBsJiKyf+R95DDRmNZ/4GWwf00CiGECXtQ7/IiHqKa/P9
+	bgZj/E4QEJaC0opFqkaqG30CKAwJSizDp3tevD85gjmI
+X-QQ-mid: mx97t1482116379tgh4qzhcu
+X-QQ-ORGSender: taobao@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1482116378; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=pD3loQ3J8uPZZ6hXjhGWtvn4X4medptqywyyBIDlk8I=;
+	b=VE/6Zfslf58yJQ4nZcZ5Rn8bCVixDUjeUPhdsWzGxl6BKnNTeoDpvNbByatm/4LLq/yCjS489NjfFu3+qeMU6vnVizdVWbIL3Gv52WNTg1Ryb0Tm19fN7c+IWZe5C3TXpB95jfL/hN5uO01E6w6wg8IA1iPM2+LJxOHBpSFLpnk=
+X-EnvId:17870283326079885292
+Received: from messagecenter011228231217.et2(100.68.13.248)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Mon, 19 Dec 2016 10:59:38 +0800
+Date: Mon, 19 Dec 2016 10:59:38 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <taobao@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <1732327996.4876131482116378564.JavaMail.admin@messagecenter011228231217.et2>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 128621782116378557
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 124048101858647 申请已经达成退款。
+  宝贝：热风2016年冬季新款女靴短筒拉链简约女士时装靴休闲皮鞋H82W6430
+  退款金额：279.00
+
+点此查看<a href="http://refund.tmall.com/viewRefundDetailSpirit.htm?bizOrderId=2864288696994786" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

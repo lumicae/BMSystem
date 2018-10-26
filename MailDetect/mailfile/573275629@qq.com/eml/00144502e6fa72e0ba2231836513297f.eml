@@ -1,0 +1,48 @@
+Received: from mail232-25.mail.alibaba.com (unknown [42.120.232.25])
+	by newmx13.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Tue, 22 Sep 2015 18:02:30 +0800
+X-QQ-FEAT: m5XIv0l6wiK1omXqG7zGHmHgbD9LouUNx42V5tbOKJ4=
+X-QQ-MAILINFO: MfiUJyQXz1c0S57Kg4ynZdYT5YSiKwK5NOylu3T9z05qJDnBTKSAOPPh6
+	86vyN3S2sxsLV7saMOet7q3IH87mWv3cdMkaiRp3zhRxs64Dz+X5gC2jarb2j5Ee5KhLChd
+	qiS+gQqE4hWg/CoiNT1smQ/xRTZRjyM8TW6xCXYvXV/752sldtGy/Yc=
+X-QQ-mid: mx13t1442916151tnmy96wo9
+X-QQ-ORGSender: taobao@mc.mail.taobao.com
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=taobao.com; s=s1024;
+	t=1442916150; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=/5Ol+6fBCCZv5cjjYWh7gRoEzZweQylqFff1KqqaMOI=;
+	b=HEPypHTICCGh6PXW2jFtoCuGInKdAaWaPgrgq/3NW7axoiQZ04AL2QgI6Ph6uyvr6674nM+PNHLLp/RA0hT+Lq+D1y1zjMfNTNKBphFjbtaQMOmfSwbnYsMLpGVDSKhUcGRzV7bM3rTJSKAEbfiJyHphLx3d3VRuQtRHJSg7998=
+Received: from messagecenter010236082032.cm4(10.236.82.32)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Tue, 22 Sep 2015 18:02:30 +0800
+Date: Tue, 22 Sep 2015 18:02:30 +0800 (CST)
+From: =?utf-8?B?5reY5a6d572R?= <taobao@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <1325805422.8431121442916150551.JavaMail.admin@messagecenter010236082032.cm4>
+Subject: =?utf-8?B?5reY5a6d5o+Q6YaS5oKo77ya6YCA5qy+5bey57uP5oiQ5Yqf?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+McTaskId: 905403242916150355
+McIpGroup: online
+TempletId: 301147
+
+<html>
+<head>
+<title></title>
+<base target="_blank"/>
+</head>
+<body>
+<p>
+您好，
+  您的退款订单 54189194608647 申请已经达成退款。
+  宝贝：ELAND韩国衣恋秋冬新品女装翻领连衣裙EEOW44T52N专柜正品
+  退款金额：549.00
+
+点此查看<a href="http://tuikuan.tmall.com/refund/view_detail.htm?refundId=54189194608647988" target="_blank">退款详情</a>。
+
+</p>
+
+</body>
+</html><br /><br /><a target='_self' href='http://mcmailunsubscribe.alibaba-inc.com/mcmailunsubscribe/unsub/EmailUnsubscribe.htm?mailAddress=JeF3yNz5OMpyPLonYmC8i7hRMpzRnH5c'><span style='font-weight:bold'>点击退订邮件</span></a>
+

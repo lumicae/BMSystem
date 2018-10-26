@@ -1,0 +1,71 @@
+Received: from mx2.bupt.edu.cn (unknown [211.68.68.3])
+	by newmx87.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Fri, 04 Jul 2014 10:00:59 +0800
+X-QQ-SSF: 005100000000000001F000010000601
+X-QQ-mid: mx87t1404439259tzz0ypr7p
+X-QQ-FEAT: 8wrabb2CvriJzWBbnmDNwoXATBLLx+mO
+Received: by mx2.bupt.edu.cn (AnyMacro(G7), from userid 497)
+	id 0301919F359; Fri,  4 Jul 2014 10:00:59 +0800 (HKT)
+Reply-To: "=?gbk?B?1cXV3NPu?=" <iamzhangzheyu@bupt.edu.cn>
+X-send-id: 1404439258.6925c861684ce0d2224a6ed04caddd515528
+From: "=?gbk?B?1cXV3NPu?=" <iamzhangzheyu@bupt.edu.cn>
+Date: Fri, 04 Jul 2014 10:00:58 +0800(CST)
+MIME-version: 1.0
+to: "=?gbk?b?ssy80dLl?=" <yvestsai@sina.com>,"=?gbk?b?s8LP/tDx?=" <869340709@qq.com>,"=?gbk?b?s8LP/tS6?=" <573901401@qq.com>,
+	"=?gbk?b?s8LW/Q==?=" <88514796@qq.com>,"=?gbk?b?tKLQobGm?=" <ahchuxiaobao@126.com>,"=?gbk?b?ts654+a6?=" <1129198897@qq.com>,
+	"=?gbk?b?t66x/tDC?=" <fanxin2mn@126.com>,"=?gbk?b?uLaxpr/7?=" <707389071@qq.com>,"=?gbk?b?uN+yqbLf?=" <910916988@qq.com>,
+	"=?gbk?b?uN+66sPx?=" <34363411@qq.com>,"=?gbk?b?uN/P/sPO?=" <931376091@qq.com>,"=?gbk?b?ufm34Q==?=" <huozhu0603@163.com>,
+	"=?gbk?b?ufnTvbPW?=" <353545869@qq.com>,"=?gbk?b?us7B6NPu?=" <helingyu1122@qq.com>,"=?gbk?b?uvrP4O7s?=" <hxd0310@126.com>,
+	"=?gbk?b?va/bv73d?=" <545902731@qq.com>,"=?gbk?b?wO680ef3?=" <shijinqi@bupt.edu.cn>,"=?gbk?b?wO69qMe/?=" <525546105@qq.com>,
+	"=?gbk?b?wO694g==?=" <761309418@qq.com>,"=?gbk?b?wO7B4c/+?=" <898756844@qq.com>,"=?gbk?b?wO7D9A==?=" <limintomato@163.com>,
+	"=?gbk?b?wO7H5buq?=" <492272539@qq.com>,"=?gbk?b?wO7V17ej?=" <lizhaohua25@163.com>,"=?gbk?b?wO7mww==?=" <499513972@qq.com>,
+	"=?gbk?b?wO7pqg==?=" <349429737@qq.com>,"=?gbk?b?wbrOsA==?=" <568151929@qq.com>,"=?gbk?b?wdbQ0g==?=" <416386836@qq.com>,
+	"=?gbk?b?wfXD98bm?=" <573275629@qq.com>,"=?gbk?b?wfXM7Ne/?=" <459370433@qq.com>,"=?gbk?b?wt693Q==?=" <670082593@qq.com>,
+	"=?gbk?b?wt7QobH4?=" <luobuda@gmail.com>,"=?gbk?b?wu3F9LfJ?=" <404520603@qq.com>,"=?gbk?b?xu61pA==?=" <crystal-dandan@163.com>,
+	"=?gbk?b?yM7U8779?=" <renzejun24@126.com>,"=?gbk?b?ydux8w==?=" <545042884@qq.com>,"=?gbk?b?yfLQx7ni?=" <529696575@qq.com>,
+	"=?gbk?b?y87Q3tS2?=" <sxy7918896@163.com>,"=?gbk?b?y++2/sjh?=" <sunerrou@163.com>,"=?gbk?b?y+/U88Px?=" <szmiam@sohu.com>,
+	"=?gbk?b?y+/otA==?=" <990101961@qq.com>,"=?gbk?b?zNXUqtDx?=" <2433245476@qq.com>,"=?gbk?b?zfWzrA==?=" <wangchaoah0527@qq.com>,
+	"=?gbk?b?zfXIvQ==?=" <1018927808@qq.com>,"=?gbk?b?zfXOtQ==?=" <wangweisecurity@163.com>,"=?gbk?b?zfXR5dPo?=" <562265369@qq.com>,
+	"=?gbk?b?zfXUxs/2?=" <996207306@qq.com>,"=?gbk?b?zfXX06to?=" <544955353@qq.com>,"=?gbk?b?zfXX1LrA?=" <wangzihaome@163.com>,
+	"=?gbk?b?zfXm98za?=" <imwjt@163.com>,"=?gbk?b?zrq88g==?=" <amzingwei@gmail.com>,"=?gbk?b?zsS/rdD9?=" <w2900210@163.com>,
+	"=?gbk?b?zszP/uza?=" <453243486@qq.com>,"=?gbk?b?z6/Mzg==?=" <xitao_kobe@163.com>,"=?gbk?b?z8TApLfl?=" <717234239@qq.com>,
+	"=?gbk?b?0KTDtw==?=" <xiaomei1263@126.com>,"=?gbk?b?0aa72778?=" <1226717445@qq.com>,"=?gbk?b?0e6z5w==?=" <931175089@qq.com>,
+	"=?gbk?b?0rbSwM/D?=" <905857368@qq.com>,"=?gbk?b?08jE/g==?=" <1025780394@qq.com>,"=?gbk?b?09rA2Q==?=" <88122445@qq.com>,
+	"=?gbk?b?0+C3vA==?=" <y_d_f_qing2010@126.com>,"=?gbk?b?1cWxz8zO?=" <zhangbitao@bupt.edu.cn>,"=?gbk?b?1cXRx8za?=" <526551337@qq.com>,
+	"=?gbk?b?1cXV3NPu?=" <iamzhangzheyu@sina.com>,"=?gbk?b?1cXWvrPP?=" <zzcjobstudy@163.com>,"=?gbk?b?1dS6rNPu?=" <236212190@qq.com>,
+	"=?gbk?b?1dTS+uf+?=" <543416275@qq.com>,"=?gbk?b?1qO/pbrx?=" <lyriezheng@gmail.com>,"=?gbk?b?1qPA9rfS?=" <zheng_lf@163.com>,
+	"=?gbk?b?1qPQwtDC?=" <zhengxinxin1990@163.com>,"=?gbk?b?1tO22Oq7?=" <zhongdunhao@126.com>,"=?gbk?b?1ty66LOs?=" <zhc_txmail@foxmail.com>,
+	"=?gbk?b?1uzQwPbO?=" <450076077@qq.com>,"=?gbk?b?19rTwNXp?=" <1059289406@qq.com>,"=?gbk?b?48bP/rWk?=" <446948056@qq.com>,
+	"=?gbk?b?8bzOsM6w?=" <254617592@qq.com>
+Subject: =?gbk?B?MjAxNNGnxOrRp7fR16HL3rfRu66/282o1qog?=
+Content-Type: text/html; charset=gbk
+Content-Transfer-Encoding: base64
+Message-Id: <20140704020059.0301919F359@mx2.bupt.edu.cn>
+
+PCEtLVN0YXJ0RnJhZ21lbnQgLS0+DQo8RElWPjIwMTEtMjAxM7y2sb6/xsn6oaIyMDEyLTIwMTO8
+ttHQvr/J+qO6IDxCUj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsm
+bmJzcDsgMjAxNNGnxOrRp7fRoaLXocvet9HK1bfRuaTX97y0vau/qsq8o6zH682s0afDx9ei0uLS
+1M/CysLP7qO6Jm5ic3A7Jm5ic3A7PEJSPiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwO9K7oaLH69Pa
+MjAxNMTqONTCMTjI1cewo6ywtLnmtqi1xMrVt9Gx6te8vavRp7fRoaLXocvet9G/7s/utObI69PK
+1f60otDu1cu7p6GjIDxCUj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDu2/qGi17yxuNPD1vrRp7T7
+v+69u9Gnt9G1xM2s0aejrMfrzvDKudXLu6e05r/u0+C27rOsuf3Tpr270ae30b3wtu6jrNLUw+LJ
++rvut9HTw7G7u66/26GjIDxCUj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDvI/aGi0vLVy7un0+C2
+7rK71+O1yNSt0vK1vNbCzrTE3LPJuaa/27fRtcTNrNGno6zQ69Tav6rRp9auuvOjrLC01dWyxs7x
+tKbB7dDQzajWqrXEyrG85LrNt73Kvb27t9GhoyZuYnNwOyZuYnNwOzxCUj4mbmJzcDsmbmJzcDsm
+bmJzcDsmbmJzcDvLxKGit9HTw7uuv9uzybmmuvOjrMrVt9HGsb7dvau3orfFtb2499Gn1LqjrMfr
+zazRp8PHwfTS4rLGzvG0prywsb7Rp9S6zajWqqOsvLDKscHsyKHK1b7dsqLN18nGsaO05qGjIDxC
+Uj4mbmJzcDsmbmJzcDsgPEJSPiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwO7GxvqnTyrXntPPRp7LGzvG0
+piA8QlI+MjAxNC0wNy0wMiA8QlI+Jm5ic3A7Jm5ic3A7IDxCUj4mbmJzcDsmbmJzcDs8QlI+PEEg
+aHJlZj0iaHR0cDovL3BvcnRhbC5idXB0LmVkdS5jbi8vaHRtbC9tYWluL2NvbDQ2LzIwMTQtMDcv
+MDIvMjAxNDA3MDIxNjA0MzQ1OTExNTQ5NTBfMS5odG1sIiB0YXJnZXQ9X2JsYW5rPjxGT05UIGNv
+bG9yPSMwMDAwZmY+aHR0cDovL3BvcnRhbC5idXB0LmVkdS5jbi8vaHRtbC9tYWluL2NvbDQ2LzIw
+MTQtMDcvMDIvMjAxNDA3MDIxNjA0MzQ1OTExNTQ5NTBfMS5odG1sPC9GT05UPjwvQT4gPEJSPjwv
+RElWPg==
+

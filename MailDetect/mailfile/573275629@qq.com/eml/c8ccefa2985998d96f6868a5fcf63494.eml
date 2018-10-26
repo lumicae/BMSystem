@@ -1,0 +1,228 @@
+Received: from mc.mail.taobao.com (unknown [110.75.32.200])
+	by newmx61.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Wed, 13 Aug 2014 05:23:22 +0800
+X-QQ-SSF: 002000000A0000000xF00001000030x
+X-QQ-FEAT: c/cxFetJhr/n7UjLvzEhcof5wD5G+Uii/7lSQ190ITY=
+X-QQ-mid: mx61t1407878603t6qblpm29
+Return-Path: <service@mc.mail.taobao.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=s768dk; d=mc.mail.taobao.com;
+	h=DKIM-Signature:X-EFBL:Received:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Mctaskid;
+	b=M2q5yrmUo0GmjwfN2midz63OZBV+07xvo+5COOdTy8x/Z3eCeqhTuzs/aWl6D+FX
+	ICzFNSpgTh8xzClLv4CGviuYWm9riGjjBWXM79xuqbkuf6lF+PTavIVfIPFvNM7G
+	Gb4gPtlLnxX9yY6NNaPb8GJLFr2rnVvZSfaAqm0LGBc=
+DKIM-Signature: v=1; a=rsa-sha1; d=mc.mail.taobao.com; s=s768dkim; c=relaxed/relaxed;
+	q=dns/txt; i=@mc.mail.taobao.com; t=1407832507;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=qFtasCj2ORsNdfKPOC/HuCRBRsc=;
+	b=ot//+5+vEvjpU9Xr7e14/q3Qzpjuw6vWKONBk726UHm06C5SJ9xclWMpGnDqGAqr
+	QtZHwArdWyCtSoYtuDpf1w28/PWGYUVfU0totqTAKin60i0sI4HK+BFd6sw1xU5i
+	VBFBecLDzpJ0BC/h7QhJICYeI4xp05EGgS1vLeg9E/U=;
+X-EFBL: NTczMjc1NjI5QHFxLmNvbUBiaW5kaW5nX3RyX3RiX3FxXzExMC43NS4zMi4yMDBA
+	YmluZGluZ19ncm91cF90cmFuc190Yl9xcUBzZXJ2aWNl
+Received: from [10.176.11.197] ([10.176.11.197:42483] helo=hermes010176011197.n.et2)
+	by msgateway113022.cm4 (envelope-from <service@mc.mail.taobao.com>)
+	(ecelerity 3.5.0.35861 r(Momo-dev:tip)) with ESMTP
+	id 5A/89-22432-BB1D9E35; Tue, 12 Aug 2014 16:35:07 +0800
+Date: Tue, 12 Aug 2014 16:35:07 +0800 (CST)
+From: =?UTF-8?B?5reY5a6d572R?= <service@mc.mail.taobao.com>
+To: 573275629@qq.com
+Message-ID: <1137253487.142732151407832507810.JavaMail.admin@hermes010176011197.n.et2>
+Subject: =?UTF-8?B?5oKo6LSt54mp6L2m55qE5ZWG5ZOB6ZmN?=
+ =?UTF-8?B?5Lu35LqG77yM6K+35bC95b+r5p+l55yL77yB?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_14273221_1892771614.1407832507809"
+Mctaskid: 2014-08-12-850
+
+------=_Part_14273221_1892771614.1407832507809
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<head>
+<meta charset=3D"GBK">
+<title>=E8=B4=AD=E7=89=A9=E8=BD=A6=E5=BA=93=E5=AD=98=E7=B4=A7=E5=BC=A0</tit=
+le>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312"><=
+style type=3D"text/css">
+</style>
+<table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0">
+  <tr>
+    <td width=3D"700" height=3D"44"><table width=3D"700" height=3D"88" bord=
+er=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+      <tr>
+        <td height=3D"20" colspan=3D"2" align=3D"center" valign=3D"bottom">=
+<span style=3D"font-family: &quot;=E5=AE=8B=E4=BD=93&quot;;font-size: 12px;=
+line-height: 20px;color:#000;">=E8=AF=B7=E5=B0=86=E5=9C=B0=E5=9D=80=EF=BC=
+=9A<A style=3D"text-decoration:none;color:#808080" href=3D"mailto:service@m=
+c.mail.taobao.com"  target=3Dpreview_new_link>service@mc.mail.taobao.com
+</A>=E5=8A=A0=E5=85=A5=E9=80=9A=E8=AE=AF=E5=BD=95,=E4=BB=A5=E7=A1=AE=E4=BF=
+=9D=E6=82=A8=E8=83=BD=E5=8F=8A=E6=97=B6=E6=94=B6=E5=88=B0=E6=B7=98=E5=AE=9D=
+=E7=9A=84=E9=82=AE=E4=BB=B6=E3=80=82</span></td>
+        </tr>
+      <tr>
+
+        <td width=3D"463" height=3D"44"><img src=3D"http://img04.taobaocdn.=
+com/tps/i4/T1LK43XllqXXXXXXXX-463-44.jpg" alt=3D"=E6=B7=98=E5=AE=9D=E7=BD=
+=91" width=3D"463" height=3D"44" border=3D"0" usemap=3D"#Map10"></td>=20
+        <td width=3D"237" height=3D"44"><table width=3D"237" height=3D"44" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+          <tr>
+            <td width=3D"69" height=3D"44" valign=3D"bottom"><span style=3D=
+'font-family: &quot;=E5=AE=8B=E4=BD=93&quot;;font-size: 12px; line-height: =
+18px;color:808080;'><b><a style=3D"text-decoration:none;color:#808080" href=
+=3D"pmid{http://i.taobao.com/my_taobao.htm}" target=3D"_blank">=E6=88=91=E7=
+=9A=84=E6=B7=98=E5=AE=9D</a></b></span></td>
+            <td width=3D"89" height=3D"44" valign=3D"bottom"><span style=3D=
+'font-family: &quot;=E5=AE=8B=E4=BD=93&quot;;font-size: 12px; line-height: =
+18px;color:808080;'><b><a style=3D"text-decoration:none;color:#808080" href=
+=3D"pmid{http://trade.taobao.com/trade/itemlist/list_bought_items.htm?nekot=
+=3DZmlzaGFwcGxlODg4NA=3D=3D1299726504022}" target=3D"_blank">=E5=B7=B2=E4=
+=B9=B0=E5=88=B0=E7=9A=84=E5=AE=9D=E8=B4=9D</a></b></span></td>
+            <td width=3D"79" height=3D"44" valign=3D"bottom"><span style=3D=
+'font-family: &quot;=E5=AE=8B=E4=BD=93&quot;;font-size: 12px; line-height: =
+18px;color:808080;'><b><a style=3D"text-decoration:none;color:#808080" href=
+=3D"pmid{http://service.taobao.com/support/help.htm}" target=3D"_blank">=E5=
+=B8=AE=E5=8A=A9=E4=B8=AD=E5=BF=83</a></b></span></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+ =20
+  <tr>
+    <td width=3D"700" height=3D"10"><img src=3D"http://img03.taobaocdn.com/=
+tps/i3/T1AL43XkBdXXXXXXXX-700-10.jpg" width=3D"700" height=3D"10"></td>
+  </tr>
+  <tr>
+
+=09</table>
+
+
+<map name=3D"Map10" id=3D"Map10">
+  <area shape=3D"rect" coords=3D"9,5,451,48" href=3D"pmid{http://www.taobao=
+.com}" target=3D"_blank" alt=3D"=E6=B7=98=E5=AE=9D=E7=BD=91" />
+</map><table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" bgcolor=3D"#ffffeb">
+  <tr>
+    <td width=3D"700" height=3D"166" bgcolor=3D"#ffffea"><img src=3D"http:/=
+/img03.taobaocdn.com/tps/i3/T1xVqAXAVbXXXEF1ze-700-166.png" width=3D"700" h=
+eight=3D"166" /><br /></td>
+  </tr>
+</table>
+<table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0">
+  <tr>
+    <td width=3D"700" height=3D"46" bgcolor=3D"#ffffea"><img src=3D"http://=
+img04.taobaocdn.com/tps/i4/T1I5yzXthdXXahwsAB-700-46.png" width=3D"700" hei=
+ght=3D"46" border=3D"0" usemap=3D"#Map"></td>
+  </tr>
+    <tr>
+    <td width=3D"700" height=3D"170" align=3D"center" bgcolor=3D"#ffffea"><=
+table width=3D"680" height=3D"170" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+      <tr>
+        <td width=3D"170" height=3D"170"><a href=3D"http://ju.mmstat.com/?u=
+rl=3Dhttp://cart.taobao.com/my_cart.htm?com=3D1&apply=3Dedm&cat=3D50011980&=
+t_id=3D850&u_id=3D770678647&email=3D573275629@qq.com&send_time=3D20140812 1=
+6:35:07&spm=3D2123.1.126.1&ad_id=3D&am_id=3D&cm_id=3D&pm_id=3D15010118263f9=
+fd9d4f8" target=3D"_blank"><img src=3D"http://img.taobaocdn.com/bao/uploade=
+d//i2/15382030332380568/T1gz9lFXlgXXXXXXXX_!!0-item_pic.jpg" width=3D"170" =
+height=3D"170" border=3D"0" style=3D"border:1px #ddd solid" /></a></td>
+        <td width=3D"23" height=3D"170">&nbsp;</td>
+        <td width=3D"487" height=3D"170" valign=3D"top"><table width=3D"487=
+" height=3D"170" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+          <tr>
+            <td height=3D"30"><a href=3D"http://ju.mmstat.com/?url=3Dhttp:/=
+/cart.taobao.com/my_cart.htm?com=3D1&apply=3Dedm&cat=3D50011980&t_id=3D850&=
+u_id=3D770678647&email=3D573275629@qq.com&send_time=3D20140812 16:35:07&spm=
+=3D2123.1.126.1&ad_id=3D&am_id=3D&cm_id=3D&pm_id=3D15010118263f9fd9d4f8" ta=
+rget=3D"_blank" style=3D" font-size:12px; color:#999999; line-height:1.5em;=
+ font-weight:bold; text-decoration:none">=E5=86=9B=E5=8C=BB=E7=94=9F=E7=BE=
+=8E=E7=99=BD=E7=A5=9B=E6=96=91=E9=9C=9C=E6=AD=A3=E5=93=81 =E7=A5=9B=E6=96=
+=91=E4=BA=A7=E5=93=81 =E9=81=97=E4=BC=A0=E9=9B=80=E6=96=91=E6=B7=A1=E6=96=
+=91=E5=8E=BB=E6=96=91=E9=9C=9C=E9=BB=84=E8=A4=90=E6=96=91=E6=99=9A=E9=9C=9C=
+</a></td>
+          </tr>
+          <tr>
+            <td height=3D"30"><span style=3D" font-size:12px; color:#999999=
+; line-height:1.5em;text-decoration:none">=E6=94=BE=E5=85=A5=E6=97=B6=E7=9A=
+=84=E4=BB=B7=E6=A0=BC=EF=BC=9A<del>98.0=E5=85=83</del></span></td>
+          </tr>
+          <tr>
+            <td><span style=3D" font-size:12px; color:#999999; line-height:=
+1.5em;text-decoration:none">=E5=BD=93=E5=89=8D=E4=BB=B7=E6=A0=BC</span>
+=09=09<span style=3D"font-family:'=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91'; fo=
+nt-size:24px; color:#333">
+95.0
+=E5=85=83</span></td>
+          </tr>
+         =20
+          <tr>
+            <td height=3D"43"><table width=3D"357" height=3D"43" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">
+              <tr>
+                <td width=3D"10" height=3D"43" bgcolor=3D"#ffeab6"></td>
+                <td width=3D"237" bgcolor=3D"#ffeab6"><span style=3D" font-=
+family:'=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91';font-size:16px; color:#999999=
+; line-height:1.5em;text-decoration:none">=E6=AF=94=E6=94=BE=E5=85=A5=E6=97=
+=B6=E9=99=8D=E4=BD=8E=E4=BA=86<b style=3D"color:#fe8b32;font-size:26px">3.0=
+</b>=E5=85=83</del></span></td>
+                <td width=3D"110" height=3D"43" align=3D"center" valign=3D"=
+middle" bgcolor=3D"#ffeab6"><a href=3D"http://ju.mmstat.com/?url=3Dhttp://c=
+art.taobao.com/my_cart.htm?com=3D1&apply=3Dedm&cat=3D50011980&t_id=3D850&u_=
+id=3D770678647&email=3D573275629@qq.com&send_time=3D20140812 16:35:07&spm=
+=3D2123.1.126.1&ad_id=3D&am_id=3D&cm_id=3D&pm_id=3D15010118263f9fd9d4f8" ta=
+rget=3D"_blank"><img src=3D"http://img04.taobaocdn.com/tps/i4/T1Ev1yXp0eXXb=
+HKZE4-103-38.png" width=3D"103" height=3D"38" border=3D"0"></a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height=3D"10" align=3D"center" bgcolor=3D"#ffffea">&nbsp;</td>
+  </tr>
+  </table>
+
+<map name=3D"Map"><area shape=3D"rect" coords=3D"549,5,693,41" href=3D"http=
+://ju.mmstat.com/?url=3Dhttp://cart.taobao.com/my_cart.htm?com=3D1&apply=3D=
+edm&cat=3D&t_id=3D850&u_id=3D770678647&email=3D573275629@qq.com&send_time=
+=3D20140812 16:35:07&spm=3D2123.1.126.1&ad_id=3D&am_id=3D&cm_id=3D&pm_id=3D=
+15010118263f9fd9d4f8" target=3D"_blank">
+</map><table width=3D"700" height=3D"60" border=3D"0" align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td width=3D"700" height=3D"60" align=3D"center" valign=3D"middle"><tab=
+le width=3D"670" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+      <tr>
+        <td width=3D"276"><span style=3D"font-family: &quot;=E5=AE=8B=E4=BD=
+=93&quot;;font-size: 12px;line-height: 20px;color:#000;">=E6=AD=A4=E4=BF=A1=
+=E7=94=B1=E6=B7=98=E5=AE=9D=E7=BD=91=E7=B3=BB=E7=BB=9F=E5=8F=91=E5=87=BA=EF=
+=BC=8C=E7=B3=BB=E7=BB=9F=E4=B8=8D=E6=8E=A5=E6=94=B6=E5=9B=9E=E4=BF=A1=EF=BC=
+=8C=E5=9B=A0=E6=AD=A4=E8=AF=B7=E5=8B=BF=E7=9B=B4=E6=8E=A5=E5=9B=9E=E5=A4=8D=
+=E3=80=82=E5=A6=82=E6=9E=9C=E6=9C=89=E5=85=B6=E4=BB=96=E7=96=91=E9=97=AE=EF=
+=BC=8C=E8=AF=B7=E8=AE=BF=E9=97=AE <A style=3D"text-decoration:none;color:#8=
+08080" href=3D"pmid{http://service.taobao.com/support/help.htm}"  target=3D=
+_blank>=E6=B7=98=E5=AE=9D=E5=AE=A2=E6=9C=8D=E4=B8=AD=E5=BF=83</A></span></t=
+d>
+        <td width=3D"394" align=3D"right"><span style=3D"font-family: &quot=
+;=E5=AE=8B=E4=BD=93&quot;;font-size: 12px;line-height: 20px;color:#000;">=
+=E4=B8=8D=E6=83=B3=E7=BB=A7=E7=BB=AD=E6=94=B6=E5=88=B0=E6=AD=A4=E7=B1=BB=E6=
+=8F=90=E9=86=92=E9=82=AE=E4=BB=B6=EF=BC=8C<A style=3D"text-decoration:none;=
+color:#808080" href=3D"http://dingyue.taobao.com/unsub.htm?type=3D1&amp;ema=
+il=3D573275629@qq.com&amp;catid=3D3"  target=3D_blank>=E8=AF=B7=E7=82=B9=E5=
+=87=BB=E8=BF=99=E9=87=8C</A></span></td>
+      </tr>
+    </table></td>
+  </tr>
+</table><div style=3D"display:none"><img src=3D"http://ac.atpanel.com/1.gif=
+?com=3D1&apply=3Dedm&ver=3D1.1.1&send_time=3D20140812 16:35:07&t_id=3D850&u=
+_id=3D770678647&email=3D573275629@qq.com&ad_id=3D&am_id=3D&cm_id=3D&pm_id=
+=3D15010118263f9fd9d4f8"></div>
+------=_Part_14273221_1892771614.1407832507809--
+
+

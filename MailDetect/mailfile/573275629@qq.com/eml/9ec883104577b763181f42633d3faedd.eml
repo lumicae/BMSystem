@@ -1,0 +1,63 @@
+Received: from m12-15.163.com (unknown [220.181.12.15])
+	by newmx22.qq.com (NewMx) with SMTP id 
+	for <573275629@qq.com>; Fri, 26 Dec 2014 16:35:02 +0800
+X-QQ-FEAT: +O/EGp1hYzOFigpAk23wdm20zyKlhPzQ
+X-QQ-MAILINFO: NL3WKUOj1eeIIfYp4Mgk5vp0lmBbsE88bxAVsZ2wjfmJNGcVVNaQ8BwgP
+	emoiHa9a+nJ3oBuA+lHe1MGXM5IKaUQS4XcSzF8VLOcmE9nb7+gwpVGAOGndX46cLKPMrEb
+	2xiipyGOeopU
+X-QQ-SSF: 003100000000000101F000010000601
+X-QQ-mid: mx22t1419582903tb1de1bi7
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=Date:From:Message-ID:Subject:MIME-Version; bh=Clz/o
+	/6HpBfqNIWln/e1Y45xdL9igbzE/tzck3C9nQY=; b=H0k8RYpBxNL52jDN5Tq50
+	99m3RZZbPYjfddy04dLBF7Vofwcst1GFXfE3HQg5mohWEmvNa58DPy0kGIM83OJP
+	Tzty+HvabU7WBZMxIGIWcA8oC6nE9+zGwfaEyhZUm53F5n7vaXbtMSinzbwOZnFu
+	YFuIR8JZJMifyajgBvpfc4=
+Received: from lmq-PC (unknown [124.205.155.146])
+	by smtp11 (Coremail) with SMTP id D8CowEA5oZC0HZ1UyCNeAg--.777S2;
+	Fri, 26 Dec 2014 16:35:01 +0800 (CST)
+Date: Fri, 26 Dec 2014 16:35:01 +0800 (CST)
+From: rl189020@163.com
+To: 573275629@qq.com
+Message-ID: <2130673411.1.1419582901734.JavaMail.t@lmq-PC>
+Subject: =?GBK?B?y+fWqteisuHIz9ak?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_0_2064213610.1419582901611"
+X-CM-TRANSID:D8CowEA5oZC0HZ1UyCNeAg--.777S2
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjfUOLvtUUUUU
+X-Originating-IP: [124.205.155.146]
+X-CM-SenderInfo: tuormmqqsqqiywtou0bp/1tbiHRZu+lSIFZoaSQAAsf
+
+------=_Part_0_2064213610.1419582901611
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"width:600px; height:445px;margin:40p=
+x auto; background-image: url('http://localhost:8080/DRM/images/userRegiste=
+r/email.png'); font-family:'=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91',Microsoft=
+ YaHei; font-size:18px"><div style=3D"width:560px; height:25px;padding-top:=
+80px;padding-left:20px"><label>=E6=82=A8=E5=A5=BD!</label></div><div style=
+=3D"width:560px; height:25px;padding-top:15px;padding-left:20px"><label>=E6=
+=AC=A2=E8=BF=8E=E5=8A=A0=E5=85=A5=E7=BB=A5=E7=9F=A5</label></div><div style=
+=3D"width:560px; height:25px;padding-top:15px;padding-left:20px"><label>=E4=
+=B8=BA=E4=BF=9D=E8=AF=81=E6=AD=A3=E5=B8=B8=E4=BD=BF=E7=94=A8=E7=BD=91=E7=AB=
+=99=E5=8A=9F=E8=83=BD=EF=BC=8C=E8=AF=B7=E4=BA=8E24=E5=B0=8F=E6=97=B6=E5=86=
+=85=E6=BF=80=E6=B4=BB=E8=B4=A6=E5=8F=B7</label></div><div style=3D"width:17=
+0px; height:45px;margin:20px auto;padding-top:15px;padding-left:40px;backgr=
+ound:#4fc1e9"><a href=3D"http://localhost:8080/DRM/account/userInfoRegister=
+/emailValidate?email=3Dyff2qbbzzv5hulk">=E7=AB=8B=E5=8D=B3=E6=BF=80=E6=B4=
+=BB=E8=B4=A6=E5=8F=B7</a></div><div style=3D"width:560px; height:25px;paddi=
+ng-top:10px;padding-left:20px"><label>=E5=A6=82=E6=9E=9C=E4=BB=A5=E4=B8=8A=
+=E6=8C=89=E9=92=AE=E6=97=A0=E6=B3=95=E6=89=93=E5=BC=80=EF=BC=8C=E8=AF=B7=E6=
+=8A=8A=E4=B8=8B=E9=9D=A2=E7=9A=84=E9=93=BE=E6=8E=A5=E5=A4=8D=E5=88=B6=E5=88=
+=B0=E6=B5=8F=E8=A7=88=E5=99=A8=E5=9C=B0=E5=9D=80=E6=A0=8F=E4=B8=AD=E6=89=93=
+=E5=BC=80=EF=BC=9A</label></div><div style=3D"width:560px; height:25px;padd=
+ing-top:15px;padding-left:20px"><a href=3D"http://localhost:8080/DRM/accoun=
+t/userInfoRegister/emailValidate?email=3Dyff2qbbzzv5hulk">http://localhost:=
+8080/DRM/account/userInfoRegister/emailValidate?email=3Dyff2qbbzzv5hulk</a>=
+</div></div></body></html>
+------=_Part_0_2064213610.1419582901611--
+
+
